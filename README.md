@@ -59,7 +59,7 @@ window.MG_PLAYLISTS = {
 };
 ```
 
-- Five families already have a real 30-track YouTube playlist (currently **private** — switch to unlisted/public to share):
+- Five families already have a real 30-track YouTube playlist, **public** on the `pill4r_` channel:
 
 | Family | Playlist | Years |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ Years, family grouping and "direct predecessor" links are an approximate, educat
 
 - 352 个风格、402 首原始代表曲、17 个家族，覆盖 根源 · 乡村/民谣 · 爵士 · 灵魂/R&B/放克 · 迪斯科 · 浩室 · 科技舞曲 · UK Bass/Garage · 锐舞/Trance/DnB · 嘻哈 · 电子/氛围 · 摇滚 · 朋克/Emo · 金属 · 独立/另类 · 流行 · 拉丁/加勒比/非洲。
 - 每个风格另有一份 **5–8 首的精选歌单**（共 352 份、约 2,100 首），数据在 `js/playlists.js`：`window.MG_PLAYLISTS[风格id] = [[曲名, 艺人, 发行年], ...]`。
-- 其中 5 个家族已经建成了真正的 YouTube 整张歌单（各 30 首、按年代排序，**目前是 private，想分享得先改成 unlisted / public**），见上表；id / 标题 / 首数 / 年代写在 `js/yt-playlists.js`。
+- 其中 5 个家族已经建成了真正的 YouTube 整张歌单（各 30 首、按年代排序，已在 `pill4r_` 频道上**公开**），见上表；id / 标题 / 首数 / 年代写在 `js/yt-playlists.js`。
 - 在此之上还在做 **每个风格一张自己的歌单**（352 张），进度写在 `js/yt-genre-playlists.js`，由 `.tools/yt-genre-sync.mjs` 自动生成，不要手改。批量建单受 YouTube Data API 每天 10,000 单位配额限制。
 - 风格数据结构见上方英文示例（`id`/`n`/`zh`/`f`/`y`/`r`/`bpm`/`tier`/`d`/`ch`/`ar`/`tr`/`p`）。新增风格只需在对应 `data-*.js` 的数组里加一条，布局、连线、抽屉、搜索会自动生效。家族定义集中在 `js/data-1.js` 与 `js/data-5.js` 顶部的 `FAMILIES`。
 - 歌单数据可以重新生成：`.tools/playlists/genres.json` 是从 `data-*.js` 导出的清单，人工整理好的曲目放在 `.tools/playlists/curated/<family>.json`，跑 `node .tools/playlists/build.js` 合成 `js/playlists.js` 并打印覆盖率与问题清单。
