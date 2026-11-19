@@ -130,6 +130,8 @@ vercel --prod            # or import the GitHub repo in the Vercel dashboard
 
 `vercel.json` only sets long-lived caching for `vendor/` and the locale packs. Any static host (GitHub Pages, Cloudflare Pages, Netlify, S3) works too.
 
+**Automatic deploys**: the Vercel project is linked to this repository through the Vercel GitHub App, so every push to `main` builds a production deployment and moves <https://musicgenealogy.pillar.fun> to it. Pull requests get preview URLs in the Vercel dashboard.
+
 ### Why only 30 seconds in-page
 
 Only Apple Music's 30-second preview is played in-page; full playback is handed to YouTube, so no account is needed and the embedded-player issues (Referer, copyright, region) disappear.
@@ -221,6 +223,8 @@ vercel --prod            # 或在 Vercel 面板里 Import 这个 GitHub 仓库
 ```
 
 `vercel.json` 只给 `vendor/` 和语言包设了长缓存。GitHub Pages、Cloudflare Pages、Netlify、S3 等任何静态托管都同样可用。
+
+**自动部署**：Vercel 项目已通过 Vercel GitHub App 与本仓库关联，每次 push 到 `main` 都会生成一次生产部署，并把 <https://musicgenealogy.pillar.fun> 指到新版本；PR 会在 Vercel 面板里得到预览地址。
 
 ### 数据来源与免责
 
