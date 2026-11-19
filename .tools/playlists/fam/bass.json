@@ -1,0 +1,192 @@
+{
+ "family": "bass",
+ "name": "UK Bass / Garage",
+ "sub": "伦敦低音支线",
+ "genres": [
+  {
+   "id": "uk-garage",
+   "n": "UK Garage",
+   "zh": "英国车库",
+   "tier": 2,
+   "y": 1994,
+   "d": "美国 garage house 传到伦敦，加上 jungle 的低音与切分，变成 UK garage。",
+   "ar": [
+    "MJ Cole",
+    "Artful Dodger",
+    "Tuff Jam"
+   ],
+   "tr": [
+    [
+     "Re-Rewind",
+     "Artful Dodger",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "speed-garage",
+   "n": "Speed Garage",
+   "zh": "速度车库",
+   "tier": 3,
+   "y": 1996,
+   "d": "UK garage 加速版：更重的低音、更快的节奏。",
+   "ar": [
+    "Double 99",
+    "Armand Van Helden",
+    "Tuff Jam"
+   ],
+   "tr": [
+    [
+     "Ripgroove",
+     "Double 99",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "2-step",
+   "n": "2-Step",
+   "zh": "两步车库",
+   "tier": 3,
+   "y": 1999,
+   "d": "去掉四拍底鼓、留下切分鼓组与人声，是 dubstep 的直接前身。",
+   "ar": [
+    "Craig David",
+    "MJ Cole",
+    "Artful Dodger"
+   ],
+   "tr": [
+    [
+     "Fill Me In",
+     "Craig David",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "dubstep",
+   "n": "Dubstep",
+   "zh": "回响贝斯",
+   "tier": 1,
+   "y": 2001,
+   "d": "2-step 的节奏 + dub 的低音，伦敦南部的 FWD>> 场景；2010 年 Skrillex 把它带到全球。",
+   "ar": [
+    "Skream",
+    "Benga",
+    "Burial"
+   ],
+   "tr": [
+    [
+     "Midnight Request Line",
+     "Skream",
+     2005
+    ],
+    [
+     "Archangel",
+     "Burial",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "grime",
+   "n": "Grime",
+   "zh": "污垢",
+   "tier": 2,
+   "y": 2002,
+   "d": "UK garage 加速 + 硬核 rap，东伦敦的 MC 文化。",
+   "ar": [
+    "Dizzee Rascal",
+    "Wiley",
+    "Skepta"
+   ],
+   "tr": [
+    [
+     "I Luv U",
+     "Dizzee Rascal",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "bassline",
+   "n": "Bassline",
+   "zh": "贝斯线",
+   "tier": 3,
+   "y": 2003,
+   "d": "谢菲尔德的 speed garage 后代，以跳跃的低音线得名。",
+   "ar": [
+    "T2",
+    "DJ Q",
+    "Jamie Duggan"
+   ],
+   "tr": [
+    [
+     "Heartbroken",
+     "T2",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "future-garage",
+   "n": "Future Garage",
+   "zh": "未来车库",
+   "tier": 2,
+   "y": 2007,
+   "d": "把 2-step garage 拆成碎片再拼回去：人声切片、雨声、低频与留白，Burial 的同名专辑定义了它。",
+   "ar": [
+    "Burial",
+    "Mount Kimbie",
+    "Synkro"
+   ],
+   "tr": [
+    [
+     "Archangel",
+     "Burial",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "gqom",
+   "n": "Gqom",
+   "zh": "格孔",
+   "tier": 2,
+   "y": 2012,
+   "d": "德班的极简低音：只有底鼓、拍手与一条阴冷的合成器，比 house 更空旷也更凶。",
+   "ar": [
+    "Distruction Boyz",
+    "DJ Lag",
+    "Babes Wodumo"
+   ],
+   "tr": [
+    [
+     "Omunye",
+     "Distruction Boyz",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "uk-funky",
+   "n": "UK Funky",
+   "zh": "英国放克",
+   "tier": 3,
+   "y": 2007,
+   "d": "2000 年代末伦敦的短命场景：house 的节拍加 soca 与非洲鼓，Crazy Cousinz 把它推上电台。",
+   "ar": [
+    "Crazy Cousinz",
+    "Kyla",
+    "Roska"
+   ],
+   "tr": [
+    [
+     "Do You Mind",
+     "Crazy Cousinz",
+     2008
+    ]
+   ]
+  }
+ ]
+}

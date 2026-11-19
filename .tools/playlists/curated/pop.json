@@ -1,0 +1,191 @@
+{
+  "family": "pop",
+  "genres": [
+    {
+      "id": "pop",
+      "tracks": [
+        {"t": "Billie Jean", "a": "Michael Jackson", "y": 1982},
+        {"t": "Hey Jude", "a": "The Beatles", "y": 1968},
+        {"t": "Like a Virgin", "a": "Madonna", "y": 1984},
+        {"t": "I Wanna Dance with Somebody (Who Loves Me)", "a": "Whitney Houston", "y": 1987},
+        {"t": "Rolling in the Deep", "a": "Adele", "y": 2010},
+        {"t": "Shake It Off", "a": "Taylor Swift", "y": 2014},
+        {"t": "Blinding Lights", "a": "The Weeknd", "y": 2019}
+      ]
+    },
+    {
+      "id": "dance-pop",
+      "tracks": [
+        {"t": "Like a Prayer", "a": "Madonna", "y": 1989},
+        {"t": "Vogue", "a": "Madonna", "y": 1990},
+        {"t": "Can't Get You Out of My Head", "a": "Kylie Minogue", "y": 2001},
+        {"t": "Toxic", "a": "Britney Spears", "y": 2004},
+        {"t": "Just Dance", "a": "Lady Gaga", "y": 2008},
+        {"t": "Call Me Maybe", "a": "Carly Rae Jepsen", "y": 2012}
+      ]
+    },
+    {
+      "id": "city-pop",
+      "tracks": [
+        {"t": "Plastic Love", "a": "竹内まりや", "y": 1984},
+        {"t": "真夜中のドア〜Stay with Me", "a": "松原みき", "y": 1979},
+        {"t": "Ride on Time", "a": "山下達郎", "y": 1980},
+        {"t": "君は天然色", "a": "大滝詠一", "y": 1981},
+        {"t": "悲しみがとまらない", "a": "Anri", "y": 1983},
+        {"t": "Remember Summer Days", "a": "Anri", "y": 1983}
+      ]
+    },
+    {
+      "id": "teen-pop",
+      "tracks": [
+        {"t": "...Baby One More Time", "a": "Britney Spears", "y": 1998},
+        {"t": "Step by Step", "a": "New Kids on the Block", "y": 1990},
+        {"t": "MMMBop", "a": "Hanson", "y": 1997},
+        {"t": "I Want It That Way", "a": "Backstreet Boys", "y": 1999},
+        {"t": "Genie in a Bottle", "a": "Christina Aguilera", "y": 1999},
+        {"t": "Bye Bye Bye", "a": "*NSYNC", "y": 2000},
+        {"t": "Oops!... I Did It Again", "a": "Britney Spears", "y": 2000}
+      ]
+    },
+    {
+      "id": "electropop",
+      "tracks": [
+        {"t": "Bad Romance", "a": "Lady Gaga", "y": 2009},
+        {"t": "Poker Face", "a": "Lady Gaga", "y": 2008},
+        {"t": "Bulletproof", "a": "La Roux", "y": 2009},
+        {"t": "Tik Tok", "a": "Kesha", "y": 2009},
+        {"t": "Teenage Dream", "a": "Katy Perry", "y": 2010},
+        {"t": "Dancing On My Own", "a": "Robyn", "y": 2010}
+      ]
+    },
+    {
+      "id": "k-pop",
+      "tracks": [
+        {"t": "Dynamite", "a": "BTS", "y": 2020},
+        {"t": "Gee", "a": "Girls' Generation", "y": 2009},
+        {"t": "I Am the Best", "a": "2NE1", "y": 2011},
+        {"t": "Fantastic Baby", "a": "BIGBANG", "y": 2012},
+        {"t": "Gangnam Style", "a": "PSY", "y": 2012},
+        {"t": "Spring Day", "a": "BTS", "y": 2017},
+        {"t": "DDU-DU DDU-DU", "a": "BLACKPINK", "y": 2018}
+      ]
+    },
+    {
+      "id": "hyperpop",
+      "tracks": [
+        {"t": "Immaterial", "a": "SOPHIE", "y": 2018},
+        {"t": "Bipp", "a": "SOPHIE", "y": 2013},
+        {"t": "Vroom Vroom", "a": "Charli XCX", "y": 2016},
+        {"t": "Heart to Break", "a": "Kim Petras", "y": 2018},
+        {"t": "money machine", "a": "100 gecs", "y": 2019},
+        {"t": "hand crushed by a mallet", "a": "100 gecs", "y": 2019},
+        {"t": "SugarCrash!", "a": "ElyOtto", "y": 2020}
+      ]
+    },
+    {
+      "id": "bubblegum-pop",
+      "tracks": [
+        {"t": "Sugar, Sugar", "a": "The Archies", "y": 1969},
+        {"t": "I'm a Believer", "a": "The Monkees", "y": 1966},
+        {"t": "Happy Together", "a": "The Turtles", "y": 1967},
+        {"t": "Yummy Yummy Yummy", "a": "Ohio Express", "y": 1968},
+        {"t": "Simon Says", "a": "1910 Fruitgum Company", "y": 1968},
+        {"t": "One Bad Apple", "a": "The Osmonds", "y": 1970}
+      ]
+    },
+    {
+      "id": "adult-contemporary",
+      "tracks": [
+        {"t": "(They Long to Be) Close to You", "a": "Carpenters", "y": 1970},
+        {"t": "Yesterday Once More", "a": "Carpenters", "y": 1973},
+        {"t": "Hello", "a": "Lionel Richie", "y": 1984},
+        {"t": "I Will Always Love You", "a": "Whitney Houston", "y": 1992},
+        {"t": "My Heart Will Go On", "a": "Celine Dion", "y": 1997},
+        {"t": "Someone Like You", "a": "Adele", "y": 2011}
+      ]
+    },
+    {
+      "id": "europop",
+      "tracks": [
+        {"t": "Dancing Queen", "a": "ABBA", "y": 1976},
+        {"t": "Waterloo", "a": "ABBA", "y": 1974},
+        {"t": "Take On Me", "a": "a-ha", "y": 1985},
+        {"t": "All That She Wants", "a": "Ace of Base", "y": 1992},
+        {"t": "Barbie Girl", "a": "Aqua", "y": 1997},
+        {"t": "Blue (Da Ba Dee)", "a": "Eiffel 65", "y": 1998}
+      ]
+    },
+    {
+      "id": "cantopop",
+      "tracks": [
+        {"t": "Monica", "a": "张国荣", "y": 1984},
+        {"t": "爱在深秋", "a": "谭咏麟", "y": 1984},
+        {"t": "似水流年", "a": "梅艳芳", "y": 1984},
+        {"t": "当年情", "a": "张国荣", "y": 1986},
+        {"t": "一生何求", "a": "陈百强", "y": 1989},
+        {"t": "容易受伤的女人", "a": "王菲", "y": 1992},
+        {"t": "海阔天空", "a": "Beyond", "y": 1993}
+      ]
+    },
+    {
+      "id": "jpop",
+      "tracks": [
+        {"t": "Automatic", "a": "宇多田光", "y": 1998},
+        {"t": "Tomorrow never knows", "a": "Mr.Children", "y": 1994},
+        {"t": "CAN YOU CELEBRATE?", "a": "安室奈美恵", "y": 1997},
+        {"t": "First Love", "a": "宇多田光", "y": 1999},
+        {"t": "世界に一つだけの花", "a": "SMAP", "y": 2003},
+        {"t": "Lemon", "a": "米津玄師", "y": 2018},
+        {"t": "夜に駆ける", "a": "YOASOBI", "y": 2019}
+      ]
+    },
+    {
+      "id": "mandopop",
+      "tracks": [
+        {"t": "晴天", "a": "周杰伦", "y": 2003},
+        {"t": "吻别", "a": "张学友", "y": 1993},
+        {"t": "月亮代表我的心", "a": "邓丽君", "y": 1977},
+        {"t": "红豆", "a": "王菲", "y": 1998},
+        {"t": "江南", "a": "林俊杰", "y": 2004},
+        {"t": "七里香", "a": "周杰伦", "y": 2004},
+        {"t": "光年之外", "a": "邓紫棋", "y": 2016}
+      ]
+    },
+    {
+      "id": "afropop",
+      "tracks": [
+        {"t": "Ojuelegba", "a": "Wizkid", "y": 2014},
+        {"t": "Johnny", "a": "Yemi Alade", "y": 2014},
+        {"t": "Fall", "a": "Davido", "y": 2017},
+        {"t": "Ye", "a": "Burna Boy", "y": 2018},
+        {"t": "Love Nwantiti (Ah Ah Ah)", "a": "CKay", "y": 2019},
+        {"t": "Essence", "a": "Wizkid feat. Tems", "y": 2020},
+        {"t": "Calm Down", "a": "Rema", "y": 2022}
+      ]
+    },
+    {
+      "id": "power-pop",
+      "tracks": [
+        {"t": "September Gurls", "a": "Big Star", "y": 1974},
+        {"t": "Thirteen", "a": "Big Star", "y": 1972},
+        {"t": "Go All the Way", "a": "The Raspberries", "y": 1972},
+        {"t": "Surrender", "a": "Cheap Trick", "y": 1978},
+        {"t": "Just What I Needed", "a": "The Cars", "y": 1978},
+        {"t": "My Sharona", "a": "The Knack", "y": 1979},
+        {"t": "Buddy Holly", "a": "Weezer", "y": 1994}
+      ]
+    },
+    {
+      "id": "art-pop",
+      "tracks": [
+        {"t": "Running Up That Hill", "a": "Kate Bush", "y": 1985},
+        {"t": "Space Oddity", "a": "David Bowie", "y": 1969},
+        {"t": "Wuthering Heights", "a": "Kate Bush", "y": 1978},
+        {"t": "Once in a Lifetime", "a": "Talking Heads", "y": 1981},
+        {"t": "Sledgehammer", "a": "Peter Gabriel", "y": 1986},
+        {"t": "Human Behaviour", "a": "Björk", "y": 1993},
+        {"t": "Cellophane", "a": "FKA twigs", "y": 2019}
+      ]
+    }
+  ]
+}

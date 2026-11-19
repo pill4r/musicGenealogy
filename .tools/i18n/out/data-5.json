@@ -1,0 +1,424 @@
+{
+ "emocore": {
+  "n": "Emocore",
+  "r": "Washington, DC",
+  "d": "The first emo wave inside hardcore: lyrics turn from slogans to confession, dynamic swells replace the straight-ahead charge, and Washington, DC is the starting point.",
+  "ch": [
+   "Confessional lyrics",
+   "Dynamic swells",
+   "Gritty guitars"
+  ]
+ },
+ "midwest-emo": {
+  "n": "Midwest Emo",
+  "r": "Midwest, USA",
+  "d": "Second-generation emo: hardcore's intensity folded into slow, off-kilter guitar conversations; college-town basements and American Football's self-titled album are the watershed.",
+  "ch": [
+   "Open chords",
+   "Off-kilter rhythms",
+   "Room-like intimacy",
+   "Hushed confessions"
+  ]
+ },
+ "emo-pop": {
+  "n": "Emo Pop",
+  "r": "USA",
+  "d": "Emo's confessionals stuffed into pop-punk's big choruses, the mainstream sound of 2000s MTV and the Warped Tour.",
+  "ch": [
+   "Big choruses",
+   "Breakdown-style vocals",
+   "Distorted guitars"
+  ]
+ },
+ "emo-revival": {
+  "n": "Emo Revival",
+  "r": "USA",
+  "d": "The fourth emo wave of the 2010s underground: math-rock guitars plus more direct self-dissection; the Modern Baseball generation brought it back to small rooms.",
+  "ch": [
+   "Mathy guitars",
+   "Everyday lyrics",
+   "Lo-fi texture"
+  ]
+ },
+ "screamo": {
+  "n": "Screamo",
+  "r": "San Diego, USA",
+  "d": "Emo and hardcore pushed to extremes: screaming, fractured structures and explosive dynamics; the 90s San Diego and French scenes each formed their own camp.",
+  "ch": [
+   "Screaming",
+   "Fractured structures",
+   "Explosive dynamics"
+  ]
+ },
+ "math-rock": {
+  "n": "Math Rock",
+  "r": "USA / Japan",
+  "d": "Built on rhythmic games: odd time signatures, constant metre shifts and tapped guitar turn rock into precision gears; Slint's Spiderland set the template and Japan's toe made it lighter.",
+  "ch": [
+   "Odd time signatures",
+   "Metre shifts",
+   "Tapping",
+   "Instrumental"
+  ]
+ },
+ "mathcore": {
+  "n": "Mathcore",
+  "r": "USA",
+  "d": "Math rock's rhythms plus metalcore's weight and screaming; Dillinger Escape Plan turned it into pure adrenaline.",
+  "ch": [
+   "Complex rhythms",
+   "Metalcore weight",
+   "Sense of losing control"
+  ]
+ },
+ "grindcore": {
+  "n": "Grindcore",
+  "r": "UK",
+  "d": "Punk and death metal crossbred at top speed: songs lasting seconds, blast beats and political fury; Napalm Death's Scum defined the word.",
+  "ch": [
+   "Blast beat",
+   "Very short tracks",
+   "Political lyrics"
+  ]
+ },
+ "crust-punk": {
+  "n": "Crust Punk",
+  "r": "UK",
+  "d": "Hardcore plus metal plus anarchism: raw, low and apocalyptic; Amebix and Doom are the source.",
+  "ch": [
+   "Low, distorted tone",
+   "Anarchist politics",
+   "Apocalyptic feel"
+  ]
+ },
+ "d-beat": {
+  "n": "D-Beat",
+  "r": "UK",
+  "d": "The one-beat-one-hit drum pattern Discharge invented, copied by countless bands into a subgenre: fast, thick wall of sound, vocals like shouted orders.",
+  "ch": [
+   "D-beat drum pattern",
+   "Wall of sound",
+   "Shouted vocals"
+  ]
+ },
+ "street-punk": {
+  "n": "Street Punk",
+  "r": "UK",
+  "d": "The street lineage of Oi! and punk: football-terrace singalongs and working-class narratives, UK in the 80s.",
+  "ch": [
+   "Singalong choruses",
+   "Street themes",
+   "Fast tempos"
+  ]
+ },
+ "oi": {
+  "n": "Oi!",
+  "r": "London, UK",
+  "d": "The street branch of British punk after 1977; slogan choruses tangled up with skinhead culture, simple and direct, written for the terraces.",
+  "ch": [
+   "Slogan choruses",
+   "Simple chords",
+   "Street culture"
+  ]
+ },
+ "ska-punk": {
+  "n": "Ska Punk",
+  "r": "USA",
+  "d": "Ska's jumping rhythms plus punk's speed and distortion; the core of the US third wave in the late 80s.",
+  "ch": [
+   "Brass",
+   "Jumping rhythms",
+   "Fast tempos"
+  ]
+ },
+ "anarcho-punk": {
+  "n": "Anarcho-Punk",
+  "r": "UK",
+  "d": "The UK anarcho-punk sparked by Crass: anti-war, anti-consumerism, DIY labels and collage visuals, more a way of organising than a music.",
+  "ch": [
+   "Political manifestos",
+   "DIY",
+   "Noise"
+  ]
+ },
+ "riot-grrrl": {
+  "n": "Riot Grrrl",
+  "r": "USA",
+  "d": "The women-led punk movement of the 90s, which wrote gender politics into distortion and zine culture.",
+  "ch": [
+   "Feminism",
+   "Distortion",
+   "Zine culture"
+  ]
+ },
+ "horror-punk": {
+  "n": "Horror Punk",
+  "r": "USA",
+  "d": "Punk with B-movie horror aesthetics; the Misfits' monster imagery and melodic choruses defined the style.",
+  "ch": [
+   "Horror themes",
+   "Melodic choruses",
+   "Fast tempos"
+  ]
+ },
+ "psychobilly": {
+  "n": "Psychobilly",
+  "r": "UK",
+  "d": "Rockabilly's slapback bass plus punk's speed and horror-film imagination; The Cramps are the true ancestor.",
+  "ch": [
+   "Slapback bass",
+   "Horror imagery",
+   "Wild energy"
+  ]
+ },
+ "nwobhm": {
+  "n": "NWOBHM",
+  "r": "UK",
+  "d": "The New Wave of British Heavy Metal: Iron Maiden and Saxon brought punk's speed and twin-guitar melodies into metal, the starting point of metal's 1980s global spread.",
+  "ch": [
+   "Twin guitars",
+   "High-pitched vocals",
+   "Fast riffs"
+  ]
+ },
+ "speed-metal": {
+  "n": "Speed Metal",
+  "r": "UK / USA",
+  "d": "A faster, meaner transitional form beyond traditional heavy metal; Motörhead's drive is the prototype, leading straight to thrash.",
+  "ch": [
+   "Extreme speed",
+   "Whipping attack",
+   "Raw edge"
+  ]
+ },
+ "crossover-thrash": {
+  "n": "Crossover Thrash",
+  "r": "USA",
+  "d": "Hardcore punk and thrash crossing over; Suicidal Tendencies' Institutionalized is the definitive template for the fusion.",
+  "ch": [
+   "Hardcore",
+   "Thrash riff",
+   "Street attitude"
+  ]
+ },
+ "doom-metal": {
+  "n": "Doom Metal",
+  "r": "UK",
+  "d": "The slow heavy music Black Sabbath started: downtuned, crushing and apocalyptic; it later split into sludge, funeral doom and drone.",
+  "ch": [
+   "Slow tempos",
+   "Downtuning",
+   "Heavy riffs"
+  ]
+ },
+ "sludge-metal": {
+  "n": "Sludge Metal",
+  "r": "New Orleans, USA",
+  "d": "Doom's slowness plus hardcore's filth; New Orleans' Eyehategod and Crowbar turned it to mud, and Mastodon made it clearer in the 2000s.",
+  "ch": [
+   "Sludgy distortion",
+   "Slow tempos",
+   "Anguish"
+  ]
+ },
+ "stoner-rock": {
+  "n": "Stoner Rock",
+  "r": "California, USA",
+  "d": "Slowed down, downtuned and distortion wide open, with a whole set of desert and psychedelic imagery; Kyuss and Sleep are holy ground.",
+  "ch": [
+   "Downtuning",
+   "Psychedelia",
+   "Long riff passages"
+  ]
+ },
+ "desert-rock": {
+  "n": "Desert Rock",
+  "r": "Palm Desert, USA",
+  "d": "The stoner offshoot of the California desert scene; Queens of the Stone Age took it into the mainstream.",
+  "ch": [
+   "Desert feel",
+   "Groove",
+   "Distortion"
+  ]
+ },
+ "power-metal": {
+  "n": "Power Metal",
+  "r": "Germany / Scandinavia",
+  "d": "European melodic metal: high-speed double kick, clean high vocals and fantasy-epic themes; Helloween fixed the form.",
+  "ch": [
+   "Double-kick drumming",
+   "High vocals",
+   "Epic themes"
+  ]
+ },
+ "symphonic-metal": {
+  "n": "Symphonic Metal",
+  "r": "Finland / Netherlands",
+  "d": "Metal bands with orchestras and choirs; Nightwish brought operatic female vocals into metal and Within Temptation took the more pop path.",
+  "ch": [
+   "Orchestration",
+   "Soprano vocals",
+   "Grand scale"
+  ]
+ },
+ "gothic-metal": {
+  "n": "Gothic Metal",
+  "r": "UK / Norway",
+  "d": "Goth rock's cold gloom plus doom's weight; Type O Negative and Paradise Lost represent two routes.",
+  "ch": [
+   "Cold gloom",
+   "Male-female duets",
+   "Heavy riffs"
+  ]
+ },
+ "industrial-metal": {
+  "n": "Industrial Metal",
+  "r": "USA / Germany",
+  "d": "Industrial samples meeting metal riffs; Ministry's Psalm 69 is the peak, and Nine Inch Nails made it more personal.",
+  "ch": [
+   "Samples",
+   "Mechanical rhythms",
+   "Heavy riffs"
+  ]
+ },
+ "folk-metal": {
+  "n": "Folk Metal",
+  "r": "Europe",
+  "d": "Folk melodies and traditional instruments enter metal; Skyclad broke the ground and Finntroll danced humppa into metal.",
+  "ch": [
+   "Folk melodies",
+   "Traditional instruments",
+   "Pagan themes"
+  ]
+ },
+ "viking-metal": {
+  "n": "Viking Metal",
+  "r": "Scandinavia",
+  "d": "Norse myth mixed with black metal and folk; Bathory's Hammerheart set the paradigm and Amon Amarth turned it into war songs.",
+  "ch": [
+   "Choirs",
+   "Norse mythology",
+   "Epic sweep"
+  ]
+ },
+ "melodic-death": {
+  "n": "Melodic Death Metal",
+  "r": "Gothenburg, Sweden",
+  "d": "Death metal's blast beats plus twin-guitar melody; the Gothenburg sound shaped metalcore through the whole 2000s.",
+  "ch": [
+   "Melodic guitars",
+   "Death growls",
+   "Double-kick drumming"
+  ]
+ },
+ "tech-death": {
+  "n": "Technical Death Metal",
+  "r": "USA",
+  "d": "Death metal made technical: complex time signatures, atonal solos and extreme difficulty; Death's Symbolic is the dividing line.",
+  "ch": [
+   "Complex time signatures",
+   "Technical playing",
+   "Brutality"
+  ]
+ },
+ "brutal-death": {
+  "n": "Brutal Death Metal",
+  "r": "USA",
+  "d": "The heaviest branch of death metal: guttural growls, top-speed blast beats and gore themes; Suffocation and Cannibal Corpse are representative.",
+  "ch": [
+   "Guttural growls",
+   "Blast beat",
+   "Gore themes"
+  ]
+ },
+ "deathcore": {
+  "n": "Deathcore",
+  "r": "USA",
+  "d": "Metalcore plus death metal: breakdowns alternating with blast beats; it moved from the US underground into the mainstream in the late 2000s.",
+  "ch": [
+   "Breakdown",
+   "Blast beat",
+   "Guttural growls"
+  ]
+ },
+ "djent": {
+  "n": "Djent",
+  "r": "Sweden / USA",
+  "d": "Meshuggah-style syncopated low-end riffs with clean tones and precise production; the Periphery generation turned it into a genre name.",
+  "ch": [
+   "Syncopated riffs",
+   "Low-tuned strings",
+   "Clean tone"
+  ]
+ },
+ "post-metal": {
+  "n": "Post-Metal",
+  "r": "USA",
+  "d": "Post-rock's long build-ups plus sludge's weight; Neurosis and Isis made metal into slowly shifting terrain.",
+  "ch": [
+   "Long structures",
+   "Crescendos",
+   "Heavy walls of sound"
+  ]
+ },
+ "blackgaze": {
+  "n": "Blackgaze",
+  "r": "France / USA",
+  "d": "Black metal's tremolo and shoegaze's foggy harmonies converge; Alcest and Deafheaven made it the most visible metal offshoot of the 2010s.",
+  "ch": [
+   "Tremolo",
+   "Foggy guitars",
+   "Black metal shrieks"
+  ]
+ },
+ "funeral-doom": {
+  "n": "Funeral Doom",
+  "r": "Finland / Norway",
+  "d": "The extremely slow version of doom: a twenty-minute song, pipe organ and funeral atmosphere; Skepticism and Thergothon are the source.",
+  "ch": [
+   "Extremely slow",
+   "Funereal atmosphere",
+   "Pipe organ"
+  ]
+ },
+ "drone-metal": {
+  "n": "Drone Metal",
+  "r": "USA / Japan",
+  "d": "Metal that stretches one chord to its limit: walls of sound, feedback and space; Earth and Sunn O))) made it a physical experience.",
+  "ch": [
+   "Sustained tones",
+   "Feedback",
+   "Extreme volume"
+  ]
+ },
+ "goregrind": {
+  "n": "Goregrind",
+  "r": "UK",
+  "d": "The bloody variant of grindcore and death metal; Carcass's early work defined its tone, themes and pathological cover art.",
+  "ch": [
+   "Gurgling vocals",
+   "Gore themes",
+   "Extreme speed"
+  ]
+ },
+ "war-metal": {
+  "n": "War Metal",
+  "r": "Canada",
+  "d": "Black metal at its most primitive and violent: raw recordings, war themes and almost no melody; Blasphemy is the origin point.",
+  "ch": [
+   "Raw recordings",
+   "War themes",
+   "No melody"
+  ]
+ },
+ "dsbm": {
+  "n": "Depressive Suicidal Black Metal",
+  "r": "Norway / USA",
+  "d": "A slow, shrieking, minimally repetitive branch of black metal; Burzum and Xasthur represent two temperaments: solitude and self-consumption.",
+  "ch": [
+   "Slow tempos",
+   "Shrieks",
+   "Minimal repetition"
+  ]
+ }
+}

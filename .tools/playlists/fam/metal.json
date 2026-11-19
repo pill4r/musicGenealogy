@@ -1,0 +1,627 @@
+{
+ "family": "metal",
+ "name": "金属",
+ "sub": "重金属到极端金属",
+ "genres": [
+  {
+   "id": "heavy-metal",
+   "n": "Heavy Metal",
+   "zh": "重金属",
+   "tier": 1,
+   "y": 1970,
+   "d": "把硬摇滚推向更黑暗、更重型的方向：降调吉他、双踩、神秘学与工业意象。",
+   "ar": [
+    "Black Sabbath",
+    "Judas Priest",
+    "Iron Maiden"
+   ],
+   "tr": [
+    [
+     "Paranoid",
+     "Black Sabbath",
+     1970
+    ]
+   ]
+  },
+  {
+   "id": "thrash-metal",
+   "n": "Thrash Metal",
+   "zh": "鞭击金属",
+   "tier": 2,
+   "y": 1983,
+   "d": "重金属的速度 + 硬核朋克的攻击性，湾区金属的起点。",
+   "ar": [
+    "Metallica",
+    "Slayer",
+    "Megadeth"
+   ],
+   "tr": [
+    [
+     "Master of Puppets",
+     "Metallica",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "death-metal",
+   "n": "Death Metal",
+   "zh": "死亡金属",
+   "tier": 3,
+   "y": 1987,
+   "d": "thrash 的极端化：低吼、降调、复杂变速与技术化演奏。",
+   "ar": [
+    "Death",
+    "Cannibal Corpse",
+    "Morbid Angel"
+   ],
+   "tr": [
+    [
+     "Symbolic",
+     "Death",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "black-metal",
+   "n": "Black Metal",
+   "zh": "黑金属",
+   "tier": 3,
+   "y": 1991,
+   "d": "挪威地下场景的极端金属：tremolo 扫弦、尖叫、氛围化的黑暗。",
+   "ar": [
+    "Mayhem",
+    "Burzum",
+    "Emperor"
+   ],
+   "tr": [
+    [
+     "Freezing Moon",
+     "Mayhem",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "nu-metal",
+   "n": "Nu Metal",
+   "zh": "新金属",
+   "tier": 2,
+   "y": 1994,
+   "d": "重金属 + hip-hop 节奏 + 降调吉他，2000 年前后统治青少年市场。",
+   "ar": [
+    "Korn",
+    "Limp Bizkit",
+    "Linkin Park"
+   ],
+   "tr": [
+    [
+     "In the End",
+     "Linkin Park",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "metalcore",
+   "n": "Metalcore",
+   "zh": "金属核",
+   "tier": 3,
+   "y": 1995,
+   "d": "硬核朋克 + 死亡金属：breakdown、双踩与旋律副歌。",
+   "ar": [
+    "Killswitch Engage",
+    "Bring Me the Horizon",
+    "August Burns Red"
+   ],
+   "tr": [
+    [
+     "My Curse",
+     "Killswitch Engage",
+     2006
+    ]
+   ]
+  },
+  {
+   "id": "nwobhm",
+   "n": "NWOBHM",
+   "zh": "英国重金属新浪潮",
+   "tier": 2,
+   "y": 1979,
+   "d": "英国重金属新浪潮：Iron Maiden、Saxon 把朋克的速度和双吉他旋律带进金属，1980 年代金属全球化的起点。",
+   "ar": [
+    "Iron Maiden",
+    "Saxon",
+    "Def Leppard"
+   ],
+   "tr": [
+    [
+     "Phantom of the Opera",
+     "Iron Maiden",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "speed-metal",
+   "n": "Speed Metal",
+   "zh": "速度金属",
+   "tier": 3,
+   "y": 1981,
+   "d": "比传统重金属更快、更狠的过渡形态，Motörhead 的驱动力是原型，直接通向 thrash。",
+   "ar": [
+    "Motörhead",
+    "Exciter",
+    "Agent Steel"
+   ],
+   "tr": [
+    [
+     "Overkill",
+     "Motörhead",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "crossover-thrash",
+   "n": "Crossover Thrash",
+   "zh": "交叉鞭击",
+   "tier": 3,
+   "y": 1985,
+   "d": "硬核朋克与 thrash 的交叉，Suicidal Tendencies 的《Institutionalized》是模板。",
+   "ar": [
+    "Suicidal Tendencies",
+    "D.R.I.",
+    "Cro-Mags"
+   ],
+   "tr": [
+    [
+     "Institutionalized",
+     "Suicidal Tendencies",
+     1983
+    ]
+   ]
+  },
+  {
+   "id": "doom-metal",
+   "n": "Doom Metal",
+   "zh": "末日金属",
+   "tier": 2,
+   "y": 1970,
+   "d": "Black Sabbath 开创的慢速重型：降调、沉重、末日感，后来分出 sludge、funeral doom 与 drone。",
+   "ar": [
+    "Black Sabbath",
+    "Pentagram",
+    "Saint Vitus"
+   ],
+   "tr": [
+    [
+     "Black Sabbath",
+     "Black Sabbath",
+     1970
+    ]
+   ]
+  },
+  {
+   "id": "sludge-metal",
+   "n": "Sludge Metal",
+   "zh": "泥浆金属",
+   "tier": 2,
+   "y": 1989,
+   "d": "doom 的慢加硬核的脏，新奥尔良的 Eyehategod 与 Crowbar 把它做成泥浆，Mastodon 让它在 2000 年代变清晰。",
+   "ar": [
+    "Eyehategod",
+    "Crowbar",
+    "Mastodon"
+   ],
+   "tr": [
+    [
+     "Blood and Thunder",
+     "Mastodon",
+     2004
+    ]
+   ]
+  },
+  {
+   "id": "stoner-rock",
+   "n": "Stoner Rock",
+   "zh": "石人摇滚",
+   "tier": 2,
+   "y": 1992,
+   "d": "降速、降调、失真开满，配一整套沙漠与迷幻意象；Kyuss 与 Sleep 是圣地。",
+   "ar": [
+    "Kyuss",
+    "Sleep",
+    "Fu Manchu"
+   ],
+   "tr": [
+    [
+     "Green Machine",
+     "Kyuss",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "desert-rock",
+   "n": "Desert Rock",
+   "zh": "沙漠摇滚",
+   "tier": 3,
+   "y": 1992,
+   "d": "加州沙漠场景的 stoner 分支，Queens of the Stone Age 把它带进主流。",
+   "ar": [
+    "Kyuss",
+    "Queens of the Stone Age",
+    "Masters of Reality"
+   ],
+   "tr": [
+    [
+     "No One Knows",
+     "Queens of the Stone Age",
+     2002
+    ]
+   ]
+  },
+  {
+   "id": "power-metal",
+   "n": "Power Metal",
+   "zh": "力量金属",
+   "tier": 2,
+   "y": 1983,
+   "d": "欧洲旋律金属：高速双踩、清亮高音、奇幻史诗主题，Helloween 把它定型。",
+   "ar": [
+    "Helloween",
+    "Blind Guardian",
+    "Stratovarius"
+   ],
+   "tr": [
+    [
+     "Eagle Fly Free",
+     "Helloween",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "symphonic-metal",
+   "n": "Symphonic Metal",
+   "zh": "交响金属",
+   "tier": 3,
+   "y": 1994,
+   "d": "金属乐队加管弦乐与合唱，Nightwish 把歌剧女声带进金属，Within Temptation 走更流行的一路。",
+   "ar": [
+    "Nightwish",
+    "Within Temptation",
+    "Epica"
+   ],
+   "tr": [
+    [
+     "Wish I Had an Angel",
+     "Nightwish",
+     2004
+    ]
+   ]
+  },
+  {
+   "id": "gothic-metal",
+   "n": "Gothic Metal",
+   "zh": "哥特金属",
+   "tier": 3,
+   "y": 1991,
+   "d": "哥特摇滚的阴冷加 doom 的重量，Type O Negative 与 Paradise Lost 代表两种路线。",
+   "ar": [
+    "Paradise Lost",
+    "Type O Negative",
+    "Theatre of Tragedy"
+   ],
+   "tr": [
+    [
+     "Black No. 1",
+     "Type O Negative",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "industrial-metal",
+   "n": "Industrial Metal",
+   "zh": "工业金属",
+   "tier": 2,
+   "y": 1988,
+   "d": "工业采样与金属 riff 的结合，Ministry 的《Psalm 69》是高峰，Nine Inch Nails 让它更个人化。",
+   "ar": [
+    "Ministry",
+    "Nine Inch Nails",
+    "Fear Factory"
+   ],
+   "tr": [
+    [
+     "Just One Fix",
+     "Ministry",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "folk-metal",
+   "n": "Folk Metal",
+   "zh": "民谣金属",
+   "tier": 3,
+   "y": 1990,
+   "d": "民谣旋律与传统乐器进入金属，Skyclad 开路，Finntroll 把 humppa 舞曲跳进金属。",
+   "ar": [
+    "Skyclad",
+    "Finntroll",
+    "Eluveitie"
+   ],
+   "tr": [
+    [
+     "Trollhammaren",
+     "Finntroll",
+     2004
+    ]
+   ]
+  },
+  {
+   "id": "viking-metal",
+   "n": "Viking Metal",
+   "zh": "维京金属",
+   "tier": 3,
+   "y": 1992,
+   "d": "北欧神话与黑金属、民谣的混合，Bathory 的《Hammerheart》立下范式，Amon Amarth 把它做成战歌。",
+   "ar": [
+    "Bathory",
+    "Enslaved",
+    "Amon Amarth"
+   ],
+   "tr": [
+    [
+     "Twilight of the Thunder God",
+     "Amon Amarth",
+     2008
+    ]
+   ]
+  },
+  {
+   "id": "melodic-death",
+   "n": "Melodic Death Metal",
+   "zh": "旋律死亡金属",
+   "tier": 2,
+   "y": 1990,
+   "d": "死亡金属的 blast beat 加双吉他旋律，哥德堡之声影响了整个 2000 年代金属核。",
+   "ar": [
+    "In Flames",
+    "At the Gates",
+    "Dark Tranquillity"
+   ],
+   "tr": [
+    [
+     "Slaughter of the Soul",
+     "At the Gates",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "tech-death",
+   "n": "Technical Death Metal",
+   "zh": "技术死亡金属",
+   "tier": 3,
+   "y": 1991,
+   "d": "死亡金属的技术化：复杂拍号、无调性 solo、极端演奏难度，Death 的《Symbolic》是分界。",
+   "ar": [
+    "Death",
+    "Cynic",
+    "Necrophagist"
+   ],
+   "tr": [
+    [
+     "Symbolic",
+     "Death",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "brutal-death",
+   "n": "Brutal Death Metal",
+   "zh": "残死",
+   "tier": 3,
+   "y": 1991,
+   "d": "死亡金属里最重的一支：guttural 低吼、极速 blast beat、血腥主题，Suffocation 与 Cannibal Corpse 为代表。",
+   "ar": [
+    "Cannibal Corpse",
+    "Suffocation",
+    "Cryptopsy"
+   ],
+   "tr": [
+    [
+     "Hammer Smashed Face",
+     "Cannibal Corpse",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "deathcore",
+   "n": "Deathcore",
+   "zh": "死核",
+   "tier": 2,
+   "y": 2002,
+   "d": "金属核加死亡金属：breakdown 与 blast beat 交替，2000 年代末从美国地下进入主流。",
+   "ar": [
+    "Suicide Silence",
+    "Whitechapel",
+    "Job for a Cowboy"
+   ],
+   "tr": [
+    [
+     "You Only Live Once",
+     "Suicide Silence",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "djent",
+   "n": "Djent",
+   "zh": "Djent",
+   "tier": 2,
+   "y": 2007,
+   "d": "Meshuggah 式的切分低音 riff 加干净音色与精密制作，被 Periphery 一代做成一个流派名。",
+   "ar": [
+    "Meshuggah",
+    "Periphery",
+    "Animals as Leaders"
+   ],
+   "tr": [
+    [
+     "Bleed",
+     "Meshuggah",
+     2008
+    ]
+   ]
+  },
+  {
+   "id": "post-metal",
+   "n": "Post-Metal",
+   "zh": "后金属",
+   "tier": 2,
+   "y": 2000,
+   "d": "post-rock 的铺陈加 sludge 的重量，Neurosis 与 Isis 把金属做成缓慢移动的地形。",
+   "ar": [
+    "Neurosis",
+    "Isis",
+    "Cult of Luna"
+   ],
+   "tr": [
+    [
+     "Given to the Rising",
+     "Neurosis",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "blackgaze",
+   "n": "Blackgaze",
+   "zh": "黑瞪",
+   "tier": 3,
+   "y": 2007,
+   "d": "黑金属的 tremolo 与 shoegaze 的雾状和声合流，Alcest 与 Deafheaven 让它成为 2010 年代最出圈的金属分支。",
+   "ar": [
+    "Alcest",
+    "Deafheaven",
+    "Wolves in the Throne Room"
+   ],
+   "tr": [
+    [
+     "Dream House",
+     "Deafheaven",
+     2013
+    ]
+   ]
+  },
+  {
+   "id": "funeral-doom",
+   "n": "Funeral Doom",
+   "zh": "葬礼末日",
+   "tier": 3,
+   "y": 1992,
+   "d": "doom 的极慢速版本：一首二十分钟、管风琴与葬礼氛围，Skepticism 与 Thergothon 是源头。",
+   "ar": [
+    "Skepticism",
+    "Thergothon",
+    "Mournful Congregation"
+   ],
+   "tr": [
+    [
+     "The March and the Stream",
+     "Skepticism",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "drone-metal",
+   "n": "Drone Metal",
+   "zh": "嗡鸣金属",
+   "tier": 3,
+   "y": 1990,
+   "d": "把一个和弦拉到极致的金属：音墙、反馈与空间感，Earth 与 Sunn O))) 把它做成一种物理体验。",
+   "ar": [
+    "Earth",
+    "Sunn O)))",
+    "Boris"
+   ],
+   "tr": [
+    [
+     "It Took the Night to Believe",
+     "Sunn O)))",
+     2005
+    ]
+   ]
+  },
+  {
+   "id": "goregrind",
+   "n": "Goregrind",
+   "zh": "血碾",
+   "tier": 3,
+   "y": 1987,
+   "d": "grindcore 与死亡金属的血腥变种，Carcass 早期作品定义了它的音色、主题与病理学封面。",
+   "ar": [
+    "Carcass",
+    "Repulsion",
+    "Impetigo"
+   ],
+   "tr": [
+    [
+     "Genital Grinder",
+     "Carcass",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "war-metal",
+   "n": "War Metal",
+   "zh": "战争金属",
+   "tier": 3,
+   "y": 1993,
+   "d": "黑金属最原始暴戾的一支：粗糙录音、战争主题、几乎没有旋律，Blasphemy 是原点。",
+   "ar": [
+    "Blasphemy",
+    "Conqueror",
+    "Revenge"
+   ],
+   "tr": [
+    [
+     "Fallen Angel of Doom",
+     "Blasphemy",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "dsbm",
+   "n": "Depressive Suicidal Black Metal",
+   "zh": "抑郁黑金属",
+   "tier": 3,
+   "y": 1993,
+   "d": "缓慢、尖啸、极简重复的黑金属分支，Burzum 与 Xasthur 代表两种气质：孤独与自我吞噬。",
+   "ar": [
+    "Burzum",
+    "Xasthur",
+    "Shining"
+   ],
+   "tr": [
+    [
+     "Dunkelheit",
+     "Burzum",
+     1996
+    ]
+   ]
+  }
+ ]
+}

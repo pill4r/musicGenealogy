@@ -1,0 +1,375 @@
+{
+ "house": {
+  "n": "House",
+  "r": "Chicago, USA",
+  "d": "Early-1980s Chicago: at The Warehouse, Frankie Knuckles re-edited disco and layered it over drum machines, making music built for dancefloor loops; the name comes from that club. It inherited disco's 4/4 pulse and soulful vocals, and directly spun off the deep, acid and garage branches.",
+  "ch": [
+   "4/4 kick",
+   "Offbeat open hi-hats",
+   "Synth basslines",
+   "Vocal chops",
+   "Loop-based structure"
+  ]
+ },
+ "chicago-house": {
+  "n": "Chicago House",
+  "r": "Chicago, USA",
+  "d": "The concrete early form of house: TR-808/909 drum machines, rough sampling and soulful vocals; the labels Trax and DJ International defined its sound.",
+  "ch": [
+   "808/909 drum machines",
+   "Rough sampling",
+   "Soulful vocals"
+  ]
+ },
+ "acid-house": {
+  "n": "Acid House",
+  "r": "Chicago, USA",
+  "d": "Its squealing sound comes from the Roland TB-303's glide and resonance; Phuture's 1987 \"Acid Tracks\" gave it its name, and its arrival in the UK in 1988 ignited the Second Summer of Love.",
+  "ch": [
+   "TB-303 acid lines",
+   "Psychedelic feel",
+   "Relentless repetition"
+  ]
+ },
+ "deep-house": {
+  "n": "Deep House",
+  "r": "Chicago, USA",
+  "d": "Slower, more soulful house that prizes chords, atmosphere and low end; Larry Heard's \"Can You Feel It\" is the template.",
+  "ch": [
+   "Soft chords",
+   "Deep low-end ambience",
+   "Soulful vocals"
+  ]
+ },
+ "garage-house": {
+  "n": "Garage House",
+  "r": "New York/New Jersey, USA",
+  "d": "A New York/New Jersey offshoot of house named after Larry Levan's Paradise Garage; gospel-style vocals and swingier drums, it later crossed to Britain and became UK garage.",
+  "ch": [
+   "Gospel vocals",
+   "Swung drums",
+   "Club feel"
+  ]
+ },
+ "hip-house": {
+  "n": "Hip House",
+  "r": "US",
+  "d": "House beats plus rap: the first formal marriage of two Black dancefloor cultures.",
+  "ch": [
+   "House beats",
+   "Rapping",
+   "Sampling"
+  ]
+ },
+ "vocal-house": {
+  "n": "Vocal House",
+  "r": "US/Europe",
+  "d": "Traditional house built around a singer, with choruses and harmonies aimed straight at the dancefloor.",
+  "ch": [
+   "Big choruses",
+   "Gospel harmonies",
+   "Piano and strings"
+  ]
+ },
+ "progressive-house": {
+  "n": "Progressive House",
+  "r": "UK/Europe",
+  "d": "Long passages, gradual builds, an emphasis on atmosphere and tension; trance-influenced, it later became the skeleton of mainstage EDM.",
+  "ch": [
+   "Progressive arrangement",
+   "Atmospheric layering",
+   "Long breakdowns"
+  ]
+ },
+ "tech-house": {
+  "n": "Tech House",
+  "r": "UK/US",
+  "d": "House groove plus techno's cold, hard timbres, minimal and looping, built for long DJ sets.",
+  "ch": [
+   "Looping groove",
+   "Cold timbres",
+   "Minimal arrangement"
+  ]
+ },
+ "funky-house": {
+  "n": "Funky House",
+  "r": "UK",
+  "d": "Filtered house sampling disco and funk that reached the mainstream around the 2000s.",
+  "ch": [
+   "Disco/funk samples",
+   "Filter sweeps",
+   "Upbeat vocals"
+  ]
+ },
+ "microhouse": {
+  "n": "Microhouse",
+  "r": "Germany/Chile",
+  "d": "Minimal, clicky and sparse in the low end, stripping house down to nothing but breathing.",
+  "ch": [
+   "Micro-samples",
+   "Clicks",
+   "Negative space"
+  ]
+ },
+ "minimal-house": {
+  "n": "Minimal House",
+  "r": "Germany",
+  "d": "Mid-2000s minimal house that sustains its groove through the tiniest shifts.",
+  "ch": [
+   "Minimal",
+   "Subtle variation",
+   "Bass-driven"
+  ]
+ },
+ "electro-house": {
+  "n": "Electro House",
+  "r": "Europe",
+  "d": "House with distorted synths and rock-style drops that ruled the festivals around 2010.",
+  "ch": [
+   "Distorted synths",
+   "Big drops",
+   "Rock energy"
+  ]
+ },
+ "afro-house": {
+  "n": "Afro House",
+  "r": "South Africa/Global",
+  "d": "House fused with African percussion and tribal vocals; Black Coffee and others carried it to the rest of the world.",
+  "ch": [
+   "African percussion",
+   "Tribal vocals",
+   "Deep low end"
+  ]
+ },
+ "kwaito": {
+  "n": "Kwaito",
+  "r": "South Africa",
+  "d": "A South African street variant of house: slow tempos, spoken-word rapping, ghetto culture.",
+  "ch": [
+   "Slow house",
+   "Spoken rapping",
+   "South African street culture"
+  ]
+ },
+ "amapiano": {
+  "n": "Amapiano",
+  "r": "South Africa",
+  "d": "A new South African sound of deep house, kwaito and gqom: piano chords and log-drum bass, a worldwide hit in the 2020s.",
+  "ch": [
+   "Piano chords",
+   "Log drum bass",
+   "Slow groove"
+  ]
+ },
+ "tropical-house": {
+  "n": "Tropical House",
+  "r": "Nordic countries/Global",
+  "d": "Light house beats plus tropical timbres; Kygo turned it into global pop.",
+  "ch": [
+   "Tropical timbres",
+   "Light beats",
+   "Pop vocals"
+  ]
+ },
+ "slap-house": {
+  "n": "Slap House",
+  "r": "Europe",
+  "d": "Slapped bass plus pop vocals: European dance music for the TikTok era.",
+  "ch": [
+   "Slap bass",
+   "Pop vocals",
+   "Short-video pacing"
+  ]
+ },
+ "future-house": {
+  "n": "Future House",
+  "r": "Netherlands/UK",
+  "d": "Springy bass and chopped vocals, sitting somewhere between house and EDM.",
+  "ch": [
+   "Springy bass",
+   "Vocal chops",
+   "Club feel"
+  ]
+ },
+ "french-house": {
+  "n": "French House",
+  "r": "France",
+  "d": "Disco and funk samples plus filters gave it a French touch; Daft Punk made it a global phenomenon.",
+  "ch": [
+   "Disco samples",
+   "Filters",
+   "Looped phrases"
+  ]
+ },
+ "disco-house": {
+  "n": "Disco House",
+  "r": "US/Europe",
+  "d": "Disco strings and vocals laid straight over house drums, a loop back to disco.",
+  "ch": [
+   "Disco strings",
+   "House drums",
+   "Vocal samples"
+  ]
+ },
+ "techno": {
+  "n": "Techno",
+  "r": "Detroit, USA",
+  "d": "Detroit, 1985: the Belleville Three welded Kraftwerk's synths, funk's groove and futurist imagination into wordless, ceaselessly propulsive machine music.",
+  "ch": [
+   "4/4 propulsion",
+   "Synth chords",
+   "No vocals",
+   "Loops"
+  ]
+ },
+ "acid-techno": {
+  "n": "Acid Techno",
+  "r": "Europe",
+  "d": "Acid house's 303 sound enters techno, harder and more psychedelic.",
+  "ch": [
+   "303 acid lines",
+   "Hard drums",
+   "Hypnotic"
+  ]
+ },
+ "minimal-techno": {
+  "n": "Minimal Techno",
+  "r": "US/Germany",
+  "d": "Everything extraneous removed, leaving only pulse and space; it developed along Detroit and Berlin lines.",
+  "ch": [
+   "Minimal",
+   "Pulse",
+   "Sense of space"
+  ]
+ },
+ "dub-techno": {
+  "n": "Dub Techno",
+  "r": "Berlin, Germany",
+  "d": "Pouring dub's delay and reverb into techno; Basic Channel set the template.",
+  "ch": [
+   "Delay and reverb",
+   "Deep chords",
+   "Space"
+  ]
+ },
+ "hard-techno": {
+  "n": "Hard Techno",
+  "r": "Europe",
+  "d": "Faster, harder, more industrial techno born for big warehouse parties.",
+  "ch": [
+   "High tempo",
+   "Hard drums",
+   "Industrial timbres"
+  ]
+ },
+ "melodic-techno": {
+  "n": "Melodic Techno",
+  "r": "Europe",
+  "d": "Bringing trance's melodicism back to techno; it became big-club mainstream in the late 2010s.",
+  "ch": [
+   "Melodic",
+   "Emotional build-ups",
+   "Big clubs"
+  ]
+ },
+ "electro": {
+  "n": "Electro",
+  "r": "US",
+  "d": "808 drum machine plus robot voices; Afrika Bambaataa's \"Planet Rock\" turned Kraftwerk into street music.",
+  "ch": [
+   "808 drum machine",
+   "Robot voices",
+   "Synth melodies"
+  ]
+ },
+ "freestyle": {
+  "n": "Freestyle",
+  "r": "New York/Miami, USA",
+  "d": "Electro plus Latin melodies and synths, made for New York and Miami's Latin dancefloors.",
+  "ch": [
+   "Synth melodies",
+   "Latin emotion",
+   "Dancefloor beats"
+  ]
+ },
+ "miami-bass": {
+  "n": "Miami Bass",
+  "r": "Miami, USA",
+  "d": "808 bass plus fast-paced rap; 2 Live Crew turned it into a byword for controversy.",
+  "ch": [
+   "808 bass",
+   "Fast rapping",
+   "Party themes"
+  ]
+ },
+ "baile-funk": {
+  "n": "Baile Funk",
+  "r": "Rio de Janeiro, Brazil",
+  "d": "Miami bass reached Rio and became favela party music, later catching on worldwide.",
+  "ch": [
+   "Breakbeats",
+   "Heavy bass",
+   "MC chants"
+  ]
+ },
+ "uk-garage": {
+  "n": "UK Garage",
+  "r": "London, UK",
+  "d": "American garage house reached London, picked up jungle's bass and syncopation, and became UK garage.",
+  "ch": [
+   "Syncopated drums",
+   "Bass",
+   "Vocal chops"
+  ]
+ },
+ "speed-garage": {
+  "n": "Speed Garage",
+  "r": "UK",
+  "d": "UK garage sped up: heavier bass and faster tempos.",
+  "ch": [
+   "High speed",
+   "Heavy bass",
+   "Jump-up feel"
+  ]
+ },
+ "2-step": {
+  "n": "2-Step",
+  "r": "London, UK",
+  "d": "It drops the four-on-the-floor kick, keeping only syncopated drums and vocals; the direct precursor to dubstep.",
+  "ch": [
+   "Syncopated drums",
+   "Vocals",
+   "Negative space"
+  ]
+ },
+ "dubstep": {
+  "n": "Dubstep",
+  "r": "London, UK",
+  "d": "2-step rhythms plus dub bass from South London's FWD>> scene; Skrillex took it global in 2010.",
+  "ch": [
+   "Low-end wobble",
+   "Half-time drums",
+   "Sense of space"
+  ]
+ },
+ "grime": {
+  "n": "Grime",
+  "r": "London, UK",
+  "d": "Accelerated UK garage plus hardcore rap: East London's MC culture.",
+  "ch": [
+   "Fast MCing",
+   "Cold synths",
+   "Breakbeats"
+  ]
+ },
+ "bassline": {
+  "n": "Bassline",
+  "r": "Sheffield, UK",
+  "d": "Sheffield's descendant of speed garage, named for its jumpy basslines.",
+  "ch": [
+   "Jumpy bass",
+   "4/4 drums",
+   "Female vocal samples"
+  ]
+ }
+}

@@ -1,0 +1,7456 @@
+[
+ {
+  "id": "roots",
+  "name": "根源",
+  "sub": "福音 · 布鲁斯 · 民谣",
+  "color": "#a58a6f",
+  "genres": [
+   {
+    "id": "gospel",
+    "n": "Gospel",
+    "zh": "福音音乐",
+    "tier": 2,
+    "y": 1900,
+    "d": "黑人教会的礼拜音乐：领唱与合唱呼应、厚重和声、Hammond 风琴；后来几乎喂养了 soul、R&B 和摇滚乐。",
+    "ar": [
+     "Mahalia Jackson",
+     "The Staple Singers",
+     "Aretha Franklin"
+    ],
+    "tr": [
+     [
+      "Move On Up a Little Higher",
+      "Mahalia Jackson",
+      1947
+     ],
+     [
+      "I'll Take You There",
+      "The Staple Singers",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "blues",
+    "n": "Blues",
+    "zh": "布鲁斯",
+    "tier": 1,
+    "y": 1895,
+    "d": "12 小节曲式、蓝调音与问答式乐句；从田间号子到电声芝加哥布鲁斯，是现代流行乐的共同祖源。",
+    "ar": [
+     "Robert Johnson",
+     "Muddy Waters",
+     "B.B. King"
+    ],
+    "tr": [
+     [
+      "Cross Road Blues",
+      "Robert Johnson",
+      1936
+     ],
+     [
+      "The Thrill Is Gone",
+      "B.B. King",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "delta-blues",
+    "n": "Delta Blues",
+    "zh": "三角洲布鲁斯",
+    "tier": 3,
+    "y": 1920,
+    "d": "密西西比三角洲的原始布鲁斯：滑棒吉他、粗粝人声；Robert Johnson 的录音成了后世所有布鲁斯的圣典。",
+    "ar": [
+     "Robert Johnson",
+     "Son House",
+     "Charley Patton"
+    ],
+    "tr": [
+     [
+      "Preachin' the Blues",
+      "Son House",
+      1930
+     ],
+     [
+      "Hellhound on My Trail",
+      "Robert Johnson",
+      1937
+     ]
+    ]
+   },
+   {
+    "id": "boogie-woogie",
+    "n": "Boogie-Woogie",
+    "zh": "布吉伍吉",
+    "tier": 3,
+    "y": 1925,
+    "d": "钢琴布鲁斯的分支：左手八分音符固定低音不断推进，直接预示了摇滚乐的节奏。",
+    "ar": [
+     "Meade 'Lux' Lewis",
+     "Pete Johnson",
+     "Albert Ammons"
+    ],
+    "tr": [
+     [
+      "Honky Tonk Train Blues",
+      "Meade 'Lux' Lewis",
+      1927
+     ]
+    ]
+   },
+   {
+    "id": "jump-blues",
+    "n": "Jump Blues",
+    "zh": "跳跃布鲁斯",
+    "tier": 3,
+    "y": 1940,
+    "d": "战后把布鲁斯交给大嗓门歌手和管乐 riff，节奏更快、更适合舞池，是 R&B 的前身。",
+    "ar": [
+     "Louis Jordan",
+     "Big Joe Turner",
+     "Wynonie Harris"
+    ],
+    "tr": [
+     [
+      "Choo Choo Ch'Boogie",
+      "Louis Jordan",
+      1946
+     ],
+     [
+      "Shake, Rattle and Roll",
+      "Big Joe Turner",
+      1954
+     ]
+    ]
+   },
+   {
+    "id": "chicago-blues",
+    "n": "Chicago Blues",
+    "zh": "芝加哥布鲁斯",
+    "tier": 3,
+    "y": 1945,
+    "d": "三角洲布鲁斯北上芝加哥后被电吉他、口琴和乐队放大，成为摇滚乐的直接老师。",
+    "ar": [
+     "Muddy Waters",
+     "Howlin' Wolf",
+     "Buddy Guy"
+    ],
+    "tr": [
+     [
+      "Hoochie Coochie Man",
+      "Muddy Waters",
+      1954
+     ],
+     [
+      "Smokestack Lightnin'",
+      "Howlin' Wolf",
+      1956
+     ]
+    ]
+   },
+   {
+    "id": "folk",
+    "n": "Folk",
+    "zh": "民谣",
+    "tier": 3,
+    "y": 1900,
+    "d": "以叙事歌和木吉他为核心的民间传统；20 世纪被民谣复兴运动政治化，后来又成了摇滚的养分。",
+    "ar": [
+     "Woody Guthrie",
+     "Pete Seeger",
+     "Bob Dylan"
+    ],
+    "tr": [
+     [
+      "This Land Is Your Land",
+      "Woody Guthrie",
+      1944
+     ],
+     [
+      "Blowin' in the Wind",
+      "Bob Dylan",
+      1963
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "country",
+  "name": "乡村 / 民谣",
+  "sub": "纳什维尔与阿巴拉契亚",
+  "color": "#c2a35a",
+  "genres": [
+   {
+    "id": "country",
+    "n": "Country",
+    "zh": "乡村音乐",
+    "tier": 2,
+    "y": 1925,
+    "d": "美国南部的乡村叙事：吉他、提琴、钢弦吉他，唱的是酒馆、爱情与乡愁。",
+    "ar": [
+     "Hank Williams",
+     "Johnny Cash",
+     "Dolly Parton"
+    ],
+    "tr": [
+     [
+      "I'm So Lonesome I Could Cry",
+      "Hank Williams",
+      1949
+     ],
+     [
+      "Ring of Fire",
+      "Johnny Cash",
+      1963
+     ]
+    ]
+   },
+   {
+    "id": "bluegrass",
+    "n": "Bluegrass",
+    "zh": "蓝草",
+    "tier": 3,
+    "y": 1946,
+    "d": "源自阿巴拉契亚的高能原声音乐：班卓琴、曼陀林、提琴与高亢和声，速度极快。",
+    "ar": [
+     "Bill Monroe",
+     "Flatt & Scruggs",
+     "Alison Krauss"
+    ],
+    "tr": [
+     [
+      "Blue Moon of Kentucky",
+      "Bill Monroe",
+      1946
+     ],
+     [
+      "Foggy Mountain Breakdown",
+      "Flatt & Scruggs",
+      1949
+     ]
+    ]
+   },
+   {
+    "id": "honky-tonk",
+    "n": "Honky Tonk",
+    "zh": "酒馆乡村",
+    "tier": 3,
+    "y": 1945,
+    "d": "酒馆里的乡村：电吉他、钢琴、鼓，歌词回到喝酒与失恋。",
+    "ar": [
+     "Hank Williams",
+     "Lefty Frizzell",
+     "George Jones"
+    ],
+    "tr": [
+     [
+      "Your Cheatin' Heart",
+      "Hank Williams",
+      1953
+     ]
+    ]
+   },
+   {
+    "id": "country-rock",
+    "n": "Country Rock",
+    "zh": "乡村摇滚",
+    "tier": 3,
+    "y": 1968,
+    "d": "把乡村的旋律与和声放进摇滚乐队，Gram Parsons 与 The Byrds 开了头。",
+    "ar": [
+     "The Byrds",
+     "Gram Parsons",
+     "Eagles"
+    ],
+    "tr": [
+     [
+      "Hickory Wind",
+      "The Byrds",
+      1968
+     ],
+     [
+      "Take It Easy",
+      "Eagles",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "outlaw-country",
+    "n": "Outlaw Country",
+    "zh": "叛道乡村",
+    "tier": 3,
+    "y": 1973,
+    "d": "1970 年代纳什维尔体制外的乡村，更粗粝、更摇滚，也更自我。",
+    "ar": [
+     "Willie Nelson",
+     "Waylon Jennings",
+     "Kris Kristofferson"
+    ],
+    "tr": [
+     [
+      "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "Waylon & Willie",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "nashville-sound",
+    "n": "Nashville Sound",
+    "zh": "纳什维尔之声",
+    "tier": 2,
+    "y": 1958,
+    "d": "在乡村歌曲外面包上弦乐与合唱，让它能进流行电台：Patsy Cline 的《Crazy》是完美样本。",
+    "ar": [
+     "Patsy Cline",
+     "Jim Reeves",
+     "Eddy Arnold"
+    ],
+    "tr": [
+     [
+      "Crazy",
+      "Patsy Cline",
+      1961
+     ]
+    ]
+   },
+   {
+    "id": "bakersfield-sound",
+    "n": "Bakersfield Sound",
+    "zh": "贝克斯菲尔德之声",
+    "tier": 3,
+    "y": 1950,
+    "d": "对纳什维尔弦乐的反动：电吉他、Telecaster 的尖锐音色与酒吧舞池的硬朗节奏，Buck Owens 是代表。",
+    "ar": [
+     "Buck Owens",
+     "Merle Haggard",
+     "Wynn Stewart"
+    ],
+    "tr": [
+     [
+      "Act Naturally",
+      "Buck Owens",
+      1963
+     ]
+    ]
+   },
+   {
+    "id": "countrypolitan",
+    "n": "Countrypolitan",
+    "zh": "城市乡村",
+    "tier": 3,
+    "y": 1966,
+    "d": "纳什维尔之声的升级版：更厚的弦乐、更城市的编曲，Glen Campbell 的《Wichita Lineman》是巅峰。",
+    "ar": [
+     "Glen Campbell",
+     "Tammy Wynette",
+     "Charlie Rich"
+    ],
+    "tr": [
+     [
+      "Wichita Lineman",
+      "Glen Campbell",
+      1968
+     ]
+    ]
+   },
+   {
+    "id": "western-swing",
+    "n": "Western Swing",
+    "zh": "西部摇摆",
+    "tier": 3,
+    "y": 1930,
+    "d": "乡村弦乐加爵士大乐队与摇摆节奏：Bob Wills 的乐队在舞厅里把小提琴与铜管一起摇起来。",
+    "ar": [
+     "Bob Wills",
+     "Milton Brown",
+     "Asleep at the Wheel"
+    ],
+    "tr": [
+     [
+      "San Antonio Rose",
+      "Bob Wills",
+      1938
+     ]
+    ]
+   },
+   {
+    "id": "alt-country",
+    "n": "Alt-Country",
+    "zh": "另类乡村",
+    "tier": 2,
+    "y": 1990,
+    "d": "用独立摇滚的粗粝与态度唱乡村：Uncle Tupelo 的《No Depression》给一整代人命名。",
+    "ar": [
+     "Uncle Tupelo",
+     "Wilco",
+     "Son Volt"
+    ],
+    "tr": [
+     [
+      "No Depression",
+      "Uncle Tupelo",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "americana",
+    "n": "Americana",
+    "zh": "美式音乐",
+    "tier": 2,
+    "y": 1995,
+    "d": "把乡村、民谣、蓝调与摇滚的根重新缝在一起的当代标签，Wilco 与 Gillian Welch 都在其中。",
+    "ar": [
+     "Wilco",
+     "Gillian Welch",
+     "Jason Isbell"
+    ],
+    "tr": [
+     [
+      "Jesus, Etc.",
+      "Wilco",
+      2002
+     ]
+    ]
+   },
+   {
+    "id": "country-pop",
+    "n": "Country Pop",
+    "zh": "乡村流行",
+    "tier": 2,
+    "y": 1970,
+    "d": "把乡村的叙事与嗓音放进流行编曲：Dolly Parton 的《Jolene》既有班卓也有榜单。",
+    "ar": [
+     "Dolly Parton",
+     "Shania Twain",
+     "Taylor Swift"
+    ],
+    "tr": [
+     [
+      "Jolene",
+      "Dolly Parton",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "bro-country",
+    "n": "Bro-Country",
+    "zh": "兄弟乡村",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年代美国电台乡村：卡车、啤酒、短裤与说唱化的节奏，Florida Georgia Line 是代表。",
+    "ar": [
+     "Florida Georgia Line",
+     "Luke Bryan",
+     "Jason Aldean"
+    ],
+    "tr": [
+     [
+      "Cruise",
+      "Florida Georgia Line",
+      2012
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jazz",
+  "name": "爵士",
+  "sub": "拉格泰姆 → 融合爵士",
+  "color": "#e0b356",
+  "genres": [
+   {
+    "id": "ragtime",
+    "n": "Ragtime",
+    "zh": "拉格泰姆",
+    "tier": 3,
+    "y": 1897,
+    "d": "19 世纪末的切分钢琴音乐：左手稳定低音、右手切分旋律，是爵士的直接前身。",
+    "ar": [
+     "Scott Joplin",
+     "James Scott"
+    ],
+    "tr": [
+     [
+      "Maple Leaf Rag",
+      "Scott Joplin",
+      1899
+     ]
+    ]
+   },
+   {
+    "id": "new-orleans-jazz",
+    "n": "New Orleans Jazz",
+    "zh": "新奥尔良爵士",
+    "tier": 2,
+    "y": 1905,
+    "d": "新奥尔良的集体即兴：小号、单簧管、长号同时说话，葬礼与游行都能演奏。",
+    "ar": [
+     "Louis Armstrong",
+     "King Oliver",
+     "Sidney Bechet"
+    ],
+    "tr": [
+     [
+      "West End Blues",
+      "Louis Armstrong",
+      1928
+     ]
+    ]
+   },
+   {
+    "id": "swing",
+    "n": "Swing",
+    "zh": "摇摆乐",
+    "tier": 2,
+    "y": 1932,
+    "d": "大乐队时代的舞厅爵士：节奏组驱动、管乐声部对答，1930 年代统治美国流行乐。",
+    "ar": [
+     "Duke Ellington",
+     "Count Basie",
+     "Benny Goodman"
+    ],
+    "tr": [
+     [
+      "Sing, Sing, Sing",
+      "Benny Goodman",
+      1937
+     ]
+    ]
+   },
+   {
+    "id": "bebop",
+    "n": "Bebop",
+    "zh": "比波普",
+    "tier": 2,
+    "y": 1942,
+    "d": "二战后的小编制革命：快速、复杂和声、即兴至上，把爵士从舞厅推向艺术音乐。",
+    "ar": [
+     "Charlie Parker",
+     "Dizzy Gillespie",
+     "Thelonious Monk"
+    ],
+    "tr": [
+     [
+      "Ko-Ko",
+      "Charlie Parker",
+      1945
+     ],
+     [
+      "Salt Peanuts",
+      "Dizzy Gillespie",
+      1945
+     ]
+    ]
+   },
+   {
+    "id": "cool-jazz",
+    "n": "Cool Jazz",
+    "zh": "冷爵士",
+    "tier": 3,
+    "y": 1949,
+    "d": "对比波普的反动：更慢、更克制、重编曲与音色，西海岸爵士的代表。",
+    "ar": [
+     "Miles Davis",
+     "Chet Baker",
+     "Bill Evans"
+    ],
+    "tr": [
+     [
+      "Jeru",
+      "Miles Davis",
+      1949
+     ],
+     [
+      "My Funny Valentine",
+      "Chet Baker",
+      1954
+     ]
+    ]
+   },
+   {
+    "id": "hard-bop",
+    "n": "Hard Bop",
+    "zh": "硬波普",
+    "tier": 3,
+    "y": 1955,
+    "d": "把布鲁斯与福音的粗粝感带回爵士，鼓与贝斯更放克，是 soul jazz 的温床。",
+    "ar": [
+     "Art Blakey",
+     "Horace Silver",
+     "John Coltrane"
+    ],
+    "tr": [
+     [
+      "Moanin'",
+      "Art Blakey",
+      1958
+     ]
+    ]
+   },
+   {
+    "id": "modal-jazz",
+    "n": "Modal Jazz",
+    "zh": "调式爵士",
+    "tier": 3,
+    "y": 1959,
+    "d": "用少量调式代替频繁和弦变化，让独奏者可以在一个和声上长时间展开。",
+    "ar": [
+     "Miles Davis",
+     "John Coltrane",
+     "McCoy Tyner"
+    ],
+    "tr": [
+     [
+      "So What",
+      "Miles Davis",
+      1959
+     ]
+    ]
+   },
+   {
+    "id": "free-jazz",
+    "n": "Free Jazz",
+    "zh": "自由爵士",
+    "tier": 3,
+    "y": 1960,
+    "d": "放弃固定和声与节拍，把集体即兴推向噪音与能量的边界。",
+    "ar": [
+     "Ornette Coleman",
+     "Cecil Taylor",
+     "Albert Ayler"
+    ],
+    "tr": [
+     [
+      "Free Jazz",
+      "Ornette Coleman",
+      1961
+     ]
+    ]
+   },
+   {
+    "id": "jazz-fusion",
+    "n": "Jazz Fusion",
+    "zh": "融合爵士",
+    "tier": 2,
+    "y": 1969,
+    "d": "爵士乐手插电：摇滚节拍、放克贝斯、合成器；Miles Davis 的《Bitches Brew》是分水岭。",
+    "ar": [
+     "Miles Davis",
+     "Weather Report",
+     "Herbie Hancock"
+    ],
+    "tr": [
+     [
+      "Bitches Brew",
+      "Miles Davis",
+      1970
+     ],
+     [
+      "Chameleon",
+      "Herbie Hancock",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "smooth-jazz",
+    "n": "Smooth Jazz",
+    "zh": "平滑爵士",
+    "tier": 3,
+    "y": 1980,
+    "d": "1980 年代的电台爵士：合成器、柔和律动、无攻击性旋律。",
+    "ar": [
+     "Kenny G",
+     "George Benson",
+     "Sade"
+    ],
+    "tr": [
+     [
+      "Songbird",
+      "Kenny G",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "acid-jazz",
+    "n": "Acid Jazz",
+    "zh": "酸性爵士",
+    "tier": 3,
+    "y": 1987,
+    "d": "把爵士采样、放克律动和 house 节拍拼在一起，伦敦俱乐部场景的产物。",
+    "ar": [
+     "US3",
+     "Jamiroquai",
+     "Incognito"
+    ],
+    "tr": [
+     [
+      "Cantaloop (Flip Fantasia)",
+      "US3",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "nu-jazz",
+    "n": "Nu Jazz",
+    "zh": "新爵士",
+    "tier": 3,
+    "y": 1995,
+    "d": "1990 年代后期，电子制作人与爵士乐手合作，把爵士即兴带进俱乐部与耳机。",
+    "ar": [
+     "St Germain",
+     "The Cinematic Orchestra",
+     "Nils Petter Molvær"
+    ],
+    "tr": [
+     [
+      "Rose Rouge",
+      "St Germain",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "latin-jazz",
+    "n": "Latin Jazz",
+    "zh": "拉丁爵士",
+    "tier": 2,
+    "y": 1947,
+    "d": "非洲-古巴节奏与 bebop 和声的联姻：Dizzy Gillespie 与 Chano Pozo 的《Manteca》是起点。",
+    "ar": [
+     "Dizzy Gillespie",
+     "Tito Puente",
+     "Machito"
+    ],
+    "tr": [
+     [
+      "Manteca",
+      "Dizzy Gillespie",
+      1947
+     ]
+    ]
+   },
+   {
+    "id": "gypsy-jazz",
+    "n": "Gypsy Jazz",
+    "zh": "吉普赛爵士",
+    "tier": 3,
+    "y": 1930,
+    "d": "Django Reinhardt 与 Stéphane Grappelli 在巴黎做的热爵士：原声吉他、快速琶音与摇摆。",
+    "ar": [
+     "Django Reinhardt",
+     "Stéphane Grappelli",
+     "Biréli Lagrène"
+    ],
+    "tr": [
+     [
+      "Minor Swing",
+      "Django Reinhardt",
+      1937
+     ]
+    ]
+   },
+   {
+    "id": "west-coast-jazz",
+    "n": "West Coast Jazz",
+    "zh": "西海岸爵士",
+    "tier": 3,
+    "y": 1952,
+    "d": "冷爵士的加州版本：编曲精致、音色清凉、室内乐般的克制，Chet Baker 是它的面孔。",
+    "ar": [
+     "Chet Baker",
+     "Gerry Mulligan",
+     "Shorty Rogers"
+    ],
+    "tr": [
+     [
+      "My Funny Valentine",
+      "Chet Baker",
+      1954
+     ]
+    ]
+   },
+   {
+    "id": "soul-jazz",
+    "n": "Soul Jazz",
+    "zh": "灵魂爵士",
+    "tier": 3,
+    "y": 1956,
+    "d": "把福音与布鲁斯的律动带进爵士：Hammond 风琴、重复 riff 与舞池感，Jimmy Smith 是代表。",
+    "ar": [
+     "Jimmy Smith",
+     "Jimmy McGriff",
+     "Grant Green"
+    ],
+    "tr": [
+     [
+      "Back at the Chicken Shack",
+      "Jimmy Smith",
+      1960
+     ]
+    ]
+   },
+   {
+    "id": "jazz-funk",
+    "n": "Jazz-Funk",
+    "zh": "爵士放克",
+    "tier": 2,
+    "y": 1970,
+    "d": "爵士即兴与放克律动的结合：电钢琴、合成器与不可抗拒的贝斯线，Herbie Hancock 的《Chameleon》是国歌。",
+    "ar": [
+     "Herbie Hancock",
+     "The Crusaders",
+     "Lonnie Liston Smith"
+    ],
+    "tr": [
+     [
+      "Chameleon",
+      "Herbie Hancock",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "spiritual-jazz",
+    "n": "Spiritual Jazz",
+    "zh": "精神爵士",
+    "tier": 3,
+    "y": 1965,
+    "d": "把爵士当作宗教体验：长音、自由即兴与非洲打击乐，Pharoah Sanders 的《The Creator Has a Master Plan》是经文。",
+    "ar": [
+     "Pharoah Sanders",
+     "Alice Coltrane",
+     "Sun Ra"
+    ],
+    "tr": [
+     [
+      "The Creator Has a Master Plan",
+      "Pharoah Sanders",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "ethio-jazz",
+    "n": "Ethio-Jazz",
+    "zh": "埃塞俄比亚爵士",
+    "tier": 3,
+    "y": 1960,
+    "d": "埃塞俄比亚五声音阶与爵士和声的混合：Mulatu Astatke 把传统旋律放进拉丁与爵士的节奏里。",
+    "ar": [
+     "Mulatu Astatke",
+     "Getatchew Mekurya",
+     "Hailu Mergia"
+    ],
+    "tr": [
+     [
+      "Yegelle Tezeta",
+      "Mulatu Astatke",
+      1974
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "soul",
+  "name": "灵魂 / R&B / 放克",
+  "sub": "福音驱动的节奏",
+  "color": "#f0803f",
+  "genres": [
+   {
+    "id": "rhythm-and-blues",
+    "n": "Rhythm & Blues",
+    "zh": "节奏布鲁斯",
+    "tier": 2,
+    "y": 1945,
+    "d": "战后把 jump blues 的管乐、gospel 的人声与 boogie 的律动合并，是 soul、funk 与摇滚乐的共同源头。",
+    "ar": [
+     "Ray Charles",
+     "Ruth Brown",
+     "Louis Jordan"
+    ],
+    "tr": [
+     [
+      "What'd I Say",
+      "Ray Charles",
+      1959
+     ]
+    ]
+   },
+   {
+    "id": "doo-wop",
+    "n": "Doo-Wop",
+    "zh": "嘟喔普",
+    "tier": 3,
+    "y": 1948,
+    "d": "街角人声合唱：无伴奏或轻伴奏、三度和声、浪漫歌词。",
+    "ar": [
+     "The Platters",
+     "The Drifters",
+     "The Coasters"
+    ],
+    "tr": [
+     [
+      "Only You (And You Alone)",
+      "The Platters",
+      1955
+     ]
+    ]
+   },
+   {
+    "id": "soul",
+    "n": "Soul",
+    "zh": "灵魂乐",
+    "tier": 1,
+    "y": 1955,
+    "d": "把福音的激情放进世俗情歌，人声是绝对主角；1960 年代美国黑人音乐的主流。",
+    "ar": [
+     "Ray Charles",
+     "Sam Cooke",
+     "Otis Redding"
+    ],
+    "tr": [
+     [
+      "A Change Is Gonna Come",
+      "Sam Cooke",
+      1964
+     ],
+     [
+      "Try a Little Tenderness",
+      "Otis Redding",
+      1966
+     ]
+    ]
+   },
+   {
+    "id": "motown",
+    "n": "Motown",
+    "zh": "摩城",
+    "tier": 2,
+    "y": 1960,
+    "d": "底特律的精致 soul：流行化旋律、紧凑编曲、工厂式制作，为跨种族市场而生。",
+    "ar": [
+     "The Supremes",
+     "The Temptations",
+     "Stevie Wonder"
+    ],
+    "tr": [
+     [
+      "Reach Out I'll Be There",
+      "Four Tops",
+      1966
+     ],
+     [
+      "Superstition",
+      "Stevie Wonder",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "funk",
+    "n": "Funk",
+    "zh": "放克",
+    "tier": 1,
+    "y": 1965,
+    "d": "一拍拍重音、贝斯主导、鼓和吉他切成细碎律动；James Brown 把节奏本身变成主角。",
+    "ar": [
+     "James Brown",
+     "Sly & the Family Stone",
+     "Parliament-Funkadelic"
+    ],
+    "tr": [
+     [
+      "Papa's Got a Brand New Bag",
+      "James Brown",
+      1965
+     ],
+     [
+      "Give Up the Funk",
+      "Parliament",
+      1975
+     ]
+    ]
+   },
+   {
+    "id": "psychedelic-soul",
+    "n": "Psychedelic Soul",
+    "zh": "迷幻灵魂",
+    "tier": 3,
+    "y": 1968,
+    "d": "灵魂乐遇上迷幻摇滚：失真、回声、社会意识与实验编曲。",
+    "ar": [
+     "Sly & the Family Stone",
+     "Funkadelic",
+     "Shuggie Otis"
+    ],
+    "tr": [
+     [
+      "Family Affair",
+      "Sly & the Family Stone",
+      1971
+     ]
+    ]
+   },
+   {
+    "id": "philadelphia-soul",
+    "n": "Philadelphia Soul",
+    "zh": "费城灵魂",
+    "tier": 3,
+    "y": 1968,
+    "d": "费城的甜美灵魂：弦乐、拉丁打击乐、编曲华丽，是 disco 的直接前身之一。",
+    "ar": [
+     "The O'Jays",
+     "Harold Melvin & the Blue Notes",
+     "Gamble & Huff"
+    ],
+    "tr": [
+     [
+      "Love Train",
+      "The O'Jays",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "quiet-storm",
+    "n": "Quiet Storm",
+    "zh": "安静风暴",
+    "tier": 3,
+    "y": 1972,
+    "d": "1970 年代后期的慢板 R&B，浪漫、丝滑，是深夜电台与卧室的配乐。",
+    "ar": [
+     "Teddy Pendergrass",
+     "Luther Vandross",
+     "Anita Baker"
+    ],
+    "tr": [
+     [
+      "Close the Door",
+      "Teddy Pendergrass",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "contemporary-rnb",
+    "n": "Contemporary R&B",
+    "zh": "当代 R&B",
+    "tier": 2,
+    "y": 1983,
+    "d": "1980 年代后的 R&B：鼓机、合成器、更精致的制作；Michael Jackson 与 Whitney Houston 把它推上全球。",
+    "ar": [
+     "Michael Jackson",
+     "Whitney Houston",
+     "Janet Jackson"
+    ],
+    "tr": [
+     [
+      "Nasty",
+      "Janet Jackson",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "new-jack-swing",
+    "n": "New Jack Swing",
+    "zh": "新杰克摇摆",
+    "tier": 3,
+    "y": 1987,
+    "d": "1980 年代末的 R&B 分支：摇摆鼓机、采样与 hip-hop 态度。",
+    "ar": [
+     "Teddy Riley",
+     "Bobby Brown",
+     "Guy"
+    ],
+    "tr": [
+     [
+      "My Prerogative",
+      "Bobby Brown",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "neo-soul",
+    "n": "Neo Soul",
+    "zh": "新灵魂",
+    "tier": 3,
+    "y": 1995,
+    "d": "1990 年代中后期，把现场乐器、爵士和声与 hip-hop 鼓点带回灵魂乐。",
+    "ar": [
+     "Erykah Badu",
+     "D'Angelo",
+     "Lauryn Hill"
+    ],
+    "tr": [
+     [
+      "Untitled (How Does It Feel)",
+      "D'Angelo",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "alternative-rnb",
+    "n": "Alternative R&B",
+    "zh": "另类 R&B",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年代的 R&B：氛围化、电子质感、模糊流派边界。",
+    "ar": [
+     "The Weeknd",
+     "Frank Ocean",
+     "FKA twigs"
+    ],
+    "tr": [
+     [
+      "Thinkin Bout You",
+      "Frank Ocean",
+      2012
+     ]
+    ]
+   },
+   {
+    "id": "northern-soul",
+    "n": "Northern Soul",
+    "zh": "北方灵魂",
+    "tier": 3,
+    "y": 1967,
+    "d": "英国北方舞厅里被重新发掘的美国灵魂乐 7 寸单曲：快、重拍、稀有，Frank Wilson 那张只压了很少拷贝的唱片成了圣杯。",
+    "ar": [
+     "Frank Wilson",
+     "Dobie Gray",
+     "Gloria Jones"
+    ],
+    "tr": [
+     [
+      "Do I Love You (Indeed I Do)",
+      "Frank Wilson",
+      1965
+     ]
+    ]
+   },
+   {
+    "id": "southern-soul",
+    "n": "Southern Soul",
+    "zh": "南方灵魂",
+    "tier": 2,
+    "y": 1961,
+    "d": "美国南方的灵魂乐：更粗粝的管乐、更慢的律动与教堂式的呼喊，Stax 与 Otis Redding 是核心。",
+    "ar": [
+     "Otis Redding",
+     "Wilson Pickett",
+     "Sam & Dave"
+    ],
+    "tr": [
+     [
+      "These Arms of Mine",
+      "Otis Redding",
+      1962
+     ]
+    ]
+   },
+   {
+    "id": "deep-soul",
+    "n": "Deep Soul",
+    "zh": "深沉灵魂",
+    "tier": 3,
+    "y": 1965,
+    "d": "南方灵魂最慢、最苦的一支：弦乐、撕裂的嗓音与失恋，James Carr 的《The Dark End of the Street》是标本。",
+    "ar": [
+     "James Carr",
+     "Percy Sledge",
+     "O.V. Wright"
+    ],
+    "tr": [
+     [
+      "The Dark End of the Street",
+      "James Carr",
+      1967
+     ]
+    ]
+   },
+   {
+    "id": "blue-eyed-soul",
+    "n": "Blue-Eyed Soul",
+    "zh": "蓝眼灵魂",
+    "tier": 3,
+    "y": 1967,
+    "d": "白人歌手演唱的灵魂乐：Dusty Springfield 与 Righteous Brothers 证明灵魂不是肤色问题。",
+    "ar": [
+     "Dusty Springfield",
+     "The Righteous Brothers",
+     "Hall & Oates"
+    ],
+    "tr": [
+     [
+      "Son of a Preacher Man",
+      "Dusty Springfield",
+      1968
+     ]
+    ]
+   },
+   {
+    "id": "p-funk",
+    "n": "P-Funk",
+    "zh": "P 放克",
+    "tier": 2,
+    "y": 1975,
+    "d": "Parliament-Funkadelic 的宇宙放克：合成器贝斯、太空歌剧概念与一整个乐团的现场，放克在这里变成了神话。",
+    "ar": [
+     "Parliament",
+     "Funkadelic",
+     "Bootsy Collins"
+    ],
+    "tr": [
+     [
+      "Give Up the Funk (Tear the Roof off the Sucker)",
+      "Parliament",
+      1976
+     ]
+    ]
+   },
+   {
+    "id": "go-go",
+    "n": "Go-Go",
+    "zh": "GO-GO",
+    "tier": 3,
+    "y": 1970,
+    "d": "华盛顿特区的放克变种：康加鼓、call-and-response 与永不落下的律动，Chuck Brown 是教父。",
+    "ar": [
+     "Chuck Brown",
+     "Trouble Funk",
+     "E.U."
+    ],
+    "tr": [
+     [
+      "Bustin' Loose",
+      "Chuck Brown & The Soul Searchers",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "electro-funk",
+    "n": "Electro-Funk",
+    "zh": "电放克",
+    "tier": 2,
+    "y": 1982,
+    "d": "放克遇上合成器与鼓机：Zapp 的 talk box 与慢速机械律动，直接喂养了 electro 与西海岸嘻哈。",
+    "ar": [
+     "Zapp",
+     "The Gap Band",
+     "Cameo"
+    ],
+    "tr": [
+     [
+      "More Bounce to the Ounce",
+      "Zapp",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "minneapolis-sound",
+    "n": "Minneapolis Sound",
+    "zh": "明尼阿波利斯之声",
+    "tier": 2,
+    "y": 1983,
+    "d": "Prince 一手打造的放克、摇滚与合成器混合体，1980 年代最性感的流行声音之一。",
+    "ar": [
+     "Prince",
+     "The Time",
+     "Sheila E."
+    ],
+    "tr": [
+     [
+      "1999",
+      "Prince",
+      1982
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "disco",
+  "name": "迪斯科",
+  "sub": "1970s 舞池革命",
+  "color": "#f2d14e",
+  "genres": [
+   {
+    "id": "disco",
+    "n": "Disco",
+    "zh": "迪斯科",
+    "tier": 1,
+    "y": 1972,
+    "d": "1970 年代纽约地下舞池的产物：从 funk、soul、费城灵魂与 salsa 提炼出四拍到底的舞曲；DJ 用 12 英寸加长混音重新创作。1979 年主流反扑后转入地下，却直接催生了 house 与 techno。",
+    "ar": [
+     "Donna Summer",
+     "Chic",
+     "Sylvester",
+     "Bee Gees"
+    ],
+    "tr": [
+     [
+      "Love to Love You Baby",
+      "Donna Summer",
+      1975
+     ],
+     [
+      "I Feel Love",
+      "Donna Summer",
+      1977
+     ],
+     [
+      "Le Freak",
+      "Chic",
+      1978
+     ],
+     [
+      "Good Times",
+      "Chic",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "boogie",
+    "n": "Boogie",
+    "zh": "布吉",
+    "tier": 3,
+    "y": 1978,
+    "d": "disco 退潮后的轻快分支：合成器贝斯、更松的鼓、R&B 味更重。",
+    "ar": [
+     "Evelyn 'Champagne' King",
+     "D-Train",
+     "Kashif"
+    ],
+    "tr": [
+     [
+      "I'm in Love",
+      "Evelyn 'Champagne' King",
+      1981
+     ]
+    ]
+   },
+   {
+    "id": "post-disco",
+    "n": "Post-Disco",
+    "zh": "后迪斯科",
+    "tier": 3,
+    "y": 1979,
+    "d": "1979 年之后的过渡期：disco 的舞池基因被拆进 R&B、合成器流行与早期电子。",
+    "ar": [
+     "Michael Jackson",
+     "Prince",
+     "The Pointer Sisters"
+    ],
+    "tr": [
+     [
+      "Don't Stop 'Til You Get Enough",
+      "Michael Jackson",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "hi-nrg",
+    "n": "Hi-NRG",
+    "zh": "高能量舞曲",
+    "tier": 3,
+    "y": 1978,
+    "d": "比 disco 更快、更合成器化，1980 年代同志舞池的高能量舞曲。",
+    "ar": [
+     "Sylvester",
+     "Patrick Cowley",
+     "Divine"
+    ],
+    "tr": [
+     [
+      "You Make Me Feel (Mighty Real)",
+      "Sylvester",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "italo-disco",
+    "n": "Italo Disco",
+    "zh": "意大利迪斯科",
+    "tier": 3,
+    "y": 1981,
+    "d": "意大利/欧洲的合成器 disco：机械鼓机、旋律化合成器、机器人声。",
+    "ar": [
+     "Giorgio Moroder",
+     "Gazebo",
+     "Baltimora"
+    ],
+    "tr": [
+     [
+      "Tarzan Boy",
+      "Baltimora",
+      1985
+     ]
+    ]
+   },
+   {
+    "id": "nu-disco",
+    "n": "Nu Disco",
+    "zh": "新迪斯科",
+    "tier": 3,
+    "y": 2002,
+    "d": "2000 年代对 disco 的复古再制作：现场贝斯、弦乐与现代化舞曲制作。",
+    "ar": [
+     "Lindstrøm",
+     "Todd Terje",
+     "Purple Disco Machine"
+    ],
+    "tr": [
+     [
+      "Inspector Norse",
+      "Todd Terje",
+      2012
+     ]
+    ]
+   },
+   {
+    "id": "euro-disco",
+    "n": "Euro-Disco",
+    "zh": "欧陆迪斯科",
+    "tier": 2,
+    "y": 1975,
+    "d": "欧洲大陆的迪斯科：合成器、四拍底鼓与洗脑副歌，Boney M 把它卖到全世界。",
+    "ar": [
+     "Boney M",
+     "Silver Convention",
+     "Arabesque"
+    ],
+    "tr": [
+     [
+      "Daddy Cool",
+      "Boney M",
+      1976
+     ]
+    ]
+   },
+   {
+    "id": "space-disco",
+    "n": "Space Disco",
+    "zh": "太空迪斯科",
+    "tier": 3,
+    "y": 1977,
+    "d": "用合成器与音序器制造失重感的迪斯科，Giorgio Moroder 与 Donna Summer 的《I Feel Love》几乎发明了电子舞曲。",
+    "ar": [
+     "Giorgio Moroder",
+     "Donna Summer",
+     "Cerrone"
+    ],
+    "tr": [
+     [
+      "I Feel Love",
+      "Donna Summer",
+      1977
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "house",
+  "name": "浩室 House",
+  "sub": "芝加哥 1980s →",
+  "color": "#3fd6c0",
+  "genres": [
+   {
+    "id": "house",
+    "n": "House",
+    "zh": "浩室",
+    "tier": 1,
+    "y": 1982,
+    "d": "1980 年代初的芝加哥：Frankie Knuckles 在 The Warehouse 把 disco 重新剪接、叠上鼓机，做出为舞池循环而生的音乐，名字就来自这家俱乐部。它继承 disco 的 4/4 与灵魂人声，也直接分出了 deep、acid、garage 等支线。",
+    "ar": [
+     "Frankie Knuckles",
+     "Marshall Jefferson",
+     "Larry Heard",
+     "Jesse Saunders"
+    ],
+    "tr": [
+     [
+      "On and On",
+      "Jesse Saunders",
+      1984
+     ],
+     [
+      "Your Love",
+      "Frankie Knuckles",
+      1986
+     ],
+     [
+      "Move Your Body (The House Music Anthem)",
+      "Marshall Jefferson",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "chicago-house",
+    "n": "Chicago House",
+    "zh": "芝加哥浩室",
+    "tier": 2,
+    "y": 1984,
+    "d": "早期 house 的具体形态：TR-808/909 鼓机、粗糙采样与灵魂人声；Trax 与 DJ International 两个厂牌定义了它的声音。",
+    "ar": [
+     "Jesse Saunders",
+     "Chip E.",
+     "Adonis"
+    ],
+    "tr": [
+     [
+      "Like This",
+      "Chip E.",
+      1985
+     ],
+     [
+      "No Way Back",
+      "Adonis",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "acid-house",
+    "n": "Acid House",
+    "zh": "酸性浩室",
+    "tier": 1,
+    "y": 1986,
+    "d": "用 Roland TB-303 的滑音与共振做出「吱吱」声；1987 年 Phuture 的《Acid Tracks》为它定名，1988 年传入英国，引爆第二次爱之夏。",
+    "ar": [
+     "Phuture",
+     "DJ Pierre",
+     "Josh Wink"
+    ],
+    "tr": [
+     [
+      "Acid Tracks",
+      "Phuture",
+      1987
+     ],
+     [
+      "Higher State of Consciousness",
+      "Josh Wink",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "deep-house",
+    "n": "Deep House",
+    "zh": "深度浩室",
+    "tier": 1,
+    "y": 1987,
+    "d": "更慢、更 soulful 的 house：重视和弦、氛围与低频；Larry Heard 的《Can You Feel It》是模板。",
+    "ar": [
+     "Larry Heard",
+     "Kerri Chandler",
+     "Theo Parrish"
+    ],
+    "tr": [
+     [
+      "Can You Feel It",
+      "Mr. Fingers",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "garage-house",
+    "n": "Garage House",
+    "zh": "车库浩室",
+    "tier": 2,
+    "y": 1987,
+    "d": "纽约/新泽西的 house 分支，名字来自 Paradise Garage 的 Larry Levan；福音式人声与更 Swing 的鼓，后来东渡英国变成 UK garage。",
+    "ar": [
+     "Larry Levan",
+     "Tony Humphries",
+     "Masters at Work"
+    ],
+    "tr": [
+     [
+      "Devotion",
+      "Ten City",
+      1987
+     ]
+    ]
+   },
+   {
+    "id": "hip-house",
+    "n": "Hip House",
+    "zh": "嘻哈浩室",
+    "tier": 3,
+    "y": 1988,
+    "d": "house 节拍 + rap，两种黑人舞池文化的第一次正式联姻。",
+    "ar": [
+     "Jungle Brothers",
+     "Fast Eddie",
+     "Technotronic"
+    ],
+    "tr": [
+     [
+      "I'll House You",
+      "Jungle Brothers",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "vocal-house",
+    "n": "Vocal House",
+    "zh": "人声浩室",
+    "tier": 3,
+    "y": 1991,
+    "d": "以歌手为核心的传统 house，副歌与和声冲向舞池。",
+    "ar": [
+     "CeCe Peniston",
+     "Robin S.",
+     "Ultra Naté"
+    ],
+    "tr": [
+     [
+      "Finally",
+      "CeCe Peniston",
+      1991
+     ],
+     [
+      "Show Me Love",
+      "Robin S.",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "progressive-house",
+    "n": "Progressive House",
+    "zh": "前卫浩室",
+    "tier": 2,
+    "y": 1992,
+    "d": "长段落、渐进铺垫、强调氛围与张力，受 trance 影响，后来成为 EDM 主舞台的骨架。",
+    "ar": [
+     "Sasha",
+     "John Digweed",
+     "Eric Prydz"
+    ],
+    "tr": [
+     [
+      "Xpander",
+      "Sasha",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "tech-house",
+    "n": "Tech House",
+    "zh": "科技浩室",
+    "tier": 1,
+    "y": 1994,
+    "d": "house 的律动 + techno 的冷硬音色，极简循环，适合长时间 DJ set。",
+    "ar": [
+     "Mr. G",
+     "Jamie Jones",
+     "Fisher"
+    ],
+    "tr": [
+     [
+      "Losing It",
+      "Fisher",
+      2018
+     ]
+    ]
+   },
+   {
+    "id": "funky-house",
+    "n": "Funky House",
+    "zh": "放克浩室",
+    "tier": 3,
+    "y": 1996,
+    "d": "采样 disco/funk 的过滤式 house，2000 年代前后进入主流。",
+    "ar": [
+     "Basement Jaxx",
+     "Armand Van Helden",
+     "Roger Sanchez"
+    ],
+    "tr": [
+     [
+      "Rendez-Vu",
+      "Basement Jaxx",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "microhouse",
+    "n": "Microhouse",
+    "zh": "微型浩室",
+    "tier": 3,
+    "y": 1999,
+    "d": "极简、点击声、低频留白，把 house 拆到只剩呼吸。",
+    "ar": [
+     "Akufen",
+     "Ricardo Villalobos",
+     "Luomo"
+    ],
+    "tr": [
+     [
+      "My Way",
+      "Akufen",
+      2002
+     ]
+    ]
+   },
+   {
+    "id": "minimal-house",
+    "n": "Minimal House",
+    "zh": "极简浩室",
+    "tier": 3,
+    "y": 2003,
+    "d": "2000 年代中期的极简 house，靠细微变化维持律动。",
+    "ar": [
+     "Âme",
+     "Isolée",
+     "Ricardo Villalobos"
+    ],
+    "tr": [
+     [
+      "Rej",
+      "Âme",
+      2006
+     ]
+    ]
+   },
+   {
+    "id": "electro-house",
+    "n": "Electro House",
+    "zh": "电击浩室",
+    "tier": 1,
+    "y": 2005,
+    "d": "加入失真合成器、摇滚式 drop 的 house，2010 年前后统治音乐节。",
+    "ar": [
+     "Justice",
+     "deadmau5",
+     "Boys Noize"
+    ],
+    "tr": [
+     [
+      "D.A.N.C.E.",
+      "Justice",
+      2007
+     ],
+     [
+      "Ghosts 'n' Stuff",
+      "deadmau5",
+      2009
+     ]
+    ]
+   },
+   {
+    "id": "afro-house",
+    "n": "Afro House",
+    "zh": "非洲浩室",
+    "tier": 3,
+    "y": 2003,
+    "d": "house 与非洲打击乐、部落人声结合，Black Coffee 等人把它推向全球。",
+    "ar": [
+     "Black Coffee",
+     "Osunlade",
+     "Culoe De Song"
+    ],
+    "tr": [
+     [
+      "Superman",
+      "Black Coffee",
+      2010
+     ]
+    ]
+   },
+   {
+    "id": "kwaito",
+    "n": "Kwaito",
+    "zh": "夸伊托",
+    "tier": 3,
+    "y": 1993,
+    "d": "南非街头的 house 变体：慢速、口语说唱、ghetto 文化。",
+    "ar": [
+     "Mandoza",
+     "Arthur Mafokate",
+     "TKZee"
+    ],
+    "tr": [
+     [
+      "Nkalakatha",
+      "Mandoza",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "amapiano",
+    "n": "Amapiano",
+    "zh": "阿马皮亚诺",
+    "tier": 1,
+    "y": 2019,
+    "d": "deep house + kwaito + gqom 的南非新声：钢琴和弦、log drum 低音，2020 年代全球走红。",
+    "ar": [
+     "Kabza De Small",
+     "DJ Maphorisa",
+     "Focalistic"
+    ],
+    "tr": [
+     [
+      "Ke Star",
+      "Focalistic",
+      2021
+     ]
+    ]
+   },
+   {
+    "id": "tropical-house",
+    "n": "Tropical House",
+    "zh": "热带浩室",
+    "tier": 3,
+    "y": 2013,
+    "d": "轻快的 house 节拍 + 热带音色，Kygo 把它变成全球流行。",
+    "ar": [
+     "Kygo",
+     "Thomas Jack",
+     "Sigala"
+    ],
+    "tr": [
+     [
+      "Firestone",
+      "Kygo",
+      2014
+     ]
+    ]
+   },
+   {
+    "id": "slap-house",
+    "n": "Slap House",
+    "zh": "拍击浩室",
+    "tier": 3,
+    "y": 2019,
+    "d": "拍击式贝斯 + 流行人声，TikTok 时代的欧洲舞曲。",
+    "ar": [
+     "Meduza",
+     "Alle Farben",
+     "Imanbek"
+    ],
+    "tr": [
+     [
+      "Piece of Your Heart",
+      "Meduza",
+      2019
+     ]
+    ]
+   },
+   {
+    "id": "future-house",
+    "n": "Future House",
+    "zh": "未来浩室",
+    "tier": 3,
+    "y": 2013,
+    "d": "弹性贝斯、切碎人声，介于 house 与 EDM 之间。",
+    "ar": [
+     "Tchami",
+     "Oliver Heldens",
+     "Don Diablo"
+    ],
+    "tr": [
+     [
+      "Gecko (Overdrive)",
+      "Oliver Heldens",
+      2014
+     ]
+    ]
+   },
+   {
+    "id": "french-house",
+    "n": "French House",
+    "zh": "法国浩室",
+    "tier": 1,
+    "y": 1993,
+    "d": "用 disco/funk 采样 + 滤波器做出的「法式触感」，Daft Punk 让它成为全球现象。",
+    "ar": [
+     "Daft Punk",
+     "Cassius",
+     "Stardust"
+    ],
+    "tr": [
+     [
+      "Around the World",
+      "Daft Punk",
+      1997
+     ],
+     [
+      "Music Sounds Better with You",
+      "Stardust",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "disco-house",
+    "n": "Disco House",
+    "zh": "迪斯科浩室",
+    "tier": 3,
+    "y": 1994,
+    "d": "直接把 disco 的弦乐、人声与 house 鼓结合，是 disco 的「回流」。",
+    "ar": [
+     "Masters at Work",
+     "Joey Negro",
+     "Purple Disco Machine"
+    ],
+    "tr": [
+     [
+      "The Bomb! (These Sounds Fall into My Mind)",
+      "Kenny Dope",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "ghetto-house",
+    "n": "Ghetto House",
+    "zh": "贫民窟浩室",
+    "tier": 3,
+    "y": 1985,
+    "d": "芝加哥 house 最粗野的一支：808 鼓机、露骨喊麦与极简 loop，DJ Deeon 与 Dance Mania 厂牌是地下传奇。",
+    "ar": [
+     "DJ Deeon",
+     "DJ Funk",
+     "Paul Johnson"
+    ],
+    "tr": [
+     [
+      "Freak Like Me",
+      "DJ Deeon",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "ballroom",
+    "n": "Ballroom",
+    "zh": "舞厅",
+    "tier": 3,
+    "y": 1989,
+    "d": "纽约黑人与拉丁裔酷儿舞厅文化的配乐：硬朗的 house 节拍加 vogue 舞步，Masters at Work 的《The Ha Dance》是国歌。",
+    "ar": [
+     "Masters at Work",
+     "Kevin Aviance",
+     "MikeQ"
+    ],
+    "tr": [
+     [
+      "The Ha Dance",
+      "Masters at Work",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "afro-tech",
+    "n": "Afro Tech",
+    "zh": "非洲科技浩室",
+    "tier": 2,
+    "y": 2010,
+    "d": "把 afro-house 的鼓组换成更科技、更催眠的合成器与低频，Black Coffee 把它带向全球。",
+    "ar": [
+     "Black Coffee",
+     "Culoe De Song",
+     "Da Capo"
+    ],
+    "tr": [
+     [
+      "Superman",
+      "Black Coffee",
+      2010
+     ]
+    ]
+   },
+   {
+    "id": "organic-house",
+    "n": "Organic House",
+    "zh": "有机浩室",
+    "tier": 3,
+    "y": 2012,
+    "d": "把 house 做得更慢、更「有机」：手鼓、原声采样与长段渐变，Keinemusik 是这一波的门面。",
+    "ar": [
+     "&ME",
+     "Rampa",
+     "Adam Port"
+    ],
+    "tr": [
+     [
+      "Muyè",
+      "&ME, Rampa, Adam Port",
+      2018
+     ]
+    ]
+   },
+   {
+    "id": "lo-fi-house",
+    "n": "Lo-Fi House",
+    "zh": "低保真浩室",
+    "tier": 3,
+    "y": 2015,
+    "d": "把 house 录进磁带与采样器再糊上噪点：怀旧、粗糙、卧室制作，Ross from Friends 是代表。",
+    "ar": [
+     "Ross from Friends",
+     "DJ Seinfeld",
+     "Mall Grab"
+    ],
+    "tr": [
+     [
+      "Talk to Me You'll Understand",
+      "Ross from Friends",
+      2017
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "techno",
+  "name": "科技舞曲 Techno",
+  "sub": "底特律 1985 →",
+  "color": "#59a7f0",
+  "genres": [
+   {
+    "id": "techno",
+    "n": "Techno",
+    "zh": "科技舞曲",
+    "tier": 1,
+    "y": 1985,
+    "d": "1985 年底特律：Belleville 三人组把 Kraftwerk 的合成器、funk 的律动与未来主义想象拼在一起，做出没有人声、持续推进的机器音乐。",
+    "ar": [
+     "Juan Atkins",
+     "Derrick May",
+     "Kevin Saunderson"
+    ],
+    "tr": [
+     [
+      "No UFO's",
+      "Model 500",
+      1985
+     ],
+     [
+      "Strings of Life",
+      "Rhythim Is Rhythim",
+      1987
+     ]
+    ]
+   },
+   {
+    "id": "acid-techno",
+    "n": "Acid Techno",
+    "zh": "酸性科技",
+    "tier": 3,
+    "y": 1988,
+    "d": "acid house 的 303 音色进入 techno，更硬、更迷幻。",
+    "ar": [
+     "Hardfloor",
+     "Dave Clarke",
+     "D.A.V.E. The Drummer"
+    ],
+    "tr": [
+     [
+      "Acperience 1",
+      "Hardfloor",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "minimal-techno",
+    "n": "Minimal Techno",
+    "zh": "极简科技",
+    "tier": 2,
+    "y": 1991,
+    "d": "去掉一切多余，只剩脉冲与空间；底特律与柏林两路发展。",
+    "ar": [
+     "Robert Hood",
+     "Richie Hawtin",
+     "Plastikman"
+    ],
+    "tr": [
+     [
+      "Spastik",
+      "Plastikman",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "dub-techno",
+    "n": "Dub Techno",
+    "zh": "回响科技",
+    "tier": 3,
+    "y": 1992,
+    "d": "把 dub 的延迟、混响灌进 techno，Basic Channel 定下模板。",
+    "ar": [
+     "Basic Channel",
+     "Deepchord",
+     "Rod Modell"
+    ],
+    "tr": [
+     [
+      "Phylyps Trak",
+      "Basic Channel",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "hard-techno",
+    "n": "Hard Techno",
+    "zh": "硬科技",
+    "tier": 3,
+    "y": 1993,
+    "d": "更快、更硬、更工业化的 techno，为大型仓库派对而生。",
+    "ar": [
+     "Jeff Mills",
+     "Adam Beyer",
+     "Charlotte de Witte"
+    ],
+    "tr": [
+     [
+      "The Bells",
+      "Jeff Mills",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "melodic-techno",
+    "n": "Melodic Techno",
+    "zh": "旋律科技",
+    "tier": 3,
+    "y": 2012,
+    "d": "把 trance 的旋律感带回 techno，2010 年代后半成为大型俱乐部主流。",
+    "ar": [
+     "Tale of Us",
+     "Stephan Bodzin",
+     "Adriatique"
+    ],
+    "tr": [
+     [
+      "Nova",
+      "Tale of Us",
+      2018
+     ]
+    ]
+   },
+   {
+    "id": "electro",
+    "n": "Electro",
+    "zh": "电子放克",
+    "tier": 1,
+    "y": 1982,
+    "d": "808 鼓机 + 机器人声；Afrika Bambaataa 的《Planet Rock》把 Kraftwerk 变成街头音乐。",
+    "ar": [
+     "Afrika Bambaataa",
+     "Egyptian Lover",
+     "Cybotron"
+    ],
+    "tr": [
+     [
+      "Planet Rock",
+      "Afrika Bambaataa",
+      1982
+     ],
+     [
+      "Clear",
+      "Cybotron",
+      1983
+     ]
+    ]
+   },
+   {
+    "id": "freestyle",
+    "n": "Freestyle",
+    "zh": "自由风格",
+    "tier": 3,
+    "y": 1983,
+    "d": "electro + 拉丁旋律 + 合成器，纽约/迈阿密的拉丁裔舞池。",
+    "ar": [
+     "Shannon",
+     "Lisa Lisa",
+     "Debbie Deb"
+    ],
+    "tr": [
+     [
+      "Let the Music Play",
+      "Shannon",
+      1983
+     ]
+    ]
+   },
+   {
+    "id": "miami-bass",
+    "n": "Miami Bass",
+    "zh": "迈阿密低音",
+    "tier": 3,
+    "y": 1985,
+    "d": "808 低音 + 快节奏 rap，2 Live Crew 把它变成争议符号。",
+    "ar": [
+     "2 Live Crew",
+     "DJ Magic Mike",
+     "Luke Skyywalker"
+    ],
+    "tr": [
+     [
+      "Me So Horny",
+      "2 Live Crew",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "baile-funk",
+    "n": "Baile Funk",
+    "zh": "巴西放克",
+    "tier": 3,
+    "y": 1989,
+    "d": "迈阿密低音传到里约，变成贫民窟的派对音乐，后来全球走红。",
+    "ar": [
+     "DJ Marlboro",
+     "MC João",
+     "Anitta"
+    ],
+    "tr": [
+     [
+      "Baile de Favela",
+      "MC João",
+      2015
+     ]
+    ]
+   },
+   {
+    "id": "ambient-techno",
+    "n": "Ambient Techno",
+    "zh": "氛围科技舞曲",
+    "tier": 2,
+    "y": 1992,
+    "d": "把 techno 的骨架泡进合成器长音里：仍能跳舞，但更像漂浮；Aphex Twin 的《Xtal》是模板。",
+    "ar": [
+     "Aphex Twin",
+     "B12",
+     "The Orb"
+    ],
+    "tr": [
+     [
+      "Xtal",
+      "Aphex Twin",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "ghettotech",
+    "n": "Ghettotech",
+    "zh": "贫民窟科技",
+    "tier": 3,
+    "y": 1995,
+    "d": "底特律与芝加哥的交界：techno 的速度、electro 的鼓机、粗口喊麦，DJ Assault 是标志人物。",
+    "ar": [
+     "DJ Assault",
+     "DJ Godfather",
+     "Disco D"
+    ],
+    "tr": [
+     [
+      "Ass N Titties",
+      "DJ Assault",
+      1996
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bass",
+  "name": "UK Bass / Garage",
+  "sub": "伦敦低音支线",
+  "color": "#b07cf5",
+  "genres": [
+   {
+    "id": "uk-garage",
+    "n": "UK Garage",
+    "zh": "英国车库",
+    "tier": 2,
+    "y": 1994,
+    "d": "美国 garage house 传到伦敦，加上 jungle 的低音与切分，变成 UK garage。",
+    "ar": [
+     "MJ Cole",
+     "Artful Dodger",
+     "Tuff Jam"
+    ],
+    "tr": [
+     [
+      "Re-Rewind",
+      "Artful Dodger",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "speed-garage",
+    "n": "Speed Garage",
+    "zh": "速度车库",
+    "tier": 3,
+    "y": 1996,
+    "d": "UK garage 加速版：更重的低音、更快的节奏。",
+    "ar": [
+     "Double 99",
+     "Armand Van Helden",
+     "Tuff Jam"
+    ],
+    "tr": [
+     [
+      "Ripgroove",
+      "Double 99",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "2-step",
+    "n": "2-Step",
+    "zh": "两步车库",
+    "tier": 3,
+    "y": 1999,
+    "d": "去掉四拍底鼓、留下切分鼓组与人声，是 dubstep 的直接前身。",
+    "ar": [
+     "Craig David",
+     "MJ Cole",
+     "Artful Dodger"
+    ],
+    "tr": [
+     [
+      "Fill Me In",
+      "Craig David",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "dubstep",
+    "n": "Dubstep",
+    "zh": "回响贝斯",
+    "tier": 1,
+    "y": 2001,
+    "d": "2-step 的节奏 + dub 的低音，伦敦南部的 FWD>> 场景；2010 年 Skrillex 把它带到全球。",
+    "ar": [
+     "Skream",
+     "Benga",
+     "Burial"
+    ],
+    "tr": [
+     [
+      "Midnight Request Line",
+      "Skream",
+      2005
+     ],
+     [
+      "Archangel",
+      "Burial",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "grime",
+    "n": "Grime",
+    "zh": "污垢",
+    "tier": 2,
+    "y": 2002,
+    "d": "UK garage 加速 + 硬核 rap，东伦敦的 MC 文化。",
+    "ar": [
+     "Dizzee Rascal",
+     "Wiley",
+     "Skepta"
+    ],
+    "tr": [
+     [
+      "I Luv U",
+      "Dizzee Rascal",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "bassline",
+    "n": "Bassline",
+    "zh": "贝斯线",
+    "tier": 3,
+    "y": 2003,
+    "d": "谢菲尔德的 speed garage 后代，以跳跃的低音线得名。",
+    "ar": [
+     "T2",
+     "DJ Q",
+     "Jamie Duggan"
+    ],
+    "tr": [
+     [
+      "Heartbroken",
+      "T2",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "future-garage",
+    "n": "Future Garage",
+    "zh": "未来车库",
+    "tier": 2,
+    "y": 2007,
+    "d": "把 2-step garage 拆成碎片再拼回去：人声切片、雨声、低频与留白，Burial 的同名专辑定义了它。",
+    "ar": [
+     "Burial",
+     "Mount Kimbie",
+     "Synkro"
+    ],
+    "tr": [
+     [
+      "Archangel",
+      "Burial",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "gqom",
+    "n": "Gqom",
+    "zh": "格孔",
+    "tier": 2,
+    "y": 2012,
+    "d": "德班的极简低音：只有底鼓、拍手与一条阴冷的合成器，比 house 更空旷也更凶。",
+    "ar": [
+     "Distruction Boyz",
+     "DJ Lag",
+     "Babes Wodumo"
+    ],
+    "tr": [
+     [
+      "Omunye",
+      "Distruction Boyz",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "uk-funky",
+    "n": "UK Funky",
+    "zh": "英国放克",
+    "tier": 3,
+    "y": 2007,
+    "d": "2000 年代末伦敦的短命场景：house 的节拍加 soca 与非洲鼓，Crazy Cousinz 把它推上电台。",
+    "ar": [
+     "Crazy Cousinz",
+     "Kyla",
+     "Roska"
+    ],
+    "tr": [
+     [
+      "Do You Mind",
+      "Crazy Cousinz",
+      2008
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rave",
+  "name": "锐舞 / Trance / DnB",
+  "sub": "1990s 英国锐舞",
+  "color": "#8f7cf0",
+  "genres": [
+   {
+    "id": "uk-rave",
+    "n": "UK Rave",
+    "zh": "英国锐舞",
+    "tier": 2,
+    "y": 1988,
+    "d": "acid house 传入英国后，仓库派对与非法 rave 引爆「第二次爱之夏」。",
+    "ar": [
+     "The Prodigy",
+     "Orbital",
+     "808 State"
+    ],
+    "tr": [
+     [
+      "Chime",
+      "Orbital",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "hardcore",
+    "n": "Hardcore",
+    "zh": "硬核锐舞",
+    "tier": 2,
+    "y": 1990,
+    "d": "rave 加速到 150+ BPM，碎拍 + 合成器 stabs，是 jungle 与 happy hardcore 的共同前身。",
+    "ar": [
+     "The Prodigy",
+     "SL2",
+     "Altern 8"
+    ],
+    "tr": [
+     [
+      "Charly",
+      "The Prodigy",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "happy-hardcore",
+    "n": "Happy Hardcore",
+    "zh": "快乐硬核",
+    "tier": 3,
+    "y": 1991,
+    "d": "硬核的明亮版：钢琴、女声、极度欢快。",
+    "ar": [
+     "Hixxy",
+     "Dougal",
+     "Scooter"
+    ],
+    "tr": [
+     [
+      "Toytown",
+      "Hixxy & Sharkey",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "gabber",
+    "n": "Gabber",
+    "zh": "加伯",
+    "tier": 3,
+    "y": 1992,
+    "d": "荷兰的极端硬核：200+ BPM、失真底鼓、反社会美学。",
+    "ar": [
+     "Paul Elstak",
+     "Rotterdam Terror Corps",
+     "Angerfist"
+    ],
+    "tr": [
+     [
+      "Rainbow in the Sky",
+      "Paul Elstak",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "hardstyle",
+    "n": "Hardstyle",
+    "zh": "硬派",
+    "tier": 3,
+    "y": 2001,
+    "d": "gabber 的底鼓 + trance 的旋律，荷兰/意大利的大型舞池音乐。",
+    "ar": [
+     "Headhunterz",
+     "Showtek",
+     "Da Tweekaz"
+    ],
+    "tr": [
+     [
+      "FTS",
+      "Showtek",
+      2008
+     ]
+    ]
+   },
+   {
+    "id": "breakbeat",
+    "n": "Breakbeat",
+    "zh": "碎拍",
+    "tier": 2,
+    "y": 1991,
+    "d": "以碎拍为核心的电子舞曲，90 年代英国俱乐部与广告配乐的常客。",
+    "ar": [
+     "The Chemical Brothers",
+     "Fatboy Slim",
+     "Stanton Warriors"
+    ],
+    "tr": [
+     [
+      "Block Rockin' Beats",
+      "The Chemical Brothers",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "big-beat",
+    "n": "Big Beat",
+    "zh": "大节拍",
+    "tier": 3,
+    "y": 1995,
+    "d": "碎拍 + 摇滚采样 + hip-hop 态度，90 年代末的商业高峰。",
+    "ar": [
+     "Fatboy Slim",
+     "The Chemical Brothers",
+     "The Prodigy"
+    ],
+    "tr": [
+     [
+      "Praise You",
+      "Fatboy Slim",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "jungle",
+    "n": "Jungle",
+    "zh": "丛林",
+    "tier": 2,
+    "y": 1992,
+    "d": "碎拍加速 + reggae/dub 低音 + 采样，英国黑人舞池的发明。",
+    "ar": [
+     "Goldie",
+     "LTJ Bukem",
+     "Shy FX"
+    ],
+    "tr": [
+     [
+      "Inner City Life",
+      "Goldie",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "drum-and-bass",
+    "n": "Drum & Bass",
+    "zh": "鼓打贝斯",
+    "tier": 1,
+    "y": 1994,
+    "d": "jungle 的进化版：170 BPM 的碎拍与巨型低音，90 年代后期英国主流。",
+    "ar": [
+     "Roni Size",
+     "Andy C",
+     "Noisia"
+    ],
+    "tr": [
+     [
+      "Brown Paper Bag",
+      "Roni Size / Reprazent",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "liquid-dnb",
+    "n": "Liquid DnB",
+    "zh": "液体 DnB",
+    "tier": 3,
+    "y": 1997,
+    "d": "更 soulful、旋律化的 DnB，适合耳机与深夜。",
+    "ar": [
+     "LTJ Bukem",
+     "Calibre",
+     "High Contrast"
+    ],
+    "tr": [
+     [
+      "Horizons",
+      "LTJ Bukem",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "neurofunk",
+    "n": "Neurofunk",
+    "zh": "神经放克",
+    "tier": 3,
+    "y": 1998,
+    "d": "技术化、黑暗、电影感的 DnB，声音设计是主角。",
+    "ar": [
+     "Noisia",
+     "Ed Rush & Optical",
+     "Black Sun Empire"
+    ],
+    "tr": [
+     [
+      "The Tide",
+      "Noisia",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "trance",
+    "n": "Trance",
+    "zh": "迷幻舞曲",
+    "tier": 1,
+    "y": 1991,
+    "d": "从 techno/house 里抽出旋律与 breakdown，用长铺陈制造情绪高潮。",
+    "ar": [
+     "Paul van Dyk",
+     "Armin van Buuren",
+     "Tiësto"
+    ],
+    "tr": [
+     [
+      "For an Angel",
+      "Paul van Dyk",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "goa-trance",
+    "n": "Goa Trance",
+    "zh": "果阿迷幻",
+    "tier": 3,
+    "y": 1989,
+    "d": "印度果阿海滩派对 + acid house，迷幻、密集、层层叠叠。",
+    "ar": [
+     "Astral Projection",
+     "Hallucinogen",
+     "Goa Gil"
+    ],
+    "tr": [
+     [
+      "LSD",
+      "Hallucinogen",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "psytrance",
+    "n": "Psytrance",
+    "zh": "迷幻 Trance",
+    "tier": 3,
+    "y": 1994,
+    "d": "goa 的进化：催眠低音、层层音效、整夜的能量曲线。",
+    "ar": [
+     "Infected Mushroom",
+     "Vini Vici",
+     "Astrix"
+    ],
+    "tr": [
+     [
+      "Becoming Insane",
+      "Infected Mushroom",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "progressive-trance",
+    "n": "Progressive Trance",
+    "zh": "前卫 Trance",
+    "tier": 3,
+    "y": 1993,
+    "d": "更慢、更渐进的 trance，强调长时间的氛围铺垫。",
+    "ar": [
+     "Sasha",
+     "BT",
+     "Nick Warren"
+    ],
+    "tr": [
+     [
+      "Flaming June",
+      "BT",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "uplifting-trance",
+    "n": "Uplifting Trance",
+    "zh": "昂扬 Trance",
+    "tier": 3,
+    "y": 1995,
+    "d": "trance 最「煽情」的分支：大旋律、大 breakdown、大合唱。",
+    "ar": [
+     "Above & Beyond",
+     "Gareth Emery",
+     "Aly & Fila"
+    ],
+    "tr": [
+     [
+      "Sun & Moon",
+      "Above & Beyond",
+      2011
+     ]
+    ]
+   },
+   {
+    "id": "edm",
+    "n": "EDM",
+    "zh": "电子舞曲",
+    "tier": 1,
+    "y": 2010,
+    "d": "2010 年代美国把 electro/progressive house 变成音乐节主舞台的统称，drop 文化席卷全球。",
+    "ar": [
+     "Avicii",
+     "Calvin Harris",
+     "David Guetta"
+    ],
+    "tr": [
+     [
+      "Levels",
+      "Avicii",
+      2011
+     ]
+    ]
+   },
+   {
+    "id": "big-room",
+    "n": "Big Room",
+    "zh": "大房间",
+    "tier": 2,
+    "y": 2010,
+    "d": "为万人场馆设计的极简 drop 与号角式合成器。",
+    "ar": [
+     "Martin Garrix",
+     "Hardwell",
+     "Blasterjaxx"
+    ],
+    "tr": [
+     [
+      "Animals",
+      "Martin Garrix",
+      2013
+     ]
+    ]
+   },
+   {
+    "id": "future-bass",
+    "n": "Future Bass",
+    "zh": "未来贝斯",
+    "tier": 3,
+    "y": 2013,
+    "d": "trap 的鼓 + 合成器和弦 + 人声切片，2010 年代中期的网络流行。",
+    "ar": [
+     "Flume",
+     "Louis the Child",
+     "San Holo"
+    ],
+    "tr": [
+     [
+      "Never Be Like You",
+      "Flume",
+      2016
+     ]
+    ]
+   },
+   {
+    "id": "hard-trance",
+    "n": "Hard Trance",
+    "zh": "硬派迷幻",
+    "tier": 3,
+    "y": 1993,
+    "d": "1993 年前后从 trance 与硬派舞曲分出来：更快的速度、更硬的底鼓与酸性主音，德国与荷兰的俱乐部把它推向高峰。",
+    "ar": [
+     "Kai Tracid",
+     "Scot Project",
+     "Lab 4",
+     "Yoji Biomehanika"
+    ],
+    "tr": [
+     [
+      "Trance & Acid",
+      "Kai Tracid",
+      2000
+     ],
+     [
+      "O (Overdrive)",
+      "Scot Project",
+      2002
+     ]
+    ]
+   },
+   {
+    "id": "tech-trance",
+    "n": "Tech Trance",
+    "zh": "科技迷幻",
+    "tier": 3,
+    "y": 1998,
+    "d": "1998 年前后出现：保留迷幻舞曲的旋律铺陈，却换上科技舞曲的冷硬鼓组与工业音色，推进感很强，适合大型仓库舞池。",
+    "ar": [
+     "Marco V",
+     "Simon Patterson",
+     "Mauro Picotto",
+     "Aly & Fila"
+    ],
+    "tr": [
+     [
+      "GODD",
+      "Marco V",
+      2003
+     ],
+     [
+      "Bulldozer",
+      "Simon Patterson",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "vocal-trance",
+    "n": "Vocal Trance",
+    "zh": "人声迷幻",
+    "tier": 3,
+    "y": 1996,
+    "d": "1996 年前后成型：以女声演唱的完整歌曲结构为核心，主歌铺陈、副歌爆发，歌词多写情感与离别，Above & Beyond 一派把它做成主流。",
+    "ar": [
+     "Above & Beyond",
+     "OceanLab",
+     "Armin van Buuren",
+     "Gareth Emery"
+    ],
+    "tr": [
+     [
+      "Satellite",
+      "OceanLab",
+      2004
+     ],
+     [
+      "No One on Earth",
+      "Above & Beyond",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "dream-trance",
+    "n": "Dream Trance",
+    "zh": "梦幻迷幻",
+    "tier": 3,
+    "y": 1994,
+    "d": "1994 年前后意大利出现：柔和的钢琴与弦乐、绵长的女性人声，配上稳定的四四拍底鼓，听感像醒着做梦，Robert Miles 让它全球流行。",
+    "ar": [
+     "Robert Miles",
+     "ATB",
+     "Chicane",
+     "Nalin & Kane"
+    ],
+    "tr": [
+     [
+      "Children",
+      "Robert Miles",
+      1995
+     ],
+     [
+      "Fable",
+      "Robert Miles",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "eurodance",
+    "n": "Eurodance",
+    "zh": "欧陆舞曲",
+    "tier": 2,
+    "y": 1989,
+    "d": "1989 年前后欧洲出现：说唱段落加女声副歌、明亮的合成器音色与强劲的四四拍，副歌抓耳，专为电台与商业舞池设计。",
+    "ar": [
+     "2 Unlimited",
+     "Snap!",
+     "Culture Beat",
+     "Corona"
+    ],
+    "tr": [
+     [
+      "No Limit",
+      "2 Unlimited",
+      1993
+     ],
+     [
+      "Rhythm Is a Dancer",
+      "Snap!",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "eurobeat",
+    "n": "Eurobeat",
+    "zh": "欧陆节拍",
+    "tier": 3,
+    "y": 1987,
+    "d": "1987 年前后由意大利制作人发展出来：高速 4/4、密集合成器与喊唱式人声，主要经日本唱片与街机游戏走红。",
+    "ar": [
+     "Dave Rodgers",
+     "Max Coveri",
+     "Bratt Sinclaire",
+     "Manuel"
+    ],
+    "tr": [
+     [
+      "Running in the 90s",
+      "Max Coveri",
+      1999
+     ],
+     [
+      "Déjà Vu",
+      "Dave Rodgers",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "uk-hardcore",
+    "n": "UK Hardcore",
+    "zh": "英国硬核",
+    "tier": 3,
+    "y": 1991,
+    "d": "1991 年英国的碎拍硬核：把嘻哈与浩室的采样、钢琴片段和不断加速的碎拍混在一起，配上狂欢口号，是丛林音乐的前身。",
+    "ar": [
+     "SL2",
+     "The Prodigy",
+     "Shades of Rhythm",
+     "Ratpack"
+    ],
+    "tr": [
+     [
+      "On a Ragga Tip",
+      "SL2",
+      1992
+     ],
+     [
+      "Charly",
+      "The Prodigy",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "speedcore",
+    "n": "Speedcore",
+    "zh": "速核",
+    "tier": 3,
+    "y": 1994,
+    "d": "1994 年前后从 gabber 分裂出来：速度推到每分钟二百五十拍以上，底鼓被失真成噪音墙，旋律几乎消失，只剩冲击力与极端情绪。",
+    "ar": [
+     "Venetian Snares",
+     "Hellfish",
+     "Liza N'Eliaz",
+     "Bong-Ra"
+    ],
+    "tr": [
+     [
+      "Eating America With Pointed Dentures",
+      "Venetian Snares",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "breakcore",
+    "n": "Breakcore",
+    "zh": "碎核",
+    "tier": 3,
+    "y": 1994,
+    "d": "1994 年前后成型：把鼓打贝斯的碎拍切到失控，再叠上硬核、动漫采样与噪音，结构混乱、信息量极大，听感像快进的城市。",
+    "ar": [
+     "Venetian Snares",
+     "Squarepusher",
+     "Bong-Ra",
+     "Alec Empire"
+    ],
+    "tr": [
+     [
+      "Szamár Madár",
+      "Venetian Snares",
+      2005
+     ],
+     [
+      "Come On My Selector",
+      "Squarepusher",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "ragga-jungle",
+    "n": "Ragga Jungle",
+    "zh": "雷鬼丛林",
+    "tier": 3,
+    "y": 1993,
+    "d": "1993 年前后伦敦出现：丛林音乐的碎拍配上雷鬼与舞厅的 DJ 喊唱、牙买加口音采样，舞池与音响系统文化紧密结合。",
+    "ar": [
+     "Shy FX",
+     "General Levy",
+     "Congo Natty",
+     "Top Cat"
+    ],
+    "tr": [
+     [
+      "Original Nuttah",
+      "Shy FX & UK Apache",
+      1994
+     ],
+     [
+      "Incredible",
+      "M-Beat feat. General Levy",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "techstep",
+    "n": "Techstep",
+    "zh": "科技步",
+    "tier": 3,
+    "y": 1996,
+    "d": "1996 年前后从鼓打贝斯分出：去掉雷鬼人声，改用电影感的黑暗音色、工业鼓组与精密低频，Ed Rush 与 Optical 确立了它的模板。",
+    "ar": [
+     "Ed Rush & Optical",
+     "Bad Company",
+     "Dom & Roland",
+     "Noisia"
+    ],
+    "tr": [
+     [
+      "The Nine",
+      "Bad Company",
+      1998
+     ],
+     [
+      "Bacteria",
+      "Ed Rush & Optical",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "jump-up",
+    "n": "Jump Up",
+    "zh": "跳跃鼓打",
+    "tier": 3,
+    "y": 1994,
+    "d": "1994 年前后出现：强调弹跳感的贝斯线与简单抓耳的旋律，鼓点直白、段落重复，专为舞池的即时反应设计，DJ Zinc 是代表。",
+    "ar": [
+     "DJ Zinc",
+     "Mickey Finn",
+     "Aphrodite",
+     "Hazard"
+    ],
+    "tr": [
+     [
+      "Super Sharp Shooter",
+      "DJ Zinc",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "brostep",
+    "n": "Brostep",
+    "zh": "兄弟回响",
+    "tier": 3,
+    "y": 2009,
+    "d": "2009 年前后从 dubstep 分出：把摇摆贝斯做成刺耳的中频金属声，配上夸张鼓点与半拍节奏，Skrillex 让它进入主流榜单。",
+    "ar": [
+     "Skrillex",
+     "Rusko",
+     "Excision",
+     "Datsik"
+    ],
+    "tr": [
+     [
+      "Scary Monsters and Nice Sprites",
+      "Skrillex",
+      2010
+     ],
+     [
+      "Bangarang",
+      "Skrillex",
+      2011
+     ]
+    ]
+   },
+   {
+    "id": "riddim",
+    "n": "Riddim",
+    "zh": "回响",
+    "tier": 3,
+    "y": 2012,
+    "d": "2012 年前后从 brostep 再分出来：去掉旋律，只留极简的三连音贝斯与重复鼓型，像同一段循环被反复打磨，舞池全靠低频推。",
+    "ar": [
+     "Subfiltronik",
+     "Bukez Finezt",
+     "Infekt",
+     "Oolacile"
+    ],
+    "tr": [
+     [
+      "Blockz",
+      "Subfiltronik",
+      2012
+     ]
+    ]
+   },
+   {
+    "id": "halftime",
+    "n": "Halftime",
+    "zh": "半拍",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年前后出现：把鼓打贝斯的一百七十拍做成半速感觉，鼓组稀疏、贝斯沉重，速度感被拉长，介于鼓打贝斯与回响之间。",
+    "ar": [
+     "Ivy Lab",
+     "Alix Perez",
+     "Eprom",
+     "Shades"
+    ],
+    "tr": [
+     [
+      "Socket",
+      "Ivy Lab",
+      2016
+     ]
+    ]
+   },
+   {
+    "id": "drumstep",
+    "n": "Drumstep",
+    "zh": "鼓打回响",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年前后出现：把回响的贝斯与音色放进鼓打贝斯的一百七十拍框架，半速鼓点加猛烈下坠，是两种舞曲的混血产物。",
+    "ar": [
+     "Excision",
+     "Zomboy",
+     "Delta Heavy",
+     "Datsik"
+    ],
+    "tr": [
+     [
+      "Virus",
+      "Excision",
+      2016
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hiphop",
+  "name": "嘻哈 Hip-Hop",
+  "sub": "布朗克斯 1970s →",
+  "color": "#f06a9b",
+  "genres": [
+   {
+    "id": "hip-hop",
+    "n": "Hip-Hop",
+    "zh": "嘻哈",
+    "tier": 1,
+    "y": 1975,
+    "d": "1970 年代布朗克斯：DJ 截取 funk/disco 的 break，MC 在台上带动气氛；从街头派对长成全球最大的流行文化之一。",
+    "ar": [
+     "DJ Kool Herc",
+     "Grandmaster Flash",
+     "Afrika Bambaataa"
+    ],
+    "tr": [
+     [
+      "Rapper's Delight",
+      "Sugarhill Gang",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "old-school-hip-hop",
+    "n": "Old-School Hip-Hop",
+    "zh": "老派嘻哈",
+    "tier": 3,
+    "y": 1979,
+    "d": "1979–1984 的早期录音：迪斯科式节拍、简单押韵、派对主题。",
+    "ar": [
+     "Sugarhill Gang",
+     "Kurtis Blow",
+     "Grandmaster Flash"
+    ],
+    "tr": [
+     [
+      "The Breaks",
+      "Kurtis Blow",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "golden-age",
+    "n": "Golden Age Hip-Hop",
+    "zh": "黄金年代",
+    "tier": 2,
+    "y": 1987,
+    "d": "1980 年代末到 90 年代初：采样密集、歌词复杂、专辑概念化。",
+    "ar": [
+     "Public Enemy",
+     "Eric B. & Rakim",
+     "A Tribe Called Quest"
+    ],
+    "tr": [
+     [
+      "Fight the Power",
+      "Public Enemy",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "gangsta-rap",
+    "n": "Gangsta Rap",
+    "zh": "匪帮说唱",
+    "tier": 2,
+    "y": 1988,
+    "d": "西海岸的街头叙事与暴力美学，把 hip-hop 推向争议与主流。",
+    "ar": [
+     "N.W.A",
+     "Ice-T",
+     "Ice Cube"
+    ],
+    "tr": [
+     [
+      "Straight Outta Compton",
+      "N.W.A",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "g-funk",
+    "n": "G-Funk",
+    "zh": "黑帮放克",
+    "tier": 3,
+    "y": 1992,
+    "d": "P-funk 采样 + 缓慢律动 + 合成器；Dr. Dre 定义了 90 年代西海岸声音。",
+    "ar": [
+     "Dr. Dre",
+     "Snoop Dogg",
+     "Warren G"
+    ],
+    "tr": [
+     [
+      "Nuthin' but a 'G' Thang",
+      "Dr. Dre",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "boom-bap",
+    "n": "Boom Bap",
+    "zh": "Boom Bap",
+    "tier": 2,
+    "y": 1990,
+    "d": "硬底鼓 + 采样 chop，纽约地下 hip-hop 的标准声音。",
+    "ar": [
+     "Mobb Deep",
+     "Nas",
+     "Gang Starr"
+    ],
+    "tr": [
+     [
+      "Shook Ones, Pt. II",
+      "Mobb Deep",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "jazz-rap",
+    "n": "Jazz Rap",
+    "zh": "爵士说唱",
+    "tier": 3,
+    "y": 1988,
+    "d": "爵士采样 + 慵懒 flow，把 hip-hop 变成室内乐。",
+    "ar": [
+     "A Tribe Called Quest",
+     "Gang Starr",
+     "Digable Planets"
+    ],
+    "tr": [
+     [
+      "Jazz (We've Got)",
+      "A Tribe Called Quest",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "conscious-hip-hop",
+    "n": "Conscious Hip-Hop",
+    "zh": "良知说唱",
+    "tier": 3,
+    "y": 1988,
+    "d": "以社会议题、种族政治与自我教育为核心的 hip-hop。",
+    "ar": [
+     "Public Enemy",
+     "Common",
+     "Kendrick Lamar"
+    ],
+    "tr": [
+     [
+      "Alright",
+      "Kendrick Lamar",
+      2015
+     ]
+    ]
+   },
+   {
+    "id": "southern-hip-hop",
+    "n": "Southern Hip-Hop",
+    "zh": "南方说唱",
+    "tier": 2,
+    "y": 1991,
+    "d": "美国南部的 hip-hop：更慢的节奏、更强的低音、独特的口音与舞步。",
+    "ar": [
+     "OutKast",
+     "UGK",
+     "Ludacris"
+    ],
+    "tr": [
+     [
+      "Ms. Jackson",
+      "OutKast",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "crunk",
+    "n": "Crunk",
+    "zh": "旷课乐",
+    "tier": 3,
+    "y": 1997,
+    "d": "孟菲斯/亚特兰大的高能量 club rap：喊叫、808、极简 hook。",
+    "ar": [
+     "Lil Jon",
+     "Three 6 Mafia",
+     "Ying Yang Twins"
+    ],
+    "tr": [
+     [
+      "Get Low",
+      "Lil Jon & the East Side Boyz",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "trap",
+    "n": "Trap",
+    "zh": "陷阱说唱",
+    "tier": 1,
+    "y": 2003,
+    "d": "808 低音 + 快速 hi-hat + 黑暗合成器，2010 年代统治全球。",
+    "ar": [
+     "T.I.",
+     "Future",
+     "Migos"
+    ],
+    "tr": [
+     [
+      "Mask Off",
+      "Future",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "drill",
+    "n": "Drill",
+    "zh": "钻头",
+    "tier": 2,
+    "y": 2010,
+    "d": "芝加哥/伦敦的 trap 分支：阴暗旋律、滑音 808、街头叙事。",
+    "ar": [
+     "Chief Keef",
+     "Pop Smoke",
+     "Headie One"
+    ],
+    "tr": [
+     [
+      "Dior",
+      "Pop Smoke",
+      2019
+     ]
+    ]
+   },
+   {
+    "id": "cloud-rap",
+    "n": "Cloud Rap",
+    "zh": "云说唱",
+    "tier": 3,
+    "y": 2008,
+    "d": "2000 年代末的网络说唱：氛围采样、慢速、模糊人声。",
+    "ar": [
+     "Lil B",
+     "Clams Casino",
+     "A$AP Rocky"
+    ],
+    "tr": [
+     [
+      "I'm God",
+      "Clams Casino",
+      2010
+     ]
+    ]
+   },
+   {
+    "id": "lo-fi-hip-hop",
+    "n": "Lo-Fi Hip-Hop",
+    "zh": "低保真嘻哈",
+    "tier": 3,
+    "y": 2010,
+    "d": "爵士采样 + 黑胶噪声 + 慢速鼓，学习和放松的背景音。",
+    "ar": [
+     "Nujabes",
+     "Idealism",
+     "J Dilla"
+    ],
+    "tr": [
+     [
+      "Feather",
+      "Nujabes",
+      2005
+     ]
+    ]
+   },
+   {
+    "id": "memphis-rap",
+    "n": "Memphis Rap",
+    "zh": "孟菲斯说唱",
+    "tier": 2,
+    "y": 1990,
+    "d": "低保真鼓机、阴森合成器与地下磁带发行，Three 6 Mafia 把孟菲斯的恐怖感变成后来 trap 与 phonk 的基因。",
+    "ar": [
+     "Three 6 Mafia",
+     "8Ball & MJG",
+     "Tommy Wright III"
+    ],
+    "tr": [
+     [
+      "Tear da Club Up",
+      "Three 6 Mafia",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "alternative-hip-hop",
+    "n": "Alternative Hip-Hop",
+    "zh": "另类嘻哈",
+    "tier": 2,
+    "y": 1988,
+    "d": "不走 gangsta 路线的嘻哈：采样古怪、主题内省或玩世不恭，De La Soul 的《3 Feet High and Rising》开了门。",
+    "ar": [
+     "De La Soul",
+     "A Tribe Called Quest",
+     "OutKast"
+    ],
+    "tr": [
+     [
+      "Me Myself and I",
+      "De La Soul",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "political-hip-hop",
+    "n": "Political Hip-Hop",
+    "zh": "政治嘻哈",
+    "tier": 3,
+    "y": 1982,
+    "d": "把麦克风当传单：种族、警察与权力结构，Public Enemy 的《Fight the Power》是最高音。",
+    "ar": [
+     "Public Enemy",
+     "KRS-One",
+     "Dead Prez"
+    ],
+    "tr": [
+     [
+      "Fight the Power",
+      "Public Enemy",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "instrumental-hip-hop",
+    "n": "Instrumental Hip-Hop",
+    "zh": "器乐嘻哈",
+    "tier": 3,
+    "y": 1990,
+    "d": "没有人声的嘻哈：把采样与鼓组当成作曲，DJ Shadow 的《Endtroducing.....》把它变成一张完整的专辑艺术。",
+    "ar": [
+     "DJ Shadow",
+     "Madlib",
+     "J Dilla"
+    ],
+    "tr": [
+     [
+      "Midnight in a Perfect World",
+      "DJ Shadow",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "hyphy",
+    "n": "Hyphy",
+    "zh": "亢奋",
+    "tier": 3,
+    "y": 2000,
+    "d": "湾区的派对说唱：快速的踩镲、合成器主旋律与「go dumb」的舞蹈文化，E-40 是教父。",
+    "ar": [
+     "E-40",
+     "Mac Dre",
+     "Keak da Sneak"
+    ],
+    "tr": [
+     [
+      "Tell Me When to Go",
+      "E-40",
+      2006
+     ]
+    ]
+   },
+   {
+    "id": "snap",
+    "n": "Snap",
+    "zh": "响指说唱",
+    "tier": 3,
+    "y": 2000,
+    "d": "用响指与 808 做骨架的南方派对说唱，Lil Jon 的吼叫把它推上 2000 年代榜单。",
+    "ar": [
+     "Lil Jon",
+     "Ying Yang Twins",
+     "Dem Franchize Boyz"
+    ],
+    "tr": [
+     [
+      "Get Low",
+      "Lil Jon & The East Side Boyz",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "mumble-rap",
+    "n": "Mumble Rap",
+    "zh": "含糊说唱",
+    "tier": 2,
+    "y": 2014,
+    "d": "咬字被旋律与氛围取代的一代说唱：重点不在歌词而在音色与律动，Future 是最大影响源。",
+    "ar": [
+     "Future",
+     "Lil Uzi Vert",
+     "Playboi Carti"
+    ],
+    "tr": [
+     [
+      "Mask Off",
+      "Future",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "soundcloud-rap",
+    "n": "SoundCloud Rap",
+    "zh": "SoundCloud 说唱",
+    "tier": 2,
+    "y": 2015,
+    "d": "在卧室录制、直接上传的下一代说唱：低保真、情绪化、跨流派，Lil Uzi Vert 与 XXXTentacion 从平台走向榜单。",
+    "ar": [
+     "Lil Uzi Vert",
+     "XXXTentacion",
+     "Lil Peep"
+    ],
+    "tr": [
+     [
+      "XO TOUR Llif3",
+      "Lil Uzi Vert",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "emo-rap",
+    "n": "Emo Rap",
+    "zh": "Emo 说唱",
+    "tier": 2,
+    "y": 2015,
+    "d": "把 emo 的自我伤害叙事与吉他采样放进 trap 鼓组，Lil Peep 与 XXXTentacion 让两种亚文化在同一个播放列表里相遇。",
+    "ar": [
+     "Lil Peep",
+     "XXXTentacion",
+     "Juice WRLD"
+    ],
+    "tr": [
+     [
+      "Awful Things",
+      "Lil Peep",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "trap-soul",
+    "n": "Trap Soul",
+    "zh": "Trap 灵魂",
+    "tier": 3,
+    "y": 2014,
+    "d": "用 trap 的 808 与 hi-hat 唱 R&B 的旋律，Bryson Tiller 的《T R A P S O U L》给这一波命名。",
+    "ar": [
+     "Bryson Tiller",
+     "PartyNextDoor",
+     "6LACK"
+    ],
+    "tr": [
+     [
+      "Don't",
+      "Bryson Tiller",
+      2015
+     ]
+    ]
+   },
+   {
+    "id": "uk-drill",
+    "n": "UK Drill",
+    "zh": "英国 Drill",
+    "tier": 2,
+    "y": 2012,
+    "d": "芝加哥 drill 在伦敦的重生：滑音 808、阴冷旋律与街区叙事，形成了英国最锋利的一代说唱。",
+    "ar": [
+     "Headie One",
+     "Unknown T",
+     "Digga D"
+    ],
+    "tr": [
+     [
+      "Homerton B",
+      "Unknown T",
+      2018
+     ]
+    ]
+   },
+   {
+    "id": "afroswing",
+    "n": "Afroswing",
+    "zh": "非洲摇摆",
+    "tier": 3,
+    "y": 2015,
+    "d": "伦敦的非洲裔青年把 afrobeats 的旋律与 grime 的节奏接在一起，J Hus 是这一波最响亮的名字。",
+    "ar": [
+     "J Hus",
+     "MoStack",
+     "Kojo Funds"
+    ],
+    "tr": [
+     [
+      "Did You See",
+      "J Hus",
+      2017
+     ]
+    ]
+   },
+   {
+    "id": "latin-rap",
+    "n": "Latin Rap",
+    "zh": "拉丁说唱",
+    "tier": 3,
+    "y": 1989,
+    "d": "西语与英语混用的美国拉丁裔说唱，Kid Frost 的《La Raza》是西岸拉丁说唱的起点。",
+    "ar": [
+     "Kid Frost",
+     "Cypress Hill",
+     "Mellow Man Ace"
+    ],
+    "tr": [
+     [
+      "La Raza",
+      "Kid Frost",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "phonk",
+    "n": "Phonk",
+    "zh": "Phonk",
+    "tier": 2,
+    "y": 2010,
+    "d": "从孟菲斯说唱采样里长出来的网络亚种：失真 808、牛铃与低保真氛围，后来分裂出 drift phonk。",
+    "ar": [
+     "SpaceGhostPurrp",
+     "DJ Smokey",
+     "Soudiere"
+    ],
+    "tr": [
+     [
+      "Bringing tha Phonk",
+      "SpaceGhostPurrp",
+      2011
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "electronic",
+  "name": "电子 / 氛围",
+  "sub": "从具体音乐到蒸汽波",
+  "color": "#8fce6a",
+  "genres": [
+   {
+    "id": "musique-concrete",
+    "n": "Musique Concrète",
+    "zh": "具体音乐",
+    "tier": 3,
+    "y": 1948,
+    "d": "用录音带把真实声音剪辑成音乐，Pierre Schaeffer 在巴黎创立，电子音乐的开端之一。",
+    "ar": [
+     "Pierre Schaeffer",
+     "Pierre Henry",
+     "Luc Ferrari"
+    ],
+    "tr": [
+     [
+      "Étude aux chemins de fer",
+      "Pierre Schaeffer",
+      1948
+     ]
+    ]
+   },
+   {
+    "id": "elektronische-musik",
+    "n": "Elektronische Musik",
+    "zh": "电子音乐（科隆）",
+    "tier": 3,
+    "y": 1953,
+    "d": "科隆 WDR 工作室用振荡器合成纯电子音，与具体音乐相对。",
+    "ar": [
+     "Karlheinz Stockhausen",
+     "Gottfried Michael Koenig"
+    ],
+    "tr": [
+     [
+      "Gesang der Jünglinge",
+      "Karlheinz Stockhausen",
+      1956
+     ]
+    ]
+   },
+   {
+    "id": "krautrock",
+    "n": "Krautrock",
+    "zh": "德国摇滚",
+    "tier": 2,
+    "y": 1968,
+    "d": "德国乐队把摇滚、电子、极简与即兴混合；Kraftwerk 从这条线走向合成器流行。",
+    "ar": [
+     "Kraftwerk",
+     "Can",
+     "Neu!"
+    ],
+    "tr": [
+     [
+      "Autobahn",
+      "Kraftwerk",
+      1974
+     ]
+    ]
+   },
+   {
+    "id": "ambient",
+    "n": "Ambient",
+    "zh": "氛围音乐",
+    "tier": 1,
+    "y": 1975,
+    "d": "用音色和空间取代旋律与节奏；Brian Eno 把它定义为「必须能被打断的音乐」。",
+    "ar": [
+     "Brian Eno",
+     "Aphex Twin",
+     "Stars of the Lid"
+    ],
+    "tr": [
+     [
+      "1/1",
+      "Brian Eno",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "synth-pop",
+    "n": "Synth-Pop",
+    "zh": "合成器流行",
+    "tier": 1,
+    "y": 1978,
+    "d": "朋克之后的合成器乐队，把 disco 的舞池感和电子音色带进流行榜。",
+    "ar": [
+     "Depeche Mode",
+     "The Human League",
+     "New Order"
+    ],
+    "tr": [
+     [
+      "Don't You Want Me",
+      "The Human League",
+      1981
+     ]
+    ]
+   },
+   {
+    "id": "downtempo",
+    "n": "Downtempo",
+    "zh": "慢拍电子",
+    "tier": 3,
+    "y": 1990,
+    "d": "90 年代的慢速电子：breakbeat、氛围与灵魂乐混合，适合沙发与耳机。",
+    "ar": [
+     "Kruder & Dorfmeister",
+     "Bonobo",
+     "Nightmares on Wax"
+    ],
+    "tr": [
+     [
+      "High Noon",
+      "Kruder & Dorfmeister",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "trip-hop",
+    "n": "Trip-Hop",
+    "zh": "神游舞曲",
+    "tier": 1,
+    "y": 1991,
+    "d": "布里斯托尔之声：慢速 breakbeat + 黑暗氛围 + 女声。",
+    "ar": [
+     "Massive Attack",
+     "Portishead",
+     "Tricky"
+    ],
+    "tr": [
+     [
+      "Teardrop",
+      "Massive Attack",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "chillout",
+    "n": "Chillout",
+    "zh": "休闲电子",
+    "tier": 3,
+    "y": 1990,
+    "d": "为 chillout room 与日落准备的舒缓电子。",
+    "ar": [
+     "The Orb",
+     "Zero 7",
+     "Air"
+    ],
+    "tr": [
+     [
+      "Little Fluffy Clouds",
+      "The Orb",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "idm",
+    "n": "IDM",
+    "zh": "智能舞曲",
+    "tier": 2,
+    "y": 1992,
+    "d": "为耳机而非舞池做的电子乐：复杂节拍与音色设计。",
+    "ar": [
+     "Aphex Twin",
+     "Boards of Canada",
+     "Autechre"
+    ],
+    "tr": [
+     [
+      "Windowlicker",
+      "Aphex Twin",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "synthwave",
+    "n": "Synthwave",
+    "zh": "合成器浪潮",
+    "tier": 3,
+    "y": 2005,
+    "d": "对 1980 年代电影配乐与 synth-pop 的复古想象。",
+    "ar": [
+     "Kavinsky",
+     "Perturbator",
+     "The Midnight"
+    ],
+    "tr": [
+     [
+      "Nightcall",
+      "Kavinsky",
+      2010
+     ]
+    ]
+   },
+   {
+    "id": "vaporwave",
+    "n": "Vaporwave",
+    "zh": "蒸汽波",
+    "tier": 2,
+    "y": 2010,
+    "d": "把 80/90 年代流行与广告音乐放慢、切碎，做成消费主义的梦。",
+    "ar": [
+     "Macintosh Plus",
+     "Saint Pepsi",
+     "Daniel Lopatin"
+    ],
+    "tr": [
+     [
+      "リサフランク420 / 現代のコンピュー",
+      "Macintosh Plus",
+      2011
+     ]
+    ]
+   },
+   {
+    "id": "drone",
+    "n": "Drone",
+    "zh": "长音",
+    "tier": 3,
+    "y": 1990,
+    "d": "1990 年前后由极简主义与现代作曲延伸而来：把单音或和弦拉到极长，靠泛音与音量缓慢变化制造漂浮感，几乎不用节拍。",
+    "ar": [
+     "La Monte Young",
+     "Phill Niblock",
+     "Stars of the Lid",
+     "Earth"
+    ],
+    "tr": [
+     [
+      "Requiem for Dying Mothers, Pt. 1",
+      "Stars of the Lid",
+      2001
+     ]
+    ]
+   },
+   {
+    "id": "dark-ambient",
+    "n": "Dark Ambient",
+    "zh": "暗氛围",
+    "tier": 3,
+    "y": 1985,
+    "d": "1980 年代中期从氛围与工业的交界处出现：低频轰鸣、教堂混响与采样的恐怖空间感，听感像在废弃地窖里。",
+    "ar": [
+     "Lustmord",
+     "Robert Rich",
+     "Biosphere",
+     "Raison d'être"
+    ],
+    "tr": [
+     [
+      "Poa Alpina",
+      "Biosphere",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "glitch",
+    "n": "Glitch",
+    "zh": "故障",
+    "tier": 3,
+    "y": 1994,
+    "d": "1990 年代中期，Oval 一派人把 CD 跳针、爆音与软件错误当成节奏素材，把故障声剪成有韵律的拼贴，后来被 IDM 大量吸收。",
+    "ar": [
+     "Oval",
+     "Autechre",
+     "Alva Noto",
+     "Ryoji Ikeda"
+    ],
+    "tr": [
+     [
+      "Do While",
+      "Oval",
+      1995
+     ],
+     [
+      "Flutter",
+      "Autechre",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "plunderphonics",
+    "n": "Plunderphonics",
+    "zh": "拼贴采样",
+    "tier": 3,
+    "y": 1985,
+    "d": "1985 年 John Oswald 提出这个词：直接把现成唱片整段取样、变速、叠录，做成不申请授权的拼贴，挑战版权与原创观念。",
+    "ar": [
+     "John Oswald",
+     "Negativland",
+     "The Tape-beatles",
+     "People Like Us"
+    ],
+    "tr": [
+     [
+      "Dab",
+      "John Oswald",
+      1989
+     ],
+     [
+      "U2",
+      "Negativland",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "hauntology",
+    "n": "Hauntology",
+    "zh": "幽灵学",
+    "tier": 3,
+    "y": 2006,
+    "d": "2006 年前后英国出现的一支声音潮流：把褪色的电视配乐、旧磁带噪与鬼影般的混响拼贴起来，制造出「失落未来」的怀旧与不安，Caretaker 与 Burial 是代表。",
+    "ar": [
+     "The Caretaker",
+     "Burial",
+     "Boards of Canada",
+     "Demdike Stare"
+    ],
+    "tr": [
+     [
+      "It's just a burning memory",
+      "The Caretaker",
+      2016
+     ],
+     [
+      "Roygbiv",
+      "Boards of Canada",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "noise",
+    "n": "Noise",
+    "zh": "噪音",
+    "tier": 3,
+    "y": 1975,
+    "d": "1970 年代中期从工业与实验音乐里独立出来：不要旋律与节拍，只用反馈、失真与巨大音量，把声音本身当成材料。",
+    "ar": [
+     "Merzbow",
+     "Throbbing Gristle",
+     "Whitehouse",
+     "Wolf Eyes"
+    ],
+    "tr": [
+     [
+      "Hamburger Lady",
+      "Throbbing Gristle",
+      1978
+     ],
+     [
+      "Woodpecker No. 1",
+      "Merzbow",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "illbient",
+    "n": "Illbient",
+    "zh": "病态氛围",
+    "tier": 3,
+    "y": 1994,
+    "d": "1994 年 DJ Spooky 在纽约提出的说法：把嘻哈的采样与 dub 的低频一起泡进氛围里，节奏松散、空间潮湿，像凌晨散场后的街区。",
+    "ar": [
+     "DJ Spooky",
+     "Sub Dub",
+     "Byzar",
+     "Raz Mesinai"
+    ],
+    "tr": [
+     [
+      "Object Unknown",
+      "DJ Spooky",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "chillwave",
+    "n": "Chillwave",
+    "zh": "冷浪潮",
+    "tier": 3,
+    "y": 2009,
+    "d": "2009 年前后随博客兴起：用廉价合成器、磁带噪与大量混响做出夏天午后般朦胧的流行歌，旋律甜、制作故意糊。",
+    "ar": [
+     "Washed Out",
+     "Neon Indian",
+     "Toro y Moi",
+     "Memory Tapes"
+    ],
+    "tr": [
+     [
+      "Feel It All Around",
+      "Washed Out",
+      2009
+     ],
+     [
+      "Deadbeat Summer",
+      "Neon Indian",
+      2009
+     ]
+    ]
+   },
+   {
+    "id": "dungeon-synth",
+    "n": "Dungeon Synth",
+    "zh": "地牢合成器",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年前后被乐迷追认命名：受早期黑金属键盘间奏启发，用简陋合成器做中世纪地牢般的循环旋律，低保真且阴冷。",
+    "ar": [
+     "Mortiis",
+     "Burzum",
+     "Depressive Silence",
+     "Fief"
+    ],
+    "tr": [
+     [
+      "Dauði Baldrs",
+      "Burzum",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "chiptune",
+    "n": "Chiptune",
+    "zh": "芯片音乐",
+    "tier": 3,
+    "y": 1985,
+    "d": "1985 年起源于家用机与街机音源芯片：用方波、三角波与噪声道做音乐，旋律明快、音色受限，后来成为独立游戏的声音。",
+    "ar": [
+     "Anamanaguchi",
+     "Sabrepulse",
+     "8 Bit Weapon",
+     "Chipzel"
+    ],
+    "tr": [
+     [
+      "Blackout City",
+      "Anamanaguchi",
+      2009
+     ]
+    ]
+   },
+   {
+    "id": "juke",
+    "n": "Juke",
+    "zh": "朱克",
+    "tier": 3,
+    "y": 1997,
+    "d": "1997 年前后在芝加哥南区成型：把 ghetto house 的速度推到一百六十拍，加入密集的踩镲、口号采样与不断重复的段落，专为舞步对决服务。",
+    "ar": [
+     "DJ Deeon",
+     "DJ Slugo",
+     "RP Boo",
+     "DJ Rashad"
+    ],
+    "tr": [
+     [
+      "Freak Like Me",
+      "DJ Deeon",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "footwork",
+    "n": "Footwork",
+    "zh": "足舞",
+    "tier": 3,
+    "y": 2005,
+    "d": "2005 年前后从 juke 演化出来：节拍更碎、切分更狠，在一百六十拍里塞进大量采样切片，配合极快的脚步舞，DJ Rashad 把它带向世界。",
+    "ar": [
+     "DJ Rashad",
+     "RP Boo",
+     "DJ Spinn",
+     "Traxman"
+    ],
+    "tr": [
+     [
+      "Feelin",
+      "DJ Rashad",
+      2013
+     ],
+     [
+      "Baby Come On",
+      "RP Boo",
+      1997
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rock",
+  "name": "摇滚 / 金属",
+  "sub": "1950s →",
+  "color": "#e3564f",
+  "genres": [
+   {
+    "id": "rock-and-roll",
+    "n": "Rock & Roll",
+    "zh": "摇滚乐",
+    "tier": 1,
+    "y": 1954,
+    "d": "R&B 的节奏 + 乡村的吉他 + 青少年的叛逆，1950 年代把流行乐劈成两半。",
+    "ar": [
+     "Elvis Presley",
+     "Chuck Berry",
+     "Little Richard"
+    ],
+    "tr": [
+     [
+      "Johnny B. Goode",
+      "Chuck Berry",
+      1958
+     ]
+    ]
+   },
+   {
+    "id": "rockabilly",
+    "n": "Rockabilly",
+    "zh": "山区乡村摇滚",
+    "tier": 3,
+    "y": 1955,
+    "d": "乡村歌手玩起 R&B：拍击贝斯、回声吉他、山猫式嗓音。",
+    "ar": [
+     "Elvis Presley",
+     "Carl Perkins",
+     "Wanda Jackson"
+    ],
+    "tr": [
+     [
+      "Blue Suede Shoes",
+      "Carl Perkins",
+      1956
+     ]
+    ]
+   },
+   {
+    "id": "garage-rock",
+    "n": "Garage Rock",
+    "zh": "车库摇滚",
+    "tier": 3,
+    "y": 1965,
+    "d": "业余乐队在车库里录出的粗糙摇滚，朋克的精神祖先。",
+    "ar": [
+     "The Sonics",
+     "The Stooges",
+     "The Seeds"
+    ],
+    "tr": [
+     [
+      "I Wanna Be Your Dog",
+      "The Stooges",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "folk-rock",
+    "n": "Folk Rock",
+    "zh": "民谣摇滚",
+    "tier": 3,
+    "y": 1965,
+    "d": "把民谣的歌词与和声接上电吉他，Bob Dylan 与 The Byrds 是关键。",
+    "ar": [
+     "Bob Dylan",
+     "The Byrds",
+     "Simon & Garfunkel"
+    ],
+    "tr": [
+     [
+      "Like a Rolling Stone",
+      "Bob Dylan",
+      1965
+     ]
+    ]
+   },
+   {
+    "id": "psychedelic-rock",
+    "n": "Psychedelic Rock",
+    "zh": "迷幻摇滚",
+    "tier": 2,
+    "y": 1966,
+    "d": "用反馈、回声、东方音阶与录音室实验模拟迷幻体验。",
+    "ar": [
+     "The Beatles",
+     "Pink Floyd",
+     "Jimi Hendrix"
+    ],
+    "tr": [
+     [
+      "Purple Haze",
+      "Jimi Hendrix",
+      1967
+     ]
+    ]
+   },
+   {
+    "id": "progressive-rock",
+    "n": "Progressive Rock",
+    "zh": "前卫摇滚",
+    "tier": 2,
+    "y": 1968,
+    "d": "长曲式、概念专辑、古典与爵士影响，把摇滚当交响乐写。",
+    "ar": [
+     "Pink Floyd",
+     "King Crimson",
+     "Yes"
+    ],
+    "tr": [
+     [
+      "21st Century Schizoid Man",
+      "King Crimson",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "hard-rock",
+    "n": "Hard Rock",
+    "zh": "硬摇滚",
+    "tier": 2,
+    "y": 1968,
+    "d": "更响、更重的布鲁斯摇滚：失真吉他、强力和弦、大嗓门。",
+    "ar": [
+     "Led Zeppelin",
+     "Deep Purple",
+     "AC/DC"
+    ],
+    "tr": [
+     [
+      "Whole Lotta Love",
+      "Led Zeppelin",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "new-wave",
+    "n": "New Wave",
+    "zh": "新浪潮",
+    "tier": 2,
+    "y": 1977,
+    "d": "朋克的能量 + 合成器 + 流行旋律，80 年代电台的声音。",
+    "ar": [
+     "Blondie",
+     "Talking Heads",
+     "The Cure"
+    ],
+    "tr": [
+     [
+      "Heart of Glass",
+      "Blondie",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "post-punk",
+    "n": "Post-Punk",
+    "zh": "后朋克",
+    "tier": 1,
+    "y": 1978,
+    "d": "更黑暗、更实验：放克贝斯、噪音吉他、冷峻文本。",
+    "ar": [
+     "Joy Division",
+     "Gang of Four",
+     "Siouxsie and the Banshees"
+    ],
+    "tr": [
+     [
+      "Love Will Tear Us Apart",
+      "Joy Division",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "gothic-rock",
+    "n": "Gothic Rock",
+    "zh": "哥特摇滚",
+    "tier": 3,
+    "y": 1979,
+    "d": "后朋克最黑暗的分支：低沉嗓音、合唱式吉他、吸血鬼美学。",
+    "ar": [
+     "Bauhaus",
+     "The Sisters of Mercy",
+     "Siouxsie and the Banshees"
+    ],
+    "tr": [
+     [
+      "Bela Lugosi's Dead",
+      "Bauhaus",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "industrial",
+    "n": "Industrial",
+    "zh": "工业音乐",
+    "tier": 2,
+    "y": 1979,
+    "d": "噪音、金属敲击、磁带实验 + 摇滚，后来演化出工业金属与工业舞曲。",
+    "ar": [
+     "Throbbing Gristle",
+     "Nine Inch Nails",
+     "Ministry"
+    ],
+    "tr": [
+     [
+      "Head Like a Hole",
+      "Nine Inch Nails",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "alternative-rock",
+    "n": "Alternative Rock",
+    "zh": "另类摇滚",
+    "tier": 1,
+    "y": 1985,
+    "d": "地下摇滚的总称：从 college rock 到 grunge，90 年代接管主流。",
+    "ar": [
+     "R.E.M.",
+     "Sonic Youth",
+     "Pixies"
+    ],
+    "tr": [
+     [
+      "Losing My Religion",
+      "R.E.M.",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "grunge",
+    "n": "Grunge",
+    "zh": "垃圾摇滚",
+    "tier": 2,
+    "y": 1988,
+    "d": "西雅图的泥泞摇滚：金属的重 + 朋克的糙 + 一代人的丧。",
+    "ar": [
+     "Nirvana",
+     "Pearl Jam",
+     "Soundgarden"
+    ],
+    "tr": [
+     [
+      "Black Hole Sun",
+      "Soundgarden",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "post-rock",
+    "n": "Post-Rock",
+    "zh": "后摇滚",
+    "tier": 3,
+    "y": 1994,
+    "d": "用摇滚乐器做氛围与渐强，弱化人声，接近古典的叙事。",
+    "ar": [
+     "Mogwai",
+     "Explosions in the Sky",
+     "Godspeed You! Black Emperor"
+    ],
+    "tr": [
+     [
+      "Your Hand in Mine",
+      "Explosions in the Sky",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "surf-rock",
+    "n": "Surf Rock",
+    "zh": "冲浪摇滚",
+    "tier": 2,
+    "y": 1961,
+    "d": "加州的冲浪文化配混响吉他：颤音、滑音与快速拨弦，Dick Dale 的《Misirlou》是终极范本。",
+    "ar": [
+     "Dick Dale",
+     "The Ventures",
+     "The Surfaris"
+    ],
+    "tr": [
+     [
+      "Misirlou",
+      "Dick Dale",
+      1962
+     ]
+    ]
+   },
+   {
+    "id": "garage-punk",
+    "n": "Garage Punk",
+    "zh": "车库朋克",
+    "tier": 2,
+    "y": 1976,
+    "d": "车库摇滚的粗糙与朋克的能量合流：失真、喊叫、三和弦，The Stooges 是原型。",
+    "ar": [
+     "The Stooges",
+     "The Sonics",
+     "Ty Segall"
+    ],
+    "tr": [
+     [
+      "I Wanna Be Your Dog",
+      "The Stooges",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "space-rock",
+    "n": "Space Rock",
+    "zh": "太空摇滚",
+    "tier": 3,
+    "y": 1988,
+    "d": "用长段重复、合成器与回声制造失重感，Hawkwind 开路，Spacemen 3 把它做得更极简。",
+    "ar": [
+     "Hawkwind",
+     "Spacemen 3",
+     "Spiritualized"
+    ],
+    "tr": [
+     [
+      "Silver Machine",
+      "Hawkwind",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "noise-rock",
+    "n": "Noise Rock",
+    "zh": "噪音摇滚",
+    "tier": 2,
+    "y": 1983,
+    "d": "把无调性、反馈与结构破坏带进摇滚，Sonic Youth 与 Big Black 让它成为 80 年代纽约/芝加哥的地下语言。",
+    "ar": [
+     "Sonic Youth",
+     "Big Black",
+     "Lightning Bolt"
+    ],
+    "tr": [
+     [
+      "Kool Thing",
+      "Sonic Youth",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "slowcore",
+    "n": "Slowcore",
+    "zh": "慢核",
+    "tier": 3,
+    "y": 1990,
+    "d": "把摇滚降到近乎静止：慢速、留白、低声，Low 与 Codeine 用安静制造压迫感。",
+    "ar": [
+     "Low",
+     "Codeine",
+     "Duster"
+    ],
+    "tr": [
+     [
+      "Words",
+      "Low",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "post-grunge",
+    "n": "Post-Grunge",
+    "zh": "后垃圾摇滚",
+    "tier": 2,
+    "y": 1994,
+    "d": "grunge 的失真与态度被磨平成电台友好型摇滚，Foo Fighters 与 Nickelback 占据整个 2000 年代。",
+    "ar": [
+     "Foo Fighters",
+     "Nickelback",
+     "Creed"
+    ],
+    "tr": [
+     [
+      "Everlong",
+      "Foo Fighters",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "j-rock",
+    "n": "J-Rock",
+    "zh": "日式摇滚",
+    "tier": 2,
+    "y": 1980,
+    "d": "日本对摇滚的本土化：高旋律密度、动漫与视觉系文化，X Japan 是 80 年代末的顶点。",
+    "ar": [
+     "X Japan",
+     "B'z",
+     "RADWIMPS"
+    ],
+    "tr": [
+     [
+      "Kurenai",
+      "X Japan",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "rock-en-espanol",
+    "n": "Rock en Español",
+    "zh": "西语摇滚",
+    "tier": 2,
+    "y": 1985,
+    "d": "用西班牙语唱的摇滚：从阿根廷到墨西哥，把英美摇滚翻译成拉美的政治与青春。",
+    "ar": [
+     "Soda Stereo",
+     "Café Tacvba",
+     "Maná"
+    ],
+    "tr": [
+     [
+      "De Música Ligera",
+      "Soda Stereo",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "pop-rock",
+    "n": "Pop Rock",
+    "zh": "流行摇滚",
+    "tier": 2,
+    "y": 1965,
+    "d": "把摇滚的编制交给流行旋律：副歌清晰、时长三分钟，是 70 年代电台的主力。",
+    "ar": [
+     "Cheap Trick",
+     "Tom Petty",
+     "The Cars"
+    ],
+    "tr": [
+     [
+      "Surrender",
+      "Cheap Trick",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "soft-rock",
+    "n": "Soft Rock",
+    "zh": "轻柔摇滚",
+    "tier": 2,
+    "y": 1970,
+    "d": "把摇滚的电声收小、旋律放软：钢琴、和声与成人抒情，Fleetwood Mac 是代表。",
+    "ar": [
+     "Fleetwood Mac",
+     "Air Supply",
+     "Chicago"
+    ],
+    "tr": [
+     [
+      "Dreams",
+      "Fleetwood Mac",
+      1977
+     ]
+    ]
+   },
+   {
+    "id": "arena-rock",
+    "n": "Arena Rock",
+    "zh": "体育场摇滚",
+    "tier": 3,
+    "y": 1973,
+    "d": "为几万人合唱而写的摇滚：大副歌、吉他 solo、烟火与体育馆，Journey 与 Bon Jovi 是典型。",
+    "ar": [
+     "Journey",
+     "Bon Jovi",
+     "Foreigner"
+    ],
+    "tr": [
+     [
+      "Don't Stop Believin'",
+      "Journey",
+      1981
+     ]
+    ]
+   },
+   {
+    "id": "southern-rock",
+    "n": "Southern Rock",
+    "zh": "南方摇滚",
+    "tier": 3,
+    "y": 1970,
+    "d": "美国南方的摇滚：双吉他、布鲁斯根、长段即兴，Lynyrd Skynyrd 的《Free Bird》是国歌。",
+    "ar": [
+     "Lynyrd Skynyrd",
+     "The Allman Brothers Band",
+     "ZZ Top"
+    ],
+    "tr": [
+     [
+      "Free Bird",
+      "Lynyrd Skynyrd",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "art-rock",
+    "n": "Art Rock",
+    "zh": "艺术摇滚",
+    "tier": 2,
+    "y": 1967,
+    "d": "把摇滚当成艺术项目：概念、剧场性、非流行结构，David Bowie 与 Roxy Music 把它做成一种姿态。",
+    "ar": [
+     "David Bowie",
+     "Roxy Music",
+     "Peter Gabriel"
+    ],
+    "tr": [
+     [
+      "Space Oddity",
+      "David Bowie",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "blues-rock",
+    "n": "Blues Rock",
+    "zh": "布鲁斯摇滚",
+    "tier": 2,
+    "y": 1965,
+    "d": "把芝加哥布鲁斯交给电吉他、大音量与摇滚鼓组：Cream 与 Led Zeppelin 把它变成体育场的声音。",
+    "ar": [
+     "Cream",
+     "Led Zeppelin",
+     "The Rolling Stones"
+    ],
+    "tr": [
+     [
+      "Crossroads",
+      "Cream",
+      1968
+     ]
+    ]
+   },
+   {
+    "id": "boogie-rock",
+    "n": "Boogie Rock",
+    "zh": "布吉摇滚",
+    "tier": 3,
+    "y": 1970,
+    "d": "基于布吉低音型的硬摇滚：重复、摇摆、适合开车，ZZ Top 是德州代表。",
+    "ar": [
+     "ZZ Top",
+     "Status Quo",
+     "Canned Heat"
+    ],
+    "tr": [
+     [
+      "La Grange",
+      "ZZ Top",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "swamp-rock",
+    "n": "Swamp Rock",
+    "zh": "沼泽摇滚",
+    "tier": 3,
+    "y": 1967,
+    "d": "把路易斯安那的沼泽气息、布鲁斯与摇滚混在一起：Creedence 的《Born on the Bayou》是代表作。",
+    "ar": [
+     "Creedence Clearwater Revival",
+     "Tony Joe White",
+     "Dr. John"
+    ],
+    "tr": [
+     [
+      "Born on the Bayou",
+      "Creedence Clearwater Revival",
+      1969
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pop",
+  "name": "流行 Pop",
+  "sub": "榜单与全球流行",
+  "color": "#f2a0c0",
+  "genres": [
+   {
+    "id": "pop",
+    "n": "Pop",
+    "zh": "流行音乐",
+    "tier": 1,
+    "y": 1950,
+    "d": "为榜单与大众市场而写的歌：Tin Pan Alley 的旋律传统 + 摇滚时代的制作。",
+    "ar": [
+     "The Beatles",
+     "Madonna",
+     "Taylor Swift"
+    ],
+    "tr": [
+     [
+      "Billie Jean",
+      "Michael Jackson",
+      1982
+     ]
+    ]
+   },
+   {
+    "id": "dance-pop",
+    "n": "Dance-Pop",
+    "zh": "舞曲流行",
+    "tier": 2,
+    "y": 1983,
+    "d": "为电台和舞池同时设计的流行乐：disco 的节拍 + 流行副歌。",
+    "ar": [
+     "Madonna",
+     "Kylie Minogue",
+     "Britney Spears"
+    ],
+    "tr": [
+     [
+      "Like a Prayer",
+      "Madonna",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "city-pop",
+    "n": "City Pop",
+    "zh": "城市流行",
+    "tier": 2,
+    "y": 1978,
+    "d": "泡沫经济前的日本，把 funk/disco/soft rock 做成都市夜景，近年被网络重新发现。",
+    "ar": [
+     "山下達郎",
+     "竹内まりや",
+     "Anri"
+    ],
+    "tr": [
+     [
+      "Plastic Love",
+      "竹内まりや",
+      1984
+     ]
+    ]
+   },
+   {
+    "id": "teen-pop",
+    "n": "Teen Pop",
+    "zh": "青少年流行",
+    "tier": 3,
+    "y": 1996,
+    "d": "面向青少年的偶像流行：舞曲节拍、青春主题、MV 工业。",
+    "ar": [
+     "Britney Spears",
+     "*NSYNC",
+     "Backstreet Boys"
+    ],
+    "tr": [
+     [
+      "...Baby One More Time",
+      "Britney Spears",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "electropop",
+    "n": "Electropop",
+    "zh": "电子流行",
+    "tier": 2,
+    "y": 2007,
+    "d": "2000 年代末的合成器流行回潮：尖锐合成器、夸张人声、俱乐部节拍。",
+    "ar": [
+     "Lady Gaga",
+     "Katy Perry",
+     "La Roux"
+    ],
+    "tr": [
+     [
+      "Bad Romance",
+      "Lady Gaga",
+      2009
+     ]
+    ]
+   },
+   {
+    "id": "k-pop",
+    "n": "K-Pop",
+    "zh": "韩国流行",
+    "tier": 2,
+    "y": 1992,
+    "d": "韩国把 pop、R&B、hip-hop 与偶像工业结合，2010 年代成为全球现象。",
+    "ar": [
+     "BTS",
+     "BLACKPINK",
+     "Girls' Generation"
+    ],
+    "tr": [
+     [
+      "Dynamite",
+      "BTS",
+      2020
+     ]
+    ]
+   },
+   {
+    "id": "hyperpop",
+    "n": "Hyperpop",
+    "zh": "超流行",
+    "tier": 2,
+    "y": 2016,
+    "d": "把 pop、trap、电子与网络梗推到失真的极限。",
+    "ar": [
+     "SOPHIE",
+     "Charli XCX",
+     "100 gecs"
+    ],
+    "tr": [
+     [
+      "Immaterial",
+      "SOPHIE",
+      2018
+     ]
+    ]
+   },
+   {
+    "id": "bubblegum-pop",
+    "n": "Bubblegum Pop",
+    "zh": "泡泡糖流行",
+    "tier": 3,
+    "y": 1967,
+    "d": "为青少年定制的三分钟甜歌：简单副歌、卡通化制作，The Archies 的《Sugar, Sugar》卖了六百万张。",
+    "ar": [
+     "The Archies",
+     "The Monkees",
+     "Bay City Rollers"
+    ],
+    "tr": [
+     [
+      "Sugar, Sugar",
+      "The Archies",
+      1969
+     ]
+    ]
+   },
+   {
+    "id": "adult-contemporary",
+    "n": "Adult Contemporary",
+    "zh": "成人抒情",
+    "tier": 3,
+    "y": 1965,
+    "d": "为电台白领时段设计的柔和流行：钢琴、弦乐、无攻击性的爱，Carpenters 是模板。",
+    "ar": [
+     "Carpenters",
+     "Whitney Houston",
+     "Celine Dion"
+    ],
+    "tr": [
+     [
+      "(They Long to Be) Close to You",
+      "Carpenters",
+      1970
+     ]
+    ]
+   },
+   {
+    "id": "europop",
+    "n": "Europop",
+    "zh": "欧陆流行",
+    "tier": 2,
+    "y": 1970,
+    "d": "欧洲大陆的流行乐： disco 的节奏、合成器与洗脑副歌，ABBA 把它输出到全世界。",
+    "ar": [
+     "ABBA",
+     "Roxette",
+     "Ace of Base"
+    ],
+    "tr": [
+     [
+      "Dancing Queen",
+      "ABBA",
+      1976
+     ]
+    ]
+   },
+   {
+    "id": "cantopop",
+    "n": "Cantopop",
+    "zh": "粤语流行",
+    "tier": 2,
+    "y": 1970,
+    "d": "香港的粤语流行：电视剧主题曲、偶像工业与日本旋律的本地化，张国荣与梅艳芳是黄金时代。",
+    "ar": [
+     "张国荣",
+     "梅艳芳",
+     "Beyond"
+    ],
+    "tr": [
+     [
+      "Monica",
+      "张国荣",
+      1984
+     ]
+    ]
+   },
+   {
+    "id": "jpop",
+    "n": "J-Pop",
+    "zh": "日本流行",
+    "tier": 2,
+    "y": 1960,
+    "d": "日本流行乐的总称：从歌谣曲到偶像与涩谷系，旋律密度高、编曲精致，宇多田光把它带进百万销量时代。",
+    "ar": [
+     "宇多田光",
+     "Mr.Children",
+     "YOASOBI"
+    ],
+    "tr": [
+     [
+      "Automatic",
+      "宇多田光",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "mandopop",
+    "n": "Mandopop",
+    "zh": "华语流行",
+    "tier": 2,
+    "y": 1970,
+    "d": "国语流行乐：校园民歌、情歌与 R&B 化的制作，周杰伦把节奏与说唱带进华语主流。",
+    "ar": [
+     "周杰伦",
+     "邓丽君",
+     "王菲"
+    ],
+    "tr": [
+     [
+      "晴天",
+      "周杰伦",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "afropop",
+    "n": "Afropop",
+    "zh": "非洲流行",
+    "tier": 2,
+    "y": 2000,
+    "d": "2010 年代 Afrobeats 的全球版本：尼日利亚的旋律、加纳的 highlife 吉他与舞曲节奏，Wizkid 把它送进英美榜单。",
+    "ar": [
+     "Wizkid",
+     "Burna Boy",
+     "Tems"
+    ],
+    "tr": [
+     [
+      "Ojuelegba",
+      "Wizkid",
+      2014
+     ]
+    ]
+   },
+   {
+    "id": "power-pop",
+    "n": "Power Pop",
+    "zh": "力量流行",
+    "tier": 3,
+    "y": 1970,
+    "d": "披头士式的旋律加吉他失真与紧凑鼓点：副歌必须立刻抓住人，Big Star 是未获商业成功的神。",
+    "ar": [
+     "Big Star",
+     "Cheap Trick",
+     "The Raspberries"
+    ],
+    "tr": [
+     [
+      "September Gurls",
+      "Big Star",
+      1974
+     ]
+    ]
+   },
+   {
+    "id": "art-pop",
+    "n": "Art Pop",
+    "zh": "艺术流行",
+    "tier": 2,
+    "y": 1960,
+    "d": "把流行歌当成实验场：非常规结构、戏剧化演唱与视觉概念，Kate Bush 与 Björk 是代表。",
+    "ar": [
+     "Kate Bush",
+     "Björk",
+     "David Bowie"
+    ],
+    "tr": [
+     [
+      "Running Up That Hill",
+      "Kate Bush",
+      1985
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "latin",
+  "name": "拉丁 / 加勒比 / 非洲",
+  "sub": "跨大西洋节奏",
+  "color": "#d08a3e",
+  "genres": [
+   {
+    "id": "son-cubano",
+    "n": "Son Cubano",
+    "zh": "古巴颂",
+    "tier": 3,
+    "y": 1920,
+    "d": "古巴东部的音乐：西班牙吉他、非洲节奏与特雷斯琴，是 salsa 的骨架。",
+    "ar": [
+     "Arsenio Rodríguez",
+     "Buena Vista Social Club",
+     "Compay Segundo"
+    ],
+    "tr": [
+     [
+      "Chan Chan",
+      "Buena Vista Social Club",
+      1997
+     ]
+    ]
+   },
+   {
+    "id": "mambo",
+    "n": "Mambo",
+    "zh": "曼波",
+    "tier": 3,
+    "y": 1940,
+    "d": "古巴 son 遇上大乐队爵士：铜管 riff、切分节奏、舞厅狂热。",
+    "ar": [
+     "Pérez Prado",
+     "Tito Puente",
+     "Machito"
+    ],
+    "tr": [
+     [
+      "Mambo No. 5",
+      "Pérez Prado",
+      1949
+     ]
+    ]
+   },
+   {
+    "id": "salsa",
+    "n": "Salsa",
+    "zh": "萨尔萨",
+    "tier": 2,
+    "y": 1965,
+    "d": "古巴 son + 纽约拉丁爵士 + 波多黎各节奏，Fania 厂牌把它变成全球语言。",
+    "ar": [
+     "Fania All-Stars",
+     "Celia Cruz",
+     "Héctor Lavoe"
+    ],
+    "tr": [
+     [
+      "El Cantante",
+      "Héctor Lavoe",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "cumbia",
+    "n": "Cumbia",
+    "zh": "昆比亚",
+    "tier": 3,
+    "y": 1945,
+    "d": "哥伦比亚海岸的舞曲：手风琴、刮瓜、稳定低音，遍布拉美。",
+    "ar": [
+     "Los Ángeles Azules",
+     "Totó la Momposina",
+     "Los Corraleros"
+    ],
+    "tr": [
+     [
+      "Cómo Te Voy a Olvidar",
+      "Los Ángeles Azules",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "ska",
+    "n": "Ska",
+    "zh": "斯卡",
+    "tier": 2,
+    "y": 1959,
+    "d": "牙买加把 R&B 加速、加重反拍，是 reggae 的前身。",
+    "ar": [
+     "The Skatalites",
+     "Toots and the Maytals",
+     "The Specials"
+    ],
+    "tr": [
+     [
+      "54-46 That's My Number",
+      "Toots & the Maytals",
+      1968
+     ]
+    ]
+   },
+   {
+    "id": "rocksteady",
+    "n": "Rocksteady",
+    "zh": "慢摇",
+    "tier": 3,
+    "y": 1966,
+    "d": "ska 放慢后的过渡形态：更重的贝斯、更 soulful 的人声。",
+    "ar": [
+     "Alton Ellis",
+     "The Paragons",
+     "Desmond Dekker"
+    ],
+    "tr": [
+     [
+      "The Tide Is High",
+      "The Paragons",
+      1967
+     ]
+    ]
+   },
+   {
+    "id": "reggae",
+    "n": "Reggae",
+    "zh": "雷鬼",
+    "tier": 1,
+    "y": 1968,
+    "d": "更慢、更重低音，Rastafari 与政治意识；Bob Marley 把它带向世界。",
+    "ar": [
+     "Bob Marley",
+     "Peter Tosh",
+     "Burning Spear"
+    ],
+    "tr": [
+     [
+      "No Woman, No Cry",
+      "Bob Marley",
+      1974
+     ]
+    ]
+   },
+   {
+    "id": "dub",
+    "n": "Dub",
+    "zh": "回响",
+    "tier": 2,
+    "y": 1972,
+    "d": "把 reggae 拆成回声与低音；King Tubby 把调音台变成乐器。",
+    "ar": [
+     "King Tubby",
+     "Lee 'Scratch' Perry",
+     "Scientist"
+    ],
+    "tr": [
+     [
+      "Blackboard Jungle Dub",
+      "The Upsetters",
+      1973
+     ]
+    ]
+   },
+   {
+    "id": "dancehall",
+    "n": "Dancehall",
+    "zh": "舞厅雷鬼",
+    "tier": 2,
+    "y": 1979,
+    "d": "数字节奏 + 更快的 DJ 说唱，牙买加舞厅文化。",
+    "ar": [
+     "Shabba Ranks",
+     "Sean Paul",
+     "Vybz Kartel"
+    ],
+    "tr": [
+     [
+      "Get Busy",
+      "Sean Paul",
+      2003
+     ]
+    ]
+   },
+   {
+    "id": "reggaeton",
+    "n": "Reggaeton",
+    "zh": "雷鬼顿",
+    "tier": 2,
+    "y": 1994,
+    "d": "dancehall 的节奏 + hip-hop + 拉丁旋律，dembow 鼓型。",
+    "ar": [
+     "Daddy Yankee",
+     "Bad Bunny",
+     "Don Omar"
+    ],
+    "tr": [
+     [
+      "Gasolina",
+      "Daddy Yankee",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "latin-trap",
+    "n": "Latin Trap",
+    "zh": "拉丁陷阱",
+    "tier": 3,
+    "y": 2015,
+    "d": "trap 的 808 与暗色旋律 + 西班牙语，2010 年代后期统治全球榜单。",
+    "ar": [
+     "Bad Bunny",
+     "J Balvin",
+     "Anuel AA"
+    ],
+    "tr": [
+     [
+      "Tití Me Preguntó",
+      "Bad Bunny",
+      2022
+     ]
+    ]
+   },
+   {
+    "id": "highlife",
+    "n": "Highlife",
+    "zh": "Highlife",
+    "tier": 3,
+    "y": 1920,
+    "d": "西非的舞会音乐：吉他、铜管、多声部旋律，影响了 afrobeat。",
+    "ar": [
+     "E.T. Mensah",
+     "Osibisa"
+    ],
+    "tr": [
+     [
+      "All for You",
+      "E.T. Mensah",
+      1953
+     ]
+    ]
+   },
+   {
+    "id": "afrobeat",
+    "n": "Afrobeat",
+    "zh": "非洲节拍",
+    "tier": 2,
+    "y": 1969,
+    "d": "Fela 把 highlife、funk、爵士与政治抗争结合，长篇、催眠、管乐齐奏。",
+    "ar": [
+     "Fela Kuti",
+     "Tony Allen",
+     "Antibalas"
+    ],
+    "tr": [
+     [
+      "Zombie",
+      "Fela Kuti",
+      1976
+     ]
+    ]
+   },
+   {
+    "id": "afrobeats",
+    "n": "Afrobeats",
+    "zh": "非洲流行",
+    "tier": 2,
+    "y": 2010,
+    "d": "尼日利亚/加纳的现代流行：更轻、更旋律化，与 afrobeat 拼写不同、声音也不同。",
+    "ar": [
+     "Wizkid",
+     "Burna Boy",
+     "Davido"
+    ],
+    "tr": [
+     [
+      "Essence",
+      "WizKid",
+      2020
+     ]
+    ]
+   },
+   {
+    "id": "tejano",
+    "n": "Tejano",
+    "zh": "特哈诺",
+    "tier": 3,
+    "y": 1940,
+    "d": "德州墨西哥裔的音乐：手风琴、合成器与流行旋律，Selena 把它带向全美。",
+    "ar": [
+     "Selena",
+     "Little Joe",
+     "La Mafia"
+    ],
+    "tr": [
+     [
+      "Como La Flor",
+      "Selena",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "samba",
+    "n": "Samba",
+    "zh": "桑巴",
+    "tier": 2,
+    "y": 1916,
+    "d": "里约黑人社群把非洲鼓点、呼应与欧洲和声熔成狂欢节游行乐，二拍子上密集的打击层推着人全身摇摆。",
+    "ar": [
+     "Donga",
+     "Cartola",
+     "Martinho da Vila"
+    ],
+    "tr": [
+     [
+      "Pelo Telefone",
+      "Donga",
+      1916
+     ],
+     [
+      "Aquarela do Brasil",
+      "Ary Barroso",
+      1939
+     ]
+    ]
+   },
+   {
+    "id": "bossa-nova",
+    "n": "Bossa Nova",
+    "zh": "巴萨诺瓦",
+    "tier": 2,
+    "y": 1958,
+    "d": "里约中产把桑巴放慢化简，配上爵士和声与气声吟唱，吉他切分像海浪轻推，安静又慵懒。",
+    "ar": [
+     "João Gilberto",
+     "Antônio Carlos Jobim",
+     "Stan Getz"
+    ],
+    "tr": [
+     [
+      "Chega de Saudade",
+      "João Gilberto",
+      1959
+     ]
+    ]
+   },
+   {
+    "id": "mpb",
+    "n": "MPB",
+    "zh": "巴西流行乐",
+    "tier": 2,
+    "y": 1965,
+    "d": "军政府年代，巴西音乐人把巴萨诺瓦、桑巴与民谣摇滚熬成有政治锋芒的创作歌手音乐，歌词先于节奏。",
+    "ar": [
+     "Caetano Veloso",
+     "Gilberto Gil",
+     "Chico Buarque"
+    ],
+    "tr": [
+     [
+      "Alegria, Alegria",
+      "Caetano Veloso",
+      1967
+     ],
+     [
+      "Construção",
+      "Chico Buarque",
+      1971
+     ]
+    ]
+   },
+   {
+    "id": "tango",
+    "n": "Tango",
+    "zh": "探戈",
+    "tier": 2,
+    "y": 1905,
+    "d": "布宜诺斯艾利斯港口区的移民音乐，手风琴与弦乐奏出忧郁而强硬的步态，双人舞贴身对抗又互相支撑。",
+    "ar": [
+     "Carlos Gardel",
+     "Astor Piazzolla",
+     "Juan D'Arienzo"
+    ],
+    "tr": [
+     [
+      "Por una Cabeza",
+      "Carlos Gardel",
+      1935
+     ]
+    ]
+   },
+   {
+    "id": "forro",
+    "n": "Forró",
+    "zh": "福罗",
+    "tier": 3,
+    "y": 1940,
+    "d": "巴西东北旱地的舞会音乐，手风琴、三角铁与扎姆博纳鼓撑起快活的两拍与三拍，唱旱季、迁徙与思念。",
+    "ar": [
+     "Luiz Gonzaga",
+     "Dominguinhos",
+     "Jackson do Pandeiro"
+    ],
+    "tr": [
+     [
+      "Asa Branca",
+      "Luiz Gonzaga",
+      1947
+     ]
+    ]
+   },
+   {
+    "id": "sertanejo",
+    "n": "Sertanejo",
+    "zh": "塞尔塔内霍",
+    "tier": 3,
+    "y": 1929,
+    "d": "从圣保罗内陆乡野民歌起家，两把木吉他加假声二重唱，九十年代插电后变成巴西最畅销的大众流行。",
+    "ar": [
+     "Chitãozinho & Xororó",
+     "Zezé Di Camargo & Luciano",
+     "Tião Carreiro"
+    ],
+    "tr": [
+     [
+      "É o Amor",
+      "Zezé Di Camargo & Luciano",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "bachata",
+    "n": "Bachata",
+    "zh": "巴恰塔",
+    "tier": 3,
+    "y": 1962,
+    "d": "多米尼加乡野的吉他伤情歌，邦戈、刮瓜配清亮高音吉他，讲背叛与思念，从底层标签翻成全球浪漫。",
+    "ar": [
+     "Aventura",
+     "Juan Luis Guerra",
+     "Romeo Santos"
+    ],
+    "tr": [
+     [
+      "Obsesión",
+      "Aventura",
+      2002
+     ]
+    ]
+   },
+   {
+    "id": "merengue",
+    "n": "Merengue",
+    "zh": "梅伦格",
+    "tier": 3,
+    "y": 1930,
+    "d": "多米尼加国舞，二拍子上塔姆博拉鼓与刮瓜推进，铜管短句一压，全场脚步跟着左右拖曳。",
+    "ar": [
+     "Juan Luis Guerra",
+     "Johnny Ventura",
+     "Wilfrido Vargas"
+    ],
+    "tr": [
+     [
+      "La Bilirrubina",
+      "Juan Luis Guerra",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "kompa",
+    "n": "Kompa",
+    "zh": "康帕",
+    "tier": 3,
+    "y": 1955,
+    "d": "海地太子港把本土节奏交给电吉他、铜管与康加鼓，摇摆温和克制，是加勒比城市舞曲的雅致版本。",
+    "ar": [
+     "Nemours Jean-Baptiste",
+     "Tabou Combo",
+     "Alan Cavé"
+    ],
+    "tr": [
+     [
+      "Ti Carole",
+      "Nemours Jean-Baptiste",
+      1967
+     ]
+    ]
+   },
+   {
+    "id": "calypso",
+    "n": "Calypso",
+    "zh": "卡利普索",
+    "tier": 3,
+    "y": 1912,
+    "d": "特立尼达狂欢节的即兴讽刺歌，钢鼓与吉他托着西印度群岛的叙事韵律，既报新闻也讲笑话。",
+    "ar": [
+     "Harry Belafonte",
+     "Mighty Sparrow",
+     "Lord Kitchener"
+    ],
+    "tr": [
+     [
+      "Day-O (Banana Boat Song)",
+      "Harry Belafonte",
+      1956
+     ],
+     [
+      "Jean and Dinah",
+      "Mighty Sparrow",
+      1956
+     ]
+    ]
+   },
+   {
+    "id": "soca",
+    "n": "Soca",
+    "zh": "索卡",
+    "tier": 3,
+    "y": 1970,
+    "d": "卡利普索加速后塞进鼓机与合成器，重拍落在地鼓上，为狂欢节游行造出不知疲倦的推力。",
+    "ar": [
+     "Arrow",
+     "Machel Montano",
+     "Kes"
+    ],
+    "tr": [
+     [
+      "Hot Hot Hot",
+      "Arrow",
+      1983
+     ]
+    ]
+   },
+   {
+    "id": "zouk",
+    "n": "Zouk",
+    "zh": "祖克",
+    "tier": 3,
+    "y": 1980,
+    "d": "瓜德罗普与马提尼克乐手把康帕、本土鼓乐和合成器叠成密实舞曲，鼓组急促，人声甜里带韧。",
+    "ar": [
+     "Kassav'",
+     "Zouk Machine",
+     "Jocelyne Béroard"
+    ],
+    "tr": [
+     [
+      "Zouk-la Sé Sèl Médikaman Nou Ni",
+      "Kassav'",
+      1985
+     ]
+    ]
+   },
+   {
+    "id": "kizomba",
+    "n": "Kizomba",
+    "zh": "基宗巴",
+    "tier": 3,
+    "y": 1984,
+    "d": "安哥拉人在祖克的速度上再放慢，混进森巴的贴身律动，鼓点缠绵，被叫作非洲的慢舞情歌。",
+    "ar": [
+     "Bonga",
+     "Anselmo Ralph",
+     "C4 Pedro"
+    ],
+    "tr": [
+     [
+      "Não Me Toca",
+      "Anselmo Ralph",
+      2012
+     ]
+    ]
+   },
+   {
+    "id": "dembow",
+    "n": "Dembow",
+    "zh": "登波",
+    "tier": 3,
+    "y": 1990,
+    "d": "牙买加 dancehall 的三连音鼓型被波多黎各人循环取样、加速堆叠，成了 reggaeton 的骨架节奏。",
+    "ar": [
+     "Shabba Ranks",
+     "Nando Boom",
+     "El General"
+    ],
+    "tr": [
+     [
+      "Dem Bow",
+      "Shabba Ranks",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "moombahton",
+    "n": "Moombahton",
+    "zh": "蒙巴顿",
+    "tier": 3,
+    "y": 2009,
+    "d": "华盛顿的制作人把登波鼓型降到一百零八拍，再铺浩室低音，慢到能扭、也照样能蹦的混血舞曲。",
+    "ar": [
+     "Dillon Francis",
+     "Diplo",
+     "Munchi"
+    ],
+    "tr": [
+     [
+      "Masta Blasta",
+      "Dillon Francis",
+      2012
+     ]
+    ]
+   },
+   {
+    "id": "nu-cumbia",
+    "n": "Nu-Cumbia",
+    "zh": "新昆比亚",
+    "tier": 3,
+    "y": 2005,
+    "d": "阿根廷与墨西哥的电子乐手把昆比亚手风琴采样、合成器和舞池低音拼在一起，怀旧又躁动。",
+    "ar": [
+     "Bomba Estéreo",
+     "Chancha Vía Circuito",
+     "Dengue Dengue Dengue"
+    ],
+    "tr": [
+     [
+      "Soy Yo",
+      "Bomba Estéreo",
+      2015
+     ]
+    ]
+   },
+   {
+    "id": "juju",
+    "n": "Juju",
+    "zh": "朱朱",
+    "tier": 3,
+    "y": 1920,
+    "d": "约鲁巴人的吉他乐队音乐，多把吉他交织成对话式旋律，配上说话鼓与合唱团，织体厚而松弛。",
+    "ar": [
+     "King Sunny Adé",
+     "Chief Ebenezer Obey",
+     "Tunde Nightingale"
+    ],
+    "tr": [
+     [
+      "Ja Funmi",
+      "King Sunny Adé",
+      1982
+     ]
+    ]
+   },
+   {
+    "id": "fuji",
+    "n": "Fuji",
+    "zh": "富士",
+    "tier": 3,
+    "y": 1960,
+    "d": "拉各斯穆斯林社群在阿帕拉与萨卡拉上做出的大乐团音乐，鼓组极密，主唱与合唱来回交锋。",
+    "ar": [
+     "Sikiru Ayinde Barrister",
+     "Kollington Ayinla",
+     "Adewale Ayuba"
+    ],
+    "tr": [
+     [
+      "Refined Fuji Garbage",
+      "Sikiru Ayinde Barrister",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "soukous",
+    "n": "Soukous",
+    "zh": "苏库斯",
+    "tier": 3,
+    "y": 1960,
+    "d": "刚果两把吉他把伦巴拆成轮流重复的短句，鼓组一路推进，八十年代从金沙萨跳到巴黎舞厅。",
+    "ar": [
+     "Franco",
+     "Tabu Ley Rochereau",
+     "Papa Wemba"
+    ],
+    "tr": [
+     [
+      "Mario",
+      "Franco",
+      1985
+     ]
+    ]
+   },
+   {
+    "id": "makossa",
+    "n": "Makossa",
+    "zh": "马科萨",
+    "tier": 3,
+    "y": 1950,
+    "d": "杜阿拉人的节庆舞曲，贝斯自己走一条旋律、铜管齐奏、鼓点硬朗，七十年代被迪邦戈带到世界。",
+    "ar": [
+     "Manu Dibango",
+     "Sam Fan Thomas",
+     "Petit Pays"
+    ],
+    "tr": [
+     [
+      "Soul Makossa",
+      "Manu Dibango",
+      1972
+     ]
+    ]
+   },
+   {
+    "id": "mbalax",
+    "n": "Mbalax",
+    "zh": "姆巴拉克斯",
+    "tier": 3,
+    "y": 1970,
+    "d": "塞内加尔的沃洛夫节奏，萨巴尔鼓密集敲击与吉他、铜管并列，人声高亢，跳舞全靠腰腹发力。",
+    "ar": [
+     "Youssou N'Dour",
+     "Baaba Maal",
+     "Étoile de Dakar"
+    ],
+    "tr": [
+     [
+      "7 Seconds",
+      "Youssou N'Dour & Neneh Cherry",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "taarab",
+    "n": "Taarab",
+    "zh": "塔拉布",
+    "tier": 3,
+    "y": 1900,
+    "d": "桑给巴尔沿海的婚礼音乐，阿拉伯旋律、印度弦乐与非洲鼓混作一团，歌声婉转悠长，讲究词句。",
+    "ar": [
+     "Culture Musical Club",
+     "Bi Kidude",
+     "Siti binti Saad"
+    ],
+    "tr": [
+     [
+      "Muhogo wa Jang'ombe",
+      "Culture Musical Club & Bi Kidude",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "benga",
+    "n": "Benga",
+    "zh": "本加",
+    "tier": 3,
+    "y": 1960,
+    "d": "肯尼亚卢奥人把传统里拉琴的音型搬上吉他与贝斯，节奏轻快跳跃，是独立前后最流行的本土声音。",
+    "ar": [
+     "D.O. Misiani",
+     "Kakai Kilonzo",
+     "Victoria Kings"
+    ],
+    "tr": [
+     [
+      "Amuka Salama",
+      "D.O. Misiani",
+      2010
+     ]
+    ]
+   },
+   {
+    "id": "chimurenga",
+    "n": "Chimurenga",
+    "zh": "奇穆伦加",
+    "tier": 3,
+    "y": 1970,
+    "d": "罗得西亚时代的抗争之声：姆比拉琴音型改用吉他弹，配嘶哑嗓音和政治歌词，名字意为「革命」。",
+    "ar": [
+     "Thomas Mapfumo",
+     "Stella Chiweshe",
+     "Oliver Mtukudzi"
+    ],
+    "tr": [
+     [
+      "Hokoyo",
+      "Thomas Mapfumo",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "kuduro",
+    "n": "Kuduro",
+    "zh": "库杜罗",
+    "tier": 3,
+    "y": 1990,
+    "d": "安哥拉内战后在罗安达的街区里长出来，快速电子节拍配粗粝说唱和即兴舞步，名字意为「硬屁股」。",
+    "ar": [
+     "Buraka Som Sistema",
+     "Dog Murras",
+     "Tony Amado"
+    ],
+    "tr": [
+     [
+      "Kalemba (Wegue Wegue)",
+      "Buraka Som Sistema",
+      2008
+     ]
+    ]
+   },
+   {
+    "id": "coupe-decale",
+    "n": "Coupé-Décalé",
+    "zh": "库佩-德卡莱",
+    "tier": 3,
+    "y": 2000,
+    "d": "科特迪瓦战乱中由 DJ 圈发明，鼓点切得干脆、口号式喊唱、舞步夸张，专为派对解压而生。",
+    "ar": [
+     "DJ Arafat",
+     "Douk Saga",
+     "Serge Beynaud"
+    ],
+    "tr": [
+     [
+      "Déranger",
+      "DJ Arafat",
+      2010
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "punk",
+  "name": "朋克 / Emo",
+  "sub": "硬核 · Emo · 数学摇滚",
+  "color": "#ff6f91",
+  "genres": [
+   {
+    "id": "punk-rock",
+    "n": "Punk Rock",
+    "zh": "朋克摇滚",
+    "tier": 1,
+    "y": 1976,
+    "d": "对前卫摇滚的反动：短、快、粗糙、DIY，把摇滚还回车库。",
+    "ar": [
+     "Ramones",
+     "Sex Pistols",
+     "The Clash"
+    ],
+    "tr": [
+     [
+      "Anarchy in the U.K.",
+      "Sex Pistols",
+      1976
+     ]
+    ]
+   },
+   {
+    "id": "hardcore-punk",
+    "n": "Hardcore Punk",
+    "zh": "硬核朋克",
+    "tier": 2,
+    "y": 1980,
+    "d": "朋克加速、加重、更政治化，是 emo、post-hardcore、thrash 的共同源头。",
+    "ar": [
+     "Black Flag",
+     "Minor Threat",
+     "Dead Kennedys"
+    ],
+    "tr": [
+     [
+      "Straight Edge",
+      "Minor Threat",
+      1981
+     ]
+    ]
+   },
+   {
+    "id": "pop-punk",
+    "n": "Pop Punk",
+    "zh": "流行朋克",
+    "tier": 2,
+    "y": 1985,
+    "d": "朋克的速度 + 流行副歌，90 年代末到 2000 年代青少年电台的主流。",
+    "ar": [
+     "Green Day",
+     "Blink-182",
+     "The Offspring"
+    ],
+    "tr": [
+     [
+      "Basket Case",
+      "Green Day",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "emo",
+    "n": "Emo",
+    "zh": "情绪硬核",
+    "tier": 3,
+    "y": 1985,
+    "d": "从硬核朋克分出的情感表达：自白歌词、动态起伏、后来的黑色眼线。",
+    "ar": [
+     "Sunny Day Real Estate",
+     "My Chemical Romance",
+     "Paramore"
+    ],
+    "tr": [
+     [
+      "Welcome to the Black Parade",
+      "My Chemical Romance",
+      2006
+     ]
+    ]
+   },
+   {
+    "id": "post-hardcore",
+    "n": "Post-Hardcore",
+    "zh": "后硬核",
+    "tier": 3,
+    "y": 1985,
+    "d": "硬核的能量 + 实验结构、动态与旋律。",
+    "ar": [
+     "Fugazi",
+     "At the Drive-In",
+     "Thursday"
+    ],
+    "tr": [
+     [
+      "One Armed Scissor",
+      "At the Drive-In",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "emocore",
+    "n": "Emocore",
+    "zh": "情绪硬核",
+    "tier": 3,
+    "y": 1985,
+    "d": "硬核朋克里的第一代情绪化：歌词从口号转向自白，动态起伏取代一路猛冲，华盛顿特区是起点。",
+    "ar": [
+     "Rites of Spring",
+     "Embrace",
+     "Moss Icon"
+    ],
+    "tr": [
+     [
+      "For Want Of",
+      "Rites of Spring",
+      1985
+     ]
+    ]
+   },
+   {
+    "id": "midwest-emo",
+    "n": "Midwest Emo",
+    "zh": "中西部 Emo",
+    "tier": 2,
+    "y": 1994,
+    "d": "第二代 emo：把硬核的激烈收进慢速、错拍的吉他对话里，大学城地下室与 American Football 的同名专辑是分水岭。",
+    "ar": [
+     "American Football",
+     "Cap'n Jazz",
+     "Sunny Day Real Estate"
+    ],
+    "tr": [
+     [
+      "Never Meant",
+      "American Football",
+      1999
+     ],
+     [
+      "In Circles",
+      "Sunny Day Real Estate",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "emo-pop",
+    "n": "Emo Pop",
+    "zh": "流行 Emo",
+    "tier": 2,
+    "y": 2001,
+    "d": "把 emo 的自白塞进流行朋克的大副歌，2000 年代 MTV 与 Warped Tour 的主流声音。",
+    "ar": [
+     "Jimmy Eat World",
+     "Fall Out Boy",
+     "Paramore"
+    ],
+    "tr": [
+     [
+      "The Middle",
+      "Jimmy Eat World",
+      2001
+     ],
+     [
+      "Sugar, We're Goin Down",
+      "Fall Out Boy",
+      2005
+     ]
+    ]
+   },
+   {
+    "id": "emo-revival",
+    "n": "Emo Revival",
+    "zh": "Emo 复兴",
+    "tier": 3,
+    "y": 2010,
+    "d": "2010 年代地下场景的第四次 emo 浪潮：数学摇滚式吉他加更直白的自我剖白，Modern Baseball 一代把它带回小场地。",
+    "ar": [
+     "Modern Baseball",
+     "The World Is a Beautiful Place…",
+     "Tiny Moving Parts"
+    ],
+    "tr": [
+     [
+      "Your Graduation",
+      "Modern Baseball",
+      2014
+     ]
+    ]
+   },
+   {
+    "id": "screamo",
+    "n": "Screamo",
+    "zh": "尖叫 Emo",
+    "tier": 3,
+    "y": 1991,
+    "d": "emo 与硬核的极端化：尖叫、断裂结构与爆发式动态，90 年代圣地亚哥与法国场景各自成派。",
+    "ar": [
+     "Orchid",
+     "Saetia",
+     "Pg.99"
+    ],
+    "tr": [
+     [
+      "In Love with an Apparition",
+      "Pg.99",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "math-rock",
+    "n": "Math Rock",
+    "zh": "数学摇滚",
+    "tier": 2,
+    "y": 1989,
+    "d": "用节拍做文章：奇数拍、频繁变拍与吉他点弦，把摇滚拆成精密齿轮；Slint 的《Spiderland》立下模板，日本 toe 让它更轻盈。",
+    "ar": [
+     "Slint",
+     "Don Caballero",
+     "Hella",
+     "toe"
+    ],
+    "tr": [
+     [
+      "Good Morning, Captain",
+      "Slint",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "mathcore",
+    "n": "Mathcore",
+    "zh": "数学核",
+    "tier": 3,
+    "y": 1997,
+    "d": "math rock 的节拍加金属核的重量与尖叫，Dillinger Escape Plan 把它做成纯粹的肾上腺素。",
+    "ar": [
+     "The Dillinger Escape Plan",
+     "Botch",
+     "Converge"
+    ],
+    "tr": [
+     [
+      "43% Burnt",
+      "The Dillinger Escape Plan",
+      1999
+     ]
+    ]
+   },
+   {
+    "id": "grindcore",
+    "n": "Grindcore",
+    "zh": "碾核",
+    "tier": 2,
+    "y": 1987,
+    "d": "朋克与死亡金属的极速杂交：十几秒一首、blast beat 与政治愤怒，Napalm Death 的《Scum》定义了这个词。",
+    "ar": [
+     "Napalm Death",
+     "Repulsion",
+     "Terrorizer"
+    ],
+    "tr": [
+     [
+      "You Suffer",
+      "Napalm Death",
+      1987
+     ]
+    ]
+   },
+   {
+    "id": "crust-punk",
+    "n": "Crust Punk",
+    "zh": "壳朋克",
+    "tier": 3,
+    "y": 1984,
+    "d": "硬核加金属加无政府主义：粗糙、低沉、带末日味，Amebix 与 Doom 是源头。",
+    "ar": [
+     "Amebix",
+     "Doom",
+     "Nausea"
+    ],
+    "tr": [
+     [
+      "Police Bastard",
+      "Doom",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "d-beat",
+    "n": "D-Beat",
+    "zh": "D 拍硬核",
+    "tier": 3,
+    "y": 1980,
+    "d": "Discharge 开创的一拍一击鼓型被无数乐队复制成一种亚流派，速度快、音墙厚、主唱像在喊命令。",
+    "ar": [
+     "Discharge",
+     "Disclose",
+     "Wolfbrigade"
+    ],
+    "tr": [
+     [
+      "Protest and Survive",
+      "Discharge",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "street-punk",
+    "n": "Street Punk",
+    "zh": "街头朋克",
+    "tier": 3,
+    "y": 1979,
+    "d": "Oi! 与朋克的街头一脉：足球场合唱、工人阶级叙事，英国 80 年代。",
+    "ar": [
+     "Cock Sparrer",
+     "Sham 69",
+     "The Business"
+    ],
+    "tr": [
+     [
+      "England Belongs to Me",
+      "Cock Sparrer",
+      1982
+     ]
+    ]
+   },
+   {
+    "id": "oi",
+    "n": "Oi!",
+    "zh": "Oi! 朋克",
+    "tier": 3,
+    "y": 1977,
+    "d": "1977 年后英国朋克的街头分支，口号式合唱与光头党文化纠缠在一起，简单直接、为球场而写。",
+    "ar": [
+     "Cockney Rejects",
+     "Sham 69",
+     "Angelic Upstarts"
+    ],
+    "tr": [
+     [
+      "Oi! Oi! Oi!",
+      "Cockney Rejects",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "ska-punk",
+    "n": "Ska Punk",
+    "zh": "斯卡朋克",
+    "tier": 2,
+    "y": 1984,
+    "d": "ska 的跳跃节奏加朋克的速度与失真，80 年代末美国第三波 ska 的核心。",
+    "ar": [
+     "Operation Ivy",
+     "Less Than Jake",
+     "Reel Big Fish"
+    ],
+    "tr": [
+     [
+      "Sound System",
+      "Operation Ivy",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "anarcho-punk",
+    "n": "Anarcho-Punk",
+    "zh": "无政府朋克",
+    "tier": 3,
+    "y": 1977,
+    "d": "Crass 带起的英国无政府朋克：反战、反消费主义、DIY 厂牌与拼贴视觉，比音乐更是一种组织方式。",
+    "ar": [
+     "Crass",
+     "Subhumans",
+     "Conflict"
+    ],
+    "tr": [
+     [
+      "Do They Owe Us a Living?",
+      "Crass",
+      1978
+     ]
+    ]
+   },
+   {
+    "id": "riot-grrrl",
+    "n": "Riot Grrrl",
+    "zh": "暴女运动",
+    "tier": 3,
+    "y": 1991,
+    "d": "90 年代女性主导的朋克运动，把性别政治写进失真与 zine 文化。",
+    "ar": [
+     "Bikini Kill",
+     "Sleater-Kinney",
+     "L7"
+    ],
+    "tr": [
+     [
+      "Rebel Girl",
+      "Bikini Kill",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "horror-punk",
+    "n": "Horror Punk",
+    "zh": "恐怖朋克",
+    "tier": 3,
+    "y": 1977,
+    "d": "朋克加 B 级恐怖片美学，Misfits 的怪物形象与旋律副歌定义了它。",
+    "ar": [
+     "Misfits",
+     "The Damned",
+     "AFI"
+    ],
+    "tr": [
+     [
+      "Where Eagles Dare",
+      "Misfits",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "psychobilly",
+    "n": "Psychobilly",
+    "zh": "心理摇滚",
+    "tier": 3,
+    "y": 1980,
+    "d": "rockabilly 的 slapback 贝斯加朋克速度与恐怖片想象，The Cramps 是祖师。",
+    "ar": [
+     "The Cramps",
+     "The Meteors",
+     "Tiger Army"
+    ],
+    "tr": [
+     [
+      "Human Fly",
+      "The Cramps",
+      1978
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "metal",
+  "name": "金属",
+  "sub": "重金属到极端金属",
+  "color": "#93a3b8",
+  "genres": [
+   {
+    "id": "heavy-metal",
+    "n": "Heavy Metal",
+    "zh": "重金属",
+    "tier": 1,
+    "y": 1970,
+    "d": "把硬摇滚推向更黑暗、更重型的方向：降调吉他、双踩、神秘学与工业意象。",
+    "ar": [
+     "Black Sabbath",
+     "Judas Priest",
+     "Iron Maiden"
+    ],
+    "tr": [
+     [
+      "Paranoid",
+      "Black Sabbath",
+      1970
+     ]
+    ]
+   },
+   {
+    "id": "thrash-metal",
+    "n": "Thrash Metal",
+    "zh": "鞭击金属",
+    "tier": 2,
+    "y": 1983,
+    "d": "重金属的速度 + 硬核朋克的攻击性，湾区金属的起点。",
+    "ar": [
+     "Metallica",
+     "Slayer",
+     "Megadeth"
+    ],
+    "tr": [
+     [
+      "Master of Puppets",
+      "Metallica",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "death-metal",
+    "n": "Death Metal",
+    "zh": "死亡金属",
+    "tier": 3,
+    "y": 1987,
+    "d": "thrash 的极端化：低吼、降调、复杂变速与技术化演奏。",
+    "ar": [
+     "Death",
+     "Cannibal Corpse",
+     "Morbid Angel"
+    ],
+    "tr": [
+     [
+      "Symbolic",
+      "Death",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "black-metal",
+    "n": "Black Metal",
+    "zh": "黑金属",
+    "tier": 3,
+    "y": 1991,
+    "d": "挪威地下场景的极端金属：tremolo 扫弦、尖叫、氛围化的黑暗。",
+    "ar": [
+     "Mayhem",
+     "Burzum",
+     "Emperor"
+    ],
+    "tr": [
+     [
+      "Freezing Moon",
+      "Mayhem",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "nu-metal",
+    "n": "Nu Metal",
+    "zh": "新金属",
+    "tier": 2,
+    "y": 1994,
+    "d": "重金属 + hip-hop 节奏 + 降调吉他，2000 年前后统治青少年市场。",
+    "ar": [
+     "Korn",
+     "Limp Bizkit",
+     "Linkin Park"
+    ],
+    "tr": [
+     [
+      "In the End",
+      "Linkin Park",
+      2000
+     ]
+    ]
+   },
+   {
+    "id": "metalcore",
+    "n": "Metalcore",
+    "zh": "金属核",
+    "tier": 3,
+    "y": 1995,
+    "d": "硬核朋克 + 死亡金属：breakdown、双踩与旋律副歌。",
+    "ar": [
+     "Killswitch Engage",
+     "Bring Me the Horizon",
+     "August Burns Red"
+    ],
+    "tr": [
+     [
+      "My Curse",
+      "Killswitch Engage",
+      2006
+     ]
+    ]
+   },
+   {
+    "id": "nwobhm",
+    "n": "NWOBHM",
+    "zh": "英国重金属新浪潮",
+    "tier": 2,
+    "y": 1979,
+    "d": "英国重金属新浪潮：Iron Maiden、Saxon 把朋克的速度和双吉他旋律带进金属，1980 年代金属全球化的起点。",
+    "ar": [
+     "Iron Maiden",
+     "Saxon",
+     "Def Leppard"
+    ],
+    "tr": [
+     [
+      "Phantom of the Opera",
+      "Iron Maiden",
+      1980
+     ]
+    ]
+   },
+   {
+    "id": "speed-metal",
+    "n": "Speed Metal",
+    "zh": "速度金属",
+    "tier": 3,
+    "y": 1981,
+    "d": "比传统重金属更快、更狠的过渡形态，Motörhead 的驱动力是原型，直接通向 thrash。",
+    "ar": [
+     "Motörhead",
+     "Exciter",
+     "Agent Steel"
+    ],
+    "tr": [
+     [
+      "Overkill",
+      "Motörhead",
+      1979
+     ]
+    ]
+   },
+   {
+    "id": "crossover-thrash",
+    "n": "Crossover Thrash",
+    "zh": "交叉鞭击",
+    "tier": 3,
+    "y": 1985,
+    "d": "硬核朋克与 thrash 的交叉，Suicidal Tendencies 的《Institutionalized》是模板。",
+    "ar": [
+     "Suicidal Tendencies",
+     "D.R.I.",
+     "Cro-Mags"
+    ],
+    "tr": [
+     [
+      "Institutionalized",
+      "Suicidal Tendencies",
+      1983
+     ]
+    ]
+   },
+   {
+    "id": "doom-metal",
+    "n": "Doom Metal",
+    "zh": "末日金属",
+    "tier": 2,
+    "y": 1970,
+    "d": "Black Sabbath 开创的慢速重型：降调、沉重、末日感，后来分出 sludge、funeral doom 与 drone。",
+    "ar": [
+     "Black Sabbath",
+     "Pentagram",
+     "Saint Vitus"
+    ],
+    "tr": [
+     [
+      "Black Sabbath",
+      "Black Sabbath",
+      1970
+     ]
+    ]
+   },
+   {
+    "id": "sludge-metal",
+    "n": "Sludge Metal",
+    "zh": "泥浆金属",
+    "tier": 2,
+    "y": 1989,
+    "d": "doom 的慢加硬核的脏，新奥尔良的 Eyehategod 与 Crowbar 把它做成泥浆，Mastodon 让它在 2000 年代变清晰。",
+    "ar": [
+     "Eyehategod",
+     "Crowbar",
+     "Mastodon"
+    ],
+    "tr": [
+     [
+      "Blood and Thunder",
+      "Mastodon",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "stoner-rock",
+    "n": "Stoner Rock",
+    "zh": "石人摇滚",
+    "tier": 2,
+    "y": 1992,
+    "d": "降速、降调、失真开满，配一整套沙漠与迷幻意象；Kyuss 与 Sleep 是圣地。",
+    "ar": [
+     "Kyuss",
+     "Sleep",
+     "Fu Manchu"
+    ],
+    "tr": [
+     [
+      "Green Machine",
+      "Kyuss",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "desert-rock",
+    "n": "Desert Rock",
+    "zh": "沙漠摇滚",
+    "tier": 3,
+    "y": 1992,
+    "d": "加州沙漠场景的 stoner 分支，Queens of the Stone Age 把它带进主流。",
+    "ar": [
+     "Kyuss",
+     "Queens of the Stone Age",
+     "Masters of Reality"
+    ],
+    "tr": [
+     [
+      "No One Knows",
+      "Queens of the Stone Age",
+      2002
+     ]
+    ]
+   },
+   {
+    "id": "power-metal",
+    "n": "Power Metal",
+    "zh": "力量金属",
+    "tier": 2,
+    "y": 1983,
+    "d": "欧洲旋律金属：高速双踩、清亮高音、奇幻史诗主题，Helloween 把它定型。",
+    "ar": [
+     "Helloween",
+     "Blind Guardian",
+     "Stratovarius"
+    ],
+    "tr": [
+     [
+      "Eagle Fly Free",
+      "Helloween",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "symphonic-metal",
+    "n": "Symphonic Metal",
+    "zh": "交响金属",
+    "tier": 3,
+    "y": 1994,
+    "d": "金属乐队加管弦乐与合唱，Nightwish 把歌剧女声带进金属，Within Temptation 走更流行的一路。",
+    "ar": [
+     "Nightwish",
+     "Within Temptation",
+     "Epica"
+    ],
+    "tr": [
+     [
+      "Wish I Had an Angel",
+      "Nightwish",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "gothic-metal",
+    "n": "Gothic Metal",
+    "zh": "哥特金属",
+    "tier": 3,
+    "y": 1991,
+    "d": "哥特摇滚的阴冷加 doom 的重量，Type O Negative 与 Paradise Lost 代表两种路线。",
+    "ar": [
+     "Paradise Lost",
+     "Type O Negative",
+     "Theatre of Tragedy"
+    ],
+    "tr": [
+     [
+      "Black No. 1",
+      "Type O Negative",
+      1993
+     ]
+    ]
+   },
+   {
+    "id": "industrial-metal",
+    "n": "Industrial Metal",
+    "zh": "工业金属",
+    "tier": 2,
+    "y": 1988,
+    "d": "工业采样与金属 riff 的结合，Ministry 的《Psalm 69》是高峰，Nine Inch Nails 让它更个人化。",
+    "ar": [
+     "Ministry",
+     "Nine Inch Nails",
+     "Fear Factory"
+    ],
+    "tr": [
+     [
+      "Just One Fix",
+      "Ministry",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "folk-metal",
+    "n": "Folk Metal",
+    "zh": "民谣金属",
+    "tier": 3,
+    "y": 1990,
+    "d": "民谣旋律与传统乐器进入金属，Skyclad 开路，Finntroll 把 humppa 舞曲跳进金属。",
+    "ar": [
+     "Skyclad",
+     "Finntroll",
+     "Eluveitie"
+    ],
+    "tr": [
+     [
+      "Trollhammaren",
+      "Finntroll",
+      2004
+     ]
+    ]
+   },
+   {
+    "id": "viking-metal",
+    "n": "Viking Metal",
+    "zh": "维京金属",
+    "tier": 3,
+    "y": 1992,
+    "d": "北欧神话与黑金属、民谣的混合，Bathory 的《Hammerheart》立下范式，Amon Amarth 把它做成战歌。",
+    "ar": [
+     "Bathory",
+     "Enslaved",
+     "Amon Amarth"
+    ],
+    "tr": [
+     [
+      "Twilight of the Thunder God",
+      "Amon Amarth",
+      2008
+     ]
+    ]
+   },
+   {
+    "id": "melodic-death",
+    "n": "Melodic Death Metal",
+    "zh": "旋律死亡金属",
+    "tier": 2,
+    "y": 1990,
+    "d": "死亡金属的 blast beat 加双吉他旋律，哥德堡之声影响了整个 2000 年代金属核。",
+    "ar": [
+     "In Flames",
+     "At the Gates",
+     "Dark Tranquillity"
+    ],
+    "tr": [
+     [
+      "Slaughter of the Soul",
+      "At the Gates",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "tech-death",
+    "n": "Technical Death Metal",
+    "zh": "技术死亡金属",
+    "tier": 3,
+    "y": 1991,
+    "d": "死亡金属的技术化：复杂拍号、无调性 solo、极端演奏难度，Death 的《Symbolic》是分界。",
+    "ar": [
+     "Death",
+     "Cynic",
+     "Necrophagist"
+    ],
+    "tr": [
+     [
+      "Symbolic",
+      "Death",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "brutal-death",
+    "n": "Brutal Death Metal",
+    "zh": "残死",
+    "tier": 3,
+    "y": 1991,
+    "d": "死亡金属里最重的一支：guttural 低吼、极速 blast beat、血腥主题，Suffocation 与 Cannibal Corpse 为代表。",
+    "ar": [
+     "Cannibal Corpse",
+     "Suffocation",
+     "Cryptopsy"
+    ],
+    "tr": [
+     [
+      "Hammer Smashed Face",
+      "Cannibal Corpse",
+      1992
+     ]
+    ]
+   },
+   {
+    "id": "deathcore",
+    "n": "Deathcore",
+    "zh": "死核",
+    "tier": 2,
+    "y": 2002,
+    "d": "金属核加死亡金属：breakdown 与 blast beat 交替，2000 年代末从美国地下进入主流。",
+    "ar": [
+     "Suicide Silence",
+     "Whitechapel",
+     "Job for a Cowboy"
+    ],
+    "tr": [
+     [
+      "You Only Live Once",
+      "Suicide Silence",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "djent",
+    "n": "Djent",
+    "zh": "Djent",
+    "tier": 2,
+    "y": 2007,
+    "d": "Meshuggah 式的切分低音 riff 加干净音色与精密制作，被 Periphery 一代做成一个流派名。",
+    "ar": [
+     "Meshuggah",
+     "Periphery",
+     "Animals as Leaders"
+    ],
+    "tr": [
+     [
+      "Bleed",
+      "Meshuggah",
+      2008
+     ]
+    ]
+   },
+   {
+    "id": "post-metal",
+    "n": "Post-Metal",
+    "zh": "后金属",
+    "tier": 2,
+    "y": 2000,
+    "d": "post-rock 的铺陈加 sludge 的重量，Neurosis 与 Isis 把金属做成缓慢移动的地形。",
+    "ar": [
+     "Neurosis",
+     "Isis",
+     "Cult of Luna"
+    ],
+    "tr": [
+     [
+      "Given to the Rising",
+      "Neurosis",
+      2007
+     ]
+    ]
+   },
+   {
+    "id": "blackgaze",
+    "n": "Blackgaze",
+    "zh": "黑瞪",
+    "tier": 3,
+    "y": 2007,
+    "d": "黑金属的 tremolo 与 shoegaze 的雾状和声合流，Alcest 与 Deafheaven 让它成为 2010 年代最出圈的金属分支。",
+    "ar": [
+     "Alcest",
+     "Deafheaven",
+     "Wolves in the Throne Room"
+    ],
+    "tr": [
+     [
+      "Dream House",
+      "Deafheaven",
+      2013
+     ]
+    ]
+   },
+   {
+    "id": "funeral-doom",
+    "n": "Funeral Doom",
+    "zh": "葬礼末日",
+    "tier": 3,
+    "y": 1992,
+    "d": "doom 的极慢速版本：一首二十分钟、管风琴与葬礼氛围，Skepticism 与 Thergothon 是源头。",
+    "ar": [
+     "Skepticism",
+     "Thergothon",
+     "Mournful Congregation"
+    ],
+    "tr": [
+     [
+      "The March and the Stream",
+      "Skepticism",
+      1998
+     ]
+    ]
+   },
+   {
+    "id": "drone-metal",
+    "n": "Drone Metal",
+    "zh": "嗡鸣金属",
+    "tier": 3,
+    "y": 1990,
+    "d": "把一个和弦拉到极致的金属：音墙、反馈与空间感，Earth 与 Sunn O))) 把它做成一种物理体验。",
+    "ar": [
+     "Earth",
+     "Sunn O)))",
+     "Boris"
+    ],
+    "tr": [
+     [
+      "It Took the Night to Believe",
+      "Sunn O)))",
+      2005
+     ]
+    ]
+   },
+   {
+    "id": "goregrind",
+    "n": "Goregrind",
+    "zh": "血碾",
+    "tier": 3,
+    "y": 1987,
+    "d": "grindcore 与死亡金属的血腥变种，Carcass 早期作品定义了它的音色、主题与病理学封面。",
+    "ar": [
+     "Carcass",
+     "Repulsion",
+     "Impetigo"
+    ],
+    "tr": [
+     [
+      "Genital Grinder",
+      "Carcass",
+      1988
+     ]
+    ]
+   },
+   {
+    "id": "war-metal",
+    "n": "War Metal",
+    "zh": "战争金属",
+    "tier": 3,
+    "y": 1993,
+    "d": "黑金属最原始暴戾的一支：粗糙录音、战争主题、几乎没有旋律，Blasphemy 是原点。",
+    "ar": [
+     "Blasphemy",
+     "Conqueror",
+     "Revenge"
+    ],
+    "tr": [
+     [
+      "Fallen Angel of Doom",
+      "Blasphemy",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "dsbm",
+    "n": "Depressive Suicidal Black Metal",
+    "zh": "抑郁黑金属",
+    "tier": 3,
+    "y": 1993,
+    "d": "缓慢、尖啸、极简重复的黑金属分支，Burzum 与 Xasthur 代表两种气质：孤独与自我吞噬。",
+    "ar": [
+     "Burzum",
+     "Xasthur",
+     "Shining"
+    ],
+    "tr": [
+     [
+      "Dunkelheit",
+      "Burzum",
+      1996
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "indie",
+  "name": "独立 / 另类",
+  "sub": "Indie · Britpop · Dream Pop",
+  "color": "#5fcf9a",
+  "genres": [
+   {
+    "id": "shoegaze",
+    "n": "Shoegaze",
+    "zh": "盯鞋",
+    "tier": 3,
+    "y": 1989,
+    "d": "大量吉他效果器 + 耳语人声，把噪音做成一片雾。",
+    "ar": [
+     "My Bloody Valentine",
+     "Slowdive",
+     "Ride"
+    ],
+    "tr": [
+     [
+      "Only Shallow",
+      "My Bloody Valentine",
+      1991
+     ]
+    ]
+   },
+   {
+    "id": "indie-rock",
+    "n": "Indie Rock",
+    "zh": "独立摇滚",
+    "tier": 1,
+    "y": 1982,
+    "d": "在主流厂牌之外自办厂牌、自己录音的摇滚：吉他为主、制作粗粝、态度疏离，后来成了整个另类音乐的母体。",
+    "ar": [
+     "R.E.M.",
+     "Pavement",
+     "Modest Mouse"
+    ],
+    "tr": [
+     [
+      "Cut Your Hair",
+      "Pavement",
+      1994
+     ]
+    ]
+   },
+   {
+    "id": "jangle-pop",
+    "n": "Jangle Pop",
+    "zh": "叮当流行",
+    "tier": 3,
+    "y": 1982,
+    "d": "清亮、带回声的 Rickenbacker 吉他叮当作响，The Smiths 与 R.E.M. 把它做成 80 年代独立吉他的标准音色。",
+    "ar": [
+     "The Smiths",
+     "R.E.M.",
+     "The Byrds"
+    ],
+    "tr": [
+     [
+      "This Charming Man",
+      "The Smiths",
+      1983
+     ]
+    ]
+   },
+   {
+    "id": "twee-pop",
+    "n": "Twee Pop",
+    "zh": "小清新流行",
+    "tier": 3,
+    "y": 1986,
+    "d": "刻意幼稚、旋律甜美的独立流行：手鼓、童声和声、歌词关于暗恋与自行车，Belle and Sebastian 是代表。",
+    "ar": [
+     "Talulah Gosh",
+     "Beat Happening",
+     "Belle and Sebastian"
+    ],
+    "tr": [
+     [
+      "The State I Am In",
+      "Belle and Sebastian",
+      1996
+     ]
+    ]
+   },
+   {
+    "id": "c86",
+    "n": "C86",
+    "zh": "C86 一代",
+    "tier": 3,
+    "y": 1986,
+    "d": "NME 的卡带合辑命名了一整代英国独立乐队：嘈杂又甜美、DIY、现场感强，Primal Scream 早期就在其中。",
+    "ar": [
+     "Primal Scream",
+     "The Pastels",
+     "McCarthy"
+    ],
+    "tr": [
+     [
+      "Velocity Girl",
+      "Primal Scream",
+      1986
+     ]
+    ]
+   },
+   {
+    "id": "britpop",
+    "n": "Britpop",
+    "zh": "英式摇滚",
+    "tier": 2,
+    "y": 1992,
+    "d": "90 年代英国对 grunge 的反击：披头士式的旋律、工人阶级叙事与媒体大战，Oasis 与 Blur 定义了它。",
+    "ar": [
+     "Oasis",
+     "Blur",
+     "Pulp"
+    ],
+    "tr": [
+     [
+      "Common People",
+      "Pulp",
+      1995
+     ]
+    ]
+   },
+   {
+    "id": "madchester",
+    "n": "Madchester",
+    "zh": "曼彻斯特之声",
+    "tier": 3,
+    "y": 1988,
+    "d": "曼彻斯特把独立吉他接上 acid house 的鼓机与舞池律动，Stone Roses 与 Happy Mondays 是旗帜。",
+    "ar": [
+     "The Stone Roses",
+     "Happy Mondays",
+     "Inspiral Carpets"
+    ],
+    "tr": [
+     [
+      "Fools Gold",
+      "The Stone Roses",
+      1989
+     ]
+    ]
+   },
+   {
+    "id": "baggy",
+    "n": "Baggy",
+    "zh": "宽松舞曲",
+    "tier": 3,
+    "y": 1988,
+    "d": "Madchester 的松散分支：更重的 funk 贝斯、更随意的穿着与舞步，直接连接后来的 britpop。",
+    "ar": [
+     "Happy Mondays",
+     "The Charlatans",
+     "The Stone Roses"
+    ],
+    "tr": [
+     [
+      "Step On",
+      "Happy Mondays",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "dream-pop",
+    "n": "Dream Pop",
+    "zh": "梦幻流行",
+    "tier": 2,
+    "y": 1984,
+    "d": "把人声与吉他都裹进混响和延迟里，像隔着雾气听歌；Cocteau Twins 与 Beach House 相隔三十年却同一种温度。",
+    "ar": [
+     "Cocteau Twins",
+     "Slowdive",
+     "Beach House"
+    ],
+    "tr": [
+     [
+      "Cherry-coloured Funk",
+      "Cocteau Twins",
+      1990
+     ]
+    ]
+   },
+   {
+    "id": "noise-pop",
+    "n": "Noise Pop",
+    "zh": "噪音流行",
+    "tier": 3,
+    "y": 1985,
+    "d": "用噪音墙包住流行旋律，The Jesus and Mary Chain 的《Psychocandy》是分水岭。",
+    "ar": [
+     "The Jesus and Mary Chain",
+     "Yo La Tengo",
+     "No Age"
+    ],
+    "tr": [
+     [
+      "Just Like Honey",
+      "The Jesus and Mary Chain",
+      1985
+     ]
+    ]
+   },
+   {
+    "id": "indie-pop",
+    "n": "Indie Pop",
+    "zh": "独立流行",
+    "tier": 2,
+    "y": 1980,
+    "d": "独立厂牌发行的流行乐：旋律优先、制作轻巧，介于 twee 与主流流行之间。",
+    "ar": [
+     "The Pastels",
+     "Camera Obscura",
+     "Belle and Sebastian"
+    ],
+    "tr": [
+     [
+      "Lloyd, I'm Ready to Be Heartbroken",
+      "Camera Obscura",
+      2006
+     ]
+    ]
+   },
+   {
+    "id": "bedroom-pop",
+    "n": "Bedroom Pop",
+    "zh": "卧室流行",
+    "tier": 2,
+    "y": 2010,
+    "d": "一台笔记本、一支麦克风在卧室做完的流行乐：低保真、私密、混响很湿，流媒体时代的新独立。",
+    "ar": [
+     "Clairo",
+     "Rex Orange County",
+     "Girl in Red"
+    ],
+    "tr": [
+     [
+      "Pretty Girl",
+      "Clairo",
+      2017
+     ]
+    ]
+   }
+  ]
+ }
+]

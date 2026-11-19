@@ -1,0 +1,225 @@
+{
+ "family": "soul",
+ "genres": [
+  {
+   "id": "rhythm-and-blues",
+   "tracks": [
+    {"t": "What'd I Say", "a": "Ray Charles", "y": 1959},
+    {"t": "Hallelujah I Love Her So", "a": "Ray Charles", "y": 1956},
+    {"t": "Teardrops from My Eyes", "a": "Ruth Brown", "y": 1950},
+    {"t": "Choo Choo Ch'Boogie", "a": "Louis Jordan", "y": 1946},
+    {"t": "Shake, Rattle and Roll", "a": "Big Joe Turner", "y": 1954},
+    {"t": "Hound Dog", "a": "Big Mama Thornton", "y": 1953}
+   ]
+  },
+  {
+   "id": "doo-wop",
+   "tracks": [
+    {"t": "Only You (And You Alone)", "a": "The Platters", "y": 1955},
+    {"t": "The Great Pretender", "a": "The Platters", "y": 1955},
+    {"t": "Under the Boardwalk", "a": "The Drifters", "y": 1964},
+    {"t": "Save the Last Dance for Me", "a": "The Drifters", "y": 1960},
+    {"t": "Yakety Yak", "a": "The Coasters", "y": 1958},
+    {"t": "In the Still of the Nite", "a": "The Five Satins", "y": 1956}
+   ]
+  },
+  {
+   "id": "soul",
+   "tracks": [
+    {"t": "A Change Is Gonna Come", "a": "Sam Cooke", "y": 1964},
+    {"t": "Try a Little Tenderness", "a": "Otis Redding", "y": 1966},
+    {"t": "Wonderful World", "a": "Sam Cooke", "y": 1960},
+    {"t": "I've Been Loving You Too Long", "a": "Otis Redding", "y": 1965},
+    {"t": "Georgia on My Mind", "a": "Ray Charles", "y": 1960},
+    {"t": "Respect", "a": "Aretha Franklin", "y": 1967}
+   ]
+  },
+  {
+   "id": "motown",
+   "tracks": [
+    {"t": "Reach Out I'll Be There", "a": "Four Tops", "y": 1966},
+    {"t": "Superstition", "a": "Stevie Wonder", "y": 1972},
+    {"t": "My Girl", "a": "The Temptations", "y": 1964},
+    {"t": "Papa Was a Rollin' Stone", "a": "The Temptations", "y": 1972},
+    {"t": "I Heard It Through the Grapevine", "a": "Marvin Gaye", "y": 1968},
+    {"t": "What's Going On", "a": "Marvin Gaye", "y": 1971},
+    {"t": "I Want You Back", "a": "The Jackson 5", "y": 1969}
+   ]
+  },
+  {
+   "id": "funk",
+   "tracks": [
+    {"t": "Papa's Got a Brand New Bag", "a": "James Brown", "y": 1965},
+    {"t": "Give Up the Funk", "a": "Parliament", "y": 1975},
+    {"t": "Cold Sweat", "a": "James Brown", "y": 1967},
+    {"t": "Thank You (Falettinme Be Mice Elf Agin)", "a": "Sly & the Family Stone", "y": 1969},
+    {"t": "Dance to the Music", "a": "Sly & the Family Stone", "y": 1968},
+    {"t": "Pick Up the Pieces", "a": "Average White Band", "y": 1974}
+   ]
+  },
+  {
+   "id": "psychedelic-soul",
+   "tracks": [
+    {"t": "Family Affair", "a": "Sly & the Family Stone", "y": 1971},
+    {"t": "If You Want Me to Stay", "a": "Sly & the Family Stone", "y": 1973},
+    {"t": "Cloud Nine", "a": "The Temptations", "y": 1968},
+    {"t": "Maggot Brain", "a": "Funkadelic", "y": 1971},
+    {"t": "Strawberry Letter 23", "a": "Shuggie Otis", "y": 1971},
+    {"t": "Smiling Faces Sometimes", "a": "The Undisputed Truth", "y": 1971}
+   ]
+  },
+  {
+   "id": "philadelphia-soul",
+   "tracks": [
+    {"t": "Love Train", "a": "The O'Jays", "y": 1972},
+    {"t": "Back Stabbers", "a": "The O'Jays", "y": 1972},
+    {"t": "If You Don't Know Me by Now", "a": "Harold Melvin & the Blue Notes", "y": 1972},
+    {"t": "The Love I Lost", "a": "Harold Melvin & the Blue Notes", "y": 1973},
+    {"t": "TSOP (The Sound of Philadelphia)", "a": "MFSB", "y": 1974},
+    {"t": "Me and Mrs. Jones", "a": "Billy Paul", "y": 1972}
+   ]
+  },
+  {
+   "id": "quiet-storm",
+   "tracks": [
+    {"t": "Close the Door", "a": "Teddy Pendergrass", "y": 1978},
+    {"t": "Turn Off the Lights", "a": "Teddy Pendergrass", "y": 1979},
+    {"t": "Never Too Much", "a": "Luther Vandross", "y": 1981},
+    {"t": "Sweet Love", "a": "Anita Baker", "y": 1986},
+    {"t": "Let's Get It On", "a": "Marvin Gaye", "y": 1973},
+    {"t": "Cruisin'", "a": "Smokey Robinson", "y": 1979}
+   ]
+  },
+  {
+   "id": "contemporary-rnb",
+   "tracks": [
+    {"t": "Nasty", "a": "Janet Jackson", "y": 1986},
+    {"t": "Billie Jean", "a": "Michael Jackson", "y": 1982},
+    {"t": "I Wanna Dance with Somebody (Who Loves Me)", "a": "Whitney Houston", "y": 1987},
+    {"t": "That's the Way Love Goes", "a": "Janet Jackson", "y": 1993},
+    {"t": "Waterfalls", "a": "TLC", "y": 1995},
+    {"t": "I Will Always Love You", "a": "Whitney Houston", "y": 1992}
+   ]
+  },
+  {
+   "id": "new-jack-swing",
+   "tracks": [
+    {"t": "My Prerogative", "a": "Bobby Brown", "y": 1988},
+    {"t": "Every Little Step", "a": "Bobby Brown", "y": 1989},
+    {"t": "Groove Me", "a": "Guy", "y": 1988},
+    {"t": "Poison", "a": "Bell Biv DeVoe", "y": 1990},
+    {"t": "Motownphilly", "a": "Boyz II Men", "y": 1991},
+    {"t": "Rub You the Right Way", "a": "Johnny Gill", "y": 1990}
+   ]
+  },
+  {
+   "id": "neo-soul",
+   "tracks": [
+    {"t": "Untitled (How Does It Feel)", "a": "D'Angelo", "y": 2000},
+    {"t": "Brown Sugar", "a": "D'Angelo", "y": 1995},
+    {"t": "On & On", "a": "Erykah Badu", "y": 1997},
+    {"t": "Doo Wop (That Thing)", "a": "Lauryn Hill", "y": 1998},
+    {"t": "You Got Me", "a": "The Roots", "y": 1999},
+    {"t": "A Long Walk", "a": "Jill Scott", "y": 2000}
+   ]
+  },
+  {
+   "id": "alternative-rnb",
+   "tracks": [
+    {"t": "Thinkin Bout You", "a": "Frank Ocean", "y": 2012},
+    {"t": "Ivy", "a": "Frank Ocean", "y": 2016},
+    {"t": "The Hills", "a": "The Weeknd", "y": 2015},
+    {"t": "Two Weeks", "a": "FKA twigs", "y": 2014},
+    {"t": "Adorn", "a": "Miguel", "y": 2012},
+    {"t": "Redbone", "a": "Childish Gambino", "y": 2016}
+   ]
+  },
+  {
+   "id": "northern-soul",
+   "tracks": [
+    {"t": "Do I Love You (Indeed I Do)", "a": "Frank Wilson", "y": 1965},
+    {"t": "Out on the Floor", "a": "Dobie Gray", "y": 1965},
+    {"t": "Tainted Love", "a": "Gloria Jones", "y": 1965},
+    {"t": "Time Will Pass You By", "a": "Tobi Legend", "y": 1968},
+    {"t": "Open the Door to Your Heart", "a": "Darrell Banks", "y": 1966},
+    {"t": "There's a Ghost in My House", "a": "R. Dean Taylor", "y": 1967}
+   ]
+  },
+  {
+   "id": "southern-soul",
+   "tracks": [
+    {"t": "These Arms of Mine", "a": "Otis Redding", "y": 1962},
+    {"t": "(Sittin' On) The Dock of the Bay", "a": "Otis Redding", "y": 1968},
+    {"t": "In the Midnight Hour", "a": "Wilson Pickett", "y": 1965},
+    {"t": "Mustang Sally", "a": "Wilson Pickett", "y": 1966},
+    {"t": "Soul Man", "a": "Sam & Dave", "y": 1967},
+    {"t": "When a Man Loves a Woman", "a": "Percy Sledge", "y": 1966}
+   ]
+  },
+  {
+   "id": "deep-soul",
+   "tracks": [
+    {"t": "The Dark End of the Street", "a": "James Carr", "y": 1967},
+    {"t": "You Got My Mind Messed Up", "a": "James Carr", "y": 1966},
+    {"t": "Take Time to Know Her", "a": "Percy Sledge", "y": 1968},
+    {"t": "That's How Strong My Love Is", "a": "O.V. Wright", "y": 1965},
+    {"t": "A Nickel and a Nail", "a": "O.V. Wright", "y": 1971},
+    {"t": "I'd Rather Go Blind", "a": "Etta James", "y": 1968}
+   ]
+  },
+  {
+   "id": "blue-eyed-soul",
+   "tracks": [
+    {"t": "Son of a Preacher Man", "a": "Dusty Springfield", "y": 1968},
+    {"t": "You Don't Have to Say You Love Me", "a": "Dusty Springfield", "y": 1966},
+    {"t": "You've Lost That Lovin' Feelin'", "a": "The Righteous Brothers", "y": 1964},
+    {"t": "Unchained Melody", "a": "The Righteous Brothers", "y": 1965},
+    {"t": "She's Gone", "a": "Hall & Oates", "y": 1973},
+    {"t": "I Can't Go for That (No Can Do)", "a": "Hall & Oates", "y": 1981}
+   ]
+  },
+  {
+   "id": "p-funk",
+   "tracks": [
+    {"t": "Give Up the Funk (Tear the Roof off the Sucker)", "a": "Parliament", "y": 1976},
+    {"t": "Flash Light", "a": "Parliament", "y": 1977},
+    {"t": "One Nation Under a Groove", "a": "Funkadelic", "y": 1978},
+    {"t": "Atomic Dog", "a": "George Clinton", "y": 1982},
+    {"t": "I'd Rather Be with You", "a": "Bootsy Collins", "y": 1976},
+    {"t": "Bootzilla", "a": "Bootsy Collins", "y": 1978}
+   ]
+  },
+  {
+   "id": "go-go",
+   "tracks": [
+    {"t": "Bustin' Loose", "a": "Chuck Brown & The Soul Searchers", "y": 1979},
+    {"t": "We Need Some Money", "a": "Chuck Brown", "y": 1984},
+    {"t": "Pump Me Up", "a": "Trouble Funk", "y": 1982},
+    {"t": "Drop the Bomb", "a": "Trouble Funk", "y": 1982},
+    {"t": "Da Butt", "a": "E.U.", "y": 1988}
+   ]
+  },
+  {
+   "id": "electro-funk",
+   "tracks": [
+    {"t": "More Bounce to the Ounce", "a": "Zapp", "y": 1980},
+    {"t": "Computer Love", "a": "Zapp", "y": 1985},
+    {"t": "You Dropped a Bomb on Me", "a": "The Gap Band", "y": 1982},
+    {"t": "Outstanding", "a": "The Gap Band", "y": 1982},
+    {"t": "Word Up!", "a": "Cameo", "y": 1986},
+    {"t": "Freak-A-Zoid", "a": "Midnight Star", "y": 1983}
+   ]
+  },
+  {
+   "id": "minneapolis-sound",
+   "tracks": [
+    {"t": "1999", "a": "Prince", "y": 1982},
+    {"t": "Purple Rain", "a": "Prince", "y": 1984},
+    {"t": "Jungle Love", "a": "The Time", "y": 1984},
+    {"t": "The Bird", "a": "The Time", "y": 1984},
+    {"t": "The Glamorous Life", "a": "Sheila E.", "y": 1984},
+    {"t": "Sugar Walls", "a": "Sheena Easton", "y": 1984}
+   ]
+  }
+ ]
+}

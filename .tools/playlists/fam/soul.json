@@ -1,0 +1,422 @@
+{
+ "family": "soul",
+ "name": "灵魂 / R&B / 放克",
+ "sub": "福音驱动的节奏",
+ "genres": [
+  {
+   "id": "rhythm-and-blues",
+   "n": "Rhythm & Blues",
+   "zh": "节奏布鲁斯",
+   "tier": 2,
+   "y": 1945,
+   "d": "战后把 jump blues 的管乐、gospel 的人声与 boogie 的律动合并，是 soul、funk 与摇滚乐的共同源头。",
+   "ar": [
+    "Ray Charles",
+    "Ruth Brown",
+    "Louis Jordan"
+   ],
+   "tr": [
+    [
+     "What'd I Say",
+     "Ray Charles",
+     1959
+    ]
+   ]
+  },
+  {
+   "id": "doo-wop",
+   "n": "Doo-Wop",
+   "zh": "嘟喔普",
+   "tier": 3,
+   "y": 1948,
+   "d": "街角人声合唱：无伴奏或轻伴奏、三度和声、浪漫歌词。",
+   "ar": [
+    "The Platters",
+    "The Drifters",
+    "The Coasters"
+   ],
+   "tr": [
+    [
+     "Only You (And You Alone)",
+     "The Platters",
+     1955
+    ]
+   ]
+  },
+  {
+   "id": "soul",
+   "n": "Soul",
+   "zh": "灵魂乐",
+   "tier": 1,
+   "y": 1955,
+   "d": "把福音的激情放进世俗情歌，人声是绝对主角；1960 年代美国黑人音乐的主流。",
+   "ar": [
+    "Ray Charles",
+    "Sam Cooke",
+    "Otis Redding"
+   ],
+   "tr": [
+    [
+     "A Change Is Gonna Come",
+     "Sam Cooke",
+     1964
+    ],
+    [
+     "Try a Little Tenderness",
+     "Otis Redding",
+     1966
+    ]
+   ]
+  },
+  {
+   "id": "motown",
+   "n": "Motown",
+   "zh": "摩城",
+   "tier": 2,
+   "y": 1960,
+   "d": "底特律的精致 soul：流行化旋律、紧凑编曲、工厂式制作，为跨种族市场而生。",
+   "ar": [
+    "The Supremes",
+    "The Temptations",
+    "Stevie Wonder"
+   ],
+   "tr": [
+    [
+     "Reach Out I'll Be There",
+     "Four Tops",
+     1966
+    ],
+    [
+     "Superstition",
+     "Stevie Wonder",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "funk",
+   "n": "Funk",
+   "zh": "放克",
+   "tier": 1,
+   "y": 1965,
+   "d": "一拍拍重音、贝斯主导、鼓和吉他切成细碎律动；James Brown 把节奏本身变成主角。",
+   "ar": [
+    "James Brown",
+    "Sly & the Family Stone",
+    "Parliament-Funkadelic"
+   ],
+   "tr": [
+    [
+     "Papa's Got a Brand New Bag",
+     "James Brown",
+     1965
+    ],
+    [
+     "Give Up the Funk",
+     "Parliament",
+     1975
+    ]
+   ]
+  },
+  {
+   "id": "psychedelic-soul",
+   "n": "Psychedelic Soul",
+   "zh": "迷幻灵魂",
+   "tier": 3,
+   "y": 1968,
+   "d": "灵魂乐遇上迷幻摇滚：失真、回声、社会意识与实验编曲。",
+   "ar": [
+    "Sly & the Family Stone",
+    "Funkadelic",
+    "Shuggie Otis"
+   ],
+   "tr": [
+    [
+     "Family Affair",
+     "Sly & the Family Stone",
+     1971
+    ]
+   ]
+  },
+  {
+   "id": "philadelphia-soul",
+   "n": "Philadelphia Soul",
+   "zh": "费城灵魂",
+   "tier": 3,
+   "y": 1968,
+   "d": "费城的甜美灵魂：弦乐、拉丁打击乐、编曲华丽，是 disco 的直接前身之一。",
+   "ar": [
+    "The O'Jays",
+    "Harold Melvin & the Blue Notes",
+    "Gamble & Huff"
+   ],
+   "tr": [
+    [
+     "Love Train",
+     "The O'Jays",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "quiet-storm",
+   "n": "Quiet Storm",
+   "zh": "安静风暴",
+   "tier": 3,
+   "y": 1972,
+   "d": "1970 年代后期的慢板 R&B，浪漫、丝滑，是深夜电台与卧室的配乐。",
+   "ar": [
+    "Teddy Pendergrass",
+    "Luther Vandross",
+    "Anita Baker"
+   ],
+   "tr": [
+    [
+     "Close the Door",
+     "Teddy Pendergrass",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "contemporary-rnb",
+   "n": "Contemporary R&B",
+   "zh": "当代 R&B",
+   "tier": 2,
+   "y": 1983,
+   "d": "1980 年代后的 R&B：鼓机、合成器、更精致的制作；Michael Jackson 与 Whitney Houston 把它推上全球。",
+   "ar": [
+    "Michael Jackson",
+    "Whitney Houston",
+    "Janet Jackson"
+   ],
+   "tr": [
+    [
+     "Nasty",
+     "Janet Jackson",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "new-jack-swing",
+   "n": "New Jack Swing",
+   "zh": "新杰克摇摆",
+   "tier": 3,
+   "y": 1987,
+   "d": "1980 年代末的 R&B 分支：摇摆鼓机、采样与 hip-hop 态度。",
+   "ar": [
+    "Teddy Riley",
+    "Bobby Brown",
+    "Guy"
+   ],
+   "tr": [
+    [
+     "My Prerogative",
+     "Bobby Brown",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "neo-soul",
+   "n": "Neo Soul",
+   "zh": "新灵魂",
+   "tier": 3,
+   "y": 1995,
+   "d": "1990 年代中后期，把现场乐器、爵士和声与 hip-hop 鼓点带回灵魂乐。",
+   "ar": [
+    "Erykah Badu",
+    "D'Angelo",
+    "Lauryn Hill"
+   ],
+   "tr": [
+    [
+     "Untitled (How Does It Feel)",
+     "D'Angelo",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "alternative-rnb",
+   "n": "Alternative R&B",
+   "zh": "另类 R&B",
+   "tier": 3,
+   "y": 2010,
+   "d": "2010 年代的 R&B：氛围化、电子质感、模糊流派边界。",
+   "ar": [
+    "The Weeknd",
+    "Frank Ocean",
+    "FKA twigs"
+   ],
+   "tr": [
+    [
+     "Thinkin Bout You",
+     "Frank Ocean",
+     2012
+    ]
+   ]
+  },
+  {
+   "id": "northern-soul",
+   "n": "Northern Soul",
+   "zh": "北方灵魂",
+   "tier": 3,
+   "y": 1967,
+   "d": "英国北方舞厅里被重新发掘的美国灵魂乐 7 寸单曲：快、重拍、稀有，Frank Wilson 那张只压了很少拷贝的唱片成了圣杯。",
+   "ar": [
+    "Frank Wilson",
+    "Dobie Gray",
+    "Gloria Jones"
+   ],
+   "tr": [
+    [
+     "Do I Love You (Indeed I Do)",
+     "Frank Wilson",
+     1965
+    ]
+   ]
+  },
+  {
+   "id": "southern-soul",
+   "n": "Southern Soul",
+   "zh": "南方灵魂",
+   "tier": 2,
+   "y": 1961,
+   "d": "美国南方的灵魂乐：更粗粝的管乐、更慢的律动与教堂式的呼喊，Stax 与 Otis Redding 是核心。",
+   "ar": [
+    "Otis Redding",
+    "Wilson Pickett",
+    "Sam & Dave"
+   ],
+   "tr": [
+    [
+     "These Arms of Mine",
+     "Otis Redding",
+     1962
+    ]
+   ]
+  },
+  {
+   "id": "deep-soul",
+   "n": "Deep Soul",
+   "zh": "深沉灵魂",
+   "tier": 3,
+   "y": 1965,
+   "d": "南方灵魂最慢、最苦的一支：弦乐、撕裂的嗓音与失恋，James Carr 的《The Dark End of the Street》是标本。",
+   "ar": [
+    "James Carr",
+    "Percy Sledge",
+    "O.V. Wright"
+   ],
+   "tr": [
+    [
+     "The Dark End of the Street",
+     "James Carr",
+     1967
+    ]
+   ]
+  },
+  {
+   "id": "blue-eyed-soul",
+   "n": "Blue-Eyed Soul",
+   "zh": "蓝眼灵魂",
+   "tier": 3,
+   "y": 1967,
+   "d": "白人歌手演唱的灵魂乐：Dusty Springfield 与 Righteous Brothers 证明灵魂不是肤色问题。",
+   "ar": [
+    "Dusty Springfield",
+    "The Righteous Brothers",
+    "Hall & Oates"
+   ],
+   "tr": [
+    [
+     "Son of a Preacher Man",
+     "Dusty Springfield",
+     1968
+    ]
+   ]
+  },
+  {
+   "id": "p-funk",
+   "n": "P-Funk",
+   "zh": "P 放克",
+   "tier": 2,
+   "y": 1975,
+   "d": "Parliament-Funkadelic 的宇宙放克：合成器贝斯、太空歌剧概念与一整个乐团的现场，放克在这里变成了神话。",
+   "ar": [
+    "Parliament",
+    "Funkadelic",
+    "Bootsy Collins"
+   ],
+   "tr": [
+    [
+     "Give Up the Funk (Tear the Roof off the Sucker)",
+     "Parliament",
+     1976
+    ]
+   ]
+  },
+  {
+   "id": "go-go",
+   "n": "Go-Go",
+   "zh": "GO-GO",
+   "tier": 3,
+   "y": 1970,
+   "d": "华盛顿特区的放克变种：康加鼓、call-and-response 与永不落下的律动，Chuck Brown 是教父。",
+   "ar": [
+    "Chuck Brown",
+    "Trouble Funk",
+    "E.U."
+   ],
+   "tr": [
+    [
+     "Bustin' Loose",
+     "Chuck Brown & The Soul Searchers",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "electro-funk",
+   "n": "Electro-Funk",
+   "zh": "电放克",
+   "tier": 2,
+   "y": 1982,
+   "d": "放克遇上合成器与鼓机：Zapp 的 talk box 与慢速机械律动，直接喂养了 electro 与西海岸嘻哈。",
+   "ar": [
+    "Zapp",
+    "The Gap Band",
+    "Cameo"
+   ],
+   "tr": [
+    [
+     "More Bounce to the Ounce",
+     "Zapp",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "minneapolis-sound",
+   "n": "Minneapolis Sound",
+   "zh": "明尼阿波利斯之声",
+   "tier": 2,
+   "y": 1983,
+   "d": "Prince 一手打造的放克、摇滚与合成器混合体，1980 年代最性感的流行声音之一。",
+   "ar": [
+    "Prince",
+    "The Time",
+    "Sheila E."
+   ],
+   "tr": [
+    [
+     "1999",
+     "Prince",
+     1982
+    ]
+   ]
+  }
+ ]
+}

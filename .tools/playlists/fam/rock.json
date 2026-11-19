@@ -1,0 +1,607 @@
+{
+ "family": "rock",
+ "name": "摇滚 / 金属",
+ "sub": "1950s →",
+ "genres": [
+  {
+   "id": "rock-and-roll",
+   "n": "Rock & Roll",
+   "zh": "摇滚乐",
+   "tier": 1,
+   "y": 1954,
+   "d": "R&B 的节奏 + 乡村的吉他 + 青少年的叛逆，1950 年代把流行乐劈成两半。",
+   "ar": [
+    "Elvis Presley",
+    "Chuck Berry",
+    "Little Richard"
+   ],
+   "tr": [
+    [
+     "Johnny B. Goode",
+     "Chuck Berry",
+     1958
+    ]
+   ]
+  },
+  {
+   "id": "rockabilly",
+   "n": "Rockabilly",
+   "zh": "山区乡村摇滚",
+   "tier": 3,
+   "y": 1955,
+   "d": "乡村歌手玩起 R&B：拍击贝斯、回声吉他、山猫式嗓音。",
+   "ar": [
+    "Elvis Presley",
+    "Carl Perkins",
+    "Wanda Jackson"
+   ],
+   "tr": [
+    [
+     "Blue Suede Shoes",
+     "Carl Perkins",
+     1956
+    ]
+   ]
+  },
+  {
+   "id": "garage-rock",
+   "n": "Garage Rock",
+   "zh": "车库摇滚",
+   "tier": 3,
+   "y": 1965,
+   "d": "业余乐队在车库里录出的粗糙摇滚，朋克的精神祖先。",
+   "ar": [
+    "The Sonics",
+    "The Stooges",
+    "The Seeds"
+   ],
+   "tr": [
+    [
+     "I Wanna Be Your Dog",
+     "The Stooges",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "folk-rock",
+   "n": "Folk Rock",
+   "zh": "民谣摇滚",
+   "tier": 3,
+   "y": 1965,
+   "d": "把民谣的歌词与和声接上电吉他，Bob Dylan 与 The Byrds 是关键。",
+   "ar": [
+    "Bob Dylan",
+    "The Byrds",
+    "Simon & Garfunkel"
+   ],
+   "tr": [
+    [
+     "Like a Rolling Stone",
+     "Bob Dylan",
+     1965
+    ]
+   ]
+  },
+  {
+   "id": "psychedelic-rock",
+   "n": "Psychedelic Rock",
+   "zh": "迷幻摇滚",
+   "tier": 2,
+   "y": 1966,
+   "d": "用反馈、回声、东方音阶与录音室实验模拟迷幻体验。",
+   "ar": [
+    "The Beatles",
+    "Pink Floyd",
+    "Jimi Hendrix"
+   ],
+   "tr": [
+    [
+     "Purple Haze",
+     "Jimi Hendrix",
+     1967
+    ]
+   ]
+  },
+  {
+   "id": "progressive-rock",
+   "n": "Progressive Rock",
+   "zh": "前卫摇滚",
+   "tier": 2,
+   "y": 1968,
+   "d": "长曲式、概念专辑、古典与爵士影响，把摇滚当交响乐写。",
+   "ar": [
+    "Pink Floyd",
+    "King Crimson",
+    "Yes"
+   ],
+   "tr": [
+    [
+     "21st Century Schizoid Man",
+     "King Crimson",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "hard-rock",
+   "n": "Hard Rock",
+   "zh": "硬摇滚",
+   "tier": 2,
+   "y": 1968,
+   "d": "更响、更重的布鲁斯摇滚：失真吉他、强力和弦、大嗓门。",
+   "ar": [
+    "Led Zeppelin",
+    "Deep Purple",
+    "AC/DC"
+   ],
+   "tr": [
+    [
+     "Whole Lotta Love",
+     "Led Zeppelin",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "new-wave",
+   "n": "New Wave",
+   "zh": "新浪潮",
+   "tier": 2,
+   "y": 1977,
+   "d": "朋克的能量 + 合成器 + 流行旋律，80 年代电台的声音。",
+   "ar": [
+    "Blondie",
+    "Talking Heads",
+    "The Cure"
+   ],
+   "tr": [
+    [
+     "Heart of Glass",
+     "Blondie",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "post-punk",
+   "n": "Post-Punk",
+   "zh": "后朋克",
+   "tier": 1,
+   "y": 1978,
+   "d": "更黑暗、更实验：放克贝斯、噪音吉他、冷峻文本。",
+   "ar": [
+    "Joy Division",
+    "Gang of Four",
+    "Siouxsie and the Banshees"
+   ],
+   "tr": [
+    [
+     "Love Will Tear Us Apart",
+     "Joy Division",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "gothic-rock",
+   "n": "Gothic Rock",
+   "zh": "哥特摇滚",
+   "tier": 3,
+   "y": 1979,
+   "d": "后朋克最黑暗的分支：低沉嗓音、合唱式吉他、吸血鬼美学。",
+   "ar": [
+    "Bauhaus",
+    "The Sisters of Mercy",
+    "Siouxsie and the Banshees"
+   ],
+   "tr": [
+    [
+     "Bela Lugosi's Dead",
+     "Bauhaus",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "industrial",
+   "n": "Industrial",
+   "zh": "工业音乐",
+   "tier": 2,
+   "y": 1979,
+   "d": "噪音、金属敲击、磁带实验 + 摇滚，后来演化出工业金属与工业舞曲。",
+   "ar": [
+    "Throbbing Gristle",
+    "Nine Inch Nails",
+    "Ministry"
+   ],
+   "tr": [
+    [
+     "Head Like a Hole",
+     "Nine Inch Nails",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "alternative-rock",
+   "n": "Alternative Rock",
+   "zh": "另类摇滚",
+   "tier": 1,
+   "y": 1985,
+   "d": "地下摇滚的总称：从 college rock 到 grunge，90 年代接管主流。",
+   "ar": [
+    "R.E.M.",
+    "Sonic Youth",
+    "Pixies"
+   ],
+   "tr": [
+    [
+     "Losing My Religion",
+     "R.E.M.",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "grunge",
+   "n": "Grunge",
+   "zh": "垃圾摇滚",
+   "tier": 2,
+   "y": 1988,
+   "d": "西雅图的泥泞摇滚：金属的重 + 朋克的糙 + 一代人的丧。",
+   "ar": [
+    "Nirvana",
+    "Pearl Jam",
+    "Soundgarden"
+   ],
+   "tr": [
+    [
+     "Black Hole Sun",
+     "Soundgarden",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "post-rock",
+   "n": "Post-Rock",
+   "zh": "后摇滚",
+   "tier": 3,
+   "y": 1994,
+   "d": "用摇滚乐器做氛围与渐强，弱化人声，接近古典的叙事。",
+   "ar": [
+    "Mogwai",
+    "Explosions in the Sky",
+    "Godspeed You! Black Emperor"
+   ],
+   "tr": [
+    [
+     "Your Hand in Mine",
+     "Explosions in the Sky",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "surf-rock",
+   "n": "Surf Rock",
+   "zh": "冲浪摇滚",
+   "tier": 2,
+   "y": 1961,
+   "d": "加州的冲浪文化配混响吉他：颤音、滑音与快速拨弦，Dick Dale 的《Misirlou》是终极范本。",
+   "ar": [
+    "Dick Dale",
+    "The Ventures",
+    "The Surfaris"
+   ],
+   "tr": [
+    [
+     "Misirlou",
+     "Dick Dale",
+     1962
+    ]
+   ]
+  },
+  {
+   "id": "garage-punk",
+   "n": "Garage Punk",
+   "zh": "车库朋克",
+   "tier": 2,
+   "y": 1976,
+   "d": "车库摇滚的粗糙与朋克的能量合流：失真、喊叫、三和弦，The Stooges 是原型。",
+   "ar": [
+    "The Stooges",
+    "The Sonics",
+    "Ty Segall"
+   ],
+   "tr": [
+    [
+     "I Wanna Be Your Dog",
+     "The Stooges",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "space-rock",
+   "n": "Space Rock",
+   "zh": "太空摇滚",
+   "tier": 3,
+   "y": 1988,
+   "d": "用长段重复、合成器与回声制造失重感，Hawkwind 开路，Spacemen 3 把它做得更极简。",
+   "ar": [
+    "Hawkwind",
+    "Spacemen 3",
+    "Spiritualized"
+   ],
+   "tr": [
+    [
+     "Silver Machine",
+     "Hawkwind",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "noise-rock",
+   "n": "Noise Rock",
+   "zh": "噪音摇滚",
+   "tier": 2,
+   "y": 1983,
+   "d": "把无调性、反馈与结构破坏带进摇滚，Sonic Youth 与 Big Black 让它成为 80 年代纽约/芝加哥的地下语言。",
+   "ar": [
+    "Sonic Youth",
+    "Big Black",
+    "Lightning Bolt"
+   ],
+   "tr": [
+    [
+     "Kool Thing",
+     "Sonic Youth",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "slowcore",
+   "n": "Slowcore",
+   "zh": "慢核",
+   "tier": 3,
+   "y": 1990,
+   "d": "把摇滚降到近乎静止：慢速、留白、低声，Low 与 Codeine 用安静制造压迫感。",
+   "ar": [
+    "Low",
+    "Codeine",
+    "Duster"
+   ],
+   "tr": [
+    [
+     "Words",
+     "Low",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "post-grunge",
+   "n": "Post-Grunge",
+   "zh": "后垃圾摇滚",
+   "tier": 2,
+   "y": 1994,
+   "d": "grunge 的失真与态度被磨平成电台友好型摇滚，Foo Fighters 与 Nickelback 占据整个 2000 年代。",
+   "ar": [
+    "Foo Fighters",
+    "Nickelback",
+    "Creed"
+   ],
+   "tr": [
+    [
+     "Everlong",
+     "Foo Fighters",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "j-rock",
+   "n": "J-Rock",
+   "zh": "日式摇滚",
+   "tier": 2,
+   "y": 1980,
+   "d": "日本对摇滚的本土化：高旋律密度、动漫与视觉系文化，X Japan 是 80 年代末的顶点。",
+   "ar": [
+    "X Japan",
+    "B'z",
+    "RADWIMPS"
+   ],
+   "tr": [
+    [
+     "Kurenai",
+     "X Japan",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "rock-en-espanol",
+   "n": "Rock en Español",
+   "zh": "西语摇滚",
+   "tier": 2,
+   "y": 1985,
+   "d": "用西班牙语唱的摇滚：从阿根廷到墨西哥，把英美摇滚翻译成拉美的政治与青春。",
+   "ar": [
+    "Soda Stereo",
+    "Café Tacvba",
+    "Maná"
+   ],
+   "tr": [
+    [
+     "De Música Ligera",
+     "Soda Stereo",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "pop-rock",
+   "n": "Pop Rock",
+   "zh": "流行摇滚",
+   "tier": 2,
+   "y": 1965,
+   "d": "把摇滚的编制交给流行旋律：副歌清晰、时长三分钟，是 70 年代电台的主力。",
+   "ar": [
+    "Cheap Trick",
+    "Tom Petty",
+    "The Cars"
+   ],
+   "tr": [
+    [
+     "Surrender",
+     "Cheap Trick",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "soft-rock",
+   "n": "Soft Rock",
+   "zh": "轻柔摇滚",
+   "tier": 2,
+   "y": 1970,
+   "d": "把摇滚的电声收小、旋律放软：钢琴、和声与成人抒情，Fleetwood Mac 是代表。",
+   "ar": [
+    "Fleetwood Mac",
+    "Air Supply",
+    "Chicago"
+   ],
+   "tr": [
+    [
+     "Dreams",
+     "Fleetwood Mac",
+     1977
+    ]
+   ]
+  },
+  {
+   "id": "arena-rock",
+   "n": "Arena Rock",
+   "zh": "体育场摇滚",
+   "tier": 3,
+   "y": 1973,
+   "d": "为几万人合唱而写的摇滚：大副歌、吉他 solo、烟火与体育馆，Journey 与 Bon Jovi 是典型。",
+   "ar": [
+    "Journey",
+    "Bon Jovi",
+    "Foreigner"
+   ],
+   "tr": [
+    [
+     "Don't Stop Believin'",
+     "Journey",
+     1981
+    ]
+   ]
+  },
+  {
+   "id": "southern-rock",
+   "n": "Southern Rock",
+   "zh": "南方摇滚",
+   "tier": 3,
+   "y": 1970,
+   "d": "美国南方的摇滚：双吉他、布鲁斯根、长段即兴，Lynyrd Skynyrd 的《Free Bird》是国歌。",
+   "ar": [
+    "Lynyrd Skynyrd",
+    "The Allman Brothers Band",
+    "ZZ Top"
+   ],
+   "tr": [
+    [
+     "Free Bird",
+     "Lynyrd Skynyrd",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "art-rock",
+   "n": "Art Rock",
+   "zh": "艺术摇滚",
+   "tier": 2,
+   "y": 1967,
+   "d": "把摇滚当成艺术项目：概念、剧场性、非流行结构，David Bowie 与 Roxy Music 把它做成一种姿态。",
+   "ar": [
+    "David Bowie",
+    "Roxy Music",
+    "Peter Gabriel"
+   ],
+   "tr": [
+    [
+     "Space Oddity",
+     "David Bowie",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "blues-rock",
+   "n": "Blues Rock",
+   "zh": "布鲁斯摇滚",
+   "tier": 2,
+   "y": 1965,
+   "d": "把芝加哥布鲁斯交给电吉他、大音量与摇滚鼓组：Cream 与 Led Zeppelin 把它变成体育场的声音。",
+   "ar": [
+    "Cream",
+    "Led Zeppelin",
+    "The Rolling Stones"
+   ],
+   "tr": [
+    [
+     "Crossroads",
+     "Cream",
+     1968
+    ]
+   ]
+  },
+  {
+   "id": "boogie-rock",
+   "n": "Boogie Rock",
+   "zh": "布吉摇滚",
+   "tier": 3,
+   "y": 1970,
+   "d": "基于布吉低音型的硬摇滚：重复、摇摆、适合开车，ZZ Top 是德州代表。",
+   "ar": [
+    "ZZ Top",
+    "Status Quo",
+    "Canned Heat"
+   ],
+   "tr": [
+    [
+     "La Grange",
+     "ZZ Top",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "swamp-rock",
+   "n": "Swamp Rock",
+   "zh": "沼泽摇滚",
+   "tier": 3,
+   "y": 1967,
+   "d": "把路易斯安那的沼泽气息、布鲁斯与摇滚混在一起：Creedence 的《Born on the Bayou》是代表作。",
+   "ar": [
+    "Creedence Clearwater Revival",
+    "Tony Joe White",
+    "Dr. John"
+   ],
+   "tr": [
+    [
+     "Born on the Bayou",
+     "Creedence Clearwater Revival",
+     1969
+    ]
+   ]
+  }
+ ]
+}

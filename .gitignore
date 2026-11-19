@@ -1,0 +1,19 @@
+# dependencies / caches
+node_modules/
+.npm-cache/
+.tools/i18n/.npm-cache/
+
+# local editor & OS junk
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.orig
+.vscode/
+.idea/
+
+# dev screenshots (regenerate locally, not part of the site)
+shot-*.png
+
+# Vercel
+.vercel/

@@ -1,0 +1,71 @@
+{
+ "family": "disco",
+ "genres": [
+  {"id": "disco", "tracks": [
+   {"t": "Love to Love You Baby", "a": "Donna Summer", "y": 1975},
+   {"t": "I Feel Love", "a": "Donna Summer", "y": 1977},
+   {"t": "Le Freak", "a": "Chic", "y": 1978},
+   {"t": "Good Times", "a": "Chic", "y": 1979},
+   {"t": "Stayin' Alive", "a": "Bee Gees", "y": 1977},
+   {"t": "I Will Survive", "a": "Gloria Gaynor", "y": 1978},
+   {"t": "We Are Family", "a": "Sister Sledge", "y": 1979},
+   {"t": "Disco Inferno", "a": "The Trammps", "y": 1976}
+  ]},
+  {"id": "boogie", "tracks": [
+   {"t": "I'm in Love", "a": "Evelyn 'Champagne' King", "y": 1981},
+   {"t": "Love Come Down", "a": "Evelyn 'Champagne' King", "y": 1982},
+   {"t": "You're the One for Me", "a": "D-Train", "y": 1981},
+   {"t": "Forget Me Nots", "a": "Patrice Rushen", "y": 1982},
+   {"t": "Juicy Fruit", "a": "Mtume", "y": 1983},
+   {"t": "I Just Gotta Have You (Lover Turn Me On)", "a": "Kashif", "y": 1983}
+  ]},
+  {"id": "post-disco", "tracks": [
+   {"t": "Don't Stop 'Til You Get Enough", "a": "Michael Jackson", "y": 1979},
+   {"t": "Rock with You", "a": "Michael Jackson", "y": 1979},
+   {"t": "1999", "a": "Prince", "y": 1982},
+   {"t": "I'm So Excited", "a": "The Pointer Sisters", "y": 1982},
+   {"t": "Upside Down", "a": "Diana Ross", "y": 1980},
+   {"t": "Genius of Love", "a": "Tom Tom Club", "y": 1981}
+  ]},
+  {"id": "hi-nrg", "tracks": [
+   {"t": "You Make Me Feel (Mighty Real)", "a": "Sylvester", "y": 1978},
+   {"t": "Do You Wanna Funk", "a": "Sylvester", "y": 1982},
+   {"t": "Menergy", "a": "Patrick Cowley", "y": 1981},
+   {"t": "Native Love (Step by Step)", "a": "Divine", "y": 1982},
+   {"t": "You Spin Me Round (Like a Record)", "a": "Dead or Alive", "y": 1984},
+   {"t": "It's Raining Men", "a": "The Weather Girls", "y": 1982}
+  ]},
+  {"id": "italo-disco", "tracks": [
+   {"t": "Tarzan Boy", "a": "Baltimora", "y": 1985},
+   {"t": "I Like Chopin", "a": "Gazebo", "y": 1983},
+   {"t": "Take a Chance", "a": "Mr. Flagio", "y": 1983},
+   {"t": "Dolce Vita", "a": "Ryan Paris", "y": 1983},
+   {"t": "Another Life", "a": "Kano", "y": 1983},
+   {"t": "Hey Hey Guy", "a": "Ken Laszlo", "y": 1984}
+  ]},
+  {"id": "nu-disco", "tracks": [
+   {"t": "Inspector Norse", "a": "Todd Terje", "y": 2012},
+   {"t": "I Feel Space", "a": "Lindstrøm", "y": 2005},
+   {"t": "Blind", "a": "Hercules and Love Affair", "y": 2008},
+   {"t": "Baby I'm Yours", "a": "Breakbot", "y": 2012},
+   {"t": "Body Funk", "a": "Purple Disco Machine", "y": 2017},
+   {"t": "Coma Cat", "a": "Tensnake", "y": 2010}
+  ]},
+  {"id": "euro-disco", "tracks": [
+   {"t": "Daddy Cool", "a": "Boney M", "y": 1976},
+   {"t": "Rasputin", "a": "Boney M", "y": 1978},
+   {"t": "Fly, Robin, Fly", "a": "Silver Convention", "y": 1975},
+   {"t": "Dancing Queen", "a": "ABBA", "y": 1976},
+   {"t": "D.I.S.C.O.", "a": "Ottawan", "y": 1979},
+   {"t": "One for You, One for Me", "a": "La Bionda", "y": 1978}
+  ]},
+  {"id": "space-disco", "tracks": [
+   {"t": "I Feel Love", "a": "Donna Summer", "y": 1977},
+   {"t": "From Here to Eternity", "a": "Giorgio Moroder", "y": 1977},
+   {"t": "Supernature", "a": "Cerrone", "y": 1977},
+   {"t": "Magic Fly", "a": "Space", "y": 1977},
+   {"t": "Spacer", "a": "Sheila & B. Devotion", "y": 1979},
+   {"t": "The Chase", "a": "Giorgio Moroder", "y": 1978}
+  ]}
+ ]
+}

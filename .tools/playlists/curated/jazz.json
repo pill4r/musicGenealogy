@@ -1,0 +1,214 @@
+{
+ "family": "jazz",
+ "genres": [
+  {
+   "id": "ragtime",
+   "tracks": [
+    {"t": "Maple Leaf Rag", "a": "Scott Joplin", "y": 1899},
+    {"t": "The Entertainer", "a": "Scott Joplin", "y": 1902},
+    {"t": "Frog Legs Rag", "a": "James Scott", "y": 1906},
+    {"t": "American Beauty Rag", "a": "Joseph Lamb", "y": 1913},
+    {"t": "Twelfth Street Rag", "a": "Euday L. Bowman", "y": 1914},
+    {"t": "Black and White Rag", "a": "Winifred Atwell", "y": 1952}
+   ]
+  },
+  {
+   "id": "new-orleans-jazz",
+   "tracks": [
+    {"t": "West End Blues", "a": "Louis Armstrong", "y": 1928},
+    {"t": "Potato Head Blues", "a": "Louis Armstrong", "y": 1927},
+    {"t": "Dippermouth Blues", "a": "King Oliver's Creole Jazz Band", "y": 1923},
+    {"t": "Black Bottom Stomp", "a": "Jelly Roll Morton's Red Hot Peppers", "y": 1926},
+    {"t": "Tiger Rag", "a": "Original Dixieland Jass Band", "y": 1917},
+    {"t": "Summertime", "a": "Sidney Bechet", "y": 1939}
+   ]
+  },
+  {
+   "id": "swing",
+   "tracks": [
+    {"t": "Sing, Sing, Sing", "a": "Benny Goodman", "y": 1937},
+    {"t": "Take the 'A' Train", "a": "Duke Ellington", "y": 1941},
+    {"t": "It Don't Mean a Thing (If It Ain't Got That Swing)", "a": "Duke Ellington", "y": 1932},
+    {"t": "One O'Clock Jump", "a": "Count Basie", "y": 1937},
+    {"t": "In the Mood", "a": "Glenn Miller", "y": 1939},
+    {"t": "Begin the Beguine", "a": "Artie Shaw", "y": 1938}
+   ]
+  },
+  {
+   "id": "bebop",
+   "tracks": [
+    {"t": "Ko-Ko", "a": "Charlie Parker", "y": 1945},
+    {"t": "Salt Peanuts", "a": "Dizzy Gillespie", "y": 1945},
+    {"t": "Ornithology", "a": "Charlie Parker", "y": 1946},
+    {"t": "'Round Midnight", "a": "Thelonious Monk", "y": 1947},
+    {"t": "A Night in Tunisia", "a": "Dizzy Gillespie", "y": 1946},
+    {"t": "Tempus Fugit", "a": "Bud Powell", "y": 1950}
+   ]
+  },
+  {
+   "id": "cool-jazz",
+   "tracks": [
+    {"t": "Jeru", "a": "Miles Davis", "y": 1949},
+    {"t": "My Funny Valentine", "a": "Chet Baker", "y": 1954},
+    {"t": "Boplicity", "a": "Miles Davis", "y": 1949},
+    {"t": "Take Five", "a": "The Dave Brubeck Quartet", "y": 1959},
+    {"t": "Waltz for Debby", "a": "Bill Evans", "y": 1961},
+    {"t": "Django", "a": "The Modern Jazz Quartet", "y": 1953}
+   ]
+  },
+  {
+   "id": "hard-bop",
+   "tracks": [
+    {"t": "Moanin'", "a": "Art Blakey", "y": 1958},
+    {"t": "Song for My Father", "a": "Horace Silver", "y": 1964},
+    {"t": "Señor Blues", "a": "Horace Silver", "y": 1956},
+    {"t": "Blue Train", "a": "John Coltrane", "y": 1958},
+    {"t": "The Sidewinder", "a": "Lee Morgan", "y": 1964},
+    {"t": "Watermelon Man", "a": "Herbie Hancock", "y": 1962}
+   ]
+  },
+  {
+   "id": "modal-jazz",
+   "tracks": [
+    {"t": "So What", "a": "Miles Davis", "y": 1959},
+    {"t": "Freddie Freeloader", "a": "Miles Davis", "y": 1959},
+    {"t": "My Favorite Things", "a": "John Coltrane", "y": 1961},
+    {"t": "Impressions", "a": "John Coltrane", "y": 1963},
+    {"t": "Maiden Voyage", "a": "Herbie Hancock", "y": 1965},
+    {"t": "Footprints", "a": "Wayne Shorter", "y": 1966}
+   ]
+  },
+  {
+   "id": "free-jazz",
+   "tracks": [
+    {"t": "Free Jazz", "a": "Ornette Coleman", "y": 1961},
+    {"t": "Lonely Woman", "a": "Ornette Coleman", "y": 1959},
+    {"t": "Ghosts", "a": "Albert Ayler", "y": 1964},
+    {"t": "Ascension", "a": "John Coltrane", "y": 1966},
+    {"t": "Unit Structures", "a": "Cecil Taylor", "y": 1966},
+    {"t": "Machine Gun", "a": "Peter Brötzmann", "y": 1968}
+   ]
+  },
+  {
+   "id": "jazz-fusion",
+   "tracks": [
+    {"t": "Bitches Brew", "a": "Miles Davis", "y": 1970},
+    {"t": "Chameleon", "a": "Herbie Hancock", "y": 1973},
+    {"t": "Birdland", "a": "Weather Report", "y": 1977},
+    {"t": "Spain", "a": "Chick Corea & Return to Forever", "y": 1973},
+    {"t": "Peaches en Regalia", "a": "Frank Zappa", "y": 1969},
+    {"t": "Meeting of the Spirits", "a": "Mahavishnu Orchestra", "y": 1971}
+   ]
+  },
+  {
+   "id": "smooth-jazz",
+   "tracks": [
+    {"t": "Songbird", "a": "Kenny G", "y": 1986},
+    {"t": "Smooth Operator", "a": "Sade", "y": 1984},
+    {"t": "Breezin'", "a": "George Benson", "y": 1976},
+    {"t": "This Masquerade", "a": "George Benson", "y": 1976},
+    {"t": "Just the Two of Us", "a": "Grover Washington Jr.", "y": 1981},
+    {"t": "We're in This Love Together", "a": "Al Jarreau", "y": 1981}
+   ]
+  },
+  {
+   "id": "acid-jazz",
+   "tracks": [
+    {"t": "Cantaloop (Flip Fantasia)", "a": "US3", "y": 1993},
+    {"t": "Virtual Insanity", "a": "Jamiroquai", "y": 1996},
+    {"t": "Cosmic Girl", "a": "Jamiroquai", "y": 1996},
+    {"t": "Always There", "a": "Incognito", "y": 1991},
+    {"t": "Dream Come True", "a": "The Brand New Heavies", "y": 1990},
+    {"t": "Never Stop", "a": "The Brand New Heavies", "y": 1991}
+   ]
+  },
+  {
+   "id": "nu-jazz",
+   "tracks": [
+    {"t": "Rose Rouge", "a": "St Germain", "y": 2000},
+    {"t": "Sure Thing", "a": "St Germain", "y": 2000},
+    {"t": "To Build a Home", "a": "The Cinematic Orchestra", "y": 2007},
+    {"t": "Khmer", "a": "Nils Petter Molvær", "y": 1997},
+    {"t": "Solid Ether", "a": "Nils Petter Molvær", "y": 2000},
+    {"t": "Waltz for Koop", "a": "Koop", "y": 2001}
+   ]
+  },
+  {
+   "id": "latin-jazz",
+   "tracks": [
+    {"t": "Manteca", "a": "Dizzy Gillespie", "y": 1947},
+    {"t": "Oye Como Va", "a": "Tito Puente", "y": 1963},
+    {"t": "Ran Kan Kan", "a": "Tito Puente", "y": 1949},
+    {"t": "Mambo No. 5", "a": "Pérez Prado", "y": 1949},
+    {"t": "Watermelon Man", "a": "Mongo Santamaria", "y": 1963},
+    {"t": "Kenya", "a": "Machito", "y": 1957}
+   ]
+  },
+  {
+   "id": "gypsy-jazz",
+   "tracks": [
+    {"t": "Minor Swing", "a": "Django Reinhardt", "y": 1937},
+    {"t": "Nuages", "a": "Django Reinhardt", "y": 1940},
+    {"t": "Honeysuckle Rose", "a": "Stéphane Grappelli", "y": 1937},
+    {"t": "Crazy Rhythm", "a": "Stéphane Grappelli", "y": 1938},
+    {"t": "For Sephora", "a": "Stochelo Rosenberg", "y": 1993},
+    {"t": "Bossa Dorado", "a": "Dorado Schmitt", "y": 1993}
+   ]
+  },
+  {
+   "id": "west-coast-jazz",
+   "tracks": [
+    {"t": "My Funny Valentine", "a": "Chet Baker", "y": 1954},
+    {"t": "Let's Get Lost", "a": "Chet Baker", "y": 1955},
+    {"t": "Walkin' Shoes", "a": "Gerry Mulligan", "y": 1952},
+    {"t": "Bernie's Tune", "a": "Gerry Mulligan", "y": 1953},
+    {"t": "The Train and the River", "a": "Jimmy Giuffre", "y": 1957},
+    {"t": "Martians Go Home", "a": "Shorty Rogers", "y": 1954}
+   ]
+  },
+  {
+   "id": "soul-jazz",
+   "tracks": [
+    {"t": "Back at the Chicken Shack", "a": "Jimmy Smith", "y": 1960},
+    {"t": "The Sermon", "a": "Jimmy Smith", "y": 1959},
+    {"t": "Green Onions", "a": "Booker T. & the M.G.'s", "y": 1962},
+    {"t": "Mercy, Mercy, Mercy", "a": "Cannonball Adderley", "y": 1966},
+    {"t": "The In Crowd", "a": "Ramsey Lewis", "y": 1965},
+    {"t": "Sookie Sookie", "a": "Grant Green", "y": 1970}
+   ]
+  },
+  {
+   "id": "jazz-funk",
+   "tracks": [
+    {"t": "Chameleon", "a": "Herbie Hancock", "y": 1973},
+    {"t": "Watermelon Man", "a": "Herbie Hancock", "y": 1973},
+    {"t": "Put It Where You Want It", "a": "The Crusaders", "y": 1972},
+    {"t": "Street Life", "a": "The Crusaders", "y": 1979},
+    {"t": "Expansions", "a": "Lonnie Liston Smith", "y": 1975},
+    {"t": "Always There", "a": "Ronnie Laws", "y": 1975}
+   ]
+  },
+  {
+   "id": "spiritual-jazz",
+   "tracks": [
+    {"t": "The Creator Has a Master Plan", "a": "Pharoah Sanders", "y": 1969},
+    {"t": "Astral Traveling", "a": "Pharoah Sanders", "y": 1971},
+    {"t": "Journey in Satchidananda", "a": "Alice Coltrane", "y": 1971},
+    {"t": "A Love Supreme", "a": "John Coltrane", "y": 1965},
+    {"t": "Ptah, the El Daoud", "a": "Alice Coltrane", "y": 1970},
+    {"t": "Space Is the Place", "a": "Sun Ra", "y": 1973}
+   ]
+  },
+  {
+   "id": "ethio-jazz",
+   "tracks": [
+    {"t": "Yegelle Tezeta", "a": "Mulatu Astatke", "y": 1974},
+    {"t": "Yekermo Sew", "a": "Mulatu Astatke", "y": 1974},
+    {"t": "Shellela", "a": "Getatchew Mekurya", "y": 1972},
+    {"t": "Tche Belew", "a": "Hailu Mergia & The Walias Band", "y": 1977},
+    {"t": "The Homeless Wanderer", "a": "Emahoy Tsegué-Maryam Guèbrou", "y": 1967},
+    {"t": "Ere Mela Mela", "a": "Mahmoud Ahmed", "y": 1975}
+   ]
+  }
+ ]
+}

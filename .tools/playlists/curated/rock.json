@@ -1,0 +1,335 @@
+{
+ "family": "rock",
+ "genres": [
+  {
+   "id": "rock-and-roll",
+   "tracks": [
+    {"t": "Johnny B. Goode", "a": "Chuck Berry", "y": 1958},
+    {"t": "That's All Right", "a": "Elvis Presley", "y": 1954},
+    {"t": "Rock Around the Clock", "a": "Bill Haley & His Comets", "y": 1954},
+    {"t": "Tutti Frutti", "a": "Little Richard", "y": 1955},
+    {"t": "Great Balls of Fire", "a": "Jerry Lee Lewis", "y": 1957},
+    {"t": "Summertime Blues", "a": "Eddie Cochran", "y": 1958}
+   ]
+  },
+  {
+   "id": "rockabilly",
+   "tracks": [
+    {"t": "Blue Suede Shoes", "a": "Carl Perkins", "y": 1956},
+    {"t": "Mystery Train", "a": "Elvis Presley", "y": 1955},
+    {"t": "Folsom Prison Blues", "a": "Johnny Cash", "y": 1955},
+    {"t": "Be-Bop-A-Lula", "a": "Gene Vincent", "y": 1956},
+    {"t": "Whole Lotta Shakin' Goin' On", "a": "Jerry Lee Lewis", "y": 1957},
+    {"t": "Rock This Town", "a": "Stray Cats", "y": 1981}
+   ]
+  },
+  {
+   "id": "garage-rock",
+   "tracks": [
+    {"t": "I Wanna Be Your Dog", "a": "The Stooges", "y": 1969},
+    {"t": "Louie Louie", "a": "The Kingsmen", "y": 1963},
+    {"t": "Pushin' Too Hard", "a": "The Seeds", "y": 1965},
+    {"t": "Dirty Water", "a": "The Standells", "y": 1966},
+    {"t": "Psychotic Reaction", "a": "Count Five", "y": 1966},
+    {"t": "96 Tears", "a": "? and the Mysterians", "y": 1966}
+   ]
+  },
+  {
+   "id": "folk-rock",
+   "tracks": [
+    {"t": "Like a Rolling Stone", "a": "Bob Dylan", "y": 1965},
+    {"t": "Mr. Tambourine Man", "a": "The Byrds", "y": 1965},
+    {"t": "California Dreamin'", "a": "The Mamas & the Papas", "y": 1965},
+    {"t": "The Weight", "a": "The Band", "y": 1968},
+    {"t": "Mrs. Robinson", "a": "Simon & Garfunkel", "y": 1968},
+    {"t": "Teach Your Children", "a": "Crosby, Stills, Nash & Young", "y": 1970}
+   ]
+  },
+  {
+   "id": "psychedelic-rock",
+   "tracks": [
+    {"t": "Purple Haze", "a": "Jimi Hendrix", "y": 1967},
+    {"t": "Tomorrow Never Knows", "a": "The Beatles", "y": 1966},
+    {"t": "Eight Miles High", "a": "The Byrds", "y": 1966},
+    {"t": "See Emily Play", "a": "Pink Floyd", "y": 1967},
+    {"t": "White Rabbit", "a": "Jefferson Airplane", "y": 1967},
+    {"t": "Light My Fire", "a": "The Doors", "y": 1967}
+   ]
+  },
+  {
+   "id": "progressive-rock",
+   "tracks": [
+    {"t": "21st Century Schizoid Man", "a": "King Crimson", "y": 1969},
+    {"t": "Echoes", "a": "Pink Floyd", "y": 1971},
+    {"t": "Roundabout", "a": "Yes", "y": 1971},
+    {"t": "Supper's Ready", "a": "Genesis", "y": 1972},
+    {"t": "Thick as a Brick", "a": "Jethro Tull", "y": 1972},
+    {"t": "The Spirit of Radio", "a": "Rush", "y": 1980}
+   ]
+  },
+  {
+   "id": "hard-rock",
+   "tracks": [
+    {"t": "Whole Lotta Love", "a": "Led Zeppelin", "y": 1969},
+    {"t": "Smoke on the Water", "a": "Deep Purple", "y": 1972},
+    {"t": "Kashmir", "a": "Led Zeppelin", "y": 1975},
+    {"t": "Walk This Way", "a": "Aerosmith", "y": 1975},
+    {"t": "Highway to Hell", "a": "AC/DC", "y": 1979},
+    {"t": "Sweet Child o' Mine", "a": "Guns N' Roses", "y": 1987}
+   ]
+  },
+  {
+   "id": "new-wave",
+   "tracks": [
+    {"t": "Heart of Glass", "a": "Blondie", "y": 1978},
+    {"t": "Psycho Killer", "a": "Talking Heads", "y": 1977},
+    {"t": "Just What I Needed", "a": "The Cars", "y": 1978},
+    {"t": "Cars", "a": "Gary Numan", "y": 1979},
+    {"t": "Video Killed the Radio Star", "a": "The Buggles", "y": 1979},
+    {"t": "Whip It", "a": "Devo", "y": 1980}
+   ]
+  },
+  {
+   "id": "post-punk",
+   "tracks": [
+    {"t": "Love Will Tear Us Apart", "a": "Joy Division", "y": 1980},
+    {"t": "Damaged Goods", "a": "Gang of Four", "y": 1978},
+    {"t": "Hong Kong Garden", "a": "Siouxsie and the Banshees", "y": 1978},
+    {"t": "Boys Don't Cry", "a": "The Cure", "y": 1979},
+    {"t": "Once in a Lifetime", "a": "Talking Heads", "y": 1980},
+    {"t": "The Killing Moon", "a": "Echo & the Bunnymen", "y": 1984}
+   ]
+  },
+  {
+   "id": "gothic-rock",
+   "tracks": [
+    {"t": "Bela Lugosi's Dead", "a": "Bauhaus", "y": 1979},
+    {"t": "Dark Entries", "a": "Bauhaus", "y": 1980},
+    {"t": "A Forest", "a": "The Cure", "y": 1980},
+    {"t": "Release the Bats", "a": "The Birthday Party", "y": 1981},
+    {"t": "Spellbound", "a": "Siouxsie and the Banshees", "y": 1981},
+    {"t": "This Corrosion", "a": "The Sisters of Mercy", "y": 1987}
+   ]
+  },
+  {
+   "id": "industrial",
+   "tracks": [
+    {"t": "Head Like a Hole", "a": "Nine Inch Nails", "y": 1989},
+    {"t": "Discipline", "a": "Throbbing Gristle", "y": 1981},
+    {"t": "Jesus Built My Hotrod", "a": "Ministry", "y": 1991},
+    {"t": "Closer", "a": "Nine Inch Nails", "y": 1994},
+    {"t": "The Beautiful People", "a": "Marilyn Manson", "y": 1996},
+    {"t": "Du Hast", "a": "Rammstein", "y": 1997}
+   ]
+  },
+  {
+   "id": "alternative-rock",
+   "tracks": [
+    {"t": "Losing My Religion", "a": "R.E.M.", "y": 1991},
+    {"t": "Teenage Riot", "a": "Sonic Youth", "y": 1988},
+    {"t": "Where Is My Mind?", "a": "Pixies", "y": 1988},
+    {"t": "Under the Bridge", "a": "Red Hot Chili Peppers", "y": 1991},
+    {"t": "Creep", "a": "Radiohead", "y": 1992},
+    {"t": "Wonderwall", "a": "Oasis", "y": 1995}
+   ]
+  },
+  {
+   "id": "grunge",
+   "tracks": [
+    {"t": "Black Hole Sun", "a": "Soundgarden", "y": 1994},
+    {"t": "Smells Like Teen Spirit", "a": "Nirvana", "y": 1991},
+    {"t": "Jeremy", "a": "Pearl Jam", "y": 1991},
+    {"t": "Would?", "a": "Alice in Chains", "y": 1992},
+    {"t": "Plush", "a": "Stone Temple Pilots", "y": 1992},
+    {"t": "Heart-Shaped Box", "a": "Nirvana", "y": 1993}
+   ]
+  },
+  {
+   "id": "post-rock",
+   "tracks": [
+    {"t": "Your Hand in Mine", "a": "Explosions in the Sky", "y": 2003},
+    {"t": "Mogwai Fear Satan", "a": "Mogwai", "y": 1997},
+    {"t": "The Dead Flag Blues", "a": "Godspeed You! Black Emperor", "y": 1997},
+    {"t": "First Breath After Coma", "a": "Explosions in the Sky", "y": 2003},
+    {"t": "Hoppípolla", "a": "Sigur Rós", "y": 2005},
+    {"t": "The Mighty Rio Grande", "a": "This Will Destroy You", "y": 2008}
+   ]
+  },
+  {
+   "id": "surf-rock",
+   "tracks": [
+    {"t": "Misirlou", "a": "Dick Dale", "y": 1962},
+    {"t": "Walk Don't Run", "a": "The Ventures", "y": 1960},
+    {"t": "Let's Go Trippin'", "a": "Dick Dale", "y": 1961},
+    {"t": "Wipe Out", "a": "The Surfaris", "y": 1963},
+    {"t": "Pipeline", "a": "The Chantays", "y": 1963},
+    {"t": "Surfin' U.S.A.", "a": "The Beach Boys", "y": 1963}
+   ]
+  },
+  {
+   "id": "garage-punk",
+   "tracks": [
+    {"t": "I Wanna Be Your Dog", "a": "The Stooges", "y": 1969},
+    {"t": "Psycho", "a": "The Sonics", "y": 1965},
+    {"t": "Search and Destroy", "a": "The Stooges", "y": 1973},
+    {"t": "Blitzkrieg Bop", "a": "Ramones", "y": 1976},
+    {"t": "New Rose", "a": "The Damned", "y": 1976},
+    {"t": "Sonic Reducer", "a": "Dead Boys", "y": 1977}
+   ]
+  },
+  {
+   "id": "space-rock",
+   "tracks": [
+    {"t": "Silver Machine", "a": "Hawkwind", "y": 1972},
+    {"t": "Set the Controls for the Heart of the Sun", "a": "Pink Floyd", "y": 1968},
+    {"t": "Master of the Universe", "a": "Hawkwind", "y": 1971},
+    {"t": "Walking with Jesus", "a": "Spacemen 3", "y": 1986},
+    {"t": "Take Me to the Other Side", "a": "Spacemen 3", "y": 1989},
+    {"t": "Ladies and Gentlemen We Are Floating in Space", "a": "Spiritualized", "y": 1997}
+   ]
+  },
+  {
+   "id": "noise-rock",
+   "tracks": [
+    {"t": "Kool Thing", "a": "Sonic Youth", "y": 1990},
+    {"t": "Kerosene", "a": "Big Black", "y": 1986},
+    {"t": "Expressway to Yr Skull", "a": "Sonic Youth", "y": 1986},
+    {"t": "Touch Me I'm Sick", "a": "Mudhoney", "y": 1988},
+    {"t": "Prayer to God", "a": "Shellac", "y": 2000},
+    {"t": "Dracula Mountain", "a": "Lightning Bolt", "y": 2003}
+   ]
+  },
+  {
+   "id": "slowcore",
+   "tracks": [
+    {"t": "Words", "a": "Low", "y": 1994},
+    {"t": "Tugboat", "a": "Galaxie 500", "y": 1988},
+    {"t": "D", "a": "Codeine", "y": 1990},
+    {"t": "Katy Song", "a": "Red House Painters", "y": 1993},
+    {"t": "Inside Out", "a": "Duster", "y": 1998},
+    {"t": "Farewell Transmission", "a": "Songs: Ohia", "y": 2003}
+   ]
+  },
+  {
+   "id": "post-grunge",
+   "tracks": [
+    {"t": "Everlong", "a": "Foo Fighters", "y": 1997},
+    {"t": "Glycerine", "a": "Bush", "y": 1994},
+    {"t": "Tomorrow", "a": "Silverchair", "y": 1994},
+    {"t": "Higher", "a": "Creed", "y": 1999},
+    {"t": "Kryptonite", "a": "3 Doors Down", "y": 2000},
+    {"t": "How You Remind Me", "a": "Nickelback", "y": 2001}
+   ]
+  },
+  {
+   "id": "j-rock",
+   "tracks": [
+    {"t": "Kurenai", "a": "X Japan", "y": 1989},
+    {"t": "Linda Linda", "a": "The Blue Hearts", "y": 1987},
+    {"t": "Silent Jealousy", "a": "X Japan", "y": 1991},
+    {"t": "Love Phantom", "a": "B'z", "y": 1995},
+    {"t": "Rewrite", "a": "Asian Kung-Fu Generation", "y": 2004},
+    {"t": "Zenzenzense", "a": "RADWIMPS", "y": 2016}
+   ]
+  },
+  {
+   "id": "rock-en-espanol",
+   "tracks": [
+    {"t": "De Música Ligera", "a": "Soda Stereo", "y": 1990},
+    {"t": "Cuando Pase el Temblor", "a": "Soda Stereo", "y": 1985},
+    {"t": "El Baile de los Que Sobran", "a": "Los Prisioneros", "y": 1986},
+    {"t": "La Célula Que Explota", "a": "Caifanes", "y": 1990},
+    {"t": "Oye Mi Amor", "a": "Maná", "y": 1992},
+    {"t": "La Ingrata", "a": "Café Tacvba", "y": 1994}
+   ]
+  },
+  {
+   "id": "pop-rock",
+   "tracks": [
+    {"t": "Surrender", "a": "Cheap Trick", "y": 1978},
+    {"t": "American Girl", "a": "Tom Petty and the Heartbreakers", "y": 1976},
+    {"t": "My Best Friend's Girl", "a": "The Cars", "y": 1978},
+    {"t": "Summer of '69", "a": "Bryan Adams", "y": 1984},
+    {"t": "What's Up?", "a": "4 Non Blondes", "y": 1992},
+    {"t": "Mr. Brightside", "a": "The Killers", "y": 2004}
+   ]
+  },
+  {
+   "id": "soft-rock",
+   "tracks": [
+    {"t": "Dreams", "a": "Fleetwood Mac", "y": 1977},
+    {"t": "Fire and Rain", "a": "James Taylor", "y": 1970},
+    {"t": "Hotel California", "a": "Eagles", "y": 1976},
+    {"t": "All Out of Love", "a": "Air Supply", "y": 1980},
+    {"t": "Africa", "a": "Toto", "y": 1982},
+    {"t": "Hard to Say I'm Sorry", "a": "Chicago", "y": 1982}
+   ]
+  },
+  {
+   "id": "arena-rock",
+   "tracks": [
+    {"t": "Don't Stop Believin'", "a": "Journey", "y": 1981},
+    {"t": "Eye of the Tiger", "a": "Survivor", "y": 1982},
+    {"t": "I Want to Know What Love Is", "a": "Foreigner", "y": 1984},
+    {"t": "Rock You Like a Hurricane", "a": "Scorpions", "y": 1984},
+    {"t": "Livin' on a Prayer", "a": "Bon Jovi", "y": 1986},
+    {"t": "The Final Countdown", "a": "Europe", "y": 1986}
+   ]
+  },
+  {
+   "id": "southern-rock",
+   "tracks": [
+    {"t": "Free Bird", "a": "Lynyrd Skynyrd", "y": 1973},
+    {"t": "Ramblin' Man", "a": "The Allman Brothers Band", "y": 1973},
+    {"t": "Can't You See", "a": "The Marshall Tucker Band", "y": 1973},
+    {"t": "Sweet Home Alabama", "a": "Lynyrd Skynyrd", "y": 1974},
+    {"t": "Tush", "a": "ZZ Top", "y": 1975},
+    {"t": "The Devil Went Down to Georgia", "a": "The Charlie Daniels Band", "y": 1979}
+   ]
+  },
+  {
+   "id": "art-rock",
+   "tracks": [
+    {"t": "Space Oddity", "a": "David Bowie", "y": 1969},
+    {"t": "Life on Mars?", "a": "David Bowie", "y": 1971},
+    {"t": "Virginia Plain", "a": "Roxy Music", "y": 1972},
+    {"t": "Bohemian Rhapsody", "a": "Queen", "y": 1975},
+    {"t": "Solsbury Hill", "a": "Peter Gabriel", "y": 1977},
+    {"t": "Paranoid Android", "a": "Radiohead", "y": 1997}
+   ]
+  },
+  {
+   "id": "blues-rock",
+   "tracks": [
+    {"t": "Crossroads", "a": "Cream", "y": 1968},
+    {"t": "All Your Love", "a": "John Mayall & the Bluesbreakers", "y": 1966},
+    {"t": "Sunshine of Your Love", "a": "Cream", "y": 1967},
+    {"t": "Since I've Been Loving You", "a": "Led Zeppelin", "y": 1970},
+    {"t": "Pride and Joy", "a": "Stevie Ray Vaughan and Double Trouble", "y": 1983},
+    {"t": "Ball and Biscuit", "a": "The White Stripes", "y": 2003}
+   ]
+  },
+  {
+   "id": "boogie-rock",
+   "tracks": [
+    {"t": "La Grange", "a": "ZZ Top", "y": 1973},
+    {"t": "On the Road Again", "a": "Canned Heat", "y": 1968},
+    {"t": "Radar Love", "a": "Golden Earring", "y": 1973},
+    {"t": "Down Down", "a": "Status Quo", "y": 1974},
+    {"t": "Slow Ride", "a": "Foghat", "y": 1975},
+    {"t": "Black Betty", "a": "Ram Jam", "y": 1977}
+   ]
+  },
+  {
+   "id": "swamp-rock",
+   "tracks": [
+    {"t": "Born on the Bayou", "a": "Creedence Clearwater Revival", "y": 1969},
+    {"t": "I Walk on Guilded Splinters", "a": "Dr. John", "y": 1968},
+    {"t": "Polk Salad Annie", "a": "Tony Joe White", "y": 1968},
+    {"t": "Green River", "a": "Creedence Clearwater Revival", "y": 1969},
+    {"t": "Amos Moses", "a": "Jerry Reed", "y": 1970},
+    {"t": "Right Place, Wrong Time", "a": "Dr. John", "y": 1973}
+   ]
+  }
+ ]
+}

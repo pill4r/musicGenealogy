@@ -1,0 +1,327 @@
+{
+ "family": "pop",
+ "name": "流行 Pop",
+ "sub": "榜单与全球流行",
+ "genres": [
+  {
+   "id": "pop",
+   "n": "Pop",
+   "zh": "流行音乐",
+   "tier": 1,
+   "y": 1950,
+   "d": "为榜单与大众市场而写的歌：Tin Pan Alley 的旋律传统 + 摇滚时代的制作。",
+   "ar": [
+    "The Beatles",
+    "Madonna",
+    "Taylor Swift"
+   ],
+   "tr": [
+    [
+     "Billie Jean",
+     "Michael Jackson",
+     1982
+    ]
+   ]
+  },
+  {
+   "id": "dance-pop",
+   "n": "Dance-Pop",
+   "zh": "舞曲流行",
+   "tier": 2,
+   "y": 1983,
+   "d": "为电台和舞池同时设计的流行乐：disco 的节拍 + 流行副歌。",
+   "ar": [
+    "Madonna",
+    "Kylie Minogue",
+    "Britney Spears"
+   ],
+   "tr": [
+    [
+     "Like a Prayer",
+     "Madonna",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "city-pop",
+   "n": "City Pop",
+   "zh": "城市流行",
+   "tier": 2,
+   "y": 1978,
+   "d": "泡沫经济前的日本，把 funk/disco/soft rock 做成都市夜景，近年被网络重新发现。",
+   "ar": [
+    "山下達郎",
+    "竹内まりや",
+    "Anri"
+   ],
+   "tr": [
+    [
+     "Plastic Love",
+     "竹内まりや",
+     1984
+    ]
+   ]
+  },
+  {
+   "id": "teen-pop",
+   "n": "Teen Pop",
+   "zh": "青少年流行",
+   "tier": 3,
+   "y": 1996,
+   "d": "面向青少年的偶像流行：舞曲节拍、青春主题、MV 工业。",
+   "ar": [
+    "Britney Spears",
+    "*NSYNC",
+    "Backstreet Boys"
+   ],
+   "tr": [
+    [
+     "...Baby One More Time",
+     "Britney Spears",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "electropop",
+   "n": "Electropop",
+   "zh": "电子流行",
+   "tier": 2,
+   "y": 2007,
+   "d": "2000 年代末的合成器流行回潮：尖锐合成器、夸张人声、俱乐部节拍。",
+   "ar": [
+    "Lady Gaga",
+    "Katy Perry",
+    "La Roux"
+   ],
+   "tr": [
+    [
+     "Bad Romance",
+     "Lady Gaga",
+     2009
+    ]
+   ]
+  },
+  {
+   "id": "k-pop",
+   "n": "K-Pop",
+   "zh": "韩国流行",
+   "tier": 2,
+   "y": 1992,
+   "d": "韩国把 pop、R&B、hip-hop 与偶像工业结合，2010 年代成为全球现象。",
+   "ar": [
+    "BTS",
+    "BLACKPINK",
+    "Girls' Generation"
+   ],
+   "tr": [
+    [
+     "Dynamite",
+     "BTS",
+     2020
+    ]
+   ]
+  },
+  {
+   "id": "hyperpop",
+   "n": "Hyperpop",
+   "zh": "超流行",
+   "tier": 2,
+   "y": 2016,
+   "d": "把 pop、trap、电子与网络梗推到失真的极限。",
+   "ar": [
+    "SOPHIE",
+    "Charli XCX",
+    "100 gecs"
+   ],
+   "tr": [
+    [
+     "Immaterial",
+     "SOPHIE",
+     2018
+    ]
+   ]
+  },
+  {
+   "id": "bubblegum-pop",
+   "n": "Bubblegum Pop",
+   "zh": "泡泡糖流行",
+   "tier": 3,
+   "y": 1967,
+   "d": "为青少年定制的三分钟甜歌：简单副歌、卡通化制作，The Archies 的《Sugar, Sugar》卖了六百万张。",
+   "ar": [
+    "The Archies",
+    "The Monkees",
+    "Bay City Rollers"
+   ],
+   "tr": [
+    [
+     "Sugar, Sugar",
+     "The Archies",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "adult-contemporary",
+   "n": "Adult Contemporary",
+   "zh": "成人抒情",
+   "tier": 3,
+   "y": 1965,
+   "d": "为电台白领时段设计的柔和流行：钢琴、弦乐、无攻击性的爱，Carpenters 是模板。",
+   "ar": [
+    "Carpenters",
+    "Whitney Houston",
+    "Celine Dion"
+   ],
+   "tr": [
+    [
+     "(They Long to Be) Close to You",
+     "Carpenters",
+     1970
+    ]
+   ]
+  },
+  {
+   "id": "europop",
+   "n": "Europop",
+   "zh": "欧陆流行",
+   "tier": 2,
+   "y": 1970,
+   "d": "欧洲大陆的流行乐： disco 的节奏、合成器与洗脑副歌，ABBA 把它输出到全世界。",
+   "ar": [
+    "ABBA",
+    "Roxette",
+    "Ace of Base"
+   ],
+   "tr": [
+    [
+     "Dancing Queen",
+     "ABBA",
+     1976
+    ]
+   ]
+  },
+  {
+   "id": "cantopop",
+   "n": "Cantopop",
+   "zh": "粤语流行",
+   "tier": 2,
+   "y": 1970,
+   "d": "香港的粤语流行：电视剧主题曲、偶像工业与日本旋律的本地化，张国荣与梅艳芳是黄金时代。",
+   "ar": [
+    "张国荣",
+    "梅艳芳",
+    "Beyond"
+   ],
+   "tr": [
+    [
+     "Monica",
+     "张国荣",
+     1984
+    ]
+   ]
+  },
+  {
+   "id": "jpop",
+   "n": "J-Pop",
+   "zh": "日本流行",
+   "tier": 2,
+   "y": 1960,
+   "d": "日本流行乐的总称：从歌谣曲到偶像与涩谷系，旋律密度高、编曲精致，宇多田光把它带进百万销量时代。",
+   "ar": [
+    "宇多田光",
+    "Mr.Children",
+    "YOASOBI"
+   ],
+   "tr": [
+    [
+     "Automatic",
+     "宇多田光",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "mandopop",
+   "n": "Mandopop",
+   "zh": "华语流行",
+   "tier": 2,
+   "y": 1970,
+   "d": "国语流行乐：校园民歌、情歌与 R&B 化的制作，周杰伦把节奏与说唱带进华语主流。",
+   "ar": [
+    "周杰伦",
+    "邓丽君",
+    "王菲"
+   ],
+   "tr": [
+    [
+     "晴天",
+     "周杰伦",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "afropop",
+   "n": "Afropop",
+   "zh": "非洲流行",
+   "tier": 2,
+   "y": 2000,
+   "d": "2010 年代 Afrobeats 的全球版本：尼日利亚的旋律、加纳的 highlife 吉他与舞曲节奏，Wizkid 把它送进英美榜单。",
+   "ar": [
+    "Wizkid",
+    "Burna Boy",
+    "Tems"
+   ],
+   "tr": [
+    [
+     "Ojuelegba",
+     "Wizkid",
+     2014
+    ]
+   ]
+  },
+  {
+   "id": "power-pop",
+   "n": "Power Pop",
+   "zh": "力量流行",
+   "tier": 3,
+   "y": 1970,
+   "d": "披头士式的旋律加吉他失真与紧凑鼓点：副歌必须立刻抓住人，Big Star 是未获商业成功的神。",
+   "ar": [
+    "Big Star",
+    "Cheap Trick",
+    "The Raspberries"
+   ],
+   "tr": [
+    [
+     "September Gurls",
+     "Big Star",
+     1974
+    ]
+   ]
+  },
+  {
+   "id": "art-pop",
+   "n": "Art Pop",
+   "zh": "艺术流行",
+   "tier": 2,
+   "y": 1960,
+   "d": "把流行歌当成实验场：非常规结构、戏剧化演唱与视觉概念，Kate Bush 与 Björk 是代表。",
+   "ar": [
+    "Kate Bush",
+    "Björk",
+    "David Bowie"
+   ],
+   "tr": [
+    [
+     "Running Up That Hill",
+     "Kate Bush",
+     1985
+    ]
+   ]
+  }
+ ]
+}

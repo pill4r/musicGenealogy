@@ -1,0 +1,401 @@
+{
+ "family": "jazz",
+ "name": "爵士",
+ "sub": "拉格泰姆 → 融合爵士",
+ "genres": [
+  {
+   "id": "ragtime",
+   "n": "Ragtime",
+   "zh": "拉格泰姆",
+   "tier": 3,
+   "y": 1897,
+   "d": "19 世纪末的切分钢琴音乐：左手稳定低音、右手切分旋律，是爵士的直接前身。",
+   "ar": [
+    "Scott Joplin",
+    "James Scott"
+   ],
+   "tr": [
+    [
+     "Maple Leaf Rag",
+     "Scott Joplin",
+     1899
+    ]
+   ]
+  },
+  {
+   "id": "new-orleans-jazz",
+   "n": "New Orleans Jazz",
+   "zh": "新奥尔良爵士",
+   "tier": 2,
+   "y": 1905,
+   "d": "新奥尔良的集体即兴：小号、单簧管、长号同时说话，葬礼与游行都能演奏。",
+   "ar": [
+    "Louis Armstrong",
+    "King Oliver",
+    "Sidney Bechet"
+   ],
+   "tr": [
+    [
+     "West End Blues",
+     "Louis Armstrong",
+     1928
+    ]
+   ]
+  },
+  {
+   "id": "swing",
+   "n": "Swing",
+   "zh": "摇摆乐",
+   "tier": 2,
+   "y": 1932,
+   "d": "大乐队时代的舞厅爵士：节奏组驱动、管乐声部对答，1930 年代统治美国流行乐。",
+   "ar": [
+    "Duke Ellington",
+    "Count Basie",
+    "Benny Goodman"
+   ],
+   "tr": [
+    [
+     "Sing, Sing, Sing",
+     "Benny Goodman",
+     1937
+    ]
+   ]
+  },
+  {
+   "id": "bebop",
+   "n": "Bebop",
+   "zh": "比波普",
+   "tier": 2,
+   "y": 1942,
+   "d": "二战后的小编制革命：快速、复杂和声、即兴至上，把爵士从舞厅推向艺术音乐。",
+   "ar": [
+    "Charlie Parker",
+    "Dizzy Gillespie",
+    "Thelonious Monk"
+   ],
+   "tr": [
+    [
+     "Ko-Ko",
+     "Charlie Parker",
+     1945
+    ],
+    [
+     "Salt Peanuts",
+     "Dizzy Gillespie",
+     1945
+    ]
+   ]
+  },
+  {
+   "id": "cool-jazz",
+   "n": "Cool Jazz",
+   "zh": "冷爵士",
+   "tier": 3,
+   "y": 1949,
+   "d": "对比波普的反动：更慢、更克制、重编曲与音色，西海岸爵士的代表。",
+   "ar": [
+    "Miles Davis",
+    "Chet Baker",
+    "Bill Evans"
+   ],
+   "tr": [
+    [
+     "Jeru",
+     "Miles Davis",
+     1949
+    ],
+    [
+     "My Funny Valentine",
+     "Chet Baker",
+     1954
+    ]
+   ]
+  },
+  {
+   "id": "hard-bop",
+   "n": "Hard Bop",
+   "zh": "硬波普",
+   "tier": 3,
+   "y": 1955,
+   "d": "把布鲁斯与福音的粗粝感带回爵士，鼓与贝斯更放克，是 soul jazz 的温床。",
+   "ar": [
+    "Art Blakey",
+    "Horace Silver",
+    "John Coltrane"
+   ],
+   "tr": [
+    [
+     "Moanin'",
+     "Art Blakey",
+     1958
+    ]
+   ]
+  },
+  {
+   "id": "modal-jazz",
+   "n": "Modal Jazz",
+   "zh": "调式爵士",
+   "tier": 3,
+   "y": 1959,
+   "d": "用少量调式代替频繁和弦变化，让独奏者可以在一个和声上长时间展开。",
+   "ar": [
+    "Miles Davis",
+    "John Coltrane",
+    "McCoy Tyner"
+   ],
+   "tr": [
+    [
+     "So What",
+     "Miles Davis",
+     1959
+    ]
+   ]
+  },
+  {
+   "id": "free-jazz",
+   "n": "Free Jazz",
+   "zh": "自由爵士",
+   "tier": 3,
+   "y": 1960,
+   "d": "放弃固定和声与节拍，把集体即兴推向噪音与能量的边界。",
+   "ar": [
+    "Ornette Coleman",
+    "Cecil Taylor",
+    "Albert Ayler"
+   ],
+   "tr": [
+    [
+     "Free Jazz",
+     "Ornette Coleman",
+     1961
+    ]
+   ]
+  },
+  {
+   "id": "jazz-fusion",
+   "n": "Jazz Fusion",
+   "zh": "融合爵士",
+   "tier": 2,
+   "y": 1969,
+   "d": "爵士乐手插电：摇滚节拍、放克贝斯、合成器；Miles Davis 的《Bitches Brew》是分水岭。",
+   "ar": [
+    "Miles Davis",
+    "Weather Report",
+    "Herbie Hancock"
+   ],
+   "tr": [
+    [
+     "Bitches Brew",
+     "Miles Davis",
+     1970
+    ],
+    [
+     "Chameleon",
+     "Herbie Hancock",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "smooth-jazz",
+   "n": "Smooth Jazz",
+   "zh": "平滑爵士",
+   "tier": 3,
+   "y": 1980,
+   "d": "1980 年代的电台爵士：合成器、柔和律动、无攻击性旋律。",
+   "ar": [
+    "Kenny G",
+    "George Benson",
+    "Sade"
+   ],
+   "tr": [
+    [
+     "Songbird",
+     "Kenny G",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "acid-jazz",
+   "n": "Acid Jazz",
+   "zh": "酸性爵士",
+   "tier": 3,
+   "y": 1987,
+   "d": "把爵士采样、放克律动和 house 节拍拼在一起，伦敦俱乐部场景的产物。",
+   "ar": [
+    "US3",
+    "Jamiroquai",
+    "Incognito"
+   ],
+   "tr": [
+    [
+     "Cantaloop (Flip Fantasia)",
+     "US3",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "nu-jazz",
+   "n": "Nu Jazz",
+   "zh": "新爵士",
+   "tier": 3,
+   "y": 1995,
+   "d": "1990 年代后期，电子制作人与爵士乐手合作，把爵士即兴带进俱乐部与耳机。",
+   "ar": [
+    "St Germain",
+    "The Cinematic Orchestra",
+    "Nils Petter Molvær"
+   ],
+   "tr": [
+    [
+     "Rose Rouge",
+     "St Germain",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "latin-jazz",
+   "n": "Latin Jazz",
+   "zh": "拉丁爵士",
+   "tier": 2,
+   "y": 1947,
+   "d": "非洲-古巴节奏与 bebop 和声的联姻：Dizzy Gillespie 与 Chano Pozo 的《Manteca》是起点。",
+   "ar": [
+    "Dizzy Gillespie",
+    "Tito Puente",
+    "Machito"
+   ],
+   "tr": [
+    [
+     "Manteca",
+     "Dizzy Gillespie",
+     1947
+    ]
+   ]
+  },
+  {
+   "id": "gypsy-jazz",
+   "n": "Gypsy Jazz",
+   "zh": "吉普赛爵士",
+   "tier": 3,
+   "y": 1930,
+   "d": "Django Reinhardt 与 Stéphane Grappelli 在巴黎做的热爵士：原声吉他、快速琶音与摇摆。",
+   "ar": [
+    "Django Reinhardt",
+    "Stéphane Grappelli",
+    "Biréli Lagrène"
+   ],
+   "tr": [
+    [
+     "Minor Swing",
+     "Django Reinhardt",
+     1937
+    ]
+   ]
+  },
+  {
+   "id": "west-coast-jazz",
+   "n": "West Coast Jazz",
+   "zh": "西海岸爵士",
+   "tier": 3,
+   "y": 1952,
+   "d": "冷爵士的加州版本：编曲精致、音色清凉、室内乐般的克制，Chet Baker 是它的面孔。",
+   "ar": [
+    "Chet Baker",
+    "Gerry Mulligan",
+    "Shorty Rogers"
+   ],
+   "tr": [
+    [
+     "My Funny Valentine",
+     "Chet Baker",
+     1954
+    ]
+   ]
+  },
+  {
+   "id": "soul-jazz",
+   "n": "Soul Jazz",
+   "zh": "灵魂爵士",
+   "tier": 3,
+   "y": 1956,
+   "d": "把福音与布鲁斯的律动带进爵士：Hammond 风琴、重复 riff 与舞池感，Jimmy Smith 是代表。",
+   "ar": [
+    "Jimmy Smith",
+    "Jimmy McGriff",
+    "Grant Green"
+   ],
+   "tr": [
+    [
+     "Back at the Chicken Shack",
+     "Jimmy Smith",
+     1960
+    ]
+   ]
+  },
+  {
+   "id": "jazz-funk",
+   "n": "Jazz-Funk",
+   "zh": "爵士放克",
+   "tier": 2,
+   "y": 1970,
+   "d": "爵士即兴与放克律动的结合：电钢琴、合成器与不可抗拒的贝斯线，Herbie Hancock 的《Chameleon》是国歌。",
+   "ar": [
+    "Herbie Hancock",
+    "The Crusaders",
+    "Lonnie Liston Smith"
+   ],
+   "tr": [
+    [
+     "Chameleon",
+     "Herbie Hancock",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "spiritual-jazz",
+   "n": "Spiritual Jazz",
+   "zh": "精神爵士",
+   "tier": 3,
+   "y": 1965,
+   "d": "把爵士当作宗教体验：长音、自由即兴与非洲打击乐，Pharoah Sanders 的《The Creator Has a Master Plan》是经文。",
+   "ar": [
+    "Pharoah Sanders",
+    "Alice Coltrane",
+    "Sun Ra"
+   ],
+   "tr": [
+    [
+     "The Creator Has a Master Plan",
+     "Pharoah Sanders",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "ethio-jazz",
+   "n": "Ethio-Jazz",
+   "zh": "埃塞俄比亚爵士",
+   "tier": 3,
+   "y": 1960,
+   "d": "埃塞俄比亚五声音阶与爵士和声的混合：Mulatu Astatke 把传统旋律放进拉丁与爵士的节奏里。",
+   "ar": [
+    "Mulatu Astatke",
+    "Getatchew Mekurya",
+    "Hailu Mergia"
+   ],
+   "tr": [
+    [
+     "Yegelle Tezeta",
+     "Mulatu Astatke",
+     1974
+    ]
+   ]
+  }
+ ]
+}

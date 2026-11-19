@@ -1,0 +1,226 @@
+{"family":"hiphop","genres":[
+{"id":"hip-hop","tracks":[
+{"t":"Rapper's Delight","a":"Sugarhill Gang","y":1979},
+{"t":"The Message","a":"Grandmaster Flash & The Furious Five","y":1982},
+{"t":"Planet Rock","a":"Afrika Bambaataa & Soulsonic Force","y":1982},
+{"t":"Walk This Way","a":"Run-D.M.C.","y":1986},
+{"t":"Juicy","a":"The Notorious B.I.G.","y":1994},
+{"t":"Lose Yourself","a":"Eminem","y":2002}
+]},
+{"id":"old-school-hip-hop","tracks":[
+{"t":"The Breaks","a":"Kurtis Blow","y":1980},
+{"t":"Rapper's Delight","a":"Sugarhill Gang","y":1979},
+{"t":"The Message","a":"Grandmaster Flash & The Furious Five","y":1982},
+{"t":"Planet Rock","a":"Afrika Bambaataa & Soulsonic Force","y":1982},
+{"t":"It's Like That","a":"Run-D.M.C.","y":1983},
+{"t":"Friends","a":"Whodini","y":1984}
+]},
+{"id":"golden-age","tracks":[
+{"t":"Fight the Power","a":"Public Enemy","y":1989},
+{"t":"Paid in Full","a":"Eric B. & Rakim","y":1987},
+{"t":"Rebel Without a Pause","a":"Public Enemy","y":1987},
+{"t":"Can I Kick It?","a":"A Tribe Called Quest","y":1990},
+{"t":"C.R.E.A.M.","a":"Wu-Tang Clan","y":1993},
+{"t":"N.Y. State of Mind","a":"Nas","y":1994}
+]},
+{"id":"gangsta-rap","tracks":[
+{"t":"Straight Outta Compton","a":"N.W.A","y":1988},
+{"t":"Fuck tha Police","a":"N.W.A","y":1988},
+{"t":"6 in the Mornin'","a":"Ice-T","y":1986},
+{"t":"It Was a Good Day","a":"Ice Cube","y":1992},
+{"t":"Boyz-n-the-Hood","a":"Eazy-E","y":1987},
+{"t":"Mind Playing Tricks on Me","a":"Geto Boys","y":1991}
+]},
+{"id":"g-funk","tracks":[
+{"t":"Nuthin' but a 'G' Thang","a":"Dr. Dre","y":1992},
+{"t":"Gin and Juice","a":"Snoop Dogg","y":1993},
+{"t":"California Love","a":"2Pac","y":1995},
+{"t":"Regulate","a":"Warren G","y":1994},
+{"t":"Who Am I (What's My Name)?","a":"Snoop Dogg","y":1993},
+{"t":"Deep Cover","a":"Dr. Dre","y":1992}
+]},
+{"id":"boom-bap","tracks":[
+{"t":"Shook Ones, Pt. II","a":"Mobb Deep","y":1995},
+{"t":"Mass Appeal","a":"Gang Starr","y":1994},
+{"t":"It Ain't Hard to Tell","a":"Nas","y":1994},
+{"t":"Protect Ya Neck","a":"Wu-Tang Clan","y":1992},
+{"t":"Return of the Boom Bap","a":"KRS-One","y":1993},
+{"t":"Bucktown","a":"Smif-N-Wessun","y":1994}
+]},
+{"id":"jazz-rap","tracks":[
+{"t":"Jazz (We've Got)","a":"A Tribe Called Quest","y":1991},
+{"t":"Check the Rhime","a":"A Tribe Called Quest","y":1991},
+{"t":"They Reminisce Over You (T.R.O.Y.)","a":"Pete Rock & CL Smooth","y":1992},
+{"t":"Rebirth of Slick (Cool Like Dat)","a":"Digable Planets","y":1992},
+{"t":"Passin' Me By","a":"The Pharcyde","y":1993},
+{"t":"Definition","a":"Black Star","y":1998}
+]},
+{"id":"conscious-hip-hop","tracks":[
+{"t":"Alright","a":"Kendrick Lamar","y":2015},
+{"t":"Black Steel in the Hour of Chaos","a":"Public Enemy","y":1988},
+{"t":"I Used to Love H.E.R.","a":"Common","y":1994},
+{"t":"Changes","a":"2Pac","y":1998},
+{"t":"Hip Hop","a":"Dead Prez","y":1999},
+{"t":"Mathematics","a":"Mos Def","y":1999}
+]},
+{"id":"southern-hip-hop","tracks":[
+{"t":"Ms. Jackson","a":"OutKast","y":2000},
+{"t":"Rosa Parks","a":"OutKast","y":1998},
+{"t":"Int'l Players Anthem (I Choose You)","a":"UGK","y":2007},
+{"t":"What You Know","a":"T.I.","y":2006},
+{"t":"Still Tippin'","a":"Mike Jones","y":2004},
+{"t":"Move Bitch","a":"Ludacris","y":2001}
+]},
+{"id":"crunk","tracks":[
+{"t":"Get Low","a":"Lil Jon & the East Side Boyz","y":2003},
+{"t":"Salt Shaker","a":"Ying Yang Twins","y":2003},
+{"t":"Wait (The Whisper Song)","a":"Ying Yang Twins","y":2005},
+{"t":"Knuck If You Buck","a":"Crime Mob","y":2004},
+{"t":"Never Scared","a":"Bone Crusher","y":2003},
+{"t":"Stay Fly","a":"Three 6 Mafia","y":2005}
+]},
+{"id":"trap","tracks":[
+{"t":"Mask Off","a":"Future","y":2017},
+{"t":"Rubber Band Man","a":"T.I.","y":2003},
+{"t":"Hard in da Paint","a":"Waka Flocka Flame","y":2010},
+{"t":"B.M.F. (Blowin' Money Fast)","a":"Rick Ross","y":2010},
+{"t":"Versace","a":"Migos","y":2013},
+{"t":"Bad and Boujee","a":"Migos","y":2016}
+]},
+{"id":"drill","tracks":[
+{"t":"Dior","a":"Pop Smoke","y":2019},
+{"t":"I Don't Like","a":"Chief Keef","y":2012},
+{"t":"Love Sosa","a":"Chief Keef","y":2012},
+{"t":"Welcome to the Party","a":"Pop Smoke","y":2019},
+{"t":"Look Alive","a":"BlocBoy JB","y":2018},
+{"t":"No Flockin","a":"Kodak Black","y":2014}
+]},
+{"id":"cloud-rap","tracks":[
+{"t":"I'm God","a":"Clams Casino","y":2010},
+{"t":"Peso","a":"A$AP Rocky","y":2011},
+{"t":"Purple Swag","a":"A$AP Rocky","y":2011},
+{"t":"Wonton Soup","a":"Lil B","y":2010},
+{"t":"Perfect Skies","a":"Main Attrakionz","y":2011},
+{"t":"Tuesday","a":"ILoveMakonnen","y":2014}
+]},
+{"id":"lo-fi-hip-hop","tracks":[
+{"t":"Feather","a":"Nujabes","y":2005},
+{"t":"Aruarian Dance","a":"Nujabes","y":2004},
+{"t":"Time: The Donut of the Heart","a":"J Dilla","y":2006},
+{"t":"Snowman","a":"WYS","y":2017},
+{"t":"Affection","a":"jinsang","y":2016},
+{"t":"Sunday Morning","a":"Tomppabeats","y":2016}
+]},
+{"id":"memphis-rap","tracks":[
+{"t":"Tear da Club Up","a":"Three 6 Mafia","y":1997},
+{"t":"Who Run It","a":"Three 6 Mafia","y":2000},
+{"t":"Playa's Ball","a":"8Ball & MJG","y":1993},
+{"t":"Armed Robbery","a":"8Ball & MJG","y":1993},
+{"t":"Still Pimpin","a":"Tommy Wright III","y":1995},
+{"t":"Meet Yo Maker","a":"Tommy Wright III","y":1994}
+]},
+{"id":"alternative-hip-hop","tracks":[
+{"t":"Me Myself and I","a":"De La Soul","y":1989},
+{"t":"Eye Know","a":"De La Soul","y":1989},
+{"t":"Hey Ya!","a":"OutKast","y":2003},
+{"t":"B.O.B","a":"OutKast","y":2000},
+{"t":"Clint Eastwood","a":"Gorillaz","y":2001},
+{"t":"Intergalactic","a":"Beastie Boys","y":1998}
+]},
+{"id":"political-hip-hop","tracks":[
+{"t":"Fight the Power","a":"Public Enemy","y":1989},
+{"t":"Sound of da Police","a":"KRS-One","y":1993},
+{"t":"Fuck tha Police","a":"N.W.A","y":1988},
+{"t":"Self Destruction","a":"Stop the Violence Movement","y":1989},
+{"t":"Hip Hop","a":"Dead Prez","y":1999},
+{"t":"Words I Never Said","a":"Lupe Fiasco","y":2011}
+]},
+{"id":"instrumental-hip-hop","tracks":[
+{"t":"Midnight in a Perfect World","a":"DJ Shadow","y":1996},
+{"t":"Building Steam with a Grain of Salt","a":"DJ Shadow","y":1996},
+{"t":"Workinonit","a":"J Dilla","y":2006},
+{"t":"Ghostwriter","a":"RJD2","y":2002},
+{"t":"The Music Scene","a":"Blockhead","y":2009},
+{"t":"Kemuri","a":"DJ Krush","y":1994}
+]},
+{"id":"hyphy","tracks":[
+{"t":"Tell Me When to Go","a":"E-40","y":2006},
+{"t":"U and Dat","a":"E-40","y":2006},
+{"t":"Super Hyphy","a":"Keak da Sneak","y":2005},
+{"t":"Feelin' Myself","a":"Mac Dre","y":2004},
+{"t":"Vans","a":"The Pack","y":2006},
+{"t":"Ghost Ride It","a":"Mistah F.A.B.","y":2007}
+]},
+{"id":"snap","tracks":[
+{"t":"Get Low","a":"Lil Jon & The East Side Boyz","y":2003},
+{"t":"Snap Yo Fingers","a":"Lil Jon","y":2006},
+{"t":"Laffy Taffy","a":"D4L","y":2005},
+{"t":"Shoulder Lean","a":"Young Dro","y":2006},
+{"t":"Lean wit It, Rock wit It","a":"Dem Franchize Boyz","y":2006},
+{"t":"It's Goin' Down","a":"Yung Joc","y":2006}
+]},
+{"id":"mumble-rap","tracks":[
+{"t":"Mask Off","a":"Future","y":2017},
+{"t":"Gucci Gang","a":"Lil Pump","y":2017},
+{"t":"Look at Me!","a":"XXXTentacion","y":2017},
+{"t":"Magnolia","a":"Playboi Carti","y":2017},
+{"t":"Slippery","a":"Migos","y":2017},
+{"t":"Butterfly Effect","a":"Travis Scott","y":2017}
+]},
+{"id":"soundcloud-rap","tracks":[
+{"t":"XO TOUR Llif3","a":"Lil Uzi Vert","y":2017},
+{"t":"White Iverson","a":"Post Malone","y":2015},
+{"t":"Gucci Gang","a":"Lil Pump","y":2017},
+{"t":"Look at Me!","a":"XXXTentacion","y":2017},
+{"t":"Plug Walk","a":"Rich the Kid","y":2018},
+{"t":"Thotiana","a":"Blueface","y":2018}
+]},
+{"id":"emo-rap","tracks":[
+{"t":"Awful Things","a":"Lil Peep","y":2017},
+{"t":"Star Shopping","a":"Lil Peep","y":2015},
+{"t":"Sad!","a":"XXXTentacion","y":2018},
+{"t":"Jocelyn Flores","a":"XXXTentacion","y":2017},
+{"t":"Lucid Dreams","a":"Juice WRLD","y":2018},
+{"t":"All Girls Are the Same","a":"Juice WRLD","y":2018}
+]},
+{"id":"trap-soul","tracks":[
+{"t":"Don't","a":"Bryson Tiller","y":2015},
+{"t":"Exchange","a":"Bryson Tiller","y":2016},
+{"t":"Come and See Me","a":"PARTYNEXTDOOR","y":2016},
+{"t":"PRBLMS","a":"6LACK","y":2016},
+{"t":"Ex Calling","a":"6LACK","y":2016},
+{"t":"The Hills","a":"The Weeknd","y":2015}
+]},
+{"id":"uk-drill","tracks":[
+{"t":"Homerton B","a":"Unknown T","y":2018},
+{"t":"Know Better","a":"Headie One","y":2018},
+{"t":"18HUNNA","a":"Headie One","y":2019},
+{"t":"No Diet","a":"Digga D","y":2019},
+{"t":"Woi","a":"Digga D","y":2019},
+{"t":"Body","a":"Tion Wayne & Russ Millions","y":2021}
+]},
+{"id":"afroswing","tracks":[
+{"t":"Did You See","a":"J Hus","y":2017},
+{"t":"Bouff Daddy","a":"J Hus","y":2017},
+{"t":"Dun Talkin","a":"Kojo Funds","y":2016},
+{"t":"Rihanna","a":"Yxng Bane","y":2017},
+{"t":"Options","a":"NSG","y":2018},
+{"t":"Shine Girl","a":"MoStack","y":2019}
+]},
+{"id":"latin-rap","tracks":[
+{"t":"La Raza","a":"Kid Frost","y":1990},
+{"t":"How I Could Just Kill a Man","a":"Cypress Hill","y":1991},
+{"t":"Insane in the Brain","a":"Cypress Hill","y":1993},
+{"t":"Mentirosa","a":"Mellow Man Ace","y":1989},
+{"t":"Still Not a Player","a":"Big Pun","y":1998},
+{"t":"Atrévete-te-te","a":"Calle 13","y":2005}
+]},
+{"id":"phonk","tracks":[
+{"t":"Bringing tha Phonk","a":"SpaceGhostPurrp","y":2011},
+{"t":"Murder In My Mind","a":"Kordhell","y":2021},
+{"t":"Sahara","a":"Hensonn","y":2021},
+{"t":"Close Eyes","a":"DVRST","y":2020},
+{"t":"Metamorphosis","a":"Interworld","y":2021},
+{"t":"GTG","a":"Freddie Dredd","y":2020}
+]}
+]}

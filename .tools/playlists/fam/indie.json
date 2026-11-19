@@ -1,0 +1,247 @@
+{
+ "family": "indie",
+ "name": "独立 / 另类",
+ "sub": "Indie · Britpop · Dream Pop",
+ "genres": [
+  {
+   "id": "shoegaze",
+   "n": "Shoegaze",
+   "zh": "盯鞋",
+   "tier": 3,
+   "y": 1989,
+   "d": "大量吉他效果器 + 耳语人声，把噪音做成一片雾。",
+   "ar": [
+    "My Bloody Valentine",
+    "Slowdive",
+    "Ride"
+   ],
+   "tr": [
+    [
+     "Only Shallow",
+     "My Bloody Valentine",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "indie-rock",
+   "n": "Indie Rock",
+   "zh": "独立摇滚",
+   "tier": 1,
+   "y": 1982,
+   "d": "在主流厂牌之外自办厂牌、自己录音的摇滚：吉他为主、制作粗粝、态度疏离，后来成了整个另类音乐的母体。",
+   "ar": [
+    "R.E.M.",
+    "Pavement",
+    "Modest Mouse"
+   ],
+   "tr": [
+    [
+     "Cut Your Hair",
+     "Pavement",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "jangle-pop",
+   "n": "Jangle Pop",
+   "zh": "叮当流行",
+   "tier": 3,
+   "y": 1982,
+   "d": "清亮、带回声的 Rickenbacker 吉他叮当作响，The Smiths 与 R.E.M. 把它做成 80 年代独立吉他的标准音色。",
+   "ar": [
+    "The Smiths",
+    "R.E.M.",
+    "The Byrds"
+   ],
+   "tr": [
+    [
+     "This Charming Man",
+     "The Smiths",
+     1983
+    ]
+   ]
+  },
+  {
+   "id": "twee-pop",
+   "n": "Twee Pop",
+   "zh": "小清新流行",
+   "tier": 3,
+   "y": 1986,
+   "d": "刻意幼稚、旋律甜美的独立流行：手鼓、童声和声、歌词关于暗恋与自行车，Belle and Sebastian 是代表。",
+   "ar": [
+    "Talulah Gosh",
+    "Beat Happening",
+    "Belle and Sebastian"
+   ],
+   "tr": [
+    [
+     "The State I Am In",
+     "Belle and Sebastian",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "c86",
+   "n": "C86",
+   "zh": "C86 一代",
+   "tier": 3,
+   "y": 1986,
+   "d": "NME 的卡带合辑命名了一整代英国独立乐队：嘈杂又甜美、DIY、现场感强，Primal Scream 早期就在其中。",
+   "ar": [
+    "Primal Scream",
+    "The Pastels",
+    "McCarthy"
+   ],
+   "tr": [
+    [
+     "Velocity Girl",
+     "Primal Scream",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "britpop",
+   "n": "Britpop",
+   "zh": "英式摇滚",
+   "tier": 2,
+   "y": 1992,
+   "d": "90 年代英国对 grunge 的反击：披头士式的旋律、工人阶级叙事与媒体大战，Oasis 与 Blur 定义了它。",
+   "ar": [
+    "Oasis",
+    "Blur",
+    "Pulp"
+   ],
+   "tr": [
+    [
+     "Common People",
+     "Pulp",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "madchester",
+   "n": "Madchester",
+   "zh": "曼彻斯特之声",
+   "tier": 3,
+   "y": 1988,
+   "d": "曼彻斯特把独立吉他接上 acid house 的鼓机与舞池律动，Stone Roses 与 Happy Mondays 是旗帜。",
+   "ar": [
+    "The Stone Roses",
+    "Happy Mondays",
+    "Inspiral Carpets"
+   ],
+   "tr": [
+    [
+     "Fools Gold",
+     "The Stone Roses",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "baggy",
+   "n": "Baggy",
+   "zh": "宽松舞曲",
+   "tier": 3,
+   "y": 1988,
+   "d": "Madchester 的松散分支：更重的 funk 贝斯、更随意的穿着与舞步，直接连接后来的 britpop。",
+   "ar": [
+    "Happy Mondays",
+    "The Charlatans",
+    "The Stone Roses"
+   ],
+   "tr": [
+    [
+     "Step On",
+     "Happy Mondays",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "dream-pop",
+   "n": "Dream Pop",
+   "zh": "梦幻流行",
+   "tier": 2,
+   "y": 1984,
+   "d": "把人声与吉他都裹进混响和延迟里，像隔着雾气听歌；Cocteau Twins 与 Beach House 相隔三十年却同一种温度。",
+   "ar": [
+    "Cocteau Twins",
+    "Slowdive",
+    "Beach House"
+   ],
+   "tr": [
+    [
+     "Cherry-coloured Funk",
+     "Cocteau Twins",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "noise-pop",
+   "n": "Noise Pop",
+   "zh": "噪音流行",
+   "tier": 3,
+   "y": 1985,
+   "d": "用噪音墙包住流行旋律，The Jesus and Mary Chain 的《Psychocandy》是分水岭。",
+   "ar": [
+    "The Jesus and Mary Chain",
+    "Yo La Tengo",
+    "No Age"
+   ],
+   "tr": [
+    [
+     "Just Like Honey",
+     "The Jesus and Mary Chain",
+     1985
+    ]
+   ]
+  },
+  {
+   "id": "indie-pop",
+   "n": "Indie Pop",
+   "zh": "独立流行",
+   "tier": 2,
+   "y": 1980,
+   "d": "独立厂牌发行的流行乐：旋律优先、制作轻巧，介于 twee 与主流流行之间。",
+   "ar": [
+    "The Pastels",
+    "Camera Obscura",
+    "Belle and Sebastian"
+   ],
+   "tr": [
+    [
+     "Lloyd, I'm Ready to Be Heartbroken",
+     "Camera Obscura",
+     2006
+    ]
+   ]
+  },
+  {
+   "id": "bedroom-pop",
+   "n": "Bedroom Pop",
+   "zh": "卧室流行",
+   "tier": 2,
+   "y": 2010,
+   "d": "一台笔记本、一支麦克风在卧室做完的流行乐：低保真、私密、混响很湿，流媒体时代的新独立。",
+   "ar": [
+    "Clairo",
+    "Rex Orange County",
+    "Girl in Red"
+   ],
+   "tr": [
+    [
+     "Pretty Girl",
+     "Clairo",
+     2017
+    ]
+   ]
+  }
+ ]
+}

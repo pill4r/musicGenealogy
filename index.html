@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>音乐风格谱系 · Music Genealogy</title>
+<meta name="description" id="metaDesc" content="一张可交互的音乐风格家谱：1900 年至今 352 个流派，按年代展开、按家族分道，点开即可看来历、听感特征、代表艺人与 30 秒试听。" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="音乐风格谱系 · Music Genealogy" />
+<meta property="og:description" content="一张可交互的音乐风格家谱：1900 年至今 352 个流派，按年代展开、按家族分道，点开即可看来历、听感特征、代表艺人与 30 秒试听。" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" href="data:," />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div class="boot" id="boot"><span data-i18n="boot.loading">正在展开谱系…</span></div>
+<div id="app">
+  <header class="topbar">
+    <button class="btn side-toggle" id="sideToggle" data-i18n-attr="aria-label:aria.menu" aria-label="菜单">☰</button>
+    <div class="brand">
+      <div class="brand-mark"></div>
+      <div class="brand-title"><span data-i18n="brand.name">音乐风格谱系</span><em data-i18n="brand.tag">MUSIC GENEALOGY</em></div>
+    </div>
+    <div class="topbar-spacer"></div>
+
+    <div class="search">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+        <circle cx="11" cy="11" r="7"></circle><path d="M20 20l-3.5-3.5"></path>
+      </svg>
+      <input id="q" type="text" data-i18n-attr="placeholder:search.placeholder" placeholder="搜索风格：house / 浩室 / disco" autocomplete="off" spellcheck="false" />
+      <div class="search-pop" id="qpop"></div>
+    </div>
+
+    <button class="btn" id="plBtn" data-i18n-attr="title:nav.playlistsTitle" title="浏览 352 个风格的歌单"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 18V6h11"/><circle cx="6.5" cy="18.5" r="2.5"/><circle cx="17.5" cy="15.5" r="2.5"/><path d="M17.5 15.5V4l3 1"/></svg><span data-i18n="nav.playlists">歌单</span><span class="pl-badge" id="plBtnCount">0</span></button>
+    <button class="btn primary" id="fitBtn" data-i18n="nav.fit" data-i18n-attr="title:nav.fitTitle" title="缩放到全图">全图</button>
+    <button class="btn" id="randBtn" data-i18n-attr="title:nav.randomTitle" title="随机跳到一个风格"><span class="lbl-long" data-i18n="nav.random">随机漫游</span><span class="lbl-short" data-i18n="nav.randomShort">随机</span></button>
+    <div class="langs" id="langs" role="group" aria-label="语言"></div>
+  </header>
+
+  <div class="main">
+    <aside class="sidebar" id="sidebar">
+      <div class="side-title"><span data-i18n="sidebar.title">家族</span> <button id="allBtn" data-i18n="sidebar.all">显示全部</button></div>
+      <div id="famList"></div>
+      <div class="side-note">
+        <b data-i18n="side.read">读图方式</b><br />
+        <span data-i18n-html="side.readBody">横轴是年代，纵向按家族分道；箭头由「源头」指向「衍生」。<br />节点大小代表影响力层级，滚轮放大后会出现更细的分支标签。</span><br /><br />
+        <b data-i18n="side.listen">试听</b><br />
+        <span data-i18n-html="side.listenBody">点曲目听 30 秒试听（Apple Music 提供的片段）。想听整首，用歌单栏里的「YouTube 歌单」链接到 YouTube 里连着听。</span><br /><br />
+        <b data-i18n="side.data">数据</b><br />
+        <span data-i18n-html="side.dataBody">综合 Musicmap、Ishkur's Guide、Every Noise at Once、Wikipedia 与 AllMusic。年代与归类为近似值。</span><br />
+        <span id="dataStat">共 352 个风格、402 首代表曲</span>
+      </div>
+    </aside>
+
+    <section class="stage">
+      <div class="stage-cover" id="stageCover" aria-hidden="true"></div>
+      <div id="chart"></div>
+      <div class="yearlay" id="yearlay"></div>
+      <div class="bandlay" id="bandlay"></div>
+      <div class="hint" data-i18n-html="stage.hint">滚轮缩放 · 拖拽平移 · <b>点击节点</b>查看详情与试听</div>
+      <div class="link-key" id="linkKey" aria-hidden="true">
+        <span><i class="up"></i><span data-i18n="legend.up">前驱 · 源头</span></span>
+        <span><i class="down"></i><span data-i18n="legend.down">后继 · 演化</span></span>
+      </div>
+      <div class="zoom-badge">
+        <button id="zoomOut" data-i18n-attr="aria-label:aria.zoomOut" aria-label="缩小">−</button>
+        <span class="lvl" id="zoomLvl">100%</span>
+        <button id="zoomIn" data-i18n-attr="aria-label:aria.zoomIn" aria-label="放大">+</button>
+      </div>
+    </section>
+  </div>
+</div>
+
+<aside class="drawer" id="drawer" aria-live="polite"></aside>
+
+<!-- 歌单总览：每个风格一张 5–8 首的歌单，家族另有整张 30 首的 YouTube 歌单 -->
+<section class="plpanel" id="plPanel" aria-hidden="true">
+  <div class="pl-head">
+    <div class="pl-title"><span data-i18n="pl.title">歌单总览</span><em id="plSub" data-i18n="pl.subDefault">风格卡片 5–8 首 · 家族整张 30 首在 YouTube</em></div>
+    <div class="pl-search">
+      <input id="plSearch" type="text" data-i18n-attr="placeholder:pl.search" placeholder="筛选风格：house / 浩室 / techno" autocomplete="off" spellcheck="false" />
+    </div>
+    <button class="pl-close" id="plClose" data-i18n-attr="aria-label:aria.closePanel" aria-label="关闭">×</button>
+  </div>
+  <div class="pl-main">
+    <nav class="pl-fams" id="plFams"></nav>
+    <div class="pl-grid" id="plGrid"></div>
+  </div>
+</section>
+
+<footer class="player" id="player">
+  <div class="p-cover">
+    <svg viewBox="0 0 24 24"><path d="M12 3v10.55A4 4 0 1 0 14 17V7h4V3h-6z"/></svg>
+  </div>
+  <div class="p-meta">
+    <div class="p-title" id="pTitle">—</div>
+    <div class="p-sub" id="pSub">—</div>
+  </div>
+  <button class="p-play" id="pToggle" data-i18n-attr="aria-label:aria.playPause" aria-label="播放/暂停 30 秒试听">
+    <svg id="pIcon" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+  </button>
+  <div class="p-bar">
+    <span class="p-time" id="pCur">0:00</span>
+    <input type="range" class="p-seek" id="pSeek" min="0" max="100" value="0" step="0.1" data-i18n-attr="aria-label:aria.seek" aria-label="试听进度" />
+    <span class="p-time" id="pDur">0:30</span>
+  </div>
+  <button class="p-close" id="pClose" data-i18n-attr="aria-label:aria.closePlayer" aria-label="关闭播放器">×</button>
+</footer>
+
+<div class="toast" id="toast"></div>
+<audio id="audio" preload="none"></audio>
+
+<script src="vendor/echarts.min.js"></script>
+<script src="js/data-1.js"></script>
+<script src="js/data-2.js"></script>
+<script src="js/data-3.js"></script>
+<script src="js/data-4.js"></script>
+<script src="js/data-5.js"></script>
+<script src="js/data-6.js"></script>
+<script src="js/data-7.js"></script>
+<script src="js/data-8.js"></script>
+<script src="js/data-9.js"></script>
+<script src="js/data-10.js"></script>
+<script src="js/videos.js"></script>
+<script src="js/playlists.js"></script>
+<script src="js/yt-playlists.js"></script>
+<script src="js/yt-genre-playlists.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/locales/en.genres.js"></script>
+<script src="js/locales/en.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

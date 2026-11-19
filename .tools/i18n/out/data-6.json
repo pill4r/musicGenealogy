@@ -1,0 +1,310 @@
+{
+ "drone": {
+  "n": "Drone",
+  "r": "US",
+  "d": "Emerged around 1990 out of minimalism and modern composition: single notes or chords stretched to extreme length, floating on slow shifts in overtones and volume, with almost no beat.",
+  "ch": [
+   "Sustained drones",
+   "Shifting overtones",
+   "Beatless",
+   "Minimal repetition"
+  ]
+ },
+ "dark-ambient": {
+  "n": "Dark Ambient",
+  "r": "UK",
+  "d": "Appeared in the mid-1980s where ambient met industrial: low-end rumble, cathedral reverb and sampled horror spaces that sound like an abandoned cellar.",
+  "ch": [
+   "Low-end rumble",
+   "Cathedral reverb",
+   "Dark spatial feel",
+   "Sampled collage"
+  ]
+ },
+ "glitch": {
+  "n": "Glitch",
+  "r": "Germany",
+  "d": "In the mid-1990s Oval and their circle treated CD skips, bursts and software errors as rhythmic material, cutting glitches into rhythmic collages that IDM later absorbed in bulk.",
+  "ch": [
+   "CD skips and bursts",
+   "Software error sounds",
+   "Microsound edits",
+   "Anti-groove"
+  ]
+ },
+ "plunderphonics": {
+  "n": "Plunderphonics",
+  "r": "Canada",
+  "d": "John Oswald coined the term in 1985: sampling whole passages of existing records, shifting speed and overdubbing them into unlicensed collages that challenge copyright and originality.",
+  "ch": [
+   "Found-record sampling",
+   "Speed-shifted overdubs",
+   "Copyright provocation",
+   "Collage structure"
+  ]
+ },
+ "hauntology": {
+  "n": "Hauntology",
+  "r": "UK",
+  "d": "A British sound current around 2006: faded TV soundtracks, old tape noise and ghostly reverb collaged into the nostalgia and unease of a lost future; the Caretaker and Burial are its exemplars.",
+  "ch": [
+   "Old tape texture",
+   "Faded soundtracks",
+   "Ghostly reverb",
+   "Displaced nostalgia"
+  ]
+ },
+ "noise": {
+  "n": "Noise",
+  "r": "Japan",
+  "d": "Breaking away from industrial and experimental music in the mid-1970s: no melody or beat, only feedback, distortion and enormous volume, with sound itself treated as material.",
+  "ch": [
+   "Feedback distortion",
+   "Extreme volume",
+   "No melody",
+   "Physical impact"
+  ]
+ },
+ "illbient": {
+  "n": "Illbient",
+  "r": "New York, USA",
+  "d": "DJ Spooky coined the term in New York in 1994: hip-hop sampling and dub low end soaked in ambience, with loose rhythms and damp spaces, like a block after the clubs empty at dawn.",
+  "ch": [
+   "Loose breakbeats",
+   "Dub low end",
+   "Damp spatial feel",
+   "Sampled collage"
+  ]
+ },
+ "chillwave": {
+  "n": "Chillwave",
+  "r": "US",
+  "d": "Rose with music blogs around 2009: cheap synths, tape hiss and heavy reverb making hazy pop songs like a summer afternoon, sweet in melody and deliberately smeared in production.",
+  "ch": [
+   "Cheap synths",
+   "Tape hiss",
+   "Heavy reverb",
+   "Hazy vocals"
+  ]
+ },
+ "dungeon-synth": {
+  "n": "Dungeon Synth",
+  "r": "Norway",
+  "d": "Named retroactively by fans around 2010: inspired by the keyboard interludes of early black metal, crude synths play medieval dungeon-like looping melodies, lo-fi and cold.",
+  "ch": [
+   "Lo-fi synths",
+   "Medieval melodies",
+   "Looping beds",
+   "Cold atmosphere"
+  ]
+ },
+ "chiptune": {
+  "n": "Chiptune",
+  "r": "Japan",
+  "d": "From 1985, born of console and arcade sound chips: music built from square waves, triangle waves and noise channels, bright in melody and limited in timbre, later the sound of indie games.",
+  "ch": [
+   "Square-wave tones",
+   "Sound chips",
+   "Noise-channel drums",
+   "Bright melodies"
+  ]
+ },
+ "juke": {
+  "n": "Juke",
+  "r": "Chicago, USA",
+  "d": "Took shape on Chicago's South Side around 1997: ghetto house pushed to 160 BPM, with dense hi-hats, shouted vocal samples and relentlessly repeating sections, built for dance battles.",
+  "ch": [
+   "160 BPM",
+   "Dense hi-hats",
+   "Shouted samples",
+   "Dance battles"
+  ]
+ },
+ "footwork": {
+  "n": "Footwork",
+  "r": "Chicago, USA",
+  "d": "Evolved out of juke around 2005: more broken beats and harsher syncopation, packing countless sample slices into 160 BPM to match lightning-fast footwork, and DJ Rashad took it worldwide.",
+  "ch": [
+   "Broken syncopation",
+   "Sample slices",
+   "Fast footwork dancing",
+   "Sub-bass hits"
+  ]
+ },
+ "hard-trance": {
+  "n": "Hard Trance",
+  "r": "Germany",
+  "d": "Split off from trance and hard dance around 1993: faster tempos, harder kicks and acid leads, pushed to its peak by clubs in Germany and the Netherlands.",
+  "ch": [
+   "Hard kicks",
+   "Acid leads",
+   "Fast drive",
+   "Long builds"
+  ]
+ },
+ "tech-trance": {
+  "n": "Tech Trance",
+  "r": "Netherlands",
+  "d": "Emerging around 1998: it keeps trance's melodic build-ups but swaps in techno's cold, hard drum kits and industrial timbres, highly driving and made for big warehouse floors.",
+  "ch": [
+   "Cold hard drums",
+   "Industrial timbres",
+   "Melodic builds",
+   "Warehouse floors"
+  ]
+ },
+ "vocal-trance": {
+  "n": "Vocal Trance",
+  "r": "UK",
+  "d": "Took shape around 1996: built around full songs sung by female vocalists, verses building into exploding choruses, lyrics mostly about love and parting; Above & Beyond took it mainstream.",
+  "ch": [
+   "Female lead vocals",
+   "Song structure",
+   "Explosive choruses",
+   "Emotional lyrics"
+  ]
+ },
+ "dream-trance": {
+  "n": "Dream Trance",
+  "r": "Italy",
+  "d": "Appeared in Italy around 1994: soft piano and strings, long female vocals and a steady four-on-the-floor kick, sounding like dreaming awake; Robert Miles made it a global hit.",
+  "ch": [
+   "Piano melodies",
+   "String beds",
+   "Soft female vocals",
+   "Four-on-the-floor kick"
+  ]
+ },
+ "eurodance": {
+  "n": "Eurodance",
+  "r": "Europe",
+  "d": "Appeared in Europe around 1989: rap verses plus female choruses, bright synth timbres and a punchy four-on-the-floor, with catchy hooks made for radio and commercial dancefloors.",
+  "ch": [
+   "Rap plus female vocals",
+   "Bright synths",
+   "Punchy 4/4",
+   "Radio choruses"
+  ]
+ },
+ "eurobeat": {
+  "n": "Eurobeat",
+  "r": "Italy",
+  "d": "Developed by Italian producers around 1987: fast 4/4, dense synths and shout-along vocals, which found fame mainly through Japanese records and arcade games.",
+  "ch": [
+   "Fast 4/4",
+   "Dense synths",
+   "Shout-along vocals",
+   "Arcade speed"
+  ]
+ },
+ "uk-hardcore": {
+  "n": "UK Hardcore",
+  "r": "UK",
+  "d": "UK breakbeat hardcore of 1991: hip-hop and house samples, piano stabs and ever-accelerating breaks mixed with rave shouts, the forerunner of jungle.",
+  "ch": [
+   "Accelerating breaks",
+   "Piano riffs",
+   "Vocal samples",
+   "Rave effects"
+  ]
+ },
+ "speedcore": {
+  "n": "Speedcore",
+  "r": "Netherlands",
+  "d": "Split off from gabber around 1994: tempos pushed past 250 BPM, kicks distorted into a wall of noise, melody almost gone, leaving only impact and extreme emotion.",
+  "ch": [
+   "Over 250 BPM",
+   "Distorted kicks",
+   "Wall of noise",
+   "Extreme emotion"
+  ]
+ },
+ "breakcore": {
+  "n": "Breakcore",
+  "r": "UK",
+  "d": "Took shape around 1994: drum & bass breaks cut to the point of losing control, layered with hardcore, anime samples and noise, chaotic in structure and dense with information, like a city on fast-forward.",
+  "ch": [
+   "Runaway breaks",
+   "Hardcore samples",
+   "Noise layering",
+   "High information density"
+  ]
+ },
+ "ragga-jungle": {
+  "n": "Ragga Jungle",
+  "r": "UK",
+  "d": "Appeared in London around 1993: jungle breaks topped with reggae and dancehall DJ chat and Jamaican-accented samples, closely tied to dancefloor and soundsystem culture.",
+  "ch": [
+   "Reggae chat",
+   "Accelerated breaks",
+   "Jamaican samples",
+   "Soundsystem culture"
+  ]
+ },
+ "techstep": {
+  "n": "Techstep",
+  "r": "UK",
+  "d": "Split off from drum & bass around 1996: reggae vocals removed in favour of cinematic dark timbres, industrial drum kits and precise low end; Ed Rush and Optical set its template.",
+  "ch": [
+   "Dark timbres",
+   "Industrial drums",
+   "Precise low end",
+   "Cinematic feel"
+  ]
+ },
+ "jump-up": {
+  "n": "Jump Up",
+  "r": "UK",
+  "d": "Emerged around 1994: bouncy basslines and simple catchy melodies, blunt drums and repeating sections designed for instant dancefloor reaction, with DJ Zinc as a key figure.",
+  "ch": [
+   "Bouncy bass",
+   "Catchy melodies",
+   "Blunt drums",
+   "Dancefloor reaction"
+  ]
+ },
+ "brostep": {
+  "n": "Brostep",
+  "r": "US",
+  "d": "Split from dubstep around 2009: wobble bass turned into harsh mid-range metallic noise, with exaggerated drums and half-time rhythms; Skrillex carried it onto the mainstream charts.",
+  "ch": [
+   "Mid-range metallic bass",
+   "Wobble tones",
+   "Exaggerated drums",
+   "Half-time drop"
+  ]
+ },
+ "riddim": {
+  "n": "Riddim",
+  "r": "US",
+  "d": "Split again from brostep around 2012: melody stripped out, leaving minimal triplet bass and repeating drum patterns, one loop polished over and over while the floor runs on low end.",
+  "ch": [
+   "Triplet bass",
+   "Minimal loops",
+   "Repeating drums",
+   "No melody"
+  ]
+ },
+ "halftime": {
+  "n": "Halftime",
+  "r": "UK",
+  "d": "Emerged around 2010: drum & bass at 170 BPM played to feel half-speed, with sparse drums and heavy bass, stretching the sense of speed and sitting between drum & bass and dubstep.",
+  "ch": [
+   "Half-speed drums",
+   "Sparse rhythms",
+   "Heavy bass",
+   "170 BPM frame"
+  ]
+ },
+ "drumstep": {
+  "n": "Drumstep",
+  "r": "US",
+  "d": "Emerged around 2010: dubstep bass and timbres placed inside the 170 BPM drum & bass frame, half-speed drums with violent drops, a hybrid of the two dance styles.",
+  "ch": [
+   "170 BPM frame",
+   "Half-speed drums",
+   "Dubstep bass",
+   "Violent drops"
+  ]
+ }
+}

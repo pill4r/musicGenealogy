@@ -1,0 +1,841 @@
+{
+ "family": "latin",
+ "name": "拉丁 / 加勒比 / 非洲",
+ "sub": "跨大西洋节奏",
+ "genres": [
+  {
+   "id": "son-cubano",
+   "n": "Son Cubano",
+   "zh": "古巴颂",
+   "tier": 3,
+   "y": 1920,
+   "d": "古巴东部的音乐：西班牙吉他、非洲节奏与特雷斯琴，是 salsa 的骨架。",
+   "ar": [
+    "Arsenio Rodríguez",
+    "Buena Vista Social Club",
+    "Compay Segundo"
+   ],
+   "tr": [
+    [
+     "Chan Chan",
+     "Buena Vista Social Club",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "mambo",
+   "n": "Mambo",
+   "zh": "曼波",
+   "tier": 3,
+   "y": 1940,
+   "d": "古巴 son 遇上大乐队爵士：铜管 riff、切分节奏、舞厅狂热。",
+   "ar": [
+    "Pérez Prado",
+    "Tito Puente",
+    "Machito"
+   ],
+   "tr": [
+    [
+     "Mambo No. 5",
+     "Pérez Prado",
+     1949
+    ]
+   ]
+  },
+  {
+   "id": "salsa",
+   "n": "Salsa",
+   "zh": "萨尔萨",
+   "tier": 2,
+   "y": 1965,
+   "d": "古巴 son + 纽约拉丁爵士 + 波多黎各节奏，Fania 厂牌把它变成全球语言。",
+   "ar": [
+    "Fania All-Stars",
+    "Celia Cruz",
+    "Héctor Lavoe"
+   ],
+   "tr": [
+    [
+     "El Cantante",
+     "Héctor Lavoe",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "cumbia",
+   "n": "Cumbia",
+   "zh": "昆比亚",
+   "tier": 3,
+   "y": 1945,
+   "d": "哥伦比亚海岸的舞曲：手风琴、刮瓜、稳定低音，遍布拉美。",
+   "ar": [
+    "Los Ángeles Azules",
+    "Totó la Momposina",
+    "Los Corraleros"
+   ],
+   "tr": [
+    [
+     "Cómo Te Voy a Olvidar",
+     "Los Ángeles Azules",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "ska",
+   "n": "Ska",
+   "zh": "斯卡",
+   "tier": 2,
+   "y": 1959,
+   "d": "牙买加把 R&B 加速、加重反拍，是 reggae 的前身。",
+   "ar": [
+    "The Skatalites",
+    "Toots and the Maytals",
+    "The Specials"
+   ],
+   "tr": [
+    [
+     "54-46 That's My Number",
+     "Toots & the Maytals",
+     1968
+    ]
+   ]
+  },
+  {
+   "id": "rocksteady",
+   "n": "Rocksteady",
+   "zh": "慢摇",
+   "tier": 3,
+   "y": 1966,
+   "d": "ska 放慢后的过渡形态：更重的贝斯、更 soulful 的人声。",
+   "ar": [
+    "Alton Ellis",
+    "The Paragons",
+    "Desmond Dekker"
+   ],
+   "tr": [
+    [
+     "The Tide Is High",
+     "The Paragons",
+     1967
+    ]
+   ]
+  },
+  {
+   "id": "reggae",
+   "n": "Reggae",
+   "zh": "雷鬼",
+   "tier": 1,
+   "y": 1968,
+   "d": "更慢、更重低音，Rastafari 与政治意识；Bob Marley 把它带向世界。",
+   "ar": [
+    "Bob Marley",
+    "Peter Tosh",
+    "Burning Spear"
+   ],
+   "tr": [
+    [
+     "No Woman, No Cry",
+     "Bob Marley",
+     1974
+    ]
+   ]
+  },
+  {
+   "id": "dub",
+   "n": "Dub",
+   "zh": "回响",
+   "tier": 2,
+   "y": 1972,
+   "d": "把 reggae 拆成回声与低音；King Tubby 把调音台变成乐器。",
+   "ar": [
+    "King Tubby",
+    "Lee 'Scratch' Perry",
+    "Scientist"
+   ],
+   "tr": [
+    [
+     "Blackboard Jungle Dub",
+     "The Upsetters",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "dancehall",
+   "n": "Dancehall",
+   "zh": "舞厅雷鬼",
+   "tier": 2,
+   "y": 1979,
+   "d": "数字节奏 + 更快的 DJ 说唱，牙买加舞厅文化。",
+   "ar": [
+    "Shabba Ranks",
+    "Sean Paul",
+    "Vybz Kartel"
+   ],
+   "tr": [
+    [
+     "Get Busy",
+     "Sean Paul",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "reggaeton",
+   "n": "Reggaeton",
+   "zh": "雷鬼顿",
+   "tier": 2,
+   "y": 1994,
+   "d": "dancehall 的节奏 + hip-hop + 拉丁旋律，dembow 鼓型。",
+   "ar": [
+    "Daddy Yankee",
+    "Bad Bunny",
+    "Don Omar"
+   ],
+   "tr": [
+    [
+     "Gasolina",
+     "Daddy Yankee",
+     2004
+    ]
+   ]
+  },
+  {
+   "id": "latin-trap",
+   "n": "Latin Trap",
+   "zh": "拉丁陷阱",
+   "tier": 3,
+   "y": 2015,
+   "d": "trap 的 808 与暗色旋律 + 西班牙语，2010 年代后期统治全球榜单。",
+   "ar": [
+    "Bad Bunny",
+    "J Balvin",
+    "Anuel AA"
+   ],
+   "tr": [
+    [
+     "Tití Me Preguntó",
+     "Bad Bunny",
+     2022
+    ]
+   ]
+  },
+  {
+   "id": "highlife",
+   "n": "Highlife",
+   "zh": "Highlife",
+   "tier": 3,
+   "y": 1920,
+   "d": "西非的舞会音乐：吉他、铜管、多声部旋律，影响了 afrobeat。",
+   "ar": [
+    "E.T. Mensah",
+    "Osibisa"
+   ],
+   "tr": [
+    [
+     "All for You",
+     "E.T. Mensah",
+     1953
+    ]
+   ]
+  },
+  {
+   "id": "afrobeat",
+   "n": "Afrobeat",
+   "zh": "非洲节拍",
+   "tier": 2,
+   "y": 1969,
+   "d": "Fela 把 highlife、funk、爵士与政治抗争结合，长篇、催眠、管乐齐奏。",
+   "ar": [
+    "Fela Kuti",
+    "Tony Allen",
+    "Antibalas"
+   ],
+   "tr": [
+    [
+     "Zombie",
+     "Fela Kuti",
+     1976
+    ]
+   ]
+  },
+  {
+   "id": "afrobeats",
+   "n": "Afrobeats",
+   "zh": "非洲流行",
+   "tier": 2,
+   "y": 2010,
+   "d": "尼日利亚/加纳的现代流行：更轻、更旋律化，与 afrobeat 拼写不同、声音也不同。",
+   "ar": [
+    "Wizkid",
+    "Burna Boy",
+    "Davido"
+   ],
+   "tr": [
+    [
+     "Essence",
+     "WizKid",
+     2020
+    ]
+   ]
+  },
+  {
+   "id": "tejano",
+   "n": "Tejano",
+   "zh": "特哈诺",
+   "tier": 3,
+   "y": 1940,
+   "d": "德州墨西哥裔的音乐：手风琴、合成器与流行旋律，Selena 把它带向全美。",
+   "ar": [
+    "Selena",
+    "Little Joe",
+    "La Mafia"
+   ],
+   "tr": [
+    [
+     "Como La Flor",
+     "Selena",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "samba",
+   "n": "Samba",
+   "zh": "桑巴",
+   "tier": 2,
+   "y": 1916,
+   "d": "里约黑人社群把非洲鼓点、呼应与欧洲和声熔成狂欢节游行乐，二拍子上密集的打击层推着人全身摇摆。",
+   "ar": [
+    "Donga",
+    "Cartola",
+    "Martinho da Vila"
+   ],
+   "tr": [
+    [
+     "Pelo Telefone",
+     "Donga",
+     1916
+    ],
+    [
+     "Aquarela do Brasil",
+     "Ary Barroso",
+     1939
+    ]
+   ]
+  },
+  {
+   "id": "bossa-nova",
+   "n": "Bossa Nova",
+   "zh": "巴萨诺瓦",
+   "tier": 2,
+   "y": 1958,
+   "d": "里约中产把桑巴放慢化简，配上爵士和声与气声吟唱，吉他切分像海浪轻推，安静又慵懒。",
+   "ar": [
+    "João Gilberto",
+    "Antônio Carlos Jobim",
+    "Stan Getz"
+   ],
+   "tr": [
+    [
+     "Chega de Saudade",
+     "João Gilberto",
+     1959
+    ]
+   ]
+  },
+  {
+   "id": "mpb",
+   "n": "MPB",
+   "zh": "巴西流行乐",
+   "tier": 2,
+   "y": 1965,
+   "d": "军政府年代，巴西音乐人把巴萨诺瓦、桑巴与民谣摇滚熬成有政治锋芒的创作歌手音乐，歌词先于节奏。",
+   "ar": [
+    "Caetano Veloso",
+    "Gilberto Gil",
+    "Chico Buarque"
+   ],
+   "tr": [
+    [
+     "Alegria, Alegria",
+     "Caetano Veloso",
+     1967
+    ],
+    [
+     "Construção",
+     "Chico Buarque",
+     1971
+    ]
+   ]
+  },
+  {
+   "id": "tango",
+   "n": "Tango",
+   "zh": "探戈",
+   "tier": 2,
+   "y": 1905,
+   "d": "布宜诺斯艾利斯港口区的移民音乐，手风琴与弦乐奏出忧郁而强硬的步态，双人舞贴身对抗又互相支撑。",
+   "ar": [
+    "Carlos Gardel",
+    "Astor Piazzolla",
+    "Juan D'Arienzo"
+   ],
+   "tr": [
+    [
+     "Por una Cabeza",
+     "Carlos Gardel",
+     1935
+    ]
+   ]
+  },
+  {
+   "id": "forro",
+   "n": "Forró",
+   "zh": "福罗",
+   "tier": 3,
+   "y": 1940,
+   "d": "巴西东北旱地的舞会音乐，手风琴、三角铁与扎姆博纳鼓撑起快活的两拍与三拍，唱旱季、迁徙与思念。",
+   "ar": [
+    "Luiz Gonzaga",
+    "Dominguinhos",
+    "Jackson do Pandeiro"
+   ],
+   "tr": [
+    [
+     "Asa Branca",
+     "Luiz Gonzaga",
+     1947
+    ]
+   ]
+  },
+  {
+   "id": "sertanejo",
+   "n": "Sertanejo",
+   "zh": "塞尔塔内霍",
+   "tier": 3,
+   "y": 1929,
+   "d": "从圣保罗内陆乡野民歌起家，两把木吉他加假声二重唱，九十年代插电后变成巴西最畅销的大众流行。",
+   "ar": [
+    "Chitãozinho & Xororó",
+    "Zezé Di Camargo & Luciano",
+    "Tião Carreiro"
+   ],
+   "tr": [
+    [
+     "É o Amor",
+     "Zezé Di Camargo & Luciano",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "bachata",
+   "n": "Bachata",
+   "zh": "巴恰塔",
+   "tier": 3,
+   "y": 1962,
+   "d": "多米尼加乡野的吉他伤情歌，邦戈、刮瓜配清亮高音吉他，讲背叛与思念，从底层标签翻成全球浪漫。",
+   "ar": [
+    "Aventura",
+    "Juan Luis Guerra",
+    "Romeo Santos"
+   ],
+   "tr": [
+    [
+     "Obsesión",
+     "Aventura",
+     2002
+    ]
+   ]
+  },
+  {
+   "id": "merengue",
+   "n": "Merengue",
+   "zh": "梅伦格",
+   "tier": 3,
+   "y": 1930,
+   "d": "多米尼加国舞，二拍子上塔姆博拉鼓与刮瓜推进，铜管短句一压，全场脚步跟着左右拖曳。",
+   "ar": [
+    "Juan Luis Guerra",
+    "Johnny Ventura",
+    "Wilfrido Vargas"
+   ],
+   "tr": [
+    [
+     "La Bilirrubina",
+     "Juan Luis Guerra",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "kompa",
+   "n": "Kompa",
+   "zh": "康帕",
+   "tier": 3,
+   "y": 1955,
+   "d": "海地太子港把本土节奏交给电吉他、铜管与康加鼓，摇摆温和克制，是加勒比城市舞曲的雅致版本。",
+   "ar": [
+    "Nemours Jean-Baptiste",
+    "Tabou Combo",
+    "Alan Cavé"
+   ],
+   "tr": [
+    [
+     "Ti Carole",
+     "Nemours Jean-Baptiste",
+     1967
+    ]
+   ]
+  },
+  {
+   "id": "calypso",
+   "n": "Calypso",
+   "zh": "卡利普索",
+   "tier": 3,
+   "y": 1912,
+   "d": "特立尼达狂欢节的即兴讽刺歌，钢鼓与吉他托着西印度群岛的叙事韵律，既报新闻也讲笑话。",
+   "ar": [
+    "Harry Belafonte",
+    "Mighty Sparrow",
+    "Lord Kitchener"
+   ],
+   "tr": [
+    [
+     "Day-O (Banana Boat Song)",
+     "Harry Belafonte",
+     1956
+    ],
+    [
+     "Jean and Dinah",
+     "Mighty Sparrow",
+     1956
+    ]
+   ]
+  },
+  {
+   "id": "soca",
+   "n": "Soca",
+   "zh": "索卡",
+   "tier": 3,
+   "y": 1970,
+   "d": "卡利普索加速后塞进鼓机与合成器，重拍落在地鼓上，为狂欢节游行造出不知疲倦的推力。",
+   "ar": [
+    "Arrow",
+    "Machel Montano",
+    "Kes"
+   ],
+   "tr": [
+    [
+     "Hot Hot Hot",
+     "Arrow",
+     1983
+    ]
+   ]
+  },
+  {
+   "id": "zouk",
+   "n": "Zouk",
+   "zh": "祖克",
+   "tier": 3,
+   "y": 1980,
+   "d": "瓜德罗普与马提尼克乐手把康帕、本土鼓乐和合成器叠成密实舞曲，鼓组急促，人声甜里带韧。",
+   "ar": [
+    "Kassav'",
+    "Zouk Machine",
+    "Jocelyne Béroard"
+   ],
+   "tr": [
+    [
+     "Zouk-la Sé Sèl Médikaman Nou Ni",
+     "Kassav'",
+     1985
+    ]
+   ]
+  },
+  {
+   "id": "kizomba",
+   "n": "Kizomba",
+   "zh": "基宗巴",
+   "tier": 3,
+   "y": 1984,
+   "d": "安哥拉人在祖克的速度上再放慢，混进森巴的贴身律动，鼓点缠绵，被叫作非洲的慢舞情歌。",
+   "ar": [
+    "Bonga",
+    "Anselmo Ralph",
+    "C4 Pedro"
+   ],
+   "tr": [
+    [
+     "Não Me Toca",
+     "Anselmo Ralph",
+     2012
+    ]
+   ]
+  },
+  {
+   "id": "dembow",
+   "n": "Dembow",
+   "zh": "登波",
+   "tier": 3,
+   "y": 1990,
+   "d": "牙买加 dancehall 的三连音鼓型被波多黎各人循环取样、加速堆叠，成了 reggaeton 的骨架节奏。",
+   "ar": [
+    "Shabba Ranks",
+    "Nando Boom",
+    "El General"
+   ],
+   "tr": [
+    [
+     "Dem Bow",
+     "Shabba Ranks",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "moombahton",
+   "n": "Moombahton",
+   "zh": "蒙巴顿",
+   "tier": 3,
+   "y": 2009,
+   "d": "华盛顿的制作人把登波鼓型降到一百零八拍，再铺浩室低音，慢到能扭、也照样能蹦的混血舞曲。",
+   "ar": [
+    "Dillon Francis",
+    "Diplo",
+    "Munchi"
+   ],
+   "tr": [
+    [
+     "Masta Blasta",
+     "Dillon Francis",
+     2012
+    ]
+   ]
+  },
+  {
+   "id": "nu-cumbia",
+   "n": "Nu-Cumbia",
+   "zh": "新昆比亚",
+   "tier": 3,
+   "y": 2005,
+   "d": "阿根廷与墨西哥的电子乐手把昆比亚手风琴采样、合成器和舞池低音拼在一起，怀旧又躁动。",
+   "ar": [
+    "Bomba Estéreo",
+    "Chancha Vía Circuito",
+    "Dengue Dengue Dengue"
+   ],
+   "tr": [
+    [
+     "Soy Yo",
+     "Bomba Estéreo",
+     2015
+    ]
+   ]
+  },
+  {
+   "id": "juju",
+   "n": "Juju",
+   "zh": "朱朱",
+   "tier": 3,
+   "y": 1920,
+   "d": "约鲁巴人的吉他乐队音乐，多把吉他交织成对话式旋律，配上说话鼓与合唱团，织体厚而松弛。",
+   "ar": [
+    "King Sunny Adé",
+    "Chief Ebenezer Obey",
+    "Tunde Nightingale"
+   ],
+   "tr": [
+    [
+     "Ja Funmi",
+     "King Sunny Adé",
+     1982
+    ]
+   ]
+  },
+  {
+   "id": "fuji",
+   "n": "Fuji",
+   "zh": "富士",
+   "tier": 3,
+   "y": 1960,
+   "d": "拉各斯穆斯林社群在阿帕拉与萨卡拉上做出的大乐团音乐，鼓组极密，主唱与合唱来回交锋。",
+   "ar": [
+    "Sikiru Ayinde Barrister",
+    "Kollington Ayinla",
+    "Adewale Ayuba"
+   ],
+   "tr": [
+    [
+     "Refined Fuji Garbage",
+     "Sikiru Ayinde Barrister",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "soukous",
+   "n": "Soukous",
+   "zh": "苏库斯",
+   "tier": 3,
+   "y": 1960,
+   "d": "刚果两把吉他把伦巴拆成轮流重复的短句，鼓组一路推进，八十年代从金沙萨跳到巴黎舞厅。",
+   "ar": [
+    "Franco",
+    "Tabu Ley Rochereau",
+    "Papa Wemba"
+   ],
+   "tr": [
+    [
+     "Mario",
+     "Franco",
+     1985
+    ]
+   ]
+  },
+  {
+   "id": "makossa",
+   "n": "Makossa",
+   "zh": "马科萨",
+   "tier": 3,
+   "y": 1950,
+   "d": "杜阿拉人的节庆舞曲，贝斯自己走一条旋律、铜管齐奏、鼓点硬朗，七十年代被迪邦戈带到世界。",
+   "ar": [
+    "Manu Dibango",
+    "Sam Fan Thomas",
+    "Petit Pays"
+   ],
+   "tr": [
+    [
+     "Soul Makossa",
+     "Manu Dibango",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "mbalax",
+   "n": "Mbalax",
+   "zh": "姆巴拉克斯",
+   "tier": 3,
+   "y": 1970,
+   "d": "塞内加尔的沃洛夫节奏，萨巴尔鼓密集敲击与吉他、铜管并列，人声高亢，跳舞全靠腰腹发力。",
+   "ar": [
+    "Youssou N'Dour",
+    "Baaba Maal",
+    "Étoile de Dakar"
+   ],
+   "tr": [
+    [
+     "7 Seconds",
+     "Youssou N'Dour & Neneh Cherry",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "taarab",
+   "n": "Taarab",
+   "zh": "塔拉布",
+   "tier": 3,
+   "y": 1900,
+   "d": "桑给巴尔沿海的婚礼音乐，阿拉伯旋律、印度弦乐与非洲鼓混作一团，歌声婉转悠长，讲究词句。",
+   "ar": [
+    "Culture Musical Club",
+    "Bi Kidude",
+    "Siti binti Saad"
+   ],
+   "tr": [
+    [
+     "Muhogo wa Jang'ombe",
+     "Culture Musical Club & Bi Kidude",
+     2007
+    ]
+   ]
+  },
+  {
+   "id": "benga",
+   "n": "Benga",
+   "zh": "本加",
+   "tier": 3,
+   "y": 1960,
+   "d": "肯尼亚卢奥人把传统里拉琴的音型搬上吉他与贝斯，节奏轻快跳跃，是独立前后最流行的本土声音。",
+   "ar": [
+    "D.O. Misiani",
+    "Kakai Kilonzo",
+    "Victoria Kings"
+   ],
+   "tr": [
+    [
+     "Amuka Salama",
+     "D.O. Misiani",
+     2010
+    ]
+   ]
+  },
+  {
+   "id": "chimurenga",
+   "n": "Chimurenga",
+   "zh": "奇穆伦加",
+   "tier": 3,
+   "y": 1970,
+   "d": "罗得西亚时代的抗争之声：姆比拉琴音型改用吉他弹，配嘶哑嗓音和政治歌词，名字意为「革命」。",
+   "ar": [
+    "Thomas Mapfumo",
+    "Stella Chiweshe",
+    "Oliver Mtukudzi"
+   ],
+   "tr": [
+    [
+     "Hokoyo",
+     "Thomas Mapfumo",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "kuduro",
+   "n": "Kuduro",
+   "zh": "库杜罗",
+   "tier": 3,
+   "y": 1990,
+   "d": "安哥拉内战后在罗安达的街区里长出来，快速电子节拍配粗粝说唱和即兴舞步，名字意为「硬屁股」。",
+   "ar": [
+    "Buraka Som Sistema",
+    "Dog Murras",
+    "Tony Amado"
+   ],
+   "tr": [
+    [
+     "Kalemba (Wegue Wegue)",
+     "Buraka Som Sistema",
+     2008
+    ]
+   ]
+  },
+  {
+   "id": "coupe-decale",
+   "n": "Coupé-Décalé",
+   "zh": "库佩-德卡莱",
+   "tier": 3,
+   "y": 2000,
+   "d": "科特迪瓦战乱中由 DJ 圈发明，鼓点切得干脆、口号式喊唱、舞步夸张，专为派对解压而生。",
+   "ar": [
+    "DJ Arafat",
+    "Douk Saga",
+    "Serge Beynaud"
+   ],
+   "tr": [
+    [
+     "Déranger",
+     "DJ Arafat",
+     2010
+    ]
+   ]
+  }
+ ]
+}

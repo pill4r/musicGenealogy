@@ -1,0 +1,424 @@
+{
+ "gospel": {
+  "n": "Gospel",
+  "r": "Southern US",
+  "d": "The worship music of the Black church: call-and-response between lead singer and choir, thick harmonies, Hammond organ; it later fed soul, R&B and rock 'n' roll.",
+  "ch": [
+   "Call-and-response",
+   "Third and fifth harmonies",
+   "Organ and handclaps"
+  ]
+ },
+ "blues": {
+  "n": "Blues",
+  "r": "Southern US",
+  "d": "Twelve-bar form, blue notes and conversational phrasing; from field hollers to electric Chicago blues, it is the shared ancestor of modern popular music.",
+  "ch": [
+   "12-bar structure",
+   "Blue notes (♭3/♭5/♭7)",
+   "Call-and-response singing"
+  ]
+ },
+ "delta-blues": {
+  "n": "Delta Blues",
+  "r": "Mississippi Delta, USA",
+  "d": "The raw blues of the Mississippi Delta: slide guitar and gritty vocals; Robert Johnson's recordings became the scripture for every blues that followed.",
+  "ch": [
+   "Slide guitar",
+   "Solo self-accompaniment",
+   "Heavy rhythmic drive"
+  ]
+ },
+ "boogie-woogie": {
+  "n": "Boogie-Woogie",
+  "r": "USA",
+  "d": "A piano blues offshoot: the left hand drives an unbroken eighth-note bass figure that directly foreshadowed the rhythm of rock 'n' roll.",
+  "ch": [
+   "Eighth-note bass",
+   "Solo piano",
+   "Fast tempo"
+  ]
+ },
+ "jump-blues": {
+  "n": "Jump Blues",
+  "r": "USA",
+  "d": "Postwar blues handed to big-voiced singers and horn riffs, faster and built for the dance floor; the forerunner of R&B.",
+  "ch": [
+   "Horn riffs",
+   "Shouted vocals",
+   "Dance-floor rhythm"
+  ]
+ },
+ "chicago-blues": {
+  "n": "Chicago Blues",
+  "r": "Chicago, USA",
+  "d": "Delta blues moved north to Chicago and was amplified through electric guitar, harmonica and a full band, becoming rock 'n' roll's direct teacher.",
+  "ch": [
+   "Electric guitar",
+   "Amplified harmonica",
+   "Band lineup"
+  ]
+ },
+ "folk": {
+  "n": "Folk",
+  "r": "USA/Europe",
+  "d": "A vernacular tradition built on narrative ballads and acoustic guitar; politicized by the folk revival of the 20th century, it later nourished rock.",
+  "ch": [
+   "Narrative lyrics",
+   "Acoustic guitar",
+   "Group singalongs"
+  ]
+ },
+ "country": {
+  "n": "Country",
+  "r": "Southern US",
+  "d": "Southern American storytelling with guitar, fiddle and steel guitar, singing of honky-tonks, love and homesickness.",
+  "ch": [
+   "Narrative lyrics",
+   "Steel guitar/fiddle",
+   "Nasal delivery"
+  ]
+ },
+ "bluegrass": {
+  "n": "Bluegrass",
+  "r": "Appalachia, USA",
+  "d": "High-energy acoustic music from Appalachia: banjo, mandolin, fiddle and high harmony, played at breakneck speed.",
+  "ch": [
+   "Banjo/mandolin",
+   "High harmony",
+   "Breakneck solos"
+  ]
+ },
+ "honky-tonk": {
+  "n": "Honky Tonk",
+  "r": "USA",
+  "d": "Country music for the barroom: electric guitar, piano and drums, with lyrics back on drinking and heartbreak.",
+  "ch": [
+   "Electric guitar",
+   "Barroom themes",
+   "Steady backbeat"
+  ]
+ },
+ "country-rock": {
+  "n": "Country Rock",
+  "r": "USA",
+  "d": "Country melody and harmony dropped into a rock band; Gram Parsons and The Byrds led the way.",
+  "ch": [
+   "Country melody",
+   "Rock instrumentation",
+   "Pedal steel"
+  ]
+ },
+ "outlaw-country": {
+  "n": "Outlaw Country",
+  "r": "USA",
+  "d": "1970s country made outside the Nashville system: rougher, more rock-oriented and more stubbornly individual in spirit.",
+  "ch": [
+   "Rough production",
+   "Anti-establishment stance",
+   "Country-rock blend"
+  ]
+ },
+ "ragtime": {
+  "n": "Ragtime",
+  "r": "USA",
+  "d": "Late-19th-century syncopated piano music: a steady bass in the left hand, syncopated melody in the right, the direct forerunner of jazz.",
+  "ch": [
+   "Syncopation",
+   "Solo piano",
+   "March structure"
+  ]
+ },
+ "new-orleans-jazz": {
+  "n": "New Orleans Jazz",
+  "r": "New Orleans, USA",
+  "d": "Collective improvisation from New Orleans: trumpet, clarinet and trombone all talking at once, played for funerals and parades alike.",
+  "ch": [
+   "Collective improvisation",
+   "Brass frontline",
+   "Ragtime rhythm"
+  ]
+ },
+ "swing": {
+  "n": "Swing",
+  "r": "USA",
+  "d": "Ballroom jazz of the big-band era: a driving rhythm section and call-and-response horn sections; it ruled American pop in the 1930s.",
+  "ch": [
+   "Big band",
+   "Four-to-the-bar swing",
+   "Horn call-and-response"
+  ]
+ },
+ "bebop": {
+  "n": "Bebop",
+  "r": "New York, USA",
+  "d": "A postwar small-group revolution: fast tempos, complex harmony, improvisation above all, pushing jazz from the ballroom toward art music.",
+  "ch": [
+   "Fast improvisation",
+   "Complex harmony",
+   "Small combo"
+  ]
+ },
+ "cool-jazz": {
+  "n": "Cool Jazz",
+  "r": "West Coast, USA",
+  "d": "A reaction against bebop: slower, more restrained, focused on arrangement and tone color; the face of West Coast jazz.",
+  "ch": [
+   "Restrained tone",
+   "Arranged",
+   "Chamber-like texture"
+  ]
+ },
+ "hard-bop": {
+  "n": "Hard Bop",
+  "r": "USA",
+  "d": "Bringing the grit of blues and gospel back into jazz, with funkier drums and bass; the breeding ground for soul jazz.",
+  "ch": [
+   "Gospel/blues feel",
+   "Funky drumming",
+   "Thick harmony"
+  ]
+ },
+ "modal-jazz": {
+  "n": "Modal Jazz",
+  "r": "USA",
+  "d": "A few modes replace frequent chord changes, letting soloists stretch out over a single harmony for a long time.",
+  "ch": [
+   "Static harmony",
+   "Long improvisations",
+   "Modal scales"
+  ]
+ },
+ "free-jazz": {
+  "n": "Free Jazz",
+  "r": "USA",
+  "d": "Fixed harmony and meter are abandoned, pushing collective improvisation to the edge of noise and energy.",
+  "ch": [
+   "No fixed meter",
+   "Collective improvisation",
+   "Extreme timbres"
+  ]
+ },
+ "jazz-fusion": {
+  "n": "Jazz Fusion",
+  "r": "USA",
+  "d": "Jazz players plug in: rock beats, funk bass, synthesizers; Miles Davis's Bitches Brew was the watershed.",
+  "ch": [
+   "Electric instruments",
+   "Rock/funk beats",
+   "Long solos"
+  ]
+ },
+ "smooth-jazz": {
+  "n": "Smooth Jazz",
+  "r": "USA",
+  "d": "The 1980s radio-friendly strain of jazz: synthesizer beds, soft grooves and melodies that never confront the listener.",
+  "ch": [
+   "Synth pads",
+   "Soft groove",
+   "Melody first"
+  ]
+ },
+ "acid-jazz": {
+  "n": "Acid Jazz",
+  "r": "London, UK",
+  "d": "Jazz samples, funk grooves and house beats stitched together, a product of the London club scene.",
+  "ch": [
+   "Jazz samples",
+   "Funk groove",
+   "Club beats"
+  ]
+ },
+ "nu-jazz": {
+  "n": "Nu Jazz",
+  "r": "Europe",
+  "d": "From the late 1990s, electronic producers and jazz players collaborated, carrying jazz improvisation into clubs and headphones.",
+  "ch": [
+   "Electronic production",
+   "Live jazz instrumentation",
+   "Downtempo groove"
+  ]
+ },
+ "rhythm-and-blues": {
+  "n": "Rhythm & Blues",
+  "r": "USA",
+  "d": "Postwar fusion of jump-blues horns, gospel voices and boogie groove; the common source of soul, funk and rock 'n' roll.",
+  "ch": [
+   "Horn riffs",
+   "Gospel-style vocals",
+   "Hard-driving beat"
+  ]
+ },
+ "doo-wop": {
+  "n": "Doo-Wop",
+  "r": "USA",
+  "d": "Street-corner vocal harmony, either a cappella or lightly backed, with stacked thirds and romantic lyrics at its center.",
+  "ch": [
+   "Vocal harmony",
+   "A cappella",
+   "Romantic themes"
+  ]
+ },
+ "soul": {
+  "n": "Soul",
+  "r": "USA",
+  "d": "Gospel passion poured into secular love songs, with the voice as absolute lead; the mainstream of Black American music in the 1960s.",
+  "ch": [
+   "Gospel-style vocals",
+   "Brass/strings",
+   "Emotion upfront"
+  ]
+ },
+ "motown": {
+  "n": "Motown",
+  "r": "Detroit, USA",
+  "d": "Detroit's polished take on soul: pop melodies, tight arrangements and factory-style production, built for a crossover market.",
+  "ch": [
+   "Polished production",
+   "Pop melodies",
+   "Pushing bass"
+  ]
+ },
+ "funk": {
+  "n": "Funk",
+  "r": "USA",
+  "d": "Accent on the one, bass in charge, drums and guitar chopped into interlocking grooves; James Brown made rhythm itself the star.",
+  "ch": [
+   "Accent on the one",
+   "Bass-led",
+   "Syncopated guitar"
+  ]
+ },
+ "psychedelic-soul": {
+  "n": "Psychedelic Soul",
+  "r": "USA",
+  "d": "Soul music meets psychedelic rock, taking in distorted textures, echo, social awareness and experimental arrangements.",
+  "ch": [
+   "Distortion/echo",
+   "Social themes",
+   "Experimental arrangements"
+  ]
+ },
+ "philadelphia-soul": {
+  "n": "Philadelphia Soul",
+  "r": "Philadelphia, USA",
+  "d": "Philadelphia's sweet soul sound: sweeping strings, Latin percussion and lush arrangements, one of disco's direct ancestors.",
+  "ch": [
+   "String arrangements",
+   "Latin percussion",
+   "Sweet vocals"
+  ]
+ },
+ "quiet-storm": {
+  "n": "Quiet Storm",
+  "r": "USA",
+  "d": "Late-1970s slow-jam R&B: romantic, silky and seductive, the soundtrack to late-night radio and the bedroom.",
+  "ch": [
+   "Slow tempos",
+   "Silky vocals",
+   "Synthesizers"
+  ]
+ },
+ "contemporary-rnb": {
+  "n": "Contemporary R&B",
+  "r": "USA",
+  "d": "R&B after the 1980s: drum machines, synthesizers and sleeker production; Michael Jackson and Whitney Houston took it global.",
+  "ch": [
+   "Drum machines/synths",
+   "Polished vocals",
+   "Pop production"
+  ]
+ },
+ "new-jack-swing": {
+  "n": "New Jack Swing",
+  "r": "New York, USA",
+  "d": "A late-1980s R&B offshoot built on swinging drum-machine patterns, choice samples and an unmistakable hip-hop attitude.",
+  "ch": [
+   "Swinging drum machines",
+   "Sampling",
+   "Hip-hop styling"
+  ]
+ },
+ "neo-soul": {
+  "n": "Neo-Soul",
+  "r": "USA",
+  "d": "From the mid-to-late 1990s, bringing live instruments, jazz harmony and hip-hop drums back to soul.",
+  "ch": [
+   "Live instruments",
+   "Jazz harmony",
+   "Hip-hop drums"
+  ]
+ },
+ "alternative-rnb": {
+  "n": "Alternative R&B",
+  "r": "USA/UK",
+  "d": "A 2010s strain of R&B: atmospheric production, electronic textures and an intimate vocal style that blurs genre boundaries.",
+  "ch": [
+   "Atmospheric production",
+   "Electronic textures",
+   "Intimate vocals"
+  ]
+ },
+ "disco": {
+  "n": "Disco",
+  "r": "New York, USA",
+  "d": "Born in New York's underground dance floors in the 1970s: four-on-the-floor dance music distilled from funk, soul, Philadelphia soul and salsa, reworked by DJs through 12-inch extended mixes. After the 1979 backlash it went underground, only to spawn house and techno.",
+  "ch": [
+   "Four-on-the-floor kick",
+   "Offbeat hi-hats",
+   "Strings/brass",
+   "Syncopated bass",
+   "12-inch extended mixes"
+  ]
+ },
+ "boogie": {
+  "n": "Boogie",
+  "r": "USA",
+  "d": "The lighter offshoot after disco receded: synth bass, looser drums and a stronger R&B flavor.",
+  "ch": [
+   "Synth bass",
+   "Loose groove",
+   "R&B vocals"
+  ]
+ },
+ "post-disco": {
+  "n": "Post-Disco",
+  "r": "USA",
+  "d": "The transitional years after 1979: disco's dance-floor DNA broken up into R&B, synth-pop and early electronic music.",
+  "ch": [
+   "Electronic textures",
+   "R&B production",
+   "Dance-floor focus"
+  ]
+ },
+ "hi-nrg": {
+  "n": "Hi-NRG",
+  "r": "USA/UK",
+  "d": "Faster and more synthesizer-driven than disco, this was the pumping high-energy sound of 1980s gay dance floors.",
+  "ch": [
+   "Fast four-on-the-floor",
+   "Synth arpeggios",
+   "Soaring vocals"
+  ]
+ },
+ "italo-disco": {
+  "n": "Italo Disco",
+  "r": "Italy/Europe",
+  "d": "Italian and European synth disco driven by mechanical drum machines, melodic synthesizers and robotic vocals.",
+  "ch": [
+   "Drum machines",
+   "Synth melodies",
+   "Robotic vocals"
+  ]
+ },
+ "nu-disco": {
+  "n": "Nu-Disco",
+  "r": "Europe",
+  "d": "A 2000s retro reworking of disco that combines live bass, strings and contemporary dance-music production.",
+  "ch": [
+   "Retro timbres",
+   "Live bass",
+   "Modern production"
+  ]
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "family": "country",
+ "genres": [
+  {
+   "id": "country",
+   "tracks": [
+    {"t": "I'm So Lonesome I Could Cry", "a": "Hank Williams", "y": 1949},
+    {"t": "Blue Yodel No. 1 (T for Texas)", "a": "Jimmie Rodgers", "y": 1927},
+    {"t": "Wildwood Flower", "a": "The Carter Family", "y": 1928},
+    {"t": "Hey Good Lookin'", "a": "Hank Williams", "y": 1951},
+    {"t": "Ring of Fire", "a": "Johnny Cash", "y": 1963},
+    {"t": "Coat of Many Colors", "a": "Dolly Parton", "y": 1971}
+   ]
+  },
+  {
+   "id": "bluegrass",
+   "tracks": [
+    {"t": "Blue Moon of Kentucky", "a": "Bill Monroe", "y": 1946},
+    {"t": "Foggy Mountain Breakdown", "a": "Flatt & Scruggs", "y": 1949},
+    {"t": "Man of Constant Sorrow", "a": "The Stanley Brothers", "y": 1951},
+    {"t": "Uncle Pen", "a": "Bill Monroe", "y": 1950},
+    {"t": "Rocky Top", "a": "The Osborne Brothers", "y": 1967},
+    {"t": "When You Say Nothing at All", "a": "Alison Krauss & Union Station", "y": 1995}
+   ]
+  },
+  {
+   "id": "honky-tonk",
+   "tracks": [
+    {"t": "Your Cheatin' Heart", "a": "Hank Williams", "y": 1953},
+    {"t": "It Wasn't God Who Made Honky Tonk Angels", "a": "Kitty Wells", "y": 1952},
+    {"t": "If You've Got the Money (I've Got the Time)", "a": "Lefty Frizzell", "y": 1950},
+    {"t": "There Stands the Glass", "a": "Webb Pierce", "y": 1953},
+    {"t": "Crazy Arms", "a": "Ray Price", "y": 1956},
+    {"t": "The Race Is On", "a": "George Jones", "y": 1964}
+   ]
+  },
+  {
+   "id": "country-rock",
+   "tracks": [
+    {"t": "Hickory Wind", "a": "The Byrds", "y": 1968},
+    {"t": "Take It Easy", "a": "Eagles", "y": 1972},
+    {"t": "Sin City", "a": "The Flying Burrito Brothers", "y": 1969},
+    {"t": "Pickin' Up the Pieces", "a": "Poco", "y": 1969},
+    {"t": "Return of the Grievous Angel", "a": "Gram Parsons", "y": 1974},
+    {"t": "Lyin' Eyes", "a": "Eagles", "y": 1975}
+   ]
+  },
+  {
+   "id": "outlaw-country",
+   "tracks": [
+    {"t": "Mammas Don't Let Your Babies Grow Up to Be Cowboys", "a": "Waylon & Willie", "y": 1978},
+    {"t": "Me and Bobby McGee", "a": "Kris Kristofferson", "y": 1970},
+    {"t": "Whiskey River", "a": "Willie Nelson", "y": 1973},
+    {"t": "Blue Eyes Crying in the Rain", "a": "Willie Nelson", "y": 1975},
+    {"t": "You Never Even Called Me by My Name", "a": "David Allan Coe", "y": 1975},
+    {"t": "Luckenbach, Texas (Back to the Basics of Love)", "a": "Waylon Jennings", "y": 1977}
+   ]
+  },
+  {
+   "id": "nashville-sound",
+   "tracks": [
+    {"t": "Crazy", "a": "Patsy Cline", "y": 1961},
+    {"t": "Four Walls", "a": "Jim Reeves", "y": 1957},
+    {"t": "Oh, Lonesome Me", "a": "Don Gibson", "y": 1958},
+    {"t": "He'll Have to Go", "a": "Jim Reeves", "y": 1959},
+    {"t": "I Fall to Pieces", "a": "Patsy Cline", "y": 1961},
+    {"t": "Make the World Go Away", "a": "Eddy Arnold", "y": 1965}
+   ]
+  },
+  {
+   "id": "bakersfield-sound",
+   "tracks": [
+    {"t": "A Dear John Letter", "a": "Jean Shepard & Ferlin Husky", "y": 1953},
+    {"t": "Act Naturally", "a": "Buck Owens", "y": 1963},
+    {"t": "Together Again", "a": "Buck Owens", "y": 1964},
+    {"t": "It's Such a Pretty World Today", "a": "Wynn Stewart", "y": 1967},
+    {"t": "Mama Tried", "a": "Merle Haggard", "y": 1968},
+    {"t": "Okie from Muskogee", "a": "Merle Haggard", "y": 1969}
+   ]
+  },
+  {
+   "id": "countrypolitan",
+   "tracks": [
+    {"t": "By the Time I Get to Phoenix", "a": "Glen Campbell", "y": 1967},
+    {"t": "Wichita Lineman", "a": "Glen Campbell", "y": 1968},
+    {"t": "Stand by Your Man", "a": "Tammy Wynette", "y": 1968},
+    {"t": "D-I-V-O-R-C-E", "a": "Tammy Wynette", "y": 1968},
+    {"t": "Behind Closed Doors", "a": "Charlie Rich", "y": 1973},
+    {"t": "The Most Beautiful Girl", "a": "Charlie Rich", "y": 1973}
+   ]
+  },
+  {
+   "id": "western-swing",
+   "tracks": [
+    {"t": "My Mary", "a": "Milton Brown", "y": 1935},
+    {"t": "Steel Guitar Rag", "a": "Bob Wills", "y": 1936},
+    {"t": "San Antonio Rose", "a": "Bob Wills", "y": 1938},
+    {"t": "Shame on You", "a": "Spade Cooley", "y": 1945},
+    {"t": "Smoke! Smoke! Smoke! (That Cigarette)", "a": "Tex Williams", "y": 1947},
+    {"t": "Humpty Dumpty Heart", "a": "Hank Thompson", "y": 1948}
+   ]
+  },
+  {
+   "id": "alt-country",
+   "tracks": [
+    {"t": "No Depression", "a": "Uncle Tupelo", "y": 1990},
+    {"t": "Whiskey Bottle", "a": "Uncle Tupelo", "y": 1991},
+    {"t": "Passenger Side", "a": "Wilco", "y": 1995},
+    {"t": "Windfall", "a": "Son Volt", "y": 1995},
+    {"t": "16 Days", "a": "Whiskeytown", "y": 1997},
+    {"t": "Come Pick Me Up", "a": "Ryan Adams", "y": 2000}
+   ]
+  },
+  {
+   "id": "americana",
+   "tracks": [
+    {"t": "Orphan Girl", "a": "Gillian Welch", "y": 1996},
+    {"t": "Car Wheels on a Gravel Road", "a": "Lucinda Williams", "y": 1998},
+    {"t": "Jesus, Etc.", "a": "Wilco", "y": 2002},
+    {"t": "I Am Trying to Break Your Heart", "a": "Wilco", "y": 2002},
+    {"t": "The Story", "a": "Brandi Carlile", "y": 2007},
+    {"t": "Cover Me Up", "a": "Jason Isbell", "y": 2013}
+   ]
+  },
+  {
+   "id": "country-pop",
+   "tracks": [
+    {"t": "Jolene", "a": "Dolly Parton", "y": 1973},
+    {"t": "I Will Always Love You", "a": "Dolly Parton", "y": 1974},
+    {"t": "The Gambler", "a": "Kenny Rogers", "y": 1978},
+    {"t": "You're Still the One", "a": "Shania Twain", "y": 1998},
+    {"t": "Man! I Feel Like a Woman!", "a": "Shania Twain", "y": 1999},
+    {"t": "Love Story", "a": "Taylor Swift", "y": 2008}
+   ]
+  },
+  {
+   "id": "bro-country",
+   "tracks": [
+    {"t": "Country Girl (Shake It for Me)", "a": "Luke Bryan", "y": 2011},
+    {"t": "Barefoot Blue Jean Night", "a": "Jake Owen", "y": 2011},
+    {"t": "Dirt Road Anthem", "a": "Jason Aldean", "y": 2011},
+    {"t": "Cruise", "a": "Florida Georgia Line", "y": 2012},
+    {"t": "Boys 'Round Here", "a": "Blake Shelton", "y": 2013},
+    {"t": "Chillin' It", "a": "Cole Swindell", "y": 2013}
+   ]
+  }
+ ]
+}

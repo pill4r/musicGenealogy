@@ -1,0 +1,262 @@
+{
+ "samba": {
+  "n": "Samba",
+  "r": "Rio de Janeiro, Brazil",
+  "d": "Rio's Black communities fused African drum patterns, call-and-response and European harmony into carnival parade music, dense percussion layers on a two-beat pulse driving the whole body to sway.",
+  "ch": [
+   "Carnival parade",
+   "Dense percussion layers",
+   "Call-and-response vocals"
+  ]
+ },
+ "bossa-nova": {
+  "n": "Bossa Nova",
+  "r": "Rio de Janeiro, Brazil",
+  "d": "Rio's middle class slowed and simplified samba, adding jazz harmony and breathy vocals, guitar syncopation pushing gently like a wave, quiet and languid.",
+  "ch": [
+   "Jazz harmony",
+   "Breathy vocals",
+   "Syncopated guitar"
+  ]
+ },
+ "mpb": {
+  "n": "MPB",
+  "r": "Brazil",
+  "d": "During the military dictatorship, Brazilian musicians stewed bossa nova, samba and folk rock into politically sharp singer-songwriter music where lyrics come before rhythm.",
+  "ch": [
+   "Political lyrics",
+   "Singer-songwriter",
+   "Eclectic fusion"
+  ]
+ },
+ "tango": {
+  "n": "Tango",
+  "r": "Buenos Aires, Argentina",
+  "d": "Immigrant music from the port districts of Buenos Aires: bandoneón and strings strike a melancholy yet hard gait, while couples dance pressed close, resisting and supporting each other.",
+  "ch": [
+   "Bandoneón",
+   "Melancholy melody",
+   "Close-embrace dance"
+  ]
+ },
+ "forro": {
+  "n": "Forró",
+  "r": "Northeast Brazil",
+  "d": "Dance music of Brazil's northeastern drylands, accordion, triangle and zabumba drum holding up brisk two- and three-beat rhythms, singing of drought, migration and longing.",
+  "ch": [
+   "Accordion",
+   "Triangle",
+   "Northeastern dialect lyrics"
+  ]
+ },
+ "sertanejo": {
+  "n": "Sertanejo",
+  "r": "Inland São Paulo, Brazil",
+  "d": "It began as rural folk song in inland São Paulo, two acoustic guitars and falsetto duets; plugged in during the 1990s, it became Brazil's best-selling popular music.",
+  "ch": [
+   "Duet singing",
+   "Country guitars",
+   "Falsetto"
+  ]
+ },
+ "bachata": {
+  "n": "Bachata",
+  "r": "Dominican Republic",
+  "d": "The Dominican Republic's rural guitar heartbreak song, bongos and güira behind a bright high-pitched guitar, telling of betrayal and longing, a low-class label turned global romance.",
+  "ch": [
+   "High-pitched guitar",
+   "Bongos",
+   "Heartbreak lyrics"
+  ]
+ },
+ "merengue": {
+  "n": "Merengue",
+  "r": "Dominican Republic",
+  "d": "The Dominican national dance, tambora drum and güira driving a two-beat while brass stabs press down, the whole room dragging its steps left and right.",
+  "ch": [
+   "Tambora drum",
+   "Brass stabs",
+   "Dragging dance steps"
+  ]
+ },
+ "kompa": {
+  "n": "Kompa",
+  "r": "Port-au-Prince, Haiti",
+  "d": "Port-au-Prince, Haiti put local rhythms into electric guitar, brass and congas: a gentle, restrained sway, the elegant version of Caribbean urban dance music.",
+  "ch": [
+   "Electric guitar melody",
+   "Congas",
+   "Gentle sway"
+  ]
+ },
+ "calypso": {
+  "n": "Calypso",
+  "r": "Trinidad",
+  "d": "Trinidad's carnival improvised satire song, steel drums and guitar carrying the narrative lilt of the West Indies, delivering both news and jokes.",
+  "ch": [
+   "Steel drums",
+   "Satirical lyrics",
+   "Carnival improvisation"
+  ]
+ },
+ "soca": {
+  "n": "Soca",
+  "r": "Trinidad",
+  "d": "Calypso sped up and stuffed with drum machines and synths, the accent landing on the kick drum, building tireless propulsion for the carnival procession.",
+  "ch": [
+   "Kick-drum accent",
+   "Synthesizers",
+   "Parade rhythm"
+  ]
+ },
+ "zouk": {
+  "n": "Zouk",
+  "r": "French Antilles",
+  "d": "Musicians from Guadeloupe and Martinique stacked kompa, local drumming and synths into a dense dance music, the drum kit busy, the vocals sweet but tough.",
+  "ch": [
+   "Synth beds",
+   "Dense drum kit",
+   "Creole lyrics"
+  ]
+ },
+ "kizomba": {
+  "n": "Kizomba",
+  "r": "Angola",
+  "d": "Angolans slowed zouk down further and stirred in semba's close body rhythm, the drums lingering; it is called Africa's slow-dance love song.",
+  "ch": [
+   "Slow close dance",
+   "Lingering drums",
+   "Portuguese lyrics"
+  ]
+ },
+ "dembow": {
+  "n": "Dembow",
+  "r": "Jamaica / Puerto Rico",
+  "d": "Jamaican dancehall's tresillo drum pattern, looped, sampled, sped up and stacked by Puerto Ricans, became the skeletal rhythm of reggaeton.",
+  "ch": [
+   "Tresillo pattern",
+   "Loop sampling",
+   "Bass propulsion"
+  ]
+ },
+ "moombahton": {
+  "n": "Moombahton",
+  "r": "Washington, DC",
+  "d": "A Washington, DC producer dropped the dembow rhythm to 108 BPM and laid house bass under it: a hybrid slow enough to grind to and still jump to.",
+  "ch": [
+   "108 BPM",
+   "Dembow pattern",
+   "House bass"
+  ]
+ },
+ "nu-cumbia": {
+  "n": "Nu-Cumbia",
+  "r": "Argentina / Colombia",
+  "d": "Electronic artists in Argentina and Mexico stitched sampled cumbia accordion, synths and dancefloor bass together, nostalgic and jittery at once.",
+  "ch": [
+   "Sampled accordion",
+   "Synthesizers",
+   "Dancefloor bass"
+  ]
+ },
+ "juju": {
+  "n": "Juju",
+  "r": "Nigeria",
+  "d": "Yoruba guitar-band music, several guitars interweaving into conversational melody lines, with talking drums and a choir, a thick yet loose texture.",
+  "ch": [
+   "Interwoven guitars",
+   "Talking drums",
+   "Yoruba choir"
+  ]
+ },
+ "fuji": {
+  "n": "Fuji",
+  "r": "Lagos, Nigeria",
+  "d": "The big-band music Lagos's Muslim community built from apala and sakara, drumming extremely dense, lead vocal and chorus trading back and forth.",
+  "ch": [
+   "Dense drumming",
+   "Call-and-response lead",
+   "Apala roots"
+  ]
+ },
+ "soukous": {
+  "n": "Soukous",
+  "r": "Congo",
+  "d": "Two Congolese guitars broke rumba into alternating repeated phrases while the drum kit pushed on; in the 1980s it leapt from Kinshasa to Paris dancehalls.",
+  "ch": [
+   "Interlocking guitars",
+   "Fast drum kit",
+   "Lingala lyrics"
+  ]
+ },
+ "makossa": {
+  "n": "Makossa",
+  "r": "Douala, Cameroon",
+  "d": "The festival dance music of Douala: bass carrying its own melody, brass in unison, hard drums; in the 1970s Dibango carried it to the world.",
+  "ch": [
+   "Melodic bass",
+   "Brass unison",
+   "Douala-language lyrics"
+  ]
+ },
+ "mbalax": {
+  "n": "Mbalax",
+  "r": "Dakar, Senegal",
+  "d": "Senegal's Wolof rhythm, sabar drums hammering densely alongside guitar and brass, the vocals high and strident, all the dancing driven from waist and belly.",
+  "ch": [
+   "Sabar drums",
+   "Wolof lyrics",
+   "Waist-driven groove"
+  ]
+ },
+ "taarab": {
+  "n": "Taarab",
+  "r": "Zanzibar, Tanzania",
+  "d": "Wedding music of coastal Zanzibar, Arabic melody, Indian strings and African drums jumbled together, the singing long and sweetly turned, with words that matter.",
+  "ch": [
+   "Arabic melody",
+   "Wedding setting",
+   "Strings and drums"
+  ]
+ },
+ "benga": {
+  "n": "Benga",
+  "r": "Kenya",
+  "d": "Kenya's Luo people moved the phrasing of the traditional lyre onto guitar and bass, a light, leaping rhythm, the most popular local sound around independence.",
+  "ch": [
+   "Lyre phrasing",
+   "Light and leaping",
+   "Luo lyrics"
+  ]
+ },
+ "chimurenga": {
+  "n": "Chimurenga",
+  "r": "Zimbabwe",
+  "d": "The sound of resistance in Rhodesian times: mbira patterns transferred to guitar, hoarse vocals and political lyrics; the name means 'revolution'.",
+  "ch": [
+   "Mbira patterns",
+   "Political lyrics",
+   "Guitar in place of mbira"
+  ]
+ },
+ "kuduro": {
+  "n": "Kuduro",
+  "r": "Luanda, Angola",
+  "d": "It grew out of Luanda's neighbourhoods after Angola's civil war, fast electronic beats with rough rapping and improvised dance steps; the name means 'hard ass'.",
+  "ch": [
+   "Fast electronic beats",
+   "Rough rapping",
+   "Improvised dance"
+  ]
+ },
+ "coupe-decale": {
+  "n": "Coupé-Décalé",
+  "r": "Abidjan, Côte d'Ivoire",
+  "d": "Invented by DJ circles during Côte d'Ivoire's civil conflict: drums cut sharp, slogan-like shout-along vocals, exaggerated dance moves, built purely for party release.",
+  "ch": [
+   "Sharp syncopation",
+   "Slogan shout-alongs",
+   "Party dance moves"
+  ]
+ }
+}

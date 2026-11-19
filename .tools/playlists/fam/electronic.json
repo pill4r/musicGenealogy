@@ -1,0 +1,508 @@
+{
+ "family": "electronic",
+ "name": "电子 / 氛围",
+ "sub": "从具体音乐到蒸汽波",
+ "genres": [
+  {
+   "id": "musique-concrete",
+   "n": "Musique Concrète",
+   "zh": "具体音乐",
+   "tier": 3,
+   "y": 1948,
+   "d": "用录音带把真实声音剪辑成音乐，Pierre Schaeffer 在巴黎创立，电子音乐的开端之一。",
+   "ar": [
+    "Pierre Schaeffer",
+    "Pierre Henry",
+    "Luc Ferrari"
+   ],
+   "tr": [
+    [
+     "Étude aux chemins de fer",
+     "Pierre Schaeffer",
+     1948
+    ]
+   ]
+  },
+  {
+   "id": "elektronische-musik",
+   "n": "Elektronische Musik",
+   "zh": "电子音乐（科隆）",
+   "tier": 3,
+   "y": 1953,
+   "d": "科隆 WDR 工作室用振荡器合成纯电子音，与具体音乐相对。",
+   "ar": [
+    "Karlheinz Stockhausen",
+    "Gottfried Michael Koenig"
+   ],
+   "tr": [
+    [
+     "Gesang der Jünglinge",
+     "Karlheinz Stockhausen",
+     1956
+    ]
+   ]
+  },
+  {
+   "id": "krautrock",
+   "n": "Krautrock",
+   "zh": "德国摇滚",
+   "tier": 2,
+   "y": 1968,
+   "d": "德国乐队把摇滚、电子、极简与即兴混合；Kraftwerk 从这条线走向合成器流行。",
+   "ar": [
+    "Kraftwerk",
+    "Can",
+    "Neu!"
+   ],
+   "tr": [
+    [
+     "Autobahn",
+     "Kraftwerk",
+     1974
+    ]
+   ]
+  },
+  {
+   "id": "ambient",
+   "n": "Ambient",
+   "zh": "氛围音乐",
+   "tier": 1,
+   "y": 1975,
+   "d": "用音色和空间取代旋律与节奏；Brian Eno 把它定义为「必须能被打断的音乐」。",
+   "ar": [
+    "Brian Eno",
+    "Aphex Twin",
+    "Stars of the Lid"
+   ],
+   "tr": [
+    [
+     "1/1",
+     "Brian Eno",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "synth-pop",
+   "n": "Synth-Pop",
+   "zh": "合成器流行",
+   "tier": 1,
+   "y": 1978,
+   "d": "朋克之后的合成器乐队，把 disco 的舞池感和电子音色带进流行榜。",
+   "ar": [
+    "Depeche Mode",
+    "The Human League",
+    "New Order"
+   ],
+   "tr": [
+    [
+     "Don't You Want Me",
+     "The Human League",
+     1981
+    ]
+   ]
+  },
+  {
+   "id": "downtempo",
+   "n": "Downtempo",
+   "zh": "慢拍电子",
+   "tier": 3,
+   "y": 1990,
+   "d": "90 年代的慢速电子：breakbeat、氛围与灵魂乐混合，适合沙发与耳机。",
+   "ar": [
+    "Kruder & Dorfmeister",
+    "Bonobo",
+    "Nightmares on Wax"
+   ],
+   "tr": [
+    [
+     "High Noon",
+     "Kruder & Dorfmeister",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "trip-hop",
+   "n": "Trip-Hop",
+   "zh": "神游舞曲",
+   "tier": 1,
+   "y": 1991,
+   "d": "布里斯托尔之声：慢速 breakbeat + 黑暗氛围 + 女声。",
+   "ar": [
+    "Massive Attack",
+    "Portishead",
+    "Tricky"
+   ],
+   "tr": [
+    [
+     "Teardrop",
+     "Massive Attack",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "chillout",
+   "n": "Chillout",
+   "zh": "休闲电子",
+   "tier": 3,
+   "y": 1990,
+   "d": "为 chillout room 与日落准备的舒缓电子。",
+   "ar": [
+    "The Orb",
+    "Zero 7",
+    "Air"
+   ],
+   "tr": [
+    [
+     "Little Fluffy Clouds",
+     "The Orb",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "idm",
+   "n": "IDM",
+   "zh": "智能舞曲",
+   "tier": 2,
+   "y": 1992,
+   "d": "为耳机而非舞池做的电子乐：复杂节拍与音色设计。",
+   "ar": [
+    "Aphex Twin",
+    "Boards of Canada",
+    "Autechre"
+   ],
+   "tr": [
+    [
+     "Windowlicker",
+     "Aphex Twin",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "synthwave",
+   "n": "Synthwave",
+   "zh": "合成器浪潮",
+   "tier": 3,
+   "y": 2005,
+   "d": "对 1980 年代电影配乐与 synth-pop 的复古想象。",
+   "ar": [
+    "Kavinsky",
+    "Perturbator",
+    "The Midnight"
+   ],
+   "tr": [
+    [
+     "Nightcall",
+     "Kavinsky",
+     2010
+    ]
+   ]
+  },
+  {
+   "id": "vaporwave",
+   "n": "Vaporwave",
+   "zh": "蒸汽波",
+   "tier": 2,
+   "y": 2010,
+   "d": "把 80/90 年代流行与广告音乐放慢、切碎，做成消费主义的梦。",
+   "ar": [
+    "Macintosh Plus",
+    "Saint Pepsi",
+    "Daniel Lopatin"
+   ],
+   "tr": [
+    [
+     "リサフランク420 / 現代のコンピュー",
+     "Macintosh Plus",
+     2011
+    ]
+   ]
+  },
+  {
+   "id": "drone",
+   "n": "Drone",
+   "zh": "长音",
+   "tier": 3,
+   "y": 1990,
+   "d": "1990 年前后由极简主义与现代作曲延伸而来：把单音或和弦拉到极长，靠泛音与音量缓慢变化制造漂浮感，几乎不用节拍。",
+   "ar": [
+    "La Monte Young",
+    "Phill Niblock",
+    "Stars of the Lid",
+    "Earth"
+   ],
+   "tr": [
+    [
+     "Requiem for Dying Mothers, Pt. 1",
+     "Stars of the Lid",
+     2001
+    ]
+   ]
+  },
+  {
+   "id": "dark-ambient",
+   "n": "Dark Ambient",
+   "zh": "暗氛围",
+   "tier": 3,
+   "y": 1985,
+   "d": "1980 年代中期从氛围与工业的交界处出现：低频轰鸣、教堂混响与采样的恐怖空间感，听感像在废弃地窖里。",
+   "ar": [
+    "Lustmord",
+    "Robert Rich",
+    "Biosphere",
+    "Raison d'être"
+   ],
+   "tr": [
+    [
+     "Poa Alpina",
+     "Biosphere",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "glitch",
+   "n": "Glitch",
+   "zh": "故障",
+   "tier": 3,
+   "y": 1994,
+   "d": "1990 年代中期，Oval 一派人把 CD 跳针、爆音与软件错误当成节奏素材，把故障声剪成有韵律的拼贴，后来被 IDM 大量吸收。",
+   "ar": [
+    "Oval",
+    "Autechre",
+    "Alva Noto",
+    "Ryoji Ikeda"
+   ],
+   "tr": [
+    [
+     "Do While",
+     "Oval",
+     1995
+    ],
+    [
+     "Flutter",
+     "Autechre",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "plunderphonics",
+   "n": "Plunderphonics",
+   "zh": "拼贴采样",
+   "tier": 3,
+   "y": 1985,
+   "d": "1985 年 John Oswald 提出这个词：直接把现成唱片整段取样、变速、叠录，做成不申请授权的拼贴，挑战版权与原创观念。",
+   "ar": [
+    "John Oswald",
+    "Negativland",
+    "The Tape-beatles",
+    "People Like Us"
+   ],
+   "tr": [
+    [
+     "Dab",
+     "John Oswald",
+     1989
+    ],
+    [
+     "U2",
+     "Negativland",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "hauntology",
+   "n": "Hauntology",
+   "zh": "幽灵学",
+   "tier": 3,
+   "y": 2006,
+   "d": "2006 年前后英国出现的一支声音潮流：把褪色的电视配乐、旧磁带噪与鬼影般的混响拼贴起来，制造出「失落未来」的怀旧与不安，Caretaker 与 Burial 是代表。",
+   "ar": [
+    "The Caretaker",
+    "Burial",
+    "Boards of Canada",
+    "Demdike Stare"
+   ],
+   "tr": [
+    [
+     "It's just a burning memory",
+     "The Caretaker",
+     2016
+    ],
+    [
+     "Roygbiv",
+     "Boards of Canada",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "noise",
+   "n": "Noise",
+   "zh": "噪音",
+   "tier": 3,
+   "y": 1975,
+   "d": "1970 年代中期从工业与实验音乐里独立出来：不要旋律与节拍，只用反馈、失真与巨大音量，把声音本身当成材料。",
+   "ar": [
+    "Merzbow",
+    "Throbbing Gristle",
+    "Whitehouse",
+    "Wolf Eyes"
+   ],
+   "tr": [
+    [
+     "Hamburger Lady",
+     "Throbbing Gristle",
+     1978
+    ],
+    [
+     "Woodpecker No. 1",
+     "Merzbow",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "illbient",
+   "n": "Illbient",
+   "zh": "病态氛围",
+   "tier": 3,
+   "y": 1994,
+   "d": "1994 年 DJ Spooky 在纽约提出的说法：把嘻哈的采样与 dub 的低频一起泡进氛围里，节奏松散、空间潮湿，像凌晨散场后的街区。",
+   "ar": [
+    "DJ Spooky",
+    "Sub Dub",
+    "Byzar",
+    "Raz Mesinai"
+   ],
+   "tr": [
+    [
+     "Object Unknown",
+     "DJ Spooky",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "chillwave",
+   "n": "Chillwave",
+   "zh": "冷浪潮",
+   "tier": 3,
+   "y": 2009,
+   "d": "2009 年前后随博客兴起：用廉价合成器、磁带噪与大量混响做出夏天午后般朦胧的流行歌，旋律甜、制作故意糊。",
+   "ar": [
+    "Washed Out",
+    "Neon Indian",
+    "Toro y Moi",
+    "Memory Tapes"
+   ],
+   "tr": [
+    [
+     "Feel It All Around",
+     "Washed Out",
+     2009
+    ],
+    [
+     "Deadbeat Summer",
+     "Neon Indian",
+     2009
+    ]
+   ]
+  },
+  {
+   "id": "dungeon-synth",
+   "n": "Dungeon Synth",
+   "zh": "地牢合成器",
+   "tier": 3,
+   "y": 2010,
+   "d": "2010 年前后被乐迷追认命名：受早期黑金属键盘间奏启发，用简陋合成器做中世纪地牢般的循环旋律，低保真且阴冷。",
+   "ar": [
+    "Mortiis",
+    "Burzum",
+    "Depressive Silence",
+    "Fief"
+   ],
+   "tr": [
+    [
+     "Dauði Baldrs",
+     "Burzum",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "chiptune",
+   "n": "Chiptune",
+   "zh": "芯片音乐",
+   "tier": 3,
+   "y": 1985,
+   "d": "1985 年起源于家用机与街机音源芯片：用方波、三角波与噪声道做音乐，旋律明快、音色受限，后来成为独立游戏的声音。",
+   "ar": [
+    "Anamanaguchi",
+    "Sabrepulse",
+    "8 Bit Weapon",
+    "Chipzel"
+   ],
+   "tr": [
+    [
+     "Blackout City",
+     "Anamanaguchi",
+     2009
+    ]
+   ]
+  },
+  {
+   "id": "juke",
+   "n": "Juke",
+   "zh": "朱克",
+   "tier": 3,
+   "y": 1997,
+   "d": "1997 年前后在芝加哥南区成型：把 ghetto house 的速度推到一百六十拍，加入密集的踩镲、口号采样与不断重复的段落，专为舞步对决服务。",
+   "ar": [
+    "DJ Deeon",
+    "DJ Slugo",
+    "RP Boo",
+    "DJ Rashad"
+   ],
+   "tr": [
+    [
+     "Freak Like Me",
+     "DJ Deeon",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "footwork",
+   "n": "Footwork",
+   "zh": "足舞",
+   "tier": 3,
+   "y": 2005,
+   "d": "2005 年前后从 juke 演化出来：节拍更碎、切分更狠，在一百六十拍里塞进大量采样切片，配合极快的脚步舞，DJ Rashad 把它带向世界。",
+   "ar": [
+    "DJ Rashad",
+    "RP Boo",
+    "DJ Spinn",
+    "Traxman"
+   ],
+   "tr": [
+    [
+     "Feelin",
+     "DJ Rashad",
+     2013
+    ],
+    [
+     "Baby Come On",
+     "RP Boo",
+     1997
+    ]
+   ]
+  }
+ ]
+}

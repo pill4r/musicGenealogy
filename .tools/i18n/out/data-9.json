@@ -1,0 +1,292 @@
+{
+ "northern-soul": {
+  "n": "Northern Soul",
+  "r": "Northern England, UK",
+  "d": "American soul 7-inch singles rediscovered in the dancehalls of northern England: fast, hard on the beat, rare — Frank Wilson's record, pressed in tiny numbers, became the holy grail.",
+  "ch": [
+   "Fast soul",
+   "Heavy backbeat",
+   "Rare 7-inch singles"
+  ]
+ },
+ "southern-soul": {
+  "n": "Southern Soul",
+  "r": "Memphis, USA",
+  "d": "Soul from the American South: rawer horns, slower grooves and church-style shouting, with Stax and Otis Redding at its core.",
+  "ch": [
+   "Raw horns",
+   "Slow grooves",
+   "Church shouting"
+  ]
+ },
+ "deep-soul": {
+  "n": "Deep Soul",
+  "r": "Southern US",
+  "d": "The slowest, most bitter branch of Southern soul: strings, torn-up voices and heartbreak; James Carr's \"The Dark End of the Street\" is the specimen.",
+  "ch": [
+   "Slow tempos",
+   "Strings",
+   "Heartbreak"
+  ]
+ },
+ "blue-eyed-soul": {
+  "n": "Blue-Eyed Soul",
+  "r": "UK / USA",
+  "d": "Soul sung by white artists: Dusty Springfield and the Righteous Brothers proved soul was never a matter of skin colour.",
+  "ch": [
+   "White vocalists",
+   "Soulful delivery",
+   "Pop production"
+  ]
+ },
+ "p-funk": {
+  "n": "P-Funk",
+  "r": "USA",
+  "d": "Parliament-Funkadelic's cosmic funk: synth bass, space-opera concepts and a full band live — funk turned into mythology here.",
+  "ch": [
+   "Synth bass",
+   "Space-age concepts",
+   "Large ensemble"
+  ]
+ },
+ "go-go": {
+  "n": "Go-Go",
+  "r": "Washington, DC",
+  "d": "Washington DC's funk offshoot: congas, call-and-response and a groove that never lets up; Chuck Brown is the godfather.",
+  "ch": [
+   "Congas",
+   "Call-and-response",
+   "Nonstop groove"
+  ]
+ },
+ "electro-funk": {
+  "n": "Electro-Funk",
+  "r": "USA",
+  "d": "Funk meets synthesizers and drum machines: Zapp's talk box and slow mechanical grooves fed straight into electro and West Coast hip-hop.",
+  "ch": [
+   "Talk box",
+   "Drum machines",
+   "Mechanical grooves"
+  ]
+ },
+ "minneapolis-sound": {
+  "n": "Minneapolis Sound",
+  "r": "Minneapolis, USA",
+  "d": "Prince's own blend of funk, rock and synthesizers — one of the sexiest pop sounds of the 1980s.",
+  "ch": [
+   "Synthesizers",
+   "Funk guitar",
+   "Sexual tension"
+  ]
+ },
+ "latin-jazz": {
+  "n": "Latin Jazz",
+  "r": "New York, USA",
+  "d": "Afro-Cuban rhythm married to bebop harmony: Dizzy Gillespie and Chano Pozo's \"Manteca\" is the starting point.",
+  "ch": [
+   "Clave rhythm",
+   "Brass",
+   "Improvisation"
+  ]
+ },
+ "gypsy-jazz": {
+  "n": "Gypsy Jazz",
+  "r": "Paris, France",
+  "d": "Hot jazz made in Paris by Django Reinhardt and Stéphane Grappelli: acoustic guitar, rapid arpeggios and swing.",
+  "ch": [
+   "Acoustic guitar",
+   "Fast arpeggios",
+   "Swing"
+  ]
+ },
+ "west-coast-jazz": {
+  "n": "West Coast Jazz",
+  "r": "California, USA",
+  "d": "The California take on cool jazz: polished arrangements, cool-toned timbres and chamber-like restraint — Chet Baker was its face.",
+  "ch": [
+   "Cool timbres",
+   "Refined arrangements",
+   "Restraint"
+  ]
+ },
+ "soul-jazz": {
+  "n": "Soul Jazz",
+  "r": "USA",
+  "d": "Bringing gospel and blues grooves into jazz: Hammond organ, repeating riffs and a dancefloor feel; Jimmy Smith is the exemplar.",
+  "ch": [
+   "Hammond organ",
+   "Repeating riffs",
+   "Groove"
+  ]
+ },
+ "jazz-funk": {
+  "n": "Jazz-Funk",
+  "r": "USA",
+  "d": "Jazz improvisation fused with funk grooves: electric piano, synthesizers and irresistible basslines; Herbie Hancock's \"Chameleon\" is the anthem.",
+  "ch": [
+   "Electric piano",
+   "Funk bass",
+   "Long improvisations"
+  ]
+ },
+ "spiritual-jazz": {
+  "n": "Spiritual Jazz",
+  "r": "USA",
+  "d": "Jazz as religious experience: long tones, free improvisation and African percussion; Pharoah Sanders' \"The Creator Has a Master Plan\" is scripture.",
+  "ch": [
+   "Long tones",
+   "Free improvisation",
+   "Spirituality"
+  ]
+ },
+ "ethio-jazz": {
+  "n": "Ethio-Jazz",
+  "r": "Ethiopia",
+  "d": "Ethiopian pentatonic scales mixed with jazz harmony: Mulatu Astatke set traditional melodies inside Latin and jazz rhythms.",
+  "ch": [
+   "Pentatonic scales",
+   "Latin rhythms",
+   "Brass"
+  ]
+ },
+ "nashville-sound": {
+  "n": "Nashville Sound",
+  "r": "Nashville, USA",
+  "d": "Wrapping country songs in strings and choruses so they could reach pop radio: Patsy Cline's \"Crazy\" is the perfect specimen.",
+  "ch": [
+   "Strings",
+   "Backing choruses",
+   "Smooth production"
+  ]
+ },
+ "bakersfield-sound": {
+  "n": "Bakersfield Sound",
+  "r": "California, USA",
+  "d": "A reaction against Nashville strings: electric guitar, the Telecaster's sharp bite and hard barroom dancefloor rhythms; Buck Owens is the exemplar.",
+  "ch": [
+   "Telecaster twang",
+   "Hard-driving",
+   "Barroom feel"
+  ]
+ },
+ "countrypolitan": {
+  "n": "Countrypolitan",
+  "r": "Nashville, USA",
+  "d": "The Nashville Sound upgraded: thicker strings, more urban arrangements; Glen Campbell's \"Wichita Lineman\" is the peak.",
+  "ch": [
+   "Lush strings",
+   "Urban feel",
+   "Balladry"
+  ]
+ },
+ "western-swing": {
+  "n": "Western Swing",
+  "r": "Texas, USA",
+  "d": "Country strings plus jazz big band and swing rhythms: Bob Wills' band set fiddles and horns swinging together in the dancehalls.",
+  "ch": [
+   "Fiddle",
+   "Swing rhythm",
+   "Big band"
+  ]
+ },
+ "alt-country": {
+  "n": "Alt-Country",
+  "r": "USA",
+  "d": "Country sung with indie rock's grit and attitude: Uncle Tupelo's \"No Depression\" gave a whole generation its name.",
+  "ch": [
+   "Grit",
+   "Indie attitude",
+   "Country roots"
+  ]
+ },
+ "americana": {
+  "n": "Americana",
+  "r": "USA",
+  "d": "A contemporary tag that stitches country, folk, blues and rock roots back together; Wilco and Gillian Welch both belong to it.",
+  "ch": [
+   "Roots fusion",
+   "Storytelling",
+   "Acoustic"
+  ]
+ },
+ "country-pop": {
+  "n": "Country Pop",
+  "r": "USA",
+  "d": "Country storytelling and voices placed in pop arrangements: Dolly Parton's \"Jolene\" has both banjo and a chart placing.",
+  "ch": [
+   "Pop arrangements",
+   "Country vocals",
+   "Storytelling"
+  ]
+ },
+ "bro-country": {
+  "n": "Bro-Country",
+  "r": "USA",
+  "d": "2010s American radio country: trucks, beer, cut-off shorts and rapped rhythms; Florida Georgia Line are the exemplars.",
+  "ch": [
+   "Rapped rhythms",
+   "Party themes",
+   "Electric guitar"
+  ]
+ },
+ "euro-disco": {
+  "n": "Euro-Disco",
+  "r": "Europe",
+  "d": "Continental European disco: synthesizers, four-on-the-floor kick and catchy choruses — Boney M sold it to the whole world.",
+  "ch": [
+   "Synthesizers",
+   "Four-on-the-floor kick",
+   "Catchy choruses"
+  ]
+ },
+ "space-disco": {
+  "n": "Space Disco",
+  "r": "Germany / Italy",
+  "d": "Disco that uses synthesizers and sequencers to create weightlessness; Giorgio Moroder and Donna Summer's \"I Feel Love\" practically invented electronic dance music.",
+  "ch": [
+   "Synth sequences",
+   "Weightlessness",
+   "Mechanical groove"
+  ]
+ },
+ "blues-rock": {
+  "n": "Blues Rock",
+  "r": "UK / USA",
+  "d": "Chicago blues handed to electric guitar, high volume and rock drums: Cream and Led Zeppelin turned it into stadium sound.",
+  "ch": [
+   "Electric guitar",
+   "Blues scales",
+   "High volume"
+  ]
+ },
+ "boogie-rock": {
+  "n": "Boogie Rock",
+  "r": "USA",
+  "d": "Hard rock built on the boogie bass figure: repetitive, swinging and made for driving; ZZ Top are the Texas standard-bearers.",
+  "ch": [
+   "Boogie bass",
+   "Repeating riffs",
+   "Swing"
+  ]
+ },
+ "swamp-rock": {
+  "n": "Swamp Rock",
+  "r": "Louisiana, USA",
+  "d": "Louisiana swamp atmosphere, blues and rock stirred together: Creedence's \"Born on the Bayou\" is the definitive track.",
+  "ch": [
+   "Swampy atmosphere",
+   "Blues",
+   "Reverb"
+  ]
+ },
+ "tejano": {
+  "n": "Tejano",
+  "r": "Texas, USA",
+  "d": "Texas-Mexican music: accordion, synthesizers and pop melodies, which Selena carried across the whole of America.",
+  "ch": [
+   "Accordion",
+   "Synthesizers",
+   "Spanish vocals"
+  ]
+ }
+}

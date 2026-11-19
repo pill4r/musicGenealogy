@@ -1,0 +1,183 @@
+{
+ "family": "disco",
+ "name": "迪斯科",
+ "sub": "1970s 舞池革命",
+ "genres": [
+  {
+   "id": "disco",
+   "n": "Disco",
+   "zh": "迪斯科",
+   "tier": 1,
+   "y": 1972,
+   "d": "1970 年代纽约地下舞池的产物：从 funk、soul、费城灵魂与 salsa 提炼出四拍到底的舞曲；DJ 用 12 英寸加长混音重新创作。1979 年主流反扑后转入地下，却直接催生了 house 与 techno。",
+   "ar": [
+    "Donna Summer",
+    "Chic",
+    "Sylvester",
+    "Bee Gees"
+   ],
+   "tr": [
+    [
+     "Love to Love You Baby",
+     "Donna Summer",
+     1975
+    ],
+    [
+     "I Feel Love",
+     "Donna Summer",
+     1977
+    ],
+    [
+     "Le Freak",
+     "Chic",
+     1978
+    ],
+    [
+     "Good Times",
+     "Chic",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "boogie",
+   "n": "Boogie",
+   "zh": "布吉",
+   "tier": 3,
+   "y": 1978,
+   "d": "disco 退潮后的轻快分支：合成器贝斯、更松的鼓、R&B 味更重。",
+   "ar": [
+    "Evelyn 'Champagne' King",
+    "D-Train",
+    "Kashif"
+   ],
+   "tr": [
+    [
+     "I'm in Love",
+     "Evelyn 'Champagne' King",
+     1981
+    ]
+   ]
+  },
+  {
+   "id": "post-disco",
+   "n": "Post-Disco",
+   "zh": "后迪斯科",
+   "tier": 3,
+   "y": 1979,
+   "d": "1979 年之后的过渡期：disco 的舞池基因被拆进 R&B、合成器流行与早期电子。",
+   "ar": [
+    "Michael Jackson",
+    "Prince",
+    "The Pointer Sisters"
+   ],
+   "tr": [
+    [
+     "Don't Stop 'Til You Get Enough",
+     "Michael Jackson",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "hi-nrg",
+   "n": "Hi-NRG",
+   "zh": "高能量舞曲",
+   "tier": 3,
+   "y": 1978,
+   "d": "比 disco 更快、更合成器化，1980 年代同志舞池的高能量舞曲。",
+   "ar": [
+    "Sylvester",
+    "Patrick Cowley",
+    "Divine"
+   ],
+   "tr": [
+    [
+     "You Make Me Feel (Mighty Real)",
+     "Sylvester",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "italo-disco",
+   "n": "Italo Disco",
+   "zh": "意大利迪斯科",
+   "tier": 3,
+   "y": 1981,
+   "d": "意大利/欧洲的合成器 disco：机械鼓机、旋律化合成器、机器人声。",
+   "ar": [
+    "Giorgio Moroder",
+    "Gazebo",
+    "Baltimora"
+   ],
+   "tr": [
+    [
+     "Tarzan Boy",
+     "Baltimora",
+     1985
+    ]
+   ]
+  },
+  {
+   "id": "nu-disco",
+   "n": "Nu Disco",
+   "zh": "新迪斯科",
+   "tier": 3,
+   "y": 2002,
+   "d": "2000 年代对 disco 的复古再制作：现场贝斯、弦乐与现代化舞曲制作。",
+   "ar": [
+    "Lindstrøm",
+    "Todd Terje",
+    "Purple Disco Machine"
+   ],
+   "tr": [
+    [
+     "Inspector Norse",
+     "Todd Terje",
+     2012
+    ]
+   ]
+  },
+  {
+   "id": "euro-disco",
+   "n": "Euro-Disco",
+   "zh": "欧陆迪斯科",
+   "tier": 2,
+   "y": 1975,
+   "d": "欧洲大陆的迪斯科：合成器、四拍底鼓与洗脑副歌，Boney M 把它卖到全世界。",
+   "ar": [
+    "Boney M",
+    "Silver Convention",
+    "Arabesque"
+   ],
+   "tr": [
+    [
+     "Daddy Cool",
+     "Boney M",
+     1976
+    ]
+   ]
+  },
+  {
+   "id": "space-disco",
+   "n": "Space Disco",
+   "zh": "太空迪斯科",
+   "tier": 3,
+   "y": 1977,
+   "d": "用合成器与音序器制造失重感的迪斯科，Giorgio Moroder 与 Donna Summer 的《I Feel Love》几乎发明了电子舞曲。",
+   "ar": [
+    "Giorgio Moroder",
+    "Donna Summer",
+    "Cerrone"
+   ],
+   "tr": [
+    [
+     "I Feel Love",
+     "Donna Summer",
+     1977
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "roots",
+  "name": "根源",
+  "sub": "福音 · 布鲁斯 · 民谣"
+ },
+ {
+  "id": "country",
+  "name": "乡村 / 民谣",
+  "sub": "纳什维尔与阿巴拉契亚"
+ },
+ {
+  "id": "jazz",
+  "name": "爵士",
+  "sub": "拉格泰姆 → 融合爵士"
+ },
+ {
+  "id": "soul",
+  "name": "灵魂 / R&B / 放克",
+  "sub": "福音驱动的节奏"
+ },
+ {
+  "id": "disco",
+  "name": "迪斯科",
+  "sub": "1970s 舞池革命"
+ },
+ {
+  "id": "house",
+  "name": "浩室 House",
+  "sub": "芝加哥 1980s →"
+ },
+ {
+  "id": "techno",
+  "name": "科技舞曲 Techno",
+  "sub": "底特律 1985 →"
+ },
+ {
+  "id": "bass",
+  "name": "UK Bass / Garage",
+  "sub": "伦敦低音支线"
+ },
+ {
+  "id": "rave",
+  "name": "锐舞 / Trance / DnB",
+  "sub": "1990s 英国锐舞"
+ },
+ {
+  "id": "hiphop",
+  "name": "嘻哈 Hip-Hop",
+  "sub": "布朗克斯 1970s →"
+ },
+ {
+  "id": "electronic",
+  "name": "电子 / 氛围",
+  "sub": "从具体音乐到蒸汽波"
+ },
+ {
+  "id": "rock",
+  "name": "摇滚 / 金属",
+  "sub": "1950s →"
+ },
+ {
+  "id": "pop",
+  "name": "流行 Pop",
+  "sub": "榜单与全球流行"
+ },
+ {
+  "id": "latin",
+  "name": "拉丁 / 加勒比 / 非洲",
+  "sub": "跨大西洋节奏"
+ },
+ {
+  "id": "punk",
+  "name": "朋克 / Emo",
+  "sub": "硬核 · Emo · 数学摇滚"
+ },
+ {
+  "id": "metal",
+  "name": "金属",
+  "sub": "重金属到极端金属"
+ },
+ {
+  "id": "indie",
+  "name": "独立 / 另类",
+  "sub": "Indie · Britpop · Dream Pop"
+ }
+]

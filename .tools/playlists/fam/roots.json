@@ -1,0 +1,177 @@
+{
+ "family": "roots",
+ "name": "根源",
+ "sub": "福音 · 布鲁斯 · 民谣",
+ "genres": [
+  {
+   "id": "gospel",
+   "n": "Gospel",
+   "zh": "福音音乐",
+   "tier": 2,
+   "y": 1900,
+   "d": "黑人教会的礼拜音乐：领唱与合唱呼应、厚重和声、Hammond 风琴；后来几乎喂养了 soul、R&B 和摇滚乐。",
+   "ar": [
+    "Mahalia Jackson",
+    "The Staple Singers",
+    "Aretha Franklin"
+   ],
+   "tr": [
+    [
+     "Move On Up a Little Higher",
+     "Mahalia Jackson",
+     1947
+    ],
+    [
+     "I'll Take You There",
+     "The Staple Singers",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "blues",
+   "n": "Blues",
+   "zh": "布鲁斯",
+   "tier": 1,
+   "y": 1895,
+   "d": "12 小节曲式、蓝调音与问答式乐句；从田间号子到电声芝加哥布鲁斯，是现代流行乐的共同祖源。",
+   "ar": [
+    "Robert Johnson",
+    "Muddy Waters",
+    "B.B. King"
+   ],
+   "tr": [
+    [
+     "Cross Road Blues",
+     "Robert Johnson",
+     1936
+    ],
+    [
+     "The Thrill Is Gone",
+     "B.B. King",
+     1969
+    ]
+   ]
+  },
+  {
+   "id": "delta-blues",
+   "n": "Delta Blues",
+   "zh": "三角洲布鲁斯",
+   "tier": 3,
+   "y": 1920,
+   "d": "密西西比三角洲的原始布鲁斯：滑棒吉他、粗粝人声；Robert Johnson 的录音成了后世所有布鲁斯的圣典。",
+   "ar": [
+    "Robert Johnson",
+    "Son House",
+    "Charley Patton"
+   ],
+   "tr": [
+    [
+     "Preachin' the Blues",
+     "Son House",
+     1930
+    ],
+    [
+     "Hellhound on My Trail",
+     "Robert Johnson",
+     1937
+    ]
+   ]
+  },
+  {
+   "id": "boogie-woogie",
+   "n": "Boogie-Woogie",
+   "zh": "布吉伍吉",
+   "tier": 3,
+   "y": 1925,
+   "d": "钢琴布鲁斯的分支：左手八分音符固定低音不断推进，直接预示了摇滚乐的节奏。",
+   "ar": [
+    "Meade 'Lux' Lewis",
+    "Pete Johnson",
+    "Albert Ammons"
+   ],
+   "tr": [
+    [
+     "Honky Tonk Train Blues",
+     "Meade 'Lux' Lewis",
+     1927
+    ]
+   ]
+  },
+  {
+   "id": "jump-blues",
+   "n": "Jump Blues",
+   "zh": "跳跃布鲁斯",
+   "tier": 3,
+   "y": 1940,
+   "d": "战后把布鲁斯交给大嗓门歌手和管乐 riff，节奏更快、更适合舞池，是 R&B 的前身。",
+   "ar": [
+    "Louis Jordan",
+    "Big Joe Turner",
+    "Wynonie Harris"
+   ],
+   "tr": [
+    [
+     "Choo Choo Ch'Boogie",
+     "Louis Jordan",
+     1946
+    ],
+    [
+     "Shake, Rattle and Roll",
+     "Big Joe Turner",
+     1954
+    ]
+   ]
+  },
+  {
+   "id": "chicago-blues",
+   "n": "Chicago Blues",
+   "zh": "芝加哥布鲁斯",
+   "tier": 3,
+   "y": 1945,
+   "d": "三角洲布鲁斯北上芝加哥后被电吉他、口琴和乐队放大，成为摇滚乐的直接老师。",
+   "ar": [
+    "Muddy Waters",
+    "Howlin' Wolf",
+    "Buddy Guy"
+   ],
+   "tr": [
+    [
+     "Hoochie Coochie Man",
+     "Muddy Waters",
+     1954
+    ],
+    [
+     "Smokestack Lightnin'",
+     "Howlin' Wolf",
+     1956
+    ]
+   ]
+  },
+  {
+   "id": "folk",
+   "n": "Folk",
+   "zh": "民谣",
+   "tier": 3,
+   "y": 1900,
+   "d": "以叙事歌和木吉他为核心的民间传统；20 世纪被民谣复兴运动政治化，后来又成了摇滚的养分。",
+   "ar": [
+    "Woody Guthrie",
+    "Pete Seeger",
+    "Bob Dylan"
+   ],
+   "tr": [
+    [
+     "This Land Is Your Land",
+     "Woody Guthrie",
+     1944
+    ],
+    [
+     "Blowin' in the Wind",
+     "Bob Dylan",
+     1963
+    ]
+   ]
+  }
+ ]
+}

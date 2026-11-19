@@ -1,0 +1,172 @@
+{"family":"punk","genres":[
+{"id":"punk-rock","tracks":[
+{"t":"Anarchy in the U.K.","a":"Sex Pistols","y":1976},
+{"t":"Blitzkrieg Bop","a":"Ramones","y":1976},
+{"t":"God Save the Queen","a":"Sex Pistols","y":1977},
+{"t":"White Riot","a":"The Clash","y":1977},
+{"t":"London Calling","a":"The Clash","y":1979},
+{"t":"Ever Fallen in Love (With Someone You Shouldn't've)","a":"Buzzcocks","y":1978}
+]},
+{"id":"hardcore-punk","tracks":[
+{"t":"Straight Edge","a":"Minor Threat","y":1981},
+{"t":"Nervous Breakdown","a":"Black Flag","y":1978},
+{"t":"Rise Above","a":"Black Flag","y":1981},
+{"t":"Holiday in Cambodia","a":"Dead Kennedys","y":1980},
+{"t":"Pay to Cum","a":"Bad Brains","y":1980},
+{"t":"In My Eyes","a":"Minor Threat","y":1981}
+]},
+{"id":"pop-punk","tracks":[
+{"t":"Basket Case","a":"Green Day","y":1994},
+{"t":"Self Esteem","a":"The Offspring","y":1994},
+{"t":"Dammit","a":"Blink-182","y":1997},
+{"t":"All the Small Things","a":"Blink-182","y":1999},
+{"t":"Fat Lip","a":"Sum 41","y":2001},
+{"t":"American Idiot","a":"Green Day","y":2004}
+]},
+{"id":"emo","tracks":[
+{"t":"Welcome to the Black Parade","a":"My Chemical Romance","y":2006},
+{"t":"I'm Not Okay (I Promise)","a":"My Chemical Romance","y":2004},
+{"t":"Screaming Infidelities","a":"Dashboard Confessional","y":2000},
+{"t":"Cute Without the 'E' (Cut from the Team)","a":"Taking Back Sunday","y":2002},
+{"t":"The Taste of Ink","a":"The Used","y":2002},
+{"t":"The Quiet Things That No One Ever Knows","a":"Brand New","y":2003}
+]},
+{"id":"post-hardcore","tracks":[
+{"t":"One Armed Scissor","a":"At the Drive-In","y":2000},
+{"t":"Waiting Room","a":"Fugazi","y":1989},
+{"t":"Merchandise","a":"Fugazi","y":1990},
+{"t":"New Noise","a":"Refused","y":1998},
+{"t":"Understanding in a Car Crash","a":"Thursday","y":2001},
+{"t":"The Artist in the Ambulance","a":"Thrice","y":2003}
+]},
+{"id":"emocore","tracks":[
+{"t":"For Want Of","a":"Rites of Spring","y":1985},
+{"t":"Dance of Days","a":"Embrace","y":1987},
+{"t":"Give Me Back","a":"Embrace","y":1987},
+{"t":"Can I Say","a":"Dag Nasty","y":1986},
+{"t":"I'm Back Sleeping, Or Fucking a Moth","a":"Moss Icon","y":1994}
+]},
+{"id":"midwest-emo","tracks":[
+{"t":"Never Meant","a":"American Football","y":1999},
+{"t":"In Circles","a":"Sunny Day Real Estate","y":1994},
+{"t":"Seven","a":"Sunny Day Real Estate","y":1994},
+{"t":"The Summer Ends","a":"American Football","y":1999},
+{"t":"Little League","a":"Cap'n Jazz","y":1995},
+{"t":"Ten Minutes","a":"The Get Up Kids","y":1999}
+]},
+{"id":"emo-pop","tracks":[
+{"t":"The Middle","a":"Jimmy Eat World","y":2001},
+{"t":"Sugar, We're Goin Down","a":"Fall Out Boy","y":2005},
+{"t":"Thnks fr th Mmrs","a":"Fall Out Boy","y":2007},
+{"t":"Misery Business","a":"Paramore","y":2007},
+{"t":"I Write Sins Not Tragedies","a":"Panic! at the Disco","y":2005},
+{"t":"Ocean Avenue","a":"Yellowcard","y":2003}
+]},
+{"id":"emo-revival","tracks":[
+{"t":"Your Graduation","a":"Modern Baseball","y":2014},
+{"t":"Re-Do","a":"Modern Baseball","y":2012},
+{"t":"Constant Headache","a":"Joyce Manor","y":2011},
+{"t":"Your Deep Rest","a":"The Hotelier","y":2014},
+{"t":"January 10th, 2014","a":"The World Is a Beautiful Place & I Am No Longer Afraid to Die","y":2013},
+{"t":"Head in the Ceiling Fan","a":"Title Fight","y":2012}
+]},
+{"id":"screamo","tracks":[
+{"t":"In Love with an Apparition","a":"Pg.99","y":1999},
+{"t":"Venus and Bacchus","a":"Saetia","y":1997},
+{"t":"Aesthetic Dialectic","a":"Orchid","y":1999},
+{"t":"A Little Change Could Go a Long Way","a":"City of Caterpillar","y":2002},
+{"t":"Chain Wandering Deeply","a":"Envy","y":2001}
+]},
+{"id":"math-rock","tracks":[
+{"t":"Good Morning, Captain","a":"Slint","y":1991},
+{"t":"Nosferatu Man","a":"Slint","y":1991},
+{"t":"Fire Back About Your New Baby's Sex","a":"Don Caballero","y":2000},
+{"t":"Brown Metal","a":"Hella","y":2002},
+{"t":"Goodbye","a":"toe","y":2005},
+{"t":"Atlas","a":"Battles","y":2007}
+]},
+{"id":"mathcore","tracks":[
+{"t":"43% Burnt","a":"The Dillinger Escape Plan","y":1999},
+{"t":"Milk Lizard","a":"The Dillinger Escape Plan","y":2007},
+{"t":"Mondrian Was a Liar","a":"Botch","y":1999},
+{"t":"Concubine","a":"Converge","y":2001},
+{"t":"Jane Doe","a":"Converge","y":2001},
+{"t":"Juggernaut","a":"Cave In","y":1998}
+]},
+{"id":"grindcore","tracks":[
+{"t":"You Suffer","a":"Napalm Death","y":1987},
+{"t":"Siege of Power","a":"Napalm Death","y":1988},
+{"t":"Fear of Napalm","a":"Terrorizer","y":1989},
+{"t":"Genital Grinder","a":"Carcass","y":1988},
+{"t":"Horrified","a":"Repulsion","y":1989},
+{"t":"Collapse","a":"Brutal Truth","y":1992}
+]},
+{"id":"crust-punk","tracks":[
+{"t":"Police Bastard","a":"Doom","y":1989},
+{"t":"Arise!","a":"Amebix","y":1985},
+{"t":"Winter","a":"Amebix","y":1983},
+{"t":"Cybergod","a":"Nausea","y":1990},
+{"t":"Heading for Internal Darkness","a":"Hellbastard","y":1988}
+]},
+{"id":"d-beat","tracks":[
+{"t":"Protest and Survive","a":"Discharge","y":1980},
+{"t":"Hear Nothing See Nothing Say Nothing","a":"Discharge","y":1982},
+{"t":"Kärnvapenattack","a":"Mob 47","y":1984},
+{"t":"When the Innocent Die","a":"Anti-Cimex","y":1985},
+{"t":"Tragedy","a":"Disclose","y":1994}
+]},
+{"id":"street-punk","tracks":[
+{"t":"England Belongs to Me","a":"Cock Sparrer","y":1982},
+{"t":"We're Coming Back","a":"Cock Sparrer","y":1982},
+{"t":"If the Kids Are United","a":"Sham 69","y":1978},
+{"t":"Borstal Breakout","a":"Sham 69","y":1978},
+{"t":"Punks Not Dead","a":"The Exploited","y":1981},
+{"t":"Suburban Rebels","a":"The Business","y":1983}
+]},
+{"id":"oi","tracks":[
+{"t":"Oi! Oi! Oi!","a":"Cockney Rejects","y":1980},
+{"t":"I'm Forever Blowing Bubbles","a":"Cockney Rejects","y":1980},
+{"t":"Hurry Up Harry","a":"Sham 69","y":1978},
+{"t":"Angels with Dirty Faces","a":"Sham 69","y":1978},
+{"t":"I'm an Upstart","a":"Angelic Upstarts","y":1979},
+{"t":"So What","a":"Anti-Nowhere League","y":1981}
+]},
+{"id":"ska-punk","tracks":[
+{"t":"Sound System","a":"Operation Ivy","y":1988},
+{"t":"Knowledge","a":"Operation Ivy","y":1988},
+{"t":"Time Bomb","a":"Rancid","y":1995},
+{"t":"All My Best Friends Are Metalheads","a":"Less Than Jake","y":1998},
+{"t":"Sell Out","a":"Reel Big Fish","y":1997},
+{"t":"The Impression That I Get","a":"The Mighty Mighty Bosstones","y":1997}
+]},
+{"id":"anarcho-punk","tracks":[
+{"t":"Do They Owe Us a Living?","a":"Crass","y":1978},
+{"t":"Punk Is Dead","a":"Crass","y":1978},
+{"t":"Religious Wars","a":"Subhumans","y":1983},
+{"t":"The Serenade Is Dead","a":"Conflict","y":1983},
+{"t":"Tube Disaster","a":"Flux of Pink Indians","y":1981}
+]},
+{"id":"riot-grrrl","tracks":[
+{"t":"Rebel Girl","a":"Bikini Kill","y":1993},
+{"t":"Suck My Left One","a":"Bikini Kill","y":1993},
+{"t":"Pretend We're Dead","a":"L7","y":1992},
+{"t":"Violet","a":"Hole","y":1994},
+{"t":"I Wanna Be Your Joey Ramone","a":"Sleater-Kinney","y":1996},
+{"t":"Dig Me Out","a":"Sleater-Kinney","y":1997}
+]},
+{"id":"horror-punk","tracks":[
+{"t":"Where Eagles Dare","a":"Misfits","y":1979},
+{"t":"Last Caress","a":"Misfits","y":1980},
+{"t":"New Rose","a":"The Damned","y":1976},
+{"t":"Neat Neat Neat","a":"The Damned","y":1977},
+{"t":"Girl's Not Grey","a":"AFI","y":2003},
+{"t":"Miss Murder","a":"AFI","y":2006}
+]},
+{"id":"psychobilly","tracks":[
+{"t":"Human Fly","a":"The Cramps","y":1978},
+{"t":"Goo Goo Muck","a":"The Cramps","y":1981},
+{"t":"Stray Cat Strut","a":"Stray Cats","y":1981},
+{"t":"Psychobilly Freakout","a":"Reverend Horton Heat","y":1990},
+{"t":"Dead Girls Don't Cry","a":"Nekromantix","y":2002}
+]}
+]}

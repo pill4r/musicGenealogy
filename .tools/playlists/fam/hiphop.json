@@ -1,0 +1,567 @@
+{
+ "family": "hiphop",
+ "name": "嘻哈 Hip-Hop",
+ "sub": "布朗克斯 1970s →",
+ "genres": [
+  {
+   "id": "hip-hop",
+   "n": "Hip-Hop",
+   "zh": "嘻哈",
+   "tier": 1,
+   "y": 1975,
+   "d": "1970 年代布朗克斯：DJ 截取 funk/disco 的 break，MC 在台上带动气氛；从街头派对长成全球最大的流行文化之一。",
+   "ar": [
+    "DJ Kool Herc",
+    "Grandmaster Flash",
+    "Afrika Bambaataa"
+   ],
+   "tr": [
+    [
+     "Rapper's Delight",
+     "Sugarhill Gang",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "old-school-hip-hop",
+   "n": "Old-School Hip-Hop",
+   "zh": "老派嘻哈",
+   "tier": 3,
+   "y": 1979,
+   "d": "1979–1984 的早期录音：迪斯科式节拍、简单押韵、派对主题。",
+   "ar": [
+    "Sugarhill Gang",
+    "Kurtis Blow",
+    "Grandmaster Flash"
+   ],
+   "tr": [
+    [
+     "The Breaks",
+     "Kurtis Blow",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "golden-age",
+   "n": "Golden Age Hip-Hop",
+   "zh": "黄金年代",
+   "tier": 2,
+   "y": 1987,
+   "d": "1980 年代末到 90 年代初：采样密集、歌词复杂、专辑概念化。",
+   "ar": [
+    "Public Enemy",
+    "Eric B. & Rakim",
+    "A Tribe Called Quest"
+   ],
+   "tr": [
+    [
+     "Fight the Power",
+     "Public Enemy",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "gangsta-rap",
+   "n": "Gangsta Rap",
+   "zh": "匪帮说唱",
+   "tier": 2,
+   "y": 1988,
+   "d": "西海岸的街头叙事与暴力美学，把 hip-hop 推向争议与主流。",
+   "ar": [
+    "N.W.A",
+    "Ice-T",
+    "Ice Cube"
+   ],
+   "tr": [
+    [
+     "Straight Outta Compton",
+     "N.W.A",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "g-funk",
+   "n": "G-Funk",
+   "zh": "黑帮放克",
+   "tier": 3,
+   "y": 1992,
+   "d": "P-funk 采样 + 缓慢律动 + 合成器；Dr. Dre 定义了 90 年代西海岸声音。",
+   "ar": [
+    "Dr. Dre",
+    "Snoop Dogg",
+    "Warren G"
+   ],
+   "tr": [
+    [
+     "Nuthin' but a 'G' Thang",
+     "Dr. Dre",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "boom-bap",
+   "n": "Boom Bap",
+   "zh": "Boom Bap",
+   "tier": 2,
+   "y": 1990,
+   "d": "硬底鼓 + 采样 chop，纽约地下 hip-hop 的标准声音。",
+   "ar": [
+    "Mobb Deep",
+    "Nas",
+    "Gang Starr"
+   ],
+   "tr": [
+    [
+     "Shook Ones, Pt. II",
+     "Mobb Deep",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "jazz-rap",
+   "n": "Jazz Rap",
+   "zh": "爵士说唱",
+   "tier": 3,
+   "y": 1988,
+   "d": "爵士采样 + 慵懒 flow，把 hip-hop 变成室内乐。",
+   "ar": [
+    "A Tribe Called Quest",
+    "Gang Starr",
+    "Digable Planets"
+   ],
+   "tr": [
+    [
+     "Jazz (We've Got)",
+     "A Tribe Called Quest",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "conscious-hip-hop",
+   "n": "Conscious Hip-Hop",
+   "zh": "良知说唱",
+   "tier": 3,
+   "y": 1988,
+   "d": "以社会议题、种族政治与自我教育为核心的 hip-hop。",
+   "ar": [
+    "Public Enemy",
+    "Common",
+    "Kendrick Lamar"
+   ],
+   "tr": [
+    [
+     "Alright",
+     "Kendrick Lamar",
+     2015
+    ]
+   ]
+  },
+  {
+   "id": "southern-hip-hop",
+   "n": "Southern Hip-Hop",
+   "zh": "南方说唱",
+   "tier": 2,
+   "y": 1991,
+   "d": "美国南部的 hip-hop：更慢的节奏、更强的低音、独特的口音与舞步。",
+   "ar": [
+    "OutKast",
+    "UGK",
+    "Ludacris"
+   ],
+   "tr": [
+    [
+     "Ms. Jackson",
+     "OutKast",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "crunk",
+   "n": "Crunk",
+   "zh": "旷课乐",
+   "tier": 3,
+   "y": 1997,
+   "d": "孟菲斯/亚特兰大的高能量 club rap：喊叫、808、极简 hook。",
+   "ar": [
+    "Lil Jon",
+    "Three 6 Mafia",
+    "Ying Yang Twins"
+   ],
+   "tr": [
+    [
+     "Get Low",
+     "Lil Jon & the East Side Boyz",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "trap",
+   "n": "Trap",
+   "zh": "陷阱说唱",
+   "tier": 1,
+   "y": 2003,
+   "d": "808 低音 + 快速 hi-hat + 黑暗合成器，2010 年代统治全球。",
+   "ar": [
+    "T.I.",
+    "Future",
+    "Migos"
+   ],
+   "tr": [
+    [
+     "Mask Off",
+     "Future",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "drill",
+   "n": "Drill",
+   "zh": "钻头",
+   "tier": 2,
+   "y": 2010,
+   "d": "芝加哥/伦敦的 trap 分支：阴暗旋律、滑音 808、街头叙事。",
+   "ar": [
+    "Chief Keef",
+    "Pop Smoke",
+    "Headie One"
+   ],
+   "tr": [
+    [
+     "Dior",
+     "Pop Smoke",
+     2019
+    ]
+   ]
+  },
+  {
+   "id": "cloud-rap",
+   "n": "Cloud Rap",
+   "zh": "云说唱",
+   "tier": 3,
+   "y": 2008,
+   "d": "2000 年代末的网络说唱：氛围采样、慢速、模糊人声。",
+   "ar": [
+    "Lil B",
+    "Clams Casino",
+    "A$AP Rocky"
+   ],
+   "tr": [
+    [
+     "I'm God",
+     "Clams Casino",
+     2010
+    ]
+   ]
+  },
+  {
+   "id": "lo-fi-hip-hop",
+   "n": "Lo-Fi Hip-Hop",
+   "zh": "低保真嘻哈",
+   "tier": 3,
+   "y": 2010,
+   "d": "爵士采样 + 黑胶噪声 + 慢速鼓，学习和放松的背景音。",
+   "ar": [
+    "Nujabes",
+    "Idealism",
+    "J Dilla"
+   ],
+   "tr": [
+    [
+     "Feather",
+     "Nujabes",
+     2005
+    ]
+   ]
+  },
+  {
+   "id": "memphis-rap",
+   "n": "Memphis Rap",
+   "zh": "孟菲斯说唱",
+   "tier": 2,
+   "y": 1990,
+   "d": "低保真鼓机、阴森合成器与地下磁带发行，Three 6 Mafia 把孟菲斯的恐怖感变成后来 trap 与 phonk 的基因。",
+   "ar": [
+    "Three 6 Mafia",
+    "8Ball & MJG",
+    "Tommy Wright III"
+   ],
+   "tr": [
+    [
+     "Tear da Club Up",
+     "Three 6 Mafia",
+     1997
+    ]
+   ]
+  },
+  {
+   "id": "alternative-hip-hop",
+   "n": "Alternative Hip-Hop",
+   "zh": "另类嘻哈",
+   "tier": 2,
+   "y": 1988,
+   "d": "不走 gangsta 路线的嘻哈：采样古怪、主题内省或玩世不恭，De La Soul 的《3 Feet High and Rising》开了门。",
+   "ar": [
+    "De La Soul",
+    "A Tribe Called Quest",
+    "OutKast"
+   ],
+   "tr": [
+    [
+     "Me Myself and I",
+     "De La Soul",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "political-hip-hop",
+   "n": "Political Hip-Hop",
+   "zh": "政治嘻哈",
+   "tier": 3,
+   "y": 1982,
+   "d": "把麦克风当传单：种族、警察与权力结构，Public Enemy 的《Fight the Power》是最高音。",
+   "ar": [
+    "Public Enemy",
+    "KRS-One",
+    "Dead Prez"
+   ],
+   "tr": [
+    [
+     "Fight the Power",
+     "Public Enemy",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "instrumental-hip-hop",
+   "n": "Instrumental Hip-Hop",
+   "zh": "器乐嘻哈",
+   "tier": 3,
+   "y": 1990,
+   "d": "没有人声的嘻哈：把采样与鼓组当成作曲，DJ Shadow 的《Endtroducing.....》把它变成一张完整的专辑艺术。",
+   "ar": [
+    "DJ Shadow",
+    "Madlib",
+    "J Dilla"
+   ],
+   "tr": [
+    [
+     "Midnight in a Perfect World",
+     "DJ Shadow",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "hyphy",
+   "n": "Hyphy",
+   "zh": "亢奋",
+   "tier": 3,
+   "y": 2000,
+   "d": "湾区的派对说唱：快速的踩镲、合成器主旋律与「go dumb」的舞蹈文化，E-40 是教父。",
+   "ar": [
+    "E-40",
+    "Mac Dre",
+    "Keak da Sneak"
+   ],
+   "tr": [
+    [
+     "Tell Me When to Go",
+     "E-40",
+     2006
+    ]
+   ]
+  },
+  {
+   "id": "snap",
+   "n": "Snap",
+   "zh": "响指说唱",
+   "tier": 3,
+   "y": 2000,
+   "d": "用响指与 808 做骨架的南方派对说唱，Lil Jon 的吼叫把它推上 2000 年代榜单。",
+   "ar": [
+    "Lil Jon",
+    "Ying Yang Twins",
+    "Dem Franchize Boyz"
+   ],
+   "tr": [
+    [
+     "Get Low",
+     "Lil Jon & The East Side Boyz",
+     2003
+    ]
+   ]
+  },
+  {
+   "id": "mumble-rap",
+   "n": "Mumble Rap",
+   "zh": "含糊说唱",
+   "tier": 2,
+   "y": 2014,
+   "d": "咬字被旋律与氛围取代的一代说唱：重点不在歌词而在音色与律动，Future 是最大影响源。",
+   "ar": [
+    "Future",
+    "Lil Uzi Vert",
+    "Playboi Carti"
+   ],
+   "tr": [
+    [
+     "Mask Off",
+     "Future",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "soundcloud-rap",
+   "n": "SoundCloud Rap",
+   "zh": "SoundCloud 说唱",
+   "tier": 2,
+   "y": 2015,
+   "d": "在卧室录制、直接上传的下一代说唱：低保真、情绪化、跨流派，Lil Uzi Vert 与 XXXTentacion 从平台走向榜单。",
+   "ar": [
+    "Lil Uzi Vert",
+    "XXXTentacion",
+    "Lil Peep"
+   ],
+   "tr": [
+    [
+     "XO TOUR Llif3",
+     "Lil Uzi Vert",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "emo-rap",
+   "n": "Emo Rap",
+   "zh": "Emo 说唱",
+   "tier": 2,
+   "y": 2015,
+   "d": "把 emo 的自我伤害叙事与吉他采样放进 trap 鼓组，Lil Peep 与 XXXTentacion 让两种亚文化在同一个播放列表里相遇。",
+   "ar": [
+    "Lil Peep",
+    "XXXTentacion",
+    "Juice WRLD"
+   ],
+   "tr": [
+    [
+     "Awful Things",
+     "Lil Peep",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "trap-soul",
+   "n": "Trap Soul",
+   "zh": "Trap 灵魂",
+   "tier": 3,
+   "y": 2014,
+   "d": "用 trap 的 808 与 hi-hat 唱 R&B 的旋律，Bryson Tiller 的《T R A P S O U L》给这一波命名。",
+   "ar": [
+    "Bryson Tiller",
+    "PartyNextDoor",
+    "6LACK"
+   ],
+   "tr": [
+    [
+     "Don't",
+     "Bryson Tiller",
+     2015
+    ]
+   ]
+  },
+  {
+   "id": "uk-drill",
+   "n": "UK Drill",
+   "zh": "英国 Drill",
+   "tier": 2,
+   "y": 2012,
+   "d": "芝加哥 drill 在伦敦的重生：滑音 808、阴冷旋律与街区叙事，形成了英国最锋利的一代说唱。",
+   "ar": [
+    "Headie One",
+    "Unknown T",
+    "Digga D"
+   ],
+   "tr": [
+    [
+     "Homerton B",
+     "Unknown T",
+     2018
+    ]
+   ]
+  },
+  {
+   "id": "afroswing",
+   "n": "Afroswing",
+   "zh": "非洲摇摆",
+   "tier": 3,
+   "y": 2015,
+   "d": "伦敦的非洲裔青年把 afrobeats 的旋律与 grime 的节奏接在一起，J Hus 是这一波最响亮的名字。",
+   "ar": [
+    "J Hus",
+    "MoStack",
+    "Kojo Funds"
+   ],
+   "tr": [
+    [
+     "Did You See",
+     "J Hus",
+     2017
+    ]
+   ]
+  },
+  {
+   "id": "latin-rap",
+   "n": "Latin Rap",
+   "zh": "拉丁说唱",
+   "tier": 3,
+   "y": 1989,
+   "d": "西语与英语混用的美国拉丁裔说唱，Kid Frost 的《La Raza》是西岸拉丁说唱的起点。",
+   "ar": [
+    "Kid Frost",
+    "Cypress Hill",
+    "Mellow Man Ace"
+   ],
+   "tr": [
+    [
+     "La Raza",
+     "Kid Frost",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "phonk",
+   "n": "Phonk",
+   "zh": "Phonk",
+   "tier": 2,
+   "y": 2010,
+   "d": "从孟菲斯说唱采样里长出来的网络亚种：失真 808、牛铃与低保真氛围，后来分裂出 drift phonk。",
+   "ar": [
+    "SpaceGhostPurrp",
+    "DJ Smokey",
+    "Soudiere"
+   ],
+   "tr": [
+    [
+     "Bringing tha Phonk",
+     "SpaceGhostPurrp",
+     2011
+    ]
+   ]
+  }
+ ]
+}

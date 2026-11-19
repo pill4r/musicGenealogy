@@ -1,0 +1,900 @@
+{
+  "family": "house",
+  "genres": [
+    {
+      "id": "house",
+      "tracks": [
+        {
+          "t": "On and On",
+          "a": "Jesse Saunders",
+          "y": 1984
+        },
+        {
+          "t": "Your Love",
+          "a": "Frankie Knuckles",
+          "y": 1986
+        },
+        {
+          "t": "Move Your Body (The House Music Anthem)",
+          "a": "Marshall Jefferson",
+          "y": 1986
+        },
+        {
+          "t": "Jack Your Body",
+          "a": "Steve \"Silk\" Hurley",
+          "y": 1986
+        },
+        {
+          "t": "Promised Land",
+          "a": "Joe Smooth",
+          "y": 1987
+        },
+        {
+          "t": "Strings of Life",
+          "a": "Rhythim Is Rhythim",
+          "y": 1987
+        }
+      ]
+    },
+    {
+      "id": "chicago-house",
+      "tracks": [
+        {
+          "t": "Like This",
+          "a": "Chip E.",
+          "y": 1985
+        },
+        {
+          "t": "No Way Back",
+          "a": "Adonis",
+          "y": 1986
+        },
+        {
+          "t": "Washing Machine",
+          "a": "Mr. Fingers",
+          "y": 1986
+        },
+        {
+          "t": "Love Can't Turn Around",
+          "a": "Farley \"Jackmaster\" Funk & Jesse Saunders feat. Darryl Pandy",
+          "y": 1986
+        },
+        {
+          "t": "Baby Wants to Ride",
+          "a": "Frankie Knuckles feat. Jamie Principle",
+          "y": 1987
+        },
+        {
+          "t": "We're Rocking Down the House",
+          "a": "The Housemaster Boyz",
+          "y": 1987
+        }
+      ]
+    },
+    {
+      "id": "acid-house",
+      "tracks": [
+        {
+          "t": "Acid Tracks",
+          "a": "Phuture",
+          "y": 1987
+        },
+        {
+          "t": "Higher State of Consciousness",
+          "a": "Josh Wink",
+          "y": 1995
+        },
+        {
+          "t": "Voodoo Ray",
+          "a": "A Guy Called Gerald",
+          "y": 1988
+        },
+        {
+          "t": "This Is Acid",
+          "a": "Maurice",
+          "y": 1988
+        },
+        {
+          "t": "Acid Thunder",
+          "a": "Fast Eddie",
+          "y": 1988
+        },
+        {
+          "t": "Stakker Humanoid",
+          "a": "Humanoid",
+          "y": 1988
+        }
+      ]
+    },
+    {
+      "id": "deep-house",
+      "tracks": [
+        {
+          "t": "Can You Feel It",
+          "a": "Mr. Fingers",
+          "y": 1986
+        },
+        {
+          "t": "Mystery of Love",
+          "a": "Mr. Fingers",
+          "y": 1985
+        },
+        {
+          "t": "Tears",
+          "a": "Frankie Knuckles presents Satoshi Tomiie",
+          "y": 1989
+        },
+        {
+          "t": "The Whistle Song",
+          "a": "Frankie Knuckles",
+          "y": 1991
+        },
+        {
+          "t": "Atmosphere",
+          "a": "Kerri Chandler",
+          "y": 1993
+        },
+        {
+          "t": "Solitary Flight",
+          "a": "Theo Parrish",
+          "y": 2002
+        }
+      ]
+    },
+    {
+      "id": "garage-house",
+      "tracks": [
+        {
+          "t": "Devotion",
+          "a": "Ten City",
+          "y": 1987
+        },
+        {
+          "t": "Someday",
+          "a": "CeCe Rogers",
+          "y": 1987
+        },
+        {
+          "t": "Luv Dancin'",
+          "a": "Underground Solution",
+          "y": 1991
+        },
+        {
+          "t": "Follow Me",
+          "a": "Aly-Us",
+          "y": 1992
+        },
+        {
+          "t": "Can't Get No Sleep",
+          "a": "Masters at Work feat. India",
+          "y": 1993
+        },
+        {
+          "t": "Gypsy Woman (She's Homeless)",
+          "a": "Crystal Waters",
+          "y": 1991
+        }
+      ]
+    },
+    {
+      "id": "hip-house",
+      "tracks": [
+        {
+          "t": "I'll House You",
+          "a": "Jungle Brothers",
+          "y": 1988
+        },
+        {
+          "t": "Yo Yo Get Funky",
+          "a": "Fast Eddie",
+          "y": 1988
+        },
+        {
+          "t": "Pump Up the Jam",
+          "a": "Technotronic",
+          "y": 1989
+        },
+        {
+          "t": "The Power",
+          "a": "Snap!",
+          "y": 1990
+        },
+        {
+          "t": "Wiggle It",
+          "a": "2 in a Room",
+          "y": 1990
+        },
+        {
+          "t": "I'm Gonna Get You",
+          "a": "Bizarre Inc feat. Angie Brown",
+          "y": 1992
+        }
+      ]
+    },
+    {
+      "id": "vocal-house",
+      "tracks": [
+        {
+          "t": "Finally",
+          "a": "CeCe Peniston",
+          "y": 1991
+        },
+        {
+          "t": "Show Me Love",
+          "a": "Robin S.",
+          "y": 1993
+        },
+        {
+          "t": "Where Love Lives",
+          "a": "Alison Limerick",
+          "y": 1990
+        },
+        {
+          "t": "Dreamer",
+          "a": "Livin' Joy",
+          "y": 1994
+        },
+        {
+          "t": "Hideaway",
+          "a": "De'Lacy",
+          "y": 1995
+        },
+        {
+          "t": "Free",
+          "a": "Ultra Naté",
+          "y": 1997
+        }
+      ]
+    },
+    {
+      "id": "progressive-house",
+      "tracks": [
+        {
+          "t": "Xpander",
+          "a": "Sasha",
+          "y": 1999
+        },
+        {
+          "t": "Song of Life",
+          "a": "Leftfield",
+          "y": 1992
+        },
+        {
+          "t": "The Gift",
+          "a": "Way Out West",
+          "y": 1996
+        },
+        {
+          "t": "Heaven Scent",
+          "a": "Bedrock",
+          "y": 1999
+        },
+        {
+          "t": "Pjanoo",
+          "a": "Eric Prydz",
+          "y": 2008
+        },
+        {
+          "t": "Strobe",
+          "a": "deadmau5",
+          "y": 2009
+        }
+      ]
+    },
+    {
+      "id": "tech-house",
+      "tracks": [
+        {
+          "t": "Losing It",
+          "a": "Fisher",
+          "y": 2018
+        },
+        {
+          "t": "La La Land",
+          "a": "Green Velvet",
+          "y": 2001
+        },
+        {
+          "t": "The Whistler",
+          "a": "Claude VonStroke",
+          "y": 2006
+        },
+        {
+          "t": "Benediction",
+          "a": "Hot Natured",
+          "y": 2012
+        },
+        {
+          "t": "Forget You",
+          "a": "Patrick Topping",
+          "y": 2014
+        },
+        {
+          "t": "Ya Kidding",
+          "a": "Fisher",
+          "y": 2017
+        }
+      ]
+    },
+    {
+      "id": "funky-house",
+      "tracks": [
+        {
+          "t": "Rendez-Vu",
+          "a": "Basement Jaxx",
+          "y": 1999
+        },
+        {
+          "t": "You Don't Know Me",
+          "a": "Armand Van Helden feat. Duane Harden",
+          "y": 1999
+        },
+        {
+          "t": "Big Love",
+          "a": "Pete Heller",
+          "y": 1999
+        },
+        {
+          "t": "Another Chance",
+          "a": "Roger Sanchez",
+          "y": 2001
+        },
+        {
+          "t": "Lola's Theme",
+          "a": "The Shapeshifters",
+          "y": 2004
+        },
+        {
+          "t": "My My My",
+          "a": "Armand Van Helden",
+          "y": 2004
+        }
+      ]
+    },
+    {
+      "id": "microhouse",
+      "tracks": [
+        {
+          "t": "My Way",
+          "a": "Akufen",
+          "y": 2002
+        },
+        {
+          "t": "Beau Mot Plage",
+          "a": "Isolée",
+          "y": 1999
+        },
+        {
+          "t": "Tessio",
+          "a": "Luomo",
+          "y": 2000
+        },
+        {
+          "t": "Skidoos",
+          "a": "Akufen",
+          "y": 2002
+        },
+        {
+          "t": "Dexter",
+          "a": "Ricardo Villalobos",
+          "y": 2003
+        },
+        {
+          "t": "Easy Lee",
+          "a": "Ricardo Villalobos",
+          "y": 2003
+        }
+      ]
+    },
+    {
+      "id": "minimal-house",
+      "tracks": [
+        {
+          "t": "Rej",
+          "a": "Âme",
+          "y": 2006
+        },
+        {
+          "t": "Outhouse",
+          "a": "Nathan Fake",
+          "y": 2003
+        },
+        {
+          "t": "Put Put Put",
+          "a": "M.A.N.D.Y.",
+          "y": 2004
+        },
+        {
+          "t": "Mandarine Girl",
+          "a": "Booka Shade",
+          "y": 2005
+        },
+        {
+          "t": "Body Language",
+          "a": "M.A.N.D.Y. vs Booka Shade",
+          "y": 2005
+        },
+        {
+          "t": "Beautiful Life",
+          "a": "Gui Boratto",
+          "y": 2009
+        }
+      ]
+    },
+    {
+      "id": "electro-house",
+      "tracks": [
+        {
+          "t": "D.A.N.C.E.",
+          "a": "Justice",
+          "y": 2007
+        },
+        {
+          "t": "Ghosts 'n' Stuff",
+          "a": "deadmau5",
+          "y": 2009
+        },
+        {
+          "t": "Satisfaction",
+          "a": "Benny Benassi presents The Biz",
+          "y": 2002
+        },
+        {
+          "t": "Drop the Pressure",
+          "a": "Mylo",
+          "y": 2004
+        },
+        {
+          "t": "Waters of Nazareth",
+          "a": "Justice",
+          "y": 2005
+        },
+        {
+          "t": "& Down",
+          "a": "Boys Noize",
+          "y": 2006
+        }
+      ]
+    },
+    {
+      "id": "afro-house",
+      "tracks": [
+        {
+          "t": "Superman",
+          "a": "Black Coffee",
+          "y": 2010
+        },
+        {
+          "t": "Webaba",
+          "a": "Culoe De Song feat. Busi Mhlongo",
+          "y": 2009
+        },
+        {
+          "t": "Envision (Âme Remix)",
+          "a": "Osunlade",
+          "y": 2011
+        },
+        {
+          "t": "Rainbow",
+          "a": "Black Motion feat. Xoli M",
+          "y": 2016
+        },
+        {
+          "t": "Akanamali",
+          "a": "Sun-El Musician feat. Samthing Soweto",
+          "y": 2017
+        },
+        {
+          "t": "Drive",
+          "a": "Black Coffee & David Guetta feat. Delilah Montagu",
+          "y": 2018
+        }
+      ]
+    },
+    {
+      "id": "kwaito",
+      "tracks": [
+        {
+          "t": "Nkalakatha",
+          "a": "Mandoza",
+          "y": 2000
+        },
+        {
+          "t": "It's About Time",
+          "a": "Boom Shaka",
+          "y": 1993
+        },
+        {
+          "t": "Tsiki Tsiki",
+          "a": "M'du Masilela",
+          "y": 1994
+        },
+        {
+          "t": "Kaffir",
+          "a": "Arthur Mafokate",
+          "y": 1995
+        },
+        {
+          "t": "Vulindlela",
+          "a": "Brenda Fassie",
+          "y": 1997
+        },
+        {
+          "t": "Shibobo",
+          "a": "TKZee",
+          "y": 1998
+        }
+      ]
+    },
+    {
+      "id": "amapiano",
+      "tracks": [
+        {
+          "t": "Ke Star",
+          "a": "Focalistic",
+          "y": 2021
+        },
+        {
+          "t": "Umshove",
+          "a": "Kabza De Small feat. Leehleza",
+          "y": 2018
+        },
+        {
+          "t": "Love You Tonight",
+          "a": "MFR Souls feat. DJ Maphorisa, Kabza De Small & Sha Sha",
+          "y": 2019
+        },
+        {
+          "t": "Akulaleki",
+          "a": "Samthing Soweto feat. DJ Maphorisa, Kabza De Small & Sha Sha",
+          "y": 2019
+        },
+        {
+          "t": "Gupta",
+          "a": "Focalistic & Mr JazziQ feat. Lady Du, Mellow & Sleazy",
+          "y": 2021
+        },
+        {
+          "t": "Adiwele",
+          "a": "Young Stunna feat. Kabza De Small & DJ Maphorisa",
+          "y": 2021
+        }
+      ]
+    },
+    {
+      "id": "tropical-house",
+      "tracks": [
+        {
+          "t": "Firestone",
+          "a": "Kygo",
+          "y": 2014
+        },
+        {
+          "t": "Prayer in C (Robin Schulz Remix)",
+          "a": "Lilly Wood & The Prick & Robin Schulz",
+          "y": 2014
+        },
+        {
+          "t": "One Day",
+          "a": "Bakermat",
+          "y": 2014
+        },
+        {
+          "t": "Easy Love",
+          "a": "Sigala",
+          "y": 2015
+        },
+        {
+          "t": "Show Me Love",
+          "a": "Sam Feldt",
+          "y": 2015
+        },
+        {
+          "t": "Fast Car",
+          "a": "Jonas Blue feat. Dakota",
+          "y": 2016
+        }
+      ]
+    },
+    {
+      "id": "slap-house",
+      "tracks": [
+        {
+          "t": "Piece of Your Heart",
+          "a": "Meduza",
+          "y": 2019
+        },
+        {
+          "t": "Hear Me Now",
+          "a": "Alok & Bruno Martini feat. Zeeba",
+          "y": 2017
+        },
+        {
+          "t": "Fading",
+          "a": "Alle Farben & Ilira",
+          "y": 2018
+        },
+        {
+          "t": "Roses (Imanbek Remix)",
+          "a": "SAINt JHN & Imanbek",
+          "y": 2019
+        },
+        {
+          "t": "Lose Control",
+          "a": "Meduza feat. Becky Hill & Goodboys",
+          "y": 2019
+        },
+        {
+          "t": "Breaking Me",
+          "a": "Topic & A7S",
+          "y": 2019
+        }
+      ]
+    },
+    {
+      "id": "future-house",
+      "tracks": [
+        {
+          "t": "Gecko (Overdrive)",
+          "a": "Oliver Heldens",
+          "y": 2014
+        },
+        {
+          "t": "Promesses",
+          "a": "Tchami",
+          "y": 2013
+        },
+        {
+          "t": "Untrue",
+          "a": "Tchami",
+          "y": 2014
+        },
+        {
+          "t": "Bullit",
+          "a": "Watermät",
+          "y": 2014
+        },
+        {
+          "t": "Koala",
+          "a": "Oliver Heldens",
+          "y": 2014
+        },
+        {
+          "t": "Cutting Shapes",
+          "a": "Don Diablo",
+          "y": 2016
+        }
+      ]
+    },
+    {
+      "id": "french-house",
+      "tracks": [
+        {
+          "t": "Around the World",
+          "a": "Daft Punk",
+          "y": 1997
+        },
+        {
+          "t": "Music Sounds Better with You",
+          "a": "Stardust",
+          "y": 1998
+        },
+        {
+          "t": "Intro",
+          "a": "Alan Braxe & Fred Falke",
+          "y": 2000
+        },
+        {
+          "t": "Cassius 1999",
+          "a": "Cassius",
+          "y": 1999
+        },
+        {
+          "t": "Lady (Hear Me Tonight)",
+          "a": "Modjo",
+          "y": 2000
+        },
+        {
+          "t": "One More Time",
+          "a": "Daft Punk",
+          "y": 2000
+        }
+      ]
+    },
+    {
+      "id": "disco-house",
+      "tracks": [
+        {
+          "t": "The Bomb! (These Sounds Fall into My Mind)",
+          "a": "Kenny Dope",
+          "y": 1995
+        },
+        {
+          "t": "Groovejet (If This Ain't Love)",
+          "a": "Spiller feat. Sophie Ellis-Bextor",
+          "y": 2000
+        },
+        {
+          "t": "Make Luv",
+          "a": "Room 5 feat. Oliver Cheatham",
+          "y": 2001
+        },
+        {
+          "t": "Stupidisco",
+          "a": "Junior Jack",
+          "y": 2004
+        },
+        {
+          "t": "Make a Move on Me",
+          "a": "Joey Negro feat. Taka Boom",
+          "y": 2005
+        },
+        {
+          "t": "Body Funk",
+          "a": "Purple Disco Machine",
+          "y": 2019
+        }
+      ]
+    },
+    {
+      "id": "ghetto-house",
+      "tracks": [
+        {
+          "t": "Freak Like Me",
+          "a": "DJ Deeon",
+          "y": 1996
+        },
+        {
+          "t": "Work That Mutha Fucka",
+          "a": "DJ Funk",
+          "y": 1995
+        },
+        {
+          "t": "Da Dik Suk",
+          "a": "DJ Deeon",
+          "y": 1996
+        },
+        {
+          "t": "Pump That Shit Up",
+          "a": "Jammin Gerald",
+          "y": 1997
+        },
+        {
+          "t": "Get Get Down",
+          "a": "Paul Johnson",
+          "y": 1999
+        }
+      ]
+    },
+    {
+      "id": "ballroom",
+      "tracks": [
+        {
+          "t": "The Ha Dance",
+          "a": "Masters at Work",
+          "y": 1991
+        },
+        {
+          "t": "Cunty (The Feeling)",
+          "a": "Kevin Aviance",
+          "y": 1996
+        },
+        {
+          "t": "Din Da Da",
+          "a": "Kevin Aviance",
+          "y": 1997
+        },
+        {
+          "t": "Work",
+          "a": "Masters at Work",
+          "y": 2001
+        },
+        {
+          "t": "Feels Like",
+          "a": "MikeQ",
+          "y": 2011
+        }
+      ]
+    },
+    {
+      "id": "afro-tech",
+      "tracks": [
+        {
+          "t": "Superman",
+          "a": "Black Coffee",
+          "y": 2010
+        },
+        {
+          "t": "We Dance Again",
+          "a": "Black Coffee feat. Nakhane",
+          "y": 2015
+        },
+        {
+          "t": "Deeper",
+          "a": "Holly Rey",
+          "y": 2018
+        },
+        {
+          "t": "iMali",
+          "a": "Zakes Bantwini",
+          "y": 2021
+        },
+        {
+          "t": "Osama",
+          "a": "Zakes Bantwini & Kasango",
+          "y": 2021
+        },
+        {
+          "t": "Time",
+          "a": "Black Coffee feat. Cassie",
+          "y": 2021
+        }
+      ]
+    },
+    {
+      "id": "organic-house",
+      "tracks": [
+        {
+          "t": "Muyè",
+          "a": "&ME, Rampa, Adam Port",
+          "y": 2018
+        },
+        {
+          "t": "Father Ocean",
+          "a": "Monolink",
+          "y": 2018
+        },
+        {
+          "t": "Breathing",
+          "a": "Ben Böhmer",
+          "y": 2019
+        },
+        {
+          "t": "Home",
+          "a": "Adriatique & Marino Canal feat. Delhia de France",
+          "y": 2019
+        },
+        {
+          "t": "Move",
+          "a": "Adam Port & Stryv",
+          "y": 2024
+        }
+      ]
+    },
+    {
+      "id": "lo-fi-house",
+      "tracks": [
+        {
+          "t": "Talk to Me You'll Understand",
+          "a": "Ross from Friends",
+          "y": 2017
+        },
+        {
+          "t": "Equation",
+          "a": "Palms Trax",
+          "y": 2013
+        },
+        {
+          "t": "Can U Get With",
+          "a": "Delroy Edwards",
+          "y": 2014
+        },
+        {
+          "t": "Winona",
+          "a": "DJ Boring",
+          "y": 2016
+        },
+        {
+          "t": "U",
+          "a": "DJ Seinfeld",
+          "y": 2017
+        },
+        {
+          "t": "Catching Feelings",
+          "a": "Mall Grab",
+          "y": 2017
+        }
+      ]
+    }
+  ]
+}

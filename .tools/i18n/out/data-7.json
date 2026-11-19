@@ -1,0 +1,332 @@
+{
+ "indie-rock": {
+  "n": "Indie Rock",
+  "r": "USA / UK",
+  "d": "Rock released on self-run labels outside the major-label system: guitar-led, roughly recorded, with a detached attitude that later became the mother lode of all alternative music.",
+  "ch": [
+   "Self-released",
+   "Guitar-led",
+   "Detached attitude"
+  ]
+ },
+ "jangle-pop": {
+  "n": "Jangle Pop",
+  "r": "UK / USA",
+  "d": "Bright, echoing Rickenbacker guitars ring out; The Smiths and R.E.M. made it the standard 80s indie guitar tone.",
+  "ch": [
+   "Jangly guitars",
+   "Bright tone",
+   "Melody first"
+  ]
+ },
+ "twee-pop": {
+  "n": "Twee Pop",
+  "r": "UK",
+  "d": "Deliberately childish, sweetly melodic indie pop: hand drums, childlike harmonies, lyrics about crushes and bicycles; Belle and Sebastian are the archetype.",
+  "ch": [
+   "Sweet melodies",
+   "Small ensemble",
+   "Childlike charm"
+  ]
+ },
+ "c86": {
+  "n": "C86",
+  "r": "UK",
+  "d": "NME's cassette compilation named a whole generation of UK indie bands: noisy yet sweet, DIY, strongly live-sounding; early Primal Scream were among them.",
+  "ch": [
+   "DIY",
+   "Sweet noise",
+   "Live feel"
+  ]
+ },
+ "britpop": {
+  "n": "Britpop",
+  "r": "UK",
+  "d": "Britain's 90s answer to grunge: Beatlesque melody, working-class narratives and media wars; Oasis and Blur defined it.",
+  "ch": [
+   "Melodic choruses",
+   "British guitar",
+   "Sense of the era"
+  ]
+ },
+ "madchester": {
+  "n": "Madchester",
+  "r": "Manchester, UK",
+  "d": "Manchester wired indie guitars to acid house drum machines and dancefloor grooves; Stone Roses and Happy Mondays were the flagships.",
+  "ch": [
+   "Dancefloor grooves",
+   "Guitars and drum machines",
+   "Loose feel"
+  ]
+ },
+ "baggy": {
+  "n": "Baggy",
+  "r": "UK",
+  "d": "Madchester's looser offshoot: heavier funk bass, more casual clothes and moves, directly connecting to the later Britpop.",
+  "ch": [
+   "Funk bass",
+   "Loose rhythms",
+   "Dancefloor"
+  ]
+ },
+ "dream-pop": {
+  "n": "Dream Pop",
+  "r": "UK",
+  "d": "Voices and guitars wrapped in reverb and delay, like hearing songs through fog; Cocteau Twins and Beach House share the same temperature thirty years apart.",
+  "ch": [
+   "Reverb",
+   "Breathy vocals",
+   "Hazy"
+  ]
+ },
+ "noise-pop": {
+  "n": "Noise Pop",
+  "r": "UK / USA",
+  "d": "Pop melodies wrapped in walls of noise; The Jesus and Mary Chain's Psychocandy was the watershed.",
+  "ch": [
+   "Wall of noise",
+   "Pop melody",
+   "Feedback"
+  ]
+ },
+ "indie-pop": {
+  "n": "Indie Pop",
+  "r": "UK",
+  "d": "Pop released on independent labels: melody first, light-touch production, sitting between twee and mainstream pop.",
+  "ch": [
+   "Melody first",
+   "Light production",
+   "DIY"
+  ]
+ },
+ "bedroom-pop": {
+  "n": "Bedroom Pop",
+  "r": "Global",
+  "d": "Pop finished in a bedroom with a laptop and one microphone: lo-fi, intimate, very wet reverb, the new indie of the streaming era.",
+  "ch": [
+   "Lo-fi",
+   "Intimate",
+   "Home recording"
+  ]
+ },
+ "surf-rock": {
+  "n": "Surf Rock",
+  "r": "California, USA",
+  "d": "California surf culture set to reverb guitars: tremolo, glissando and fast picking; Dick Dale's Misirlou is the ultimate template.",
+  "ch": [
+   "Reverb guitar",
+   "Tremolo",
+   "Fast picking"
+  ]
+ },
+ "garage-punk": {
+  "n": "Garage Punk",
+  "r": "USA",
+  "d": "Garage rock's rawness meets punk's energy: distortion, shouting, three chords; The Stooges are the prototype.",
+  "ch": [
+   "Three chords",
+   "Rough",
+   "High energy"
+  ]
+ },
+ "space-rock": {
+  "n": "Space Rock",
+  "r": "UK",
+  "d": "Long repetitive passages, synthesizers and echo create a sense of weightlessness; Hawkwind blazed the trail and Spacemen 3 made it more minimal still.",
+  "ch": [
+   "Repetitive riffs",
+   "Synthesizers",
+   "Weightlessness"
+  ]
+ },
+ "noise-rock": {
+  "n": "Noise Rock",
+  "r": "USA",
+  "d": "Atonality, feedback and structural breakdown brought into rock; Sonic Youth and Big Black made it the underground language of 80s New York and Chicago.",
+  "ch": [
+   "Atonality",
+   "Feedback",
+   "Structural breakdown"
+  ]
+ },
+ "slowcore": {
+  "n": "Slowcore",
+  "r": "USA",
+  "d": "Rock slowed to near stillness: slow tempos, silence and hushed voices; Low and Codeine build pressure out of quiet.",
+  "ch": [
+   "Very slow",
+   "Space and silence",
+   "Hushed vocals"
+  ]
+ },
+ "post-grunge": {
+  "n": "Post-Grunge",
+  "r": "USA",
+  "d": "Grunge's distortion and attitude sanded down into radio-friendly rock; Foo Fighters and Nickelback dominated the whole 2000s.",
+  "ch": [
+   "Radio choruses",
+   "Distortion",
+   "Gravelly vocals"
+  ]
+ },
+ "j-rock": {
+  "n": "J-Rock",
+  "r": "Japan",
+  "d": "Japan's localised take on rock: high melodic density, anime and visual kei culture; X Japan were the late-80s peak.",
+  "ch": [
+   "Dense melodies",
+   "Virtuosic playing",
+   "Visual kei"
+  ]
+ },
+ "rock-en-espanol": {
+  "n": "Rock en Español",
+  "r": "Latin America / Spain",
+  "d": "Rock sung in Spanish: from Argentina to Mexico, translating Anglo-American rock into Latin American politics and youth.",
+  "ch": [
+   "Spanish vocals",
+   "Latin rhythms",
+   "Political"
+  ]
+ },
+ "pop-rock": {
+  "n": "Pop Rock",
+  "r": "USA / UK",
+  "d": "Rock instrumentation handed over to pop melody: clear choruses, three-minute lengths; the backbone of 70s radio.",
+  "ch": [
+   "Clear choruses",
+   "Three-minute structure",
+   "Guitars"
+  ]
+ },
+ "soft-rock": {
+  "n": "Soft Rock",
+  "r": "USA",
+  "d": "Rock's electric edge turned down and its melodies softened: piano, harmonies and adult balladry; Fleetwood Mac are the model.",
+  "ch": [
+   "Gentle arrangements",
+   "Harmonies",
+   "Balladry"
+  ]
+ },
+ "arena-rock": {
+  "n": "Arena Rock",
+  "r": "USA",
+  "d": "Rock written for tens of thousands to sing along: huge choruses, guitar solos, fireworks and stadiums; Journey and Bon Jovi are typical.",
+  "ch": [
+   "Big choruses",
+   "Guitar solos",
+   "Stadiums"
+  ]
+ },
+ "southern-rock": {
+  "n": "Southern Rock",
+  "r": "Southern US",
+  "d": "The rock of the American South: twin guitars, blues roots, long improvisations; Lynyrd Skynyrd's Free Bird is the anthem.",
+  "ch": [
+   "Twin guitars",
+   "Blues roots",
+   "Long jams"
+  ]
+ },
+ "art-rock": {
+  "n": "Art Rock",
+  "r": "UK",
+  "d": "Treating rock as an art project: concepts, theatricality, non-pop structures; David Bowie and Roxy Music turned it into a stance.",
+  "ch": [
+   "Conceptual",
+   "Theatrical",
+   "Non-pop structures"
+  ]
+ },
+ "bubblegum-pop": {
+  "n": "Bubblegum Pop",
+  "r": "USA",
+  "d": "Three-minute sweets built for teenagers: simple choruses, cartoonish production; The Archies' Sugar, Sugar sold six million copies.",
+  "ch": [
+   "Simple choruses",
+   "Sweet",
+   "Teen-oriented"
+  ]
+ },
+ "adult-contemporary": {
+  "n": "Adult Contemporary",
+  "r": "USA",
+  "d": "Soft pop designed for radio's office-hours slot: piano, strings, non-threatening love; Carpenters are the template.",
+  "ch": [
+   "Soft",
+   "Strings",
+   "Balladry"
+  ]
+ },
+ "europop": {
+  "n": "Europop",
+  "r": "Europe",
+  "d": "Continental European pop: disco rhythms, synthesizers and choruses that stick; ABBA exported it to the whole world.",
+  "ch": [
+   "Catchy choruses",
+   "Synthesizers",
+   "Dance rhythms"
+  ]
+ },
+ "cantopop": {
+  "n": "Cantopop",
+  "r": "Hong Kong",
+  "d": "Hong Kong's Cantonese pop: TV theme songs, the idol industry and localised Japanese melodies; Leslie Cheung and Anita Mui are the golden age.",
+  "ch": [
+   "Cantonese vocals",
+   "Idol industry",
+   "Melody first"
+  ]
+ },
+ "jpop": {
+  "n": "J-Pop",
+  "r": "Japan",
+  "d": "The catch-all for Japanese pop: from kayōkyoku to idols and Shibuya-kei, dense melodies and polished arrangements; Hikaru Utada carried it into the million-selling era.",
+  "ch": [
+   "Dense melodies",
+   "Polished arrangements",
+   "Idols"
+  ]
+ },
+ "mandopop": {
+  "n": "Mandopop",
+  "r": "Taiwan / Mainland China",
+  "d": "Mandarin-language pop: campus folk, ballads and R&B-inflected production; Jay Chou brought rhythm and rap into the Chinese-language mainstream.",
+  "ch": [
+   "Mandarin vocals",
+   "Ballads",
+   "R&B production"
+  ]
+ },
+ "afropop": {
+  "n": "Afropop",
+  "r": "Nigeria / South Africa",
+  "d": "The global 2010s face of Afrobeats: Nigerian melody, Ghanaian highlife guitar and dance rhythms; Wizkid took it into the UK and US charts.",
+  "ch": [
+   "Dance rhythms",
+   "Melodic",
+   "Global collaborations"
+  ]
+ },
+ "power-pop": {
+  "n": "Power Pop",
+  "r": "USA / UK",
+  "d": "Beatlesque melody plus distorted guitars and tight drumming: the chorus must grab you at once; Big Star were the commercially unsung gods.",
+  "ch": [
+   "Catchy choruses",
+   "Distorted guitars",
+   "Tight"
+  ]
+ },
+ "art-pop": {
+  "n": "Art Pop",
+  "r": "UK",
+  "d": "Pop as an experimental playground: unconventional structures, theatrical singing and visual concepts; Kate Bush and Björk are the exemplars.",
+  "ch": [
+   "Experimental structures",
+   "Theatrical",
+   "Visual concepts"
+  ]
+ }
+}

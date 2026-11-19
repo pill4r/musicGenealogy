@@ -1,0 +1,314 @@
+[
+ {
+  "id": "ghetto-house",
+  "n": "Ghetto House",
+  "zh": "贫民窟浩室",
+  "f": "house",
+  "r": "美国·芝加哥",
+  "d": "芝加哥 house 最粗野的一支：808 鼓机、露骨喊麦与极简 loop，DJ Deeon 与 Dance Mania 厂牌是地下传奇。",
+  "ch": [
+   "808 鼓机",
+   "喊麦",
+   "极简 loop"
+  ]
+ },
+ {
+  "id": "ballroom",
+  "n": "Ballroom",
+  "zh": "舞厅",
+  "f": "house",
+  "r": "美国·纽约",
+  "d": "纽约黑人与拉丁裔酷儿舞厅文化的配乐：硬朗的 house 节拍加 vogue 舞步，Masters at Work 的《The Ha Dance》是国歌。",
+  "ch": [
+   "Vogue 节拍",
+   "喊场",
+   "酷儿文化"
+  ]
+ },
+ {
+  "id": "afro-tech",
+  "n": "Afro Tech",
+  "zh": "非洲科技浩室",
+  "f": "house",
+  "r": "南非",
+  "d": "把 afro-house 的鼓组换成更科技、更催眠的合成器与低频，Black Coffee 把它带向全球。",
+  "ch": [
+   "科技音色",
+   "非洲鼓组",
+   "催眠"
+  ]
+ },
+ {
+  "id": "organic-house",
+  "n": "Organic House",
+  "zh": "有机浩室",
+  "f": "house",
+  "r": "德国 / 南非",
+  "d": "把 house 做得更慢、更「有机」：手鼓、原声采样与长段渐变，Keinemusik 是这一波的门面。",
+  "ch": [
+   "手鼓",
+   "原声采样",
+   "慢速渐变"
+  ]
+ },
+ {
+  "id": "lo-fi-house",
+  "n": "Lo-Fi House",
+  "zh": "低保真浩室",
+  "f": "house",
+  "r": "英国",
+  "d": "把 house 录进磁带与采样器再糊上噪点：怀旧、粗糙、卧室制作，Ross from Friends 是代表。",
+  "ch": [
+   "磁带噪点",
+   "怀旧采样",
+   "卧室制作"
+  ]
+ },
+ {
+  "id": "ambient-techno",
+  "n": "Ambient Techno",
+  "zh": "氛围科技舞曲",
+  "f": "techno",
+  "r": "英国",
+  "d": "把 techno 的骨架泡进合成器长音里：仍能跳舞，但更像漂浮；Aphex Twin 的《Xtal》是模板。",
+  "ch": [
+   "合成器长音",
+   "漂浮感",
+   "节制鼓组"
+  ]
+ },
+ {
+  "id": "ghettotech",
+  "n": "Ghettotech",
+  "zh": "贫民窟科技",
+  "f": "techno",
+  "r": "美国·底特律",
+  "d": "底特律与芝加哥的交界：techno 的速度、electro 的鼓机、粗口喊麦，DJ Assault 是标志人物。",
+  "ch": [
+   "快速",
+   "Electro 鼓机",
+   "喊麦"
+  ]
+ },
+ {
+  "id": "future-garage",
+  "n": "Future Garage",
+  "zh": "未来车库",
+  "f": "bass",
+  "r": "英国·伦敦",
+  "d": "把 2-step garage 拆成碎片再拼回去：人声切片、雨声、低频与留白，Burial 的同名专辑定义了它。",
+  "ch": [
+   "人声切片",
+   "雨声采样",
+   "留白"
+  ]
+ },
+ {
+  "id": "gqom",
+  "n": "Gqom",
+  "zh": "格孔",
+  "f": "bass",
+  "r": "南非·德班",
+  "d": "德班的极简低音：只有底鼓、拍手与一条阴冷的合成器，比 house 更空旷也更凶。",
+  "ch": [
+   "极简",
+   "阴冷合成器",
+   "空旷"
+  ]
+ },
+ {
+  "id": "uk-funky",
+  "n": "UK Funky",
+  "zh": "英国放克",
+  "f": "bass",
+  "r": "英国·伦敦",
+  "d": "2000 年代末伦敦的短命场景：house 的节拍加 soca 与非洲鼓，Crazy Cousinz 把它推上电台。",
+  "ch": [
+   "Soca 鼓",
+   "House 节拍",
+   "人声"
+  ]
+ },
+ {
+  "id": "memphis-rap",
+  "n": "Memphis Rap",
+  "zh": "孟菲斯说唱",
+  "f": "hiphop",
+  "r": "美国·孟菲斯",
+  "d": "低保真鼓机、阴森合成器与地下磁带发行，Three 6 Mafia 把孟菲斯的恐怖感变成后来 trap 与 phonk 的基因。",
+  "ch": [
+   "低保真",
+   "阴森合成器",
+   "磁带发行"
+  ]
+ },
+ {
+  "id": "alternative-hip-hop",
+  "n": "Alternative Hip-Hop",
+  "zh": "另类嘻哈",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "不走 gangsta 路线的嘻哈：采样古怪、主题内省或玩世不恭，De La Soul 的《3 Feet High and Rising》开了门。",
+  "ch": [
+   "古怪采样",
+   "内省",
+   "幽默"
+  ]
+ },
+ {
+  "id": "political-hip-hop",
+  "n": "Political Hip-Hop",
+  "zh": "政治嘻哈",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "把麦克风当传单：种族、警察与权力结构，Public Enemy 的《Fight the Power》是最高音。",
+  "ch": [
+   "政治歌词",
+   "采样墙",
+   "喊口号"
+  ]
+ },
+ {
+  "id": "instrumental-hip-hop",
+  "n": "Instrumental Hip-Hop",
+  "zh": "器乐嘻哈",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "没有人声的嘻哈：把采样与鼓组当成作曲，DJ Shadow 的《Endtroducing.....》把它变成一张完整的专辑艺术。",
+  "ch": [
+   "采样拼贴",
+   "无人声",
+   "电影感"
+  ]
+ },
+ {
+  "id": "hyphy",
+  "n": "Hyphy",
+  "zh": "亢奋",
+  "f": "hiphop",
+  "r": "美国·旧金山湾区",
+  "d": "湾区的派对说唱：快速的踩镲、合成器主旋律与「go dumb」的舞蹈文化，E-40 是教父。",
+  "ch": [
+   "快速踩镲",
+   "合成器主旋律",
+   "派对"
+  ]
+ },
+ {
+  "id": "snap",
+  "n": "Snap",
+  "zh": "响指说唱",
+  "f": "hiphop",
+  "r": "美国·亚特兰大",
+  "d": "用响指与 808 做骨架的南方派对说唱，Lil Jon 的吼叫把它推上 2000 年代榜单。",
+  "ch": [
+   "响指",
+   "808",
+   "喊场"
+  ]
+ },
+ {
+  "id": "mumble-rap",
+  "n": "Mumble Rap",
+  "zh": "含糊说唱",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "咬字被旋律与氛围取代的一代说唱：重点不在歌词而在音色与律动，Future 是最大影响源。",
+  "ch": [
+   "含糊咬字",
+   "旋律化",
+   "氛围"
+  ]
+ },
+ {
+  "id": "soundcloud-rap",
+  "n": "SoundCloud Rap",
+  "zh": "SoundCloud 说唱",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "在卧室录制、直接上传的下一代说唱：低保真、情绪化、跨流派，Lil Uzi Vert 与 XXXTentacion 从平台走向榜单。",
+  "ch": [
+   "宅录",
+   "情绪化",
+   "跨流派"
+  ]
+ },
+ {
+  "id": "emo-rap",
+  "n": "Emo Rap",
+  "zh": "Emo 说唱",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "把 emo 的自我伤害叙事与吉他采样放进 trap 鼓组，Lil Peep 与 XXXTentacion 让两种亚文化在同一个播放列表里相遇。",
+  "ch": [
+   "吉他采样",
+   "自白",
+   "Trap 鼓组"
+  ]
+ },
+ {
+  "id": "trap-soul",
+  "n": "Trap Soul",
+  "zh": "Trap 灵魂",
+  "f": "hiphop",
+  "r": "美国",
+  "d": "用 trap 的 808 与 hi-hat 唱 R&B 的旋律，Bryson Tiller 的《T R A P S O U L》给这一波命名。",
+  "ch": [
+   "808",
+   "R&B 旋律",
+   "午夜感"
+  ]
+ },
+ {
+  "id": "uk-drill",
+  "n": "UK Drill",
+  "zh": "英国 Drill",
+  "f": "hiphop",
+  "r": "英国·伦敦",
+  "d": "芝加哥 drill 在伦敦的重生：滑音 808、阴冷旋律与街区叙事，形成了英国最锋利的一代说唱。",
+  "ch": [
+   "滑音 808",
+   "阴冷旋律",
+   "街区叙事"
+  ]
+ },
+ {
+  "id": "afroswing",
+  "n": "Afroswing",
+  "zh": "非洲摇摆",
+  "f": "hiphop",
+  "r": "英国·伦敦",
+  "d": "伦敦的非洲裔青年把 afrobeats 的旋律与 grime 的节奏接在一起，J Hus 是这一波最响亮的名字。",
+  "ch": [
+   "Afrobeats 旋律",
+   "英式说唱",
+   "夏日感"
+  ]
+ },
+ {
+  "id": "latin-rap",
+  "n": "Latin Rap",
+  "zh": "拉丁说唱",
+  "f": "hiphop",
+  "r": "美国·洛杉矶",
+  "d": "西语与英语混用的美国拉丁裔说唱，Kid Frost 的《La Raza》是西岸拉丁说唱的起点。",
+  "ch": [
+   "西英混用",
+   "放克采样",
+   "街区"
+  ]
+ },
+ {
+  "id": "phonk",
+  "n": "Phonk",
+  "zh": "Phonk",
+  "f": "hiphop",
+  "r": "美国 / 网络",
+  "d": "从孟菲斯说唱采样里长出来的网络亚种：失真 808、牛铃与低保真氛围，后来分裂出 drift phonk。",
+  "ch": [
+   "失真 808",
+   "牛铃",
+   "低保真"
+  ]
+ }
+]

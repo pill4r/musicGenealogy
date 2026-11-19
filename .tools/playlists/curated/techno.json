@@ -1,0 +1,136 @@
+{
+  "family": "techno",
+  "genres": [
+    {
+      "id": "techno",
+      "tracks": [
+        {"t": "No UFO's", "a": "Model 500", "y": 1985},
+        {"t": "Strings of Life", "a": "Rhythim Is Rhythim", "y": 1987},
+        {"t": "Big Fun", "a": "Inner City", "y": 1988},
+        {"t": "Energy Flash", "a": "Joey Beltram", "y": 1990},
+        {"t": "Percolator", "a": "Cajmere", "y": 1992},
+        {"t": "Knights of the Jaguar", "a": "DJ Rolando", "y": 1999}
+      ]
+    },
+    {
+      "id": "acid-techno",
+      "tracks": [
+        {"t": "Acperience 1", "a": "Hardfloor", "y": 1992},
+        {"t": "Acid Tracks", "a": "Phuture", "y": 1987},
+        {"t": "Voodoo Ray", "a": "A Guy Called Gerald", "y": 1988},
+        {"t": "Acid Thunder", "a": "Fast Eddie", "y": 1988},
+        {"t": "Acid Eiffel", "a": "Choice", "y": 1993},
+        {"t": "Higher State of Consciousness", "a": "Josh Wink", "y": 1995}
+      ]
+    },
+    {
+      "id": "minimal-techno",
+      "tracks": [
+        {"t": "Spastik", "a": "Plastikman", "y": 1993},
+        {"t": "Plasticine", "a": "Plastikman", "y": 1993},
+        {"t": "Minimal Nation", "a": "Robert Hood", "y": 1994},
+        {"t": "Easy Lee", "a": "Ricardo Villalobos", "y": 2003},
+        {"t": "Mouth to Mouth", "a": "Audion", "y": 2005},
+        {"t": "Soopertrack", "a": "Extrawelt", "y": 2005}
+      ]
+    },
+    {
+      "id": "dub-techno",
+      "tracks": [
+        {"t": "Phylyps Trak", "a": "Basic Channel", "y": 1993},
+        {"t": "Quadrant Dub", "a": "Basic Channel", "y": 1994},
+        {"t": "Lyot", "a": "Vainqueur", "y": 1992},
+        {"t": "M4", "a": "Maurizio", "y": 1995},
+        {"t": "Mango Drive", "a": "Rhythm & Sound", "y": 1998},
+        {"t": "Vantage Isle", "a": "DeepChord", "y": 2006}
+      ]
+    },
+    {
+      "id": "hard-techno",
+      "tracks": [
+        {"t": "The Bells", "a": "Jeff Mills", "y": 1996},
+        {"t": "Pullover", "a": "Speedy J", "y": 1991},
+        {"t": "Acid Phase", "a": "Emmanuel Top", "y": 1995},
+        {"t": "Crispy Bacon", "a": "Laurent Garnier", "y": 1997},
+        {"t": "Kernkraft 400", "a": "Zombie Nation", "y": 1999},
+        {"t": "Wisdom", "a": "Charlotte de Witte", "y": 2017}
+      ]
+    },
+    {
+      "id": "melodic-techno",
+      "tracks": [
+        {"t": "Nova", "a": "Tale of Us", "y": 2018},
+        {"t": "Rej", "a": "Âme", "y": 2005},
+        {"t": "Liebe Ist...", "a": "Stephan Bodzin", "y": 2007},
+        {"t": "Sky and Sand", "a": "Paul Kalkbrenner", "y": 2008},
+        {"t": "Kackvogel", "a": "Solomun", "y": 2012},
+        {"t": "Upperground", "a": "ARTBAT", "y": 2019}
+      ]
+    },
+    {
+      "id": "electro",
+      "tracks": [
+        {"t": "Planet Rock", "a": "Afrika Bambaataa", "y": 1982},
+        {"t": "Clear", "a": "Cybotron", "y": 1983},
+        {"t": "Night Drive (Thru-Babylon)", "a": "Model 500", "y": 1985},
+        {"t": "Don't Stop the Rock", "a": "Freestyle", "y": 1985},
+        {"t": "Musique Non Stop", "a": "Kraftwerk", "y": 1986},
+        {"t": "Space Invaders Are Smoking Grass", "a": "I-f", "y": 1997}
+      ]
+    },
+    {
+      "id": "freestyle",
+      "tracks": [
+        {"t": "Let the Music Play", "a": "Shannon", "y": 1983},
+        {"t": "I Wonder If I Take You Home", "a": "Lisa Lisa & Cult Jam", "y": 1985},
+        {"t": "Fascinated", "a": "Company B", "y": 1987},
+        {"t": "Silent Morning", "a": "Noel", "y": 1987},
+        {"t": "Catch Me (I'm Falling)", "a": "Pretty Poison", "y": 1987},
+        {"t": "Spring Love", "a": "Stevie B", "y": 1988}
+      ]
+    },
+    {
+      "id": "miami-bass",
+      "tracks": [
+        {"t": "Me So Horny", "a": "2 Live Crew", "y": 1989},
+        {"t": "Throw the 'D'", "a": "2 Live Crew", "y": 1988},
+        {"t": "Cars with the Boom", "a": "L'Trimm", "y": 1988},
+        {"t": "Whoot, There It Is", "a": "95 South", "y": 1993},
+        {"t": "Tootsee Roll", "a": "69 Boyz", "y": 1994},
+        {"t": "Da Dip", "a": "Freak Nasty", "y": 1996}
+      ]
+    },
+    {
+      "id": "baile-funk",
+      "tracks": [
+        {"t": "Baile de Favela", "a": "MC João", "y": 2015},
+        {"t": "Boladona", "a": "Tati Quebra Barraco", "y": 2004},
+        {"t": "Injeção", "a": "Deize Tigrona", "y": 2004},
+        {"t": "Vai Malandra", "a": "Anitta, MC Zaac & Maejor", "y": 2017},
+        {"t": "Bum Bum Tam Tam", "a": "MC Fioti", "y": 2017},
+        {"t": "Bola Rebola", "a": "Tropkillaz, J Balvin & Anitta", "y": 2019}
+      ]
+    },
+    {
+      "id": "ambient-techno",
+      "tracks": [
+        {"t": "Xtal", "a": "Aphex Twin", "y": 1992},
+        {"t": "Little Fluffy Clouds", "a": "The Orb", "y": 1990},
+        {"t": "Belfast", "a": "Orbital", "y": 1991},
+        {"t": "Tha", "a": "Aphex Twin", "y": 1992},
+        {"t": "Smokebelch II", "a": "The Sabres of Paradise", "y": 1993},
+        {"t": "14:31", "a": "Global Communication", "y": 1994}
+      ]
+    },
+    {
+      "id": "ghettotech",
+      "tracks": [
+        {"t": "Ass N Titties", "a": "DJ Assault", "y": 1996},
+        {"t": "Big Booty Bitches", "a": "DJ Assault", "y": 1997},
+        {"t": "Sandwiches", "a": "Detroit Grand Pubahs", "y": 2000},
+        {"t": "Electro-Ghetto", "a": "DJ Godfather feat. DJ Omega", "y": 2001},
+        {"t": "Throw That Thang", "a": "DJ Godfather", "y": 2001}
+      ]
+    }
+  ]
+}

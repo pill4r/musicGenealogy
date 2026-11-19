@@ -1,0 +1,563 @@
+{
+ "family": "house",
+ "name": "浩室 House",
+ "sub": "芝加哥 1980s →",
+ "genres": [
+  {
+   "id": "house",
+   "n": "House",
+   "zh": "浩室",
+   "tier": 1,
+   "y": 1982,
+   "d": "1980 年代初的芝加哥：Frankie Knuckles 在 The Warehouse 把 disco 重新剪接、叠上鼓机，做出为舞池循环而生的音乐，名字就来自这家俱乐部。它继承 disco 的 4/4 与灵魂人声，也直接分出了 deep、acid、garage 等支线。",
+   "ar": [
+    "Frankie Knuckles",
+    "Marshall Jefferson",
+    "Larry Heard",
+    "Jesse Saunders"
+   ],
+   "tr": [
+    [
+     "On and On",
+     "Jesse Saunders",
+     1984
+    ],
+    [
+     "Your Love",
+     "Frankie Knuckles",
+     1986
+    ],
+    [
+     "Move Your Body (The House Music Anthem)",
+     "Marshall Jefferson",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "chicago-house",
+   "n": "Chicago House",
+   "zh": "芝加哥浩室",
+   "tier": 2,
+   "y": 1984,
+   "d": "早期 house 的具体形态：TR-808/909 鼓机、粗糙采样与灵魂人声；Trax 与 DJ International 两个厂牌定义了它的声音。",
+   "ar": [
+    "Jesse Saunders",
+    "Chip E.",
+    "Adonis"
+   ],
+   "tr": [
+    [
+     "Like This",
+     "Chip E.",
+     1985
+    ],
+    [
+     "No Way Back",
+     "Adonis",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "acid-house",
+   "n": "Acid House",
+   "zh": "酸性浩室",
+   "tier": 1,
+   "y": 1986,
+   "d": "用 Roland TB-303 的滑音与共振做出「吱吱」声；1987 年 Phuture 的《Acid Tracks》为它定名，1988 年传入英国，引爆第二次爱之夏。",
+   "ar": [
+    "Phuture",
+    "DJ Pierre",
+    "Josh Wink"
+   ],
+   "tr": [
+    [
+     "Acid Tracks",
+     "Phuture",
+     1987
+    ],
+    [
+     "Higher State of Consciousness",
+     "Josh Wink",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "deep-house",
+   "n": "Deep House",
+   "zh": "深度浩室",
+   "tier": 1,
+   "y": 1987,
+   "d": "更慢、更 soulful 的 house：重视和弦、氛围与低频；Larry Heard 的《Can You Feel It》是模板。",
+   "ar": [
+    "Larry Heard",
+    "Kerri Chandler",
+    "Theo Parrish"
+   ],
+   "tr": [
+    [
+     "Can You Feel It",
+     "Mr. Fingers",
+     1986
+    ]
+   ]
+  },
+  {
+   "id": "garage-house",
+   "n": "Garage House",
+   "zh": "车库浩室",
+   "tier": 2,
+   "y": 1987,
+   "d": "纽约/新泽西的 house 分支，名字来自 Paradise Garage 的 Larry Levan；福音式人声与更 Swing 的鼓，后来东渡英国变成 UK garage。",
+   "ar": [
+    "Larry Levan",
+    "Tony Humphries",
+    "Masters at Work"
+   ],
+   "tr": [
+    [
+     "Devotion",
+     "Ten City",
+     1987
+    ]
+   ]
+  },
+  {
+   "id": "hip-house",
+   "n": "Hip House",
+   "zh": "嘻哈浩室",
+   "tier": 3,
+   "y": 1988,
+   "d": "house 节拍 + rap，两种黑人舞池文化的第一次正式联姻。",
+   "ar": [
+    "Jungle Brothers",
+    "Fast Eddie",
+    "Technotronic"
+   ],
+   "tr": [
+    [
+     "I'll House You",
+     "Jungle Brothers",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "vocal-house",
+   "n": "Vocal House",
+   "zh": "人声浩室",
+   "tier": 3,
+   "y": 1991,
+   "d": "以歌手为核心的传统 house，副歌与和声冲向舞池。",
+   "ar": [
+    "CeCe Peniston",
+    "Robin S.",
+    "Ultra Naté"
+   ],
+   "tr": [
+    [
+     "Finally",
+     "CeCe Peniston",
+     1991
+    ],
+    [
+     "Show Me Love",
+     "Robin S.",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "progressive-house",
+   "n": "Progressive House",
+   "zh": "前卫浩室",
+   "tier": 2,
+   "y": 1992,
+   "d": "长段落、渐进铺垫、强调氛围与张力，受 trance 影响，后来成为 EDM 主舞台的骨架。",
+   "ar": [
+    "Sasha",
+    "John Digweed",
+    "Eric Prydz"
+   ],
+   "tr": [
+    [
+     "Xpander",
+     "Sasha",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "tech-house",
+   "n": "Tech House",
+   "zh": "科技浩室",
+   "tier": 1,
+   "y": 1994,
+   "d": "house 的律动 + techno 的冷硬音色，极简循环，适合长时间 DJ set。",
+   "ar": [
+    "Mr. G",
+    "Jamie Jones",
+    "Fisher"
+   ],
+   "tr": [
+    [
+     "Losing It",
+     "Fisher",
+     2018
+    ]
+   ]
+  },
+  {
+   "id": "funky-house",
+   "n": "Funky House",
+   "zh": "放克浩室",
+   "tier": 3,
+   "y": 1996,
+   "d": "采样 disco/funk 的过滤式 house，2000 年代前后进入主流。",
+   "ar": [
+    "Basement Jaxx",
+    "Armand Van Helden",
+    "Roger Sanchez"
+   ],
+   "tr": [
+    [
+     "Rendez-Vu",
+     "Basement Jaxx",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "microhouse",
+   "n": "Microhouse",
+   "zh": "微型浩室",
+   "tier": 3,
+   "y": 1999,
+   "d": "极简、点击声、低频留白，把 house 拆到只剩呼吸。",
+   "ar": [
+    "Akufen",
+    "Ricardo Villalobos",
+    "Luomo"
+   ],
+   "tr": [
+    [
+     "My Way",
+     "Akufen",
+     2002
+    ]
+   ]
+  },
+  {
+   "id": "minimal-house",
+   "n": "Minimal House",
+   "zh": "极简浩室",
+   "tier": 3,
+   "y": 2003,
+   "d": "2000 年代中期的极简 house，靠细微变化维持律动。",
+   "ar": [
+    "Âme",
+    "Isolée",
+    "Ricardo Villalobos"
+   ],
+   "tr": [
+    [
+     "Rej",
+     "Âme",
+     2006
+    ]
+   ]
+  },
+  {
+   "id": "electro-house",
+   "n": "Electro House",
+   "zh": "电击浩室",
+   "tier": 1,
+   "y": 2005,
+   "d": "加入失真合成器、摇滚式 drop 的 house，2010 年前后统治音乐节。",
+   "ar": [
+    "Justice",
+    "deadmau5",
+    "Boys Noize"
+   ],
+   "tr": [
+    [
+     "D.A.N.C.E.",
+     "Justice",
+     2007
+    ],
+    [
+     "Ghosts 'n' Stuff",
+     "deadmau5",
+     2009
+    ]
+   ]
+  },
+  {
+   "id": "afro-house",
+   "n": "Afro House",
+   "zh": "非洲浩室",
+   "tier": 3,
+   "y": 2003,
+   "d": "house 与非洲打击乐、部落人声结合，Black Coffee 等人把它推向全球。",
+   "ar": [
+    "Black Coffee",
+    "Osunlade",
+    "Culoe De Song"
+   ],
+   "tr": [
+    [
+     "Superman",
+     "Black Coffee",
+     2010
+    ]
+   ]
+  },
+  {
+   "id": "kwaito",
+   "n": "Kwaito",
+   "zh": "夸伊托",
+   "tier": 3,
+   "y": 1993,
+   "d": "南非街头的 house 变体：慢速、口语说唱、ghetto 文化。",
+   "ar": [
+    "Mandoza",
+    "Arthur Mafokate",
+    "TKZee"
+   ],
+   "tr": [
+    [
+     "Nkalakatha",
+     "Mandoza",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "amapiano",
+   "n": "Amapiano",
+   "zh": "阿马皮亚诺",
+   "tier": 1,
+   "y": 2019,
+   "d": "deep house + kwaito + gqom 的南非新声：钢琴和弦、log drum 低音，2020 年代全球走红。",
+   "ar": [
+    "Kabza De Small",
+    "DJ Maphorisa",
+    "Focalistic"
+   ],
+   "tr": [
+    [
+     "Ke Star",
+     "Focalistic",
+     2021
+    ]
+   ]
+  },
+  {
+   "id": "tropical-house",
+   "n": "Tropical House",
+   "zh": "热带浩室",
+   "tier": 3,
+   "y": 2013,
+   "d": "轻快的 house 节拍 + 热带音色，Kygo 把它变成全球流行。",
+   "ar": [
+    "Kygo",
+    "Thomas Jack",
+    "Sigala"
+   ],
+   "tr": [
+    [
+     "Firestone",
+     "Kygo",
+     2014
+    ]
+   ]
+  },
+  {
+   "id": "slap-house",
+   "n": "Slap House",
+   "zh": "拍击浩室",
+   "tier": 3,
+   "y": 2019,
+   "d": "拍击式贝斯 + 流行人声，TikTok 时代的欧洲舞曲。",
+   "ar": [
+    "Meduza",
+    "Alle Farben",
+    "Imanbek"
+   ],
+   "tr": [
+    [
+     "Piece of Your Heart",
+     "Meduza",
+     2019
+    ]
+   ]
+  },
+  {
+   "id": "future-house",
+   "n": "Future House",
+   "zh": "未来浩室",
+   "tier": 3,
+   "y": 2013,
+   "d": "弹性贝斯、切碎人声，介于 house 与 EDM 之间。",
+   "ar": [
+    "Tchami",
+    "Oliver Heldens",
+    "Don Diablo"
+   ],
+   "tr": [
+    [
+     "Gecko (Overdrive)",
+     "Oliver Heldens",
+     2014
+    ]
+   ]
+  },
+  {
+   "id": "french-house",
+   "n": "French House",
+   "zh": "法国浩室",
+   "tier": 1,
+   "y": 1993,
+   "d": "用 disco/funk 采样 + 滤波器做出的「法式触感」，Daft Punk 让它成为全球现象。",
+   "ar": [
+    "Daft Punk",
+    "Cassius",
+    "Stardust"
+   ],
+   "tr": [
+    [
+     "Around the World",
+     "Daft Punk",
+     1997
+    ],
+    [
+     "Music Sounds Better with You",
+     "Stardust",
+     1998
+    ]
+   ]
+  },
+  {
+   "id": "disco-house",
+   "n": "Disco House",
+   "zh": "迪斯科浩室",
+   "tier": 3,
+   "y": 1994,
+   "d": "直接把 disco 的弦乐、人声与 house 鼓结合，是 disco 的「回流」。",
+   "ar": [
+    "Masters at Work",
+    "Joey Negro",
+    "Purple Disco Machine"
+   ],
+   "tr": [
+    [
+     "The Bomb! (These Sounds Fall into My Mind)",
+     "Kenny Dope",
+     1995
+    ]
+   ]
+  },
+  {
+   "id": "ghetto-house",
+   "n": "Ghetto House",
+   "zh": "贫民窟浩室",
+   "tier": 3,
+   "y": 1985,
+   "d": "芝加哥 house 最粗野的一支：808 鼓机、露骨喊麦与极简 loop，DJ Deeon 与 Dance Mania 厂牌是地下传奇。",
+   "ar": [
+    "DJ Deeon",
+    "DJ Funk",
+    "Paul Johnson"
+   ],
+   "tr": [
+    [
+     "Freak Like Me",
+     "DJ Deeon",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "ballroom",
+   "n": "Ballroom",
+   "zh": "舞厅",
+   "tier": 3,
+   "y": 1989,
+   "d": "纽约黑人与拉丁裔酷儿舞厅文化的配乐：硬朗的 house 节拍加 vogue 舞步，Masters at Work 的《The Ha Dance》是国歌。",
+   "ar": [
+    "Masters at Work",
+    "Kevin Aviance",
+    "MikeQ"
+   ],
+   "tr": [
+    [
+     "The Ha Dance",
+     "Masters at Work",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "afro-tech",
+   "n": "Afro Tech",
+   "zh": "非洲科技浩室",
+   "tier": 2,
+   "y": 2010,
+   "d": "把 afro-house 的鼓组换成更科技、更催眠的合成器与低频，Black Coffee 把它带向全球。",
+   "ar": [
+    "Black Coffee",
+    "Culoe De Song",
+    "Da Capo"
+   ],
+   "tr": [
+    [
+     "Superman",
+     "Black Coffee",
+     2010
+    ]
+   ]
+  },
+  {
+   "id": "organic-house",
+   "n": "Organic House",
+   "zh": "有机浩室",
+   "tier": 3,
+   "y": 2012,
+   "d": "把 house 做得更慢、更「有机」：手鼓、原声采样与长段渐变，Keinemusik 是这一波的门面。",
+   "ar": [
+    "&ME",
+    "Rampa",
+    "Adam Port"
+   ],
+   "tr": [
+    [
+     "Muyè",
+     "&ME, Rampa, Adam Port",
+     2018
+    ]
+   ]
+  },
+  {
+   "id": "lo-fi-house",
+   "n": "Lo-Fi House",
+   "zh": "低保真浩室",
+   "tier": 3,
+   "y": 2015,
+   "d": "把 house 录进磁带与采样器再糊上噪点：怀旧、粗糙、卧室制作，Ross from Friends 是代表。",
+   "ar": [
+    "Ross from Friends",
+    "DJ Seinfeld",
+    "Mall Grab"
+   ],
+   "tr": [
+    [
+     "Talk to Me You'll Understand",
+     "Ross from Friends",
+     2017
+    ]
+   ]
+  }
+ ]
+}

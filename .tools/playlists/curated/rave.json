@@ -1,0 +1,272 @@
+{"family":"rave","genres":[
+{"id":"uk-rave","tracks":[
+{"t":"Chime","a":"Orbital","y":1989},
+{"t":"Stakker Humanoid","a":"Humanoid","y":1988},
+{"t":"Voodoo Ray","a":"A Guy Called Gerald","y":1988},
+{"t":"Pacific State","a":"808 State","y":1989},
+{"t":"We Call It Acieed","a":"D Mob","y":1988},
+{"t":"Energy Flash","a":"Joey Beltram","y":1990}
+]},
+{"id":"hardcore","tracks":[
+{"t":"Charly","a":"The Prodigy","y":1991},
+{"t":"Everybody in the Place","a":"The Prodigy","y":1991},
+{"t":"Hardcore Uproar","a":"Together","y":1990},
+{"t":"Frequency","a":"Altern 8","y":1991},
+{"t":"Way in My Brain","a":"SL2","y":1991},
+{"t":"Trip II the Moon","a":"Acen","y":1992}
+]},
+{"id":"happy-hardcore","tracks":[
+{"t":"Toytown","a":"Hixxy & Sharkey","y":1996},
+{"t":"Party Time","a":"Dougal & Eruption","y":1996},
+{"t":"Pretty Green Eyes","a":"Force & Styles","y":1997},
+{"t":"Heart of Gold","a":"Force & Styles","y":1997},
+{"t":"Eye Opener","a":"Brisk & Trixxy","y":1998},
+{"t":"Shooting Star","a":"Bang!","y":1998}
+]},
+{"id":"gabber","tracks":[
+{"t":"Rainbow in the Sky","a":"Paul Elstak","y":1995},
+{"t":"The Horror","a":"Rotterdam Terror Corps","y":1993},
+{"t":"Wonderful Days","a":"Charly Lownoise & Mental Theo","y":1995},
+{"t":"Luv U More","a":"Paul Elstak","y":1995},
+{"t":"Hardcore Feelings","a":"Charly Lownoise & Mental Theo","y":1996},
+{"t":"Riotstarter","a":"Angerfist","y":2008}
+]},
+{"id":"hardstyle","tracks":[
+{"t":"FTS","a":"Showtek","y":2008},
+{"t":"Seid Ihr Bereid","a":"Showtek","y":2006},
+{"t":"Rock Civilization","a":"Headhunterz","y":2006},
+{"t":"Scrap Attack","a":"Headhunterz","y":2009},
+{"t":"Imaginary","a":"Brennan Heart","y":2010},
+{"t":"Weekend Warriors","a":"Da Tweekaz","y":2012}
+]},
+{"id":"breakbeat","tracks":[
+{"t":"Block Rockin' Beats","a":"The Chemical Brothers","y":1997},
+{"t":"Setting Sun","a":"The Chemical Brothers","y":1996},
+{"t":"Spybreak!","a":"Propellerheads","y":1997},
+{"t":"Phat Planet","a":"Leftfield","y":1999},
+{"t":"Da Antidote","a":"Stanton Warriors","y":2001},
+{"t":"We Want Your Soul","a":"Adam Freeland","y":2003}
+]},
+{"id":"big-beat","tracks":[
+{"t":"Praise You","a":"Fatboy Slim","y":1998},
+{"t":"The Rockafeller Skank","a":"Fatboy Slim","y":1998},
+{"t":"Firestarter","a":"The Prodigy","y":1996},
+{"t":"Breathe","a":"The Prodigy","y":1996},
+{"t":"Hey Boy Hey Girl","a":"The Chemical Brothers","y":1999},
+{"t":"Galvanize","a":"The Chemical Brothers","y":2004}
+]},
+{"id":"jungle","tracks":[
+{"t":"Inner City Life","a":"Goldie","y":1994},
+{"t":"Terminator","a":"Goldie","y":1992},
+{"t":"Valley of the Shadows","a":"Origin Unknown","y":1993},
+{"t":"Renegade Snares","a":"Omni Trio","y":1993},
+{"t":"Chopper","a":"Ray Keith","y":1994},
+{"t":"Dred Bass","a":"Dead Dred","y":1994}
+]},
+{"id":"drum-and-bass","tracks":[
+{"t":"Brown Paper Bag","a":"Roni Size / Reprazent","y":1997},
+{"t":"Circles","a":"Adam F","y":1997},
+{"t":"Body Rock","a":"Andy C & Shimon","y":2001},
+{"t":"Shake Ur Body","a":"Shy FX & T Power","y":2002},
+{"t":"Slam","a":"Pendulum","y":2005},
+{"t":"Gold Dust","a":"DJ Fresh","y":2010}
+]},
+{"id":"liquid-dnb","tracks":[
+{"t":"Horizons","a":"LTJ Bukem","y":1995},
+{"t":"Atlantis (I Need You)","a":"LTJ Bukem","y":1993},
+{"t":"LK","a":"DJ Marky & XRS","y":2001},
+{"t":"Racing Green","a":"High Contrast","y":2002},
+{"t":"If We Ever","a":"High Contrast","y":2004},
+{"t":"Everyday","a":"Netsky","y":2010}
+]},
+{"id":"neurofunk","tracks":[
+{"t":"The Tide","a":"Noisia","y":2007},
+{"t":"Messiah","a":"Konflict","y":2000},
+{"t":"Arrakis","a":"Black Sun Empire","y":2003},
+{"t":"Aztec","a":"Spor","y":2007},
+{"t":"Machine Gun","a":"Noisia","y":2009}
+]},
+{"id":"trance","tracks":[
+{"t":"For an Angel","a":"Paul van Dyk","y":1994},
+{"t":"Café del Mar","a":"Energy 52","y":1993},
+{"t":"Greece 2000","a":"Three Drives","y":1997},
+{"t":"Universal Nation","a":"Push","y":1998},
+{"t":"Communication","a":"Armin van Buuren","y":1999},
+{"t":"Adagio for Strings","a":"Tiësto","y":2005}
+]},
+{"id":"goa-trance","tracks":[
+{"t":"LSD","a":"Hallucinogen","y":1994},
+{"t":"Mahadeva","a":"Astral Projection","y":1994},
+{"t":"Laughing Gas","a":"Juno Reactor","y":1993},
+{"t":"Land of Freedom","a":"Transwave","y":1995},
+{"t":"Teleport","a":"Man With No Name","y":1996},
+{"t":"Gamma Goblins","a":"Hallucinogen","y":1997}
+]},
+{"id":"psytrance","tracks":[
+{"t":"Becoming Insane","a":"Infected Mushroom","y":2007},
+{"t":"Juice","a":"GMS","y":1999},
+{"t":"Hashish","a":"1200 Micrograms","y":2002},
+{"t":"Converting Vegetarians","a":"Infected Mushroom","y":2003},
+{"t":"Deep Jungle Walk","a":"Astrix","y":2010},
+{"t":"Great Spirit","a":"Vini Vici & Armin van Buuren","y":2016}
+]},
+{"id":"progressive-trance","tracks":[
+{"t":"Flaming June","a":"BT","y":1997},
+{"t":"The Gift","a":"Way Out West","y":1996},
+{"t":"Offshore","a":"Chicane","y":1996},
+{"t":"Xpander","a":"Sasha","y":1999},
+{"t":"Heaven Scent","a":"Bedrock","y":1999}
+]},
+{"id":"uplifting-trance","tracks":[
+{"t":"Sun & Moon","a":"Above & Beyond","y":2011},
+{"t":"Out of the Blue","a":"System F","y":1999},
+{"t":"Synaesthesia","a":"The Thrillseekers","y":1999},
+{"t":"Airwave","a":"Rank 1","y":2000},
+{"t":"We Control the Sunlight","a":"Aly & Fila","y":2011},
+{"t":"Concrete Angel","a":"Gareth Emery","y":2012}
+]},
+{"id":"edm","tracks":[
+{"t":"Levels","a":"Avicii","y":2011},
+{"t":"Titanium","a":"David Guetta feat. Sia","y":2011},
+{"t":"Don't You Worry Child","a":"Swedish House Mafia","y":2012},
+{"t":"Clarity","a":"Zedd","y":2012},
+{"t":"Wake Me Up","a":"Avicii","y":2013},
+{"t":"Summer","a":"Calvin Harris","y":2014}
+]},
+{"id":"big-room","tracks":[
+{"t":"Animals","a":"Martin Garrix","y":2013},
+{"t":"Spaceman","a":"Hardwell","y":2012},
+{"t":"Cannonball","a":"Showtek & Justin Prime","y":2012},
+{"t":"Wizard","a":"Martin Garrix & Jay Hardway","y":2013},
+{"t":"Tsunami","a":"DVBBS & Borgeous","y":2013},
+{"t":"Booyah","a":"Showtek","y":2013}
+]},
+{"id":"future-bass","tracks":[
+{"t":"Never Be Like You","a":"Flume","y":2016},
+{"t":"Light","a":"San Holo","y":2015},
+{"t":"Roses","a":"The Chainsmokers","y":2015},
+{"t":"Say It","a":"Flume","y":2016},
+{"t":"Shelter","a":"Porter Robinson & Madeon","y":2016},
+{"t":"Closer","a":"The Chainsmokers","y":2016}
+]},
+{"id":"hard-trance","tracks":[
+{"t":"Trance & Acid","a":"Kai Tracid","y":2000},
+{"t":"O (Overdrive)","a":"Scot Project","y":2002},
+{"t":"Isn't It All a Little Strange","a":"S.H.O.K.K.","y":2001},
+{"t":"Stay","a":"Alphazone","y":2002},
+{"t":"Ding A Ling","a":"Yoji Biomehanika","y":2003}
+]},
+{"id":"tech-trance","tracks":[
+{"t":"GODD","a":"Marco V","y":2003},
+{"t":"Lizard","a":"Mauro Picotto","y":1999},
+{"t":"In Silence","a":"Randy Katana","y":2004},
+{"t":"Bulldozer","a":"Simon Patterson","y":2007},
+{"t":"Riff","a":"Sander van Doorn","y":2007},
+{"t":"Taxi","a":"Simon Patterson","y":2010}
+]},
+{"id":"vocal-trance","tracks":[
+{"t":"Satellite","a":"OceanLab","y":2004},
+{"t":"No One on Earth","a":"Above & Beyond","y":2004},
+{"t":"As the Rush Comes","a":"Motorcycle","y":2003},
+{"t":"Need to Feel Loved","a":"Reflekt","y":2004},
+{"t":"Shivers","a":"Armin van Buuren","y":2005},
+{"t":"Silence","a":"Delerium feat. Sarah McLachlan","y":1999}
+]},
+{"id":"dream-trance","tracks":[
+{"t":"Children","a":"Robert Miles","y":1995},
+{"t":"Fable","a":"Robert Miles","y":1996},
+{"t":"Beachball","a":"Nalin & Kane","y":1997},
+{"t":"9 PM (Till I Come)","a":"ATB","y":1998},
+{"t":"Saltwater","a":"Chicane","y":1999}
+]},
+{"id":"eurodance","tracks":[
+{"t":"No Limit","a":"2 Unlimited","y":1993},
+{"t":"Rhythm Is a Dancer","a":"Snap!","y":1992},
+{"t":"Ride on Time","a":"Black Box","y":1989},
+{"t":"Mr. Vain","a":"Culture Beat","y":1993},
+{"t":"The Rhythm of the Night","a":"Corona","y":1993},
+{"t":"What Is Love","a":"Haddaway","y":1993}
+]},
+{"id":"eurobeat","tracks":[
+{"t":"Running in the 90s","a":"Max Coveri","y":1999},
+{"t":"Space Boy","a":"Dave Rodgers","y":1991},
+{"t":"Night of Fire","a":"Niko","y":1999},
+{"t":"Gas Gas Gas","a":"Manuel","y":2004},
+{"t":"Déjà Vu","a":"Dave Rodgers","y":2004}
+]},
+{"id":"uk-hardcore","tracks":[
+{"t":"On a Ragga Tip","a":"SL2","y":1992},
+{"t":"Charly","a":"The Prodigy","y":1991},
+{"t":"Sound of Eden","a":"Shades of Rhythm","y":1991},
+{"t":"DJs Take Control","a":"SL2","y":1991},
+{"t":"Out of Space","a":"The Prodigy","y":1992},
+{"t":"Bombscare","a":"2 Bad Mice","y":1992}
+]},
+{"id":"speedcore","tracks":[
+{"t":"Eating America With Pointed Dentures","a":"Venetian Snares","y":1999},
+{"t":"Extreme Terror","a":"DJ Skinhead","y":1993},
+{"t":"Pawlow","a":"DJ Dano & Liza N'Eliaz","y":1994},
+{"t":"A Gigantic Vertigo","a":"Venetian Snares","y":2001},
+{"t":"Bulletproof","a":"Bong-Ra","y":2003}
+]},
+{"id":"breakcore","tracks":[
+{"t":"Szamár Madár","a":"Venetian Snares","y":2005},
+{"t":"Come On My Selector","a":"Squarepusher","y":1997},
+{"t":"My Red Hot Car","a":"Squarepusher","y":2001},
+{"t":"Hajnal","a":"Venetian Snares","y":2005},
+{"t":"Tout petit moineau","a":"Igorrr","y":2012}
+]},
+{"id":"ragga-jungle","tracks":[
+{"t":"Original Nuttah","a":"Shy FX & UK Apache","y":1994},
+{"t":"Incredible","a":"M-Beat feat. General Levy","y":1994},
+{"t":"Code Red","a":"Conquering Lion","y":1994},
+{"t":"Junglist","a":"Congo Natty","y":1994},
+{"t":"Ruffest Gun Ark","a":"Top Cat","y":1994}
+]},
+{"id":"techstep","tracks":[
+{"t":"The Nine","a":"Bad Company","y":1998},
+{"t":"Bacteria","a":"Ed Rush & Optical","y":1998},
+{"t":"Shadow Boxing","a":"Nasty Habits","y":1996},
+{"t":"Can't Punish Me","a":"Dom & Roland","y":1998},
+{"t":"Watermelon","a":"Ed Rush & Optical","y":1999},
+{"t":"Planet Dust","a":"Bad Company","y":2000}
+]},
+{"id":"jump-up","tracks":[
+{"t":"Super Sharp Shooter","a":"DJ Zinc","y":1995},
+{"t":"King of the Beats","a":"Aphrodite","y":1997},
+{"t":"Warhead","a":"Krust","y":1997},
+{"t":"138 Trek","a":"DJ Zinc","y":1999},
+{"t":"Bricks Don't Roll","a":"DJ Hazard","y":2014},
+{"t":"Tour","a":"Macky Gee","y":2016}
+]},
+{"id":"brostep","tracks":[
+{"t":"Scary Monsters and Nice Sprites","a":"Skrillex","y":2010},
+{"t":"Sweet Shop","a":"Doctor P","y":2009},
+{"t":"Woo Boost","a":"Rusko","y":2010},
+{"t":"Bangarang","a":"Skrillex","y":2011},
+{"t":"Bass Cannon","a":"Flux Pavilion","y":2011},
+{"t":"Heavy Artillery","a":"Excision & Downlink","y":2011}
+]},
+{"id":"riddim","tracks":[
+{"t":"Blockz","a":"Subfiltronik","y":2012},
+{"t":"Psycho","a":"Subfiltronik & Benzmixer","y":2013},
+{"t":"Raptor","a":"Infekt","y":2015},
+{"t":"Headache","a":"Bukez Finezt","y":2016},
+{"t":"Yasuo","a":"Bommer & Crowell","y":2016},
+{"t":"Orgalorg","a":"Infekt","y":2017}
+]},
+{"id":"halftime","tracks":[
+{"t":"Socket","a":"Ivy Lab","y":2016},
+{"t":"Sunday Crunk","a":"Ivy Lab","y":2014},
+{"t":"Gully Halves","a":"Alix Perez","y":2014},
+{"t":"Minotaur","a":"Shades","y":2015},
+{"t":"The Serpent","a":"Shades","y":2015}
+]},
+{"id":"drumstep","tracks":[
+{"t":"Virus","a":"Excision","y":2016},
+{"t":"Swagga","a":"Excision & Datsik","y":2009},
+{"t":"Overkill","a":"Delta Heavy","y":2011},
+{"t":"Get By","a":"Delta Heavy","y":2012},
+{"t":"Nuclear (Hands Up)","a":"Zomboy","y":2012}
+]}
+]}

@@ -1,0 +1,189 @@
+{
+ "family": "electronic",
+ "genres": [
+  {"id": "musique-concrete", "tracks": [
+   {"t": "Étude aux chemins de fer", "a": "Pierre Schaeffer", "y": 1948},
+   {"t": "Étude aux tourniquets", "a": "Pierre Schaeffer", "y": 1948},
+   {"t": "Variations pour une porte et un soupir", "a": "Pierre Henry", "y": 1963},
+   {"t": "Psyché Rock", "a": "Pierre Henry", "y": 1967},
+   {"t": "Presque rien No. 1 (Lever du jour au bord de la mer)", "a": "Luc Ferrari", "y": 1970},
+   {"t": "Williams Mix", "a": "John Cage", "y": 1952}
+  ]},
+  {"id": "elektronische-musik", "tracks": [
+   {"t": "Gesang der Jünglinge", "a": "Karlheinz Stockhausen", "y": 1956},
+   {"t": "Kontakte", "a": "Karlheinz Stockhausen", "y": 1960},
+   {"t": "Klangfiguren II", "a": "Gottfried Michael Koenig", "y": 1956},
+   {"t": "Scambi", "a": "Henri Pousseur", "y": 1957},
+   {"t": "Thema (Omaggio a Joyce)", "a": "Luciano Berio", "y": 1958},
+   {"t": "Spiritus Intelligentiae Sanctus", "a": "Ernst Krenek", "y": 1956}
+  ]},
+  {"id": "krautrock", "tracks": [
+   {"t": "Autobahn", "a": "Kraftwerk", "y": 1974},
+   {"t": "Ruckzuck", "a": "Kraftwerk", "y": 1970},
+   {"t": "Hallogallo", "a": "Neu!", "y": 1972},
+   {"t": "Vitamin C", "a": "Can", "y": 1972},
+   {"t": "Krautrock", "a": "Faust", "y": 1973},
+   {"t": "Phaedra", "a": "Tangerine Dream", "y": 1974}
+  ]},
+  {"id": "ambient", "tracks": [
+   {"t": "1/1", "a": "Brian Eno", "y": 1978},
+   {"t": "An Ending (Ascent)", "a": "Brian Eno", "y": 1983},
+   {"t": "Xtal", "a": "Aphex Twin", "y": 1992},
+   {"t": "Structures from Silence", "a": "Steve Roach", "y": 1984},
+   {"t": "Water Copy", "a": "Hiroshi Yoshimura", "y": 1982},
+   {"t": "dlp 1.1", "a": "William Basinski", "y": 2002}
+  ]},
+  {"id": "synth-pop", "tracks": [
+   {"t": "Don't You Want Me", "a": "The Human League", "y": 1981},
+   {"t": "Just Can't Get Enough", "a": "Depeche Mode", "y": 1981},
+   {"t": "Blue Monday", "a": "New Order", "y": 1983},
+   {"t": "Cars", "a": "Gary Numan", "y": 1979},
+   {"t": "Sweet Dreams (Are Made of This)", "a": "Eurythmics", "y": 1983},
+   {"t": "The Model", "a": "Kraftwerk", "y": 1981}
+  ]},
+  {"id": "downtempo", "tracks": [
+   {"t": "High Noon", "a": "Kruder & Dorfmeister", "y": 1998},
+   {"t": "Smoker's Delight", "a": "Nightmares on Wax", "y": 1995},
+   {"t": "La Femme d'Argent", "a": "Air", "y": 1998},
+   {"t": "Midnight in a Perfect World", "a": "DJ Shadow", "y": 1996},
+   {"t": "Lebanese Blonde", "a": "Thievery Corporation", "y": 1998},
+   {"t": "Kong", "a": "Bonobo", "y": 2006}
+  ]},
+  {"id": "trip-hop", "tracks": [
+   {"t": "Teardrop", "a": "Massive Attack", "y": 1998},
+   {"t": "Unfinished Sympathy", "a": "Massive Attack", "y": 1991},
+   {"t": "Glory Box", "a": "Portishead", "y": 1994},
+   {"t": "Hell Is Round the Corner", "a": "Tricky", "y": 1995},
+   {"t": "6 Underground", "a": "Sneaker Pimps", "y": 1996},
+   {"t": "2Wicky", "a": "Hooverphonic", "y": 1996}
+  ]},
+  {"id": "chillout", "tracks": [
+   {"t": "Little Fluffy Clouds", "a": "The Orb", "y": 1990},
+   {"t": "Blue Room", "a": "The Orb", "y": 1992},
+   {"t": "At the River", "a": "Groove Armada", "y": 1997},
+   {"t": "Porcelain", "a": "Moby", "y": 1999},
+   {"t": "In the Waiting Line", "a": "Zero 7", "y": 2001},
+   {"t": "Sadeness (Part I)", "a": "Enigma", "y": 1990}
+  ]},
+  {"id": "idm", "tracks": [
+   {"t": "Windowlicker", "a": "Aphex Twin", "y": 1999},
+   {"t": "Come to Daddy", "a": "Aphex Twin", "y": 1997},
+   {"t": "Everything You Do Is a Balloon", "a": "Boards of Canada", "y": 1996},
+   {"t": "Amber", "a": "Autechre", "y": 1994},
+   {"t": "Come On My Selector", "a": "Squarepusher", "y": 1997},
+   {"t": "She Moves She", "a": "Four Tet", "y": 2003}
+  ]},
+  {"id": "synthwave", "tracks": [
+   {"t": "Nightcall", "a": "Kavinsky", "y": 2010},
+   {"t": "A Real Hero", "a": "College", "y": 2010},
+   {"t": "Midnight City", "a": "M83", "y": 2011},
+   {"t": "Turbo Killer", "a": "Carpenter Brut", "y": 2015},
+   {"t": "Sunset", "a": "The Midnight", "y": 2016},
+   {"t": "Humans Are Such Easy Prey", "a": "Perturbator", "y": 2014}
+  ]},
+  {"id": "vaporwave", "tracks": [
+   {"t": "リサフランク420 / 現代のコンピュー", "a": "Macintosh Plus", "y": 2011},
+   {"t": "Far Side Virtual", "a": "James Ferraro", "y": 2011},
+   {"t": "Enjoy Yourself", "a": "Saint Pepsi", "y": 2013},
+   {"t": "Teen Pregnancy", "a": "Blank Banshee", "y": 2012},
+   {"t": "Palm Mall", "a": "猫 シ Corp.", "y": 2014},
+   {"t": "花の専門店", "a": "Macintosh Plus", "y": 2011}
+  ]},
+  {"id": "drone", "tracks": [
+   {"t": "Requiem for Dying Mothers, Pt. 1", "a": "Stars of the Lid", "y": 2001},
+   {"t": "Dungtitled (In a Major)", "a": "Stars of the Lid", "y": 2001},
+   {"t": "Seven Angels", "a": "Earth", "y": 1993},
+   {"t": "Thursday Afternoon", "a": "Brian Eno", "y": 1985},
+   {"t": "Kyema", "a": "Eliane Radigue", "y": 1988},
+   {"t": "Aghartha", "a": "Sunn O)))", "y": 2009}
+  ]},
+  {"id": "dark-ambient", "tracks": [
+   {"t": "Poa Alpina", "a": "Biosphere", "y": 1997},
+   {"t": "Hyperborea", "a": "Biosphere", "y": 1997},
+   {"t": "Heresy Part 1", "a": "Lustmord", "y": 1990},
+   {"t": "Hidden Refuge", "a": "Robert Rich & Lustmord", "y": 1995},
+   {"t": "Lizard Point", "a": "Brian Eno", "y": 1982},
+   {"t": "The Mirror Reflecting (Part 1)", "a": "The Haxan Cloak", "y": 2013}
+  ]},
+  {"id": "glitch", "tracks": [
+   {"t": "Do While", "a": "Oval", "y": 1995},
+   {"t": "Flutter", "a": "Autechre", "y": 1994},
+   {"t": "Gantz Graf", "a": "Autechre", "y": 2002},
+   {"t": "data.matrix", "a": "Ryoji Ikeda", "y": 2005},
+   {"t": "A Year in a Minute", "a": "Fennesz", "y": 2001},
+   {"t": "Store Check", "a": "Oval", "y": 1995}
+  ]},
+  {"id": "plunderphonics", "tracks": [
+   {"t": "Dab", "a": "John Oswald", "y": 1989},
+   {"t": "U2", "a": "Negativland", "y": 1991},
+   {"t": "Christianity Is Stupid", "a": "Negativland", "y": 1987},
+   {"t": "Since I Left You", "a": "The Avalanches", "y": 2000},
+   {"t": "Lesson 1 (The Payoff Mix)", "a": "Double Dee and Steinski", "y": 1983},
+   {"t": "Play Your Part (Pt. 1)", "a": "Girl Talk", "y": 2008}
+  ]},
+  {"id": "hauntology", "tracks": [
+   {"t": "It's just a burning memory", "a": "The Caretaker", "y": 2016},
+   {"t": "Roygbiv", "a": "Boards of Canada", "y": 1998},
+   {"t": "Libet's Delay", "a": "The Caretaker", "y": 2011},
+   {"t": "Dayvan Cowboy", "a": "Boards of Canada", "y": 2005},
+   {"t": "Archangel", "a": "Burial", "y": 2007},
+   {"t": "Forest of Evil (Dusk)", "a": "Demdike Stare", "y": 2010}
+  ]},
+  {"id": "noise", "tracks": [
+   {"t": "Hamburger Lady", "a": "Throbbing Gristle", "y": 1978},
+   {"t": "Woodpecker No. 1", "a": "Merzbow", "y": 1996},
+   {"t": "Why You Never Became a Dancer", "a": "Whitehouse", "y": 2003},
+   {"t": "Discipline", "a": "Throbbing Gristle", "y": 1981},
+   {"t": "Woodpecker No. 2", "a": "Merzbow", "y": 1996},
+   {"t": "Stabbed in the Face", "a": "Wolf Eyes", "y": 2004}
+  ]},
+  {"id": "illbient", "tracks": [
+   {"t": "Object Unknown", "a": "DJ Spooky", "y": 1998},
+   {"t": "Pandemonium", "a": "DJ Spooky", "y": 1998},
+   {"t": "Dancehall Malfunction", "a": "Sub Dub", "y": 1998},
+   {"t": "Prime Audio Soup", "a": "Meat Beat Manifesto", "y": 1998},
+   {"t": "Evil Dub", "a": "Spectre", "y": 1995},
+   {"t": "The Illness", "a": "Spectre", "y": 1995}
+  ]},
+  {"id": "chillwave", "tracks": [
+   {"t": "Feel It All Around", "a": "Washed Out", "y": 2009},
+   {"t": "Deadbeat Summer", "a": "Neon Indian", "y": 2009},
+   {"t": "Amor Fati", "a": "Washed Out", "y": 2011},
+   {"t": "Polish Girl", "a": "Neon Indian", "y": 2011},
+   {"t": "Talamak", "a": "Toro y Moi", "y": 2010},
+   {"t": "Bicycle", "a": "Memory Tapes", "y": 2009}
+  ]},
+  {"id": "dungeon-synth", "tracks": [
+   {"t": "Dauði Baldrs", "a": "Burzum", "y": 1997},
+   {"t": "Tuistos Herz", "a": "Burzum", "y": 1999},
+   {"t": "En Mørk Horisont", "a": "Mortiis", "y": 1994},
+   {"t": "Forest of Eternity", "a": "Depressive Silence", "y": 1996},
+   {"t": "Lammas Tide", "a": "Secret Stairways", "y": 1997},
+   {"t": "The Crystal Funeral", "a": "Old Sorcery", "y": 2017}
+  ]},
+  {"id": "chiptune", "tracks": [
+   {"t": "Blackout City", "a": "Anamanaguchi", "y": 2009},
+   {"t": "Helix Nebula", "a": "Anamanaguchi", "y": 2009},
+   {"t": "Adventure", "a": "Disasterpeace", "y": 2012},
+   {"t": "Focus", "a": "Chipzel", "y": 2012},
+   {"t": "Courtesy", "a": "Chipzel", "y": 2012},
+   {"t": "Home", "a": "Disasterpeace", "y": 2012}
+  ]},
+  {"id": "juke", "tracks": [
+   {"t": "Freak Like Me", "a": "DJ Deeon", "y": 1994},
+   {"t": "Da Dik Suk", "a": "DJ Deeon", "y": 1997},
+   {"t": "Wouldn't You Like To Be A Hoe", "a": "DJ Slugo", "y": 1995},
+   {"t": "Work Dat Body", "a": "DJ Funk", "y": 2012},
+   {"t": "Hatas Our Motivation", "a": "DJ Nate", "y": 2010},
+   {"t": "Shake That Ass", "a": "DJ Slugo", "y": 1995}
+  ]},
+  {"id": "footwork", "tracks": [
+   {"t": "Feelin", "a": "DJ Rashad", "y": 2013},
+   {"t": "Baby Come On", "a": "RP Boo", "y": 1997},
+   {"t": "Let U Know", "a": "DJ Rashad", "y": 2013},
+   {"t": "Erotic Heat", "a": "Jlin", "y": 2011},
+   {"t": "Footworkin on Air", "a": "Traxman", "y": 2012},
+   {"t": "Black Diamond", "a": "Jlin", "y": 2015}
+  ]}
+ ]
+}

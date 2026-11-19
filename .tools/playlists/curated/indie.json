@@ -1,0 +1,142 @@
+{
+  "family": "indie",
+  "genres": [
+    {
+      "id": "shoegaze",
+      "tracks": [
+        {"t": "Only Shallow", "a": "My Bloody Valentine", "y": 1991},
+        {"t": "When You Sleep", "a": "My Bloody Valentine", "y": 1991},
+        {"t": "Vapour Trail", "a": "Ride", "y": 1990},
+        {"t": "Sweetness and Light", "a": "Lush", "y": 1990},
+        {"t": "Pearl", "a": "Chapterhouse", "y": 1991},
+        {"t": "Alison", "a": "Slowdive", "y": 1993}
+      ]
+    },
+    {
+      "id": "indie-rock",
+      "tracks": [
+        {"t": "Cut Your Hair", "a": "Pavement", "y": 1994},
+        {"t": "Radio Free Europe", "a": "R.E.M.", "y": 1981},
+        {"t": "Teen Age Riot", "a": "Sonic Youth", "y": 1988},
+        {"t": "Debaser", "a": "Pixies", "y": 1989},
+        {"t": "Carry the Zero", "a": "Built to Spill", "y": 1999},
+        {"t": "Last Nite", "a": "The Strokes", "y": 2001},
+        {"t": "Float On", "a": "Modest Mouse", "y": 2004}
+      ]
+    },
+    {
+      "id": "jangle-pop",
+      "tracks": [
+        {"t": "This Charming Man", "a": "The Smiths", "y": 1983},
+        {"t": "Eight Miles High", "a": "The Byrds", "y": 1966},
+        {"t": "Cattle and Cane", "a": "The Go-Betweens", "y": 1983},
+        {"t": "Driver 8", "a": "R.E.M.", "y": 1985},
+        {"t": "Ask", "a": "The Smiths", "y": 1986},
+        {"t": "There She Goes", "a": "The La's", "y": 1988},
+        {"t": "The Concept", "a": "Teenage Fanclub", "y": 1991}
+      ]
+    },
+    {
+      "id": "twee-pop",
+      "tracks": [
+        {"t": "The State I Am In", "a": "Belle and Sebastian", "y": 1996},
+        {"t": "Talulah Gosh", "a": "Talulah Gosh", "y": 1986},
+        {"t": "Nothing to Be Done", "a": "The Pastels", "y": 1987},
+        {"t": "Indian Summer", "a": "Beat Happening", "y": 1988},
+        {"t": "Emma's House", "a": "The Field Mice", "y": 1988},
+        {"t": "The Boy with the Arab Strap", "a": "Belle and Sebastian", "y": 1998},
+        {"t": "Eighties Fan", "a": "Camera Obscura", "y": 2001}
+      ]
+    },
+    {
+      "id": "c86",
+      "tracks": [
+        {"t": "Velocity Girl", "a": "Primal Scream", "y": 1986},
+        {"t": "Truck Train Tractor", "a": "The Pastels", "y": 1986},
+        {"t": "Safety Net", "a": "Shop Assistants", "y": 1986},
+        {"t": "The Trumpton Riots", "a": "Half Man Half Biscuit", "y": 1986},
+        {"t": "Red Sleeping Beauty", "a": "McCarthy", "y": 1986},
+        {"t": "My Favourite Dress", "a": "The Wedding Present", "y": 1987}
+      ]
+    },
+    {
+      "id": "britpop",
+      "tracks": [
+        {"t": "Common People", "a": "Pulp", "y": 1995},
+        {"t": "Animal Nitrate", "a": "Suede", "y": 1993},
+        {"t": "Girls & Boys", "a": "Blur", "y": 1994},
+        {"t": "Wonderwall", "a": "Oasis", "y": 1995},
+        {"t": "Alright", "a": "Supergrass", "y": 1995},
+        {"t": "Disco 2000", "a": "Pulp", "y": 1995},
+        {"t": "Bitter Sweet Symphony", "a": "The Verve", "y": 1997}
+      ]
+    },
+    {
+      "id": "madchester",
+      "tracks": [
+        {"t": "Fools Gold", "a": "The Stone Roses", "y": 1989},
+        {"t": "Pacific State", "a": "808 State", "y": 1989},
+        {"t": "She Bangs the Drums", "a": "The Stone Roses", "y": 1989},
+        {"t": "Step On", "a": "Happy Mondays", "y": 1990},
+        {"t": "This Is How It Feels", "a": "Inspiral Carpets", "y": 1990},
+        {"t": "The Only One I Know", "a": "The Charlatans", "y": 1990}
+      ]
+    },
+    {
+      "id": "baggy",
+      "tracks": [
+        {"t": "Step On", "a": "Happy Mondays", "y": 1990},
+        {"t": "I Am the Resurrection", "a": "The Stone Roses", "y": 1989},
+        {"t": "Kinky Afro", "a": "Happy Mondays", "y": 1990},
+        {"t": "All Together Now", "a": "The Farm", "y": 1990},
+        {"t": "This Is How It Feels", "a": "Inspiral Carpets", "y": 1990},
+        {"t": "Can You Dig It?", "a": "The Mock Turtles", "y": 1991}
+      ]
+    },
+    {
+      "id": "dream-pop",
+      "tracks": [
+        {"t": "Cherry-coloured Funk", "a": "Cocteau Twins", "y": 1990},
+        {"t": "Heaven or Las Vegas", "a": "Cocteau Twins", "y": 1990},
+        {"t": "Tugboat", "a": "Galaxie 500", "y": 1988},
+        {"t": "When the Sun Hits", "a": "Slowdive", "y": 1993},
+        {"t": "Fade into You", "a": "Mazzy Star", "y": 1993},
+        {"t": "Space Song", "a": "Beach House", "y": 2015}
+      ]
+    },
+    {
+      "id": "noise-pop",
+      "tracks": [
+        {"t": "Just Like Honey", "a": "The Jesus and Mary Chain", "y": 1985},
+        {"t": "Freak Scene", "a": "Dinosaur Jr.", "y": 1988},
+        {"t": "Gigantic", "a": "Pixies", "y": 1988},
+        {"t": "Head On", "a": "The Jesus and Mary Chain", "y": 1989},
+        {"t": "Sugarcube", "a": "Yo La Tengo", "y": 1997},
+        {"t": "Eraser", "a": "No Age", "y": 2008}
+      ]
+    },
+    {
+      "id": "indie-pop",
+      "tracks": [
+        {"t": "Lloyd, I'm Ready to Be Heartbroken", "a": "Camera Obscura", "y": 2006},
+        {"t": "Here's Where the Story Ends", "a": "The Sundays", "y": 1990},
+        {"t": "Lovefool", "a": "The Cardigans", "y": 1996},
+        {"t": "The Book of Love", "a": "The Magnetic Fields", "y": 1999},
+        {"t": "Get Me Away from Here, I'm Dying", "a": "Belle and Sebastian", "y": 1996},
+        {"t": "Young Folks", "a": "Peter Bjorn and John", "y": 2006},
+        {"t": "French Navy", "a": "Camera Obscura", "y": 2009}
+      ]
+    },
+    {
+      "id": "bedroom-pop",
+      "tracks": [
+        {"t": "Pretty Girl", "a": "Clairo", "y": 2017},
+        {"t": "Chamber of Reflection", "a": "Mac DeMarco", "y": 2014},
+        {"t": "Loving Is Easy", "a": "Rex Orange County", "y": 2017},
+        {"t": "Coffee", "a": "beabadoobee", "y": 2017},
+        {"t": "i wanna be your girlfriend", "a": "girl in red", "y": 2018},
+        {"t": "Bags", "a": "Clairo", "y": 2019}
+      ]
+    }
+  ]
+}

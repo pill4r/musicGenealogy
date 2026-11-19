@@ -1,0 +1,27 @@
+{
+ "at": "2026-11-18T12:11:09.314Z",
+ "families": [
+  "bass.json",
+  "country.json",
+  "disco.json",
+  "electronic.json",
+  "hiphop.json",
+  "house.json",
+  "indie.json",
+  "jazz.json",
+  "latin.json",
+  "metal.json",
+  "pop.json",
+  "punk.json",
+  "rave.json",
+  "rock.json",
+  "roots.json",
+  "soul.json",
+  "techno.json"
+ ],
+ "covered": 352,
+ "totalGenres": 352,
+ "missingGenres": [],
+ "totalTracks": 2091,
+ "problems": []
+}

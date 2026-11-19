@@ -1,0 +1,582 @@
+{
+ "musique-concrete": {
+  "n": "Musique Concrète",
+  "r": "Paris, France",
+  "d": "Real-world sounds edited on magnetic tape into music, founded in Paris by Pierre Schaeffer; one of the starting points of electronic music.",
+  "ch": [
+   "Tape editing",
+   "Found sound",
+   "Collage"
+  ]
+ },
+ "elektronische-musik": {
+  "n": "Elektronische Musik",
+  "r": "Cologne, Germany",
+  "d": "The WDR studio in Cologne synthesized pure electronic tones from oscillators, the counterpart to musique concrète.",
+  "ch": [
+   "Oscillators",
+   "Pure electronic tones",
+   "Serialism"
+  ]
+ },
+ "krautrock": {
+  "n": "Krautrock",
+  "r": "Germany",
+  "d": "German bands mixed rock, electronics, minimalism and improvisation; Kraftwerk travelled this line toward synth-pop.",
+  "ch": [
+   "Repetitive grooves",
+   "Electronic experiment",
+   "Improvisation"
+  ]
+ },
+ "ambient": {
+  "n": "Ambient",
+  "r": "UK",
+  "d": "Timbre and space replace melody and rhythm; Brian Eno defined it as music that must be able to be interrupted.",
+  "ch": [
+   "Timbre first",
+   "Sense of space",
+   "No clear beat"
+  ]
+ },
+ "synth-pop": {
+  "n": "Synth-Pop",
+  "r": "UK",
+  "d": "Post-punk synth bands carried disco's dancefloor feel and electronic timbres onto the pop charts.",
+  "ch": [
+   "Synthesizers",
+   "Drum machines",
+   "Pop melody"
+  ]
+ },
+ "downtempo": {
+  "n": "Downtempo",
+  "r": "UK/Europe",
+  "d": "Nineties slow-motion electronica: breakbeat, ambient and soul mixed for sofas and headphones.",
+  "ch": [
+   "Slow tempo",
+   "Ambient",
+   "Sampling"
+  ]
+ },
+ "trip-hop": {
+  "n": "Trip-Hop",
+  "r": "Bristol, UK",
+  "d": "The Bristol sound: slow breakbeats, dark atmospheres and female vocals.",
+  "ch": [
+   "Slow breakbeats",
+   "Dark atmosphere",
+   "Female vocals"
+  ]
+ },
+ "chillout": {
+  "n": "Chillout",
+  "r": "UK",
+  "d": "Soothing electronica made for the chillout room and the sunset.",
+  "ch": [
+   "Soothing",
+   "Ambient",
+   "Non-confrontational"
+  ]
+ },
+ "idm": {
+  "n": "IDM",
+  "r": "UK",
+  "d": "Electronic music made for headphones rather than the dancefloor: intricate beats and sound design.",
+  "ch": [
+   "Intricate beats",
+   "Sound design",
+   "Headphone music"
+  ]
+ },
+ "synthwave": {
+  "n": "Synthwave",
+  "r": "Online/France",
+  "d": "A retro imagining of 1980s film scores and synth-pop.",
+  "ch": [
+   "Retro synths",
+   "Neon atmosphere",
+   "80s cinematic feel"
+  ]
+ },
+ "vaporwave": {
+  "n": "Vaporwave",
+  "r": "Online",
+  "d": "Eighties and nineties pop and advertising music slowed and chopped into a dream of consumerism.",
+  "ch": [
+   "Slowed samples",
+   "Nostalgia",
+   "Collage"
+  ]
+ },
+ "rock-and-roll": {
+  "n": "Rock & Roll",
+  "r": "USA",
+  "d": "R&B rhythm plus country guitar plus teenage rebellion; in the 1950s it split popular music in two.",
+  "ch": [
+   "Backbeat emphasis",
+   "Electric guitar",
+   "Teenage themes"
+  ]
+ },
+ "rockabilly": {
+  "n": "Rockabilly",
+  "r": "Memphis, USA",
+  "d": "Country singers taking on R&B: slapped bass, echo-laden guitar, wildcat vocals.",
+  "ch": [
+   "Slapback bass",
+   "Echo guitar",
+   "Fast tempo"
+  ]
+ },
+ "garage-rock": {
+  "n": "Garage Rock",
+  "r": "USA",
+  "d": "Rough rock recorded by amateur bands in garages, the spiritual ancestor of punk.",
+  "ch": [
+   "Rough recording",
+   "Simple chords",
+   "Energy"
+  ]
+ },
+ "folk-rock": {
+  "n": "Folk Rock",
+  "r": "USA/UK",
+  "d": "Folk lyrics and harmonies plugged into electric guitars; Bob Dylan and The Byrds were key.",
+  "ch": [
+   "Folk harmonies",
+   "Electric guitar",
+   "Literary lyrics"
+  ]
+ },
+ "psychedelic-rock": {
+  "n": "Psychedelic Rock",
+  "r": "USA/UK",
+  "d": "Feedback, echo, Eastern scales and studio experimentation simulate the psychedelic experience.",
+  "ch": [
+   "Guitar feedback",
+   "Studio experiment",
+   "Eastern scales"
+  ]
+ },
+ "progressive-rock": {
+  "n": "Progressive Rock",
+  "r": "UK",
+  "d": "Long-form pieces, concept albums and classical and jazz influence; rock written as symphony.",
+  "ch": [
+   "Long-form pieces",
+   "Odd time signatures",
+   "Concept albums"
+  ]
+ },
+ "hard-rock": {
+  "n": "Hard Rock",
+  "r": "UK/USA",
+  "d": "Louder, heavier blues rock: distorted guitars, power chords, big voices.",
+  "ch": [
+   "Distorted guitar",
+   "Power chords",
+   "Heavy drums"
+  ]
+ },
+ "heavy-metal": {
+  "n": "Heavy Metal",
+  "r": "UK",
+  "d": "Hard rock pushed darker and heavier: detuned guitars, double kick, occult and industrial imagery.",
+  "ch": [
+   "Detuned guitars",
+   "Heavy rhythms",
+   "Dark themes"
+  ]
+ },
+ "punk-rock": {
+  "n": "Punk Rock",
+  "r": "USA/UK",
+  "d": "A reaction against progressive rock: short, fast, rough and DIY, putting rock back in the garage.",
+  "ch": [
+   "Short and fast",
+   "Rough",
+   "DIY"
+  ]
+ },
+ "new-wave": {
+  "n": "New Wave",
+  "r": "UK/USA",
+  "d": "Punk's energy plus synthesizers plus pop melody: the sound of 1980s radio.",
+  "ch": [
+   "Synthesizers",
+   "Pop melody",
+   "Artful edge"
+  ]
+ },
+ "post-punk": {
+  "n": "Post-Punk",
+  "r": "UK",
+  "d": "Darker and more experimental: funk bass, noisy guitar, cold-eyed lyrics.",
+  "ch": [
+   "Funk bass",
+   "Noise guitar",
+   "Austere"
+  ]
+ },
+ "gothic-rock": {
+  "n": "Gothic Rock",
+  "r": "UK",
+  "d": "Post-punk's darkest branch: low voices, chorused guitars, vampire aesthetics.",
+  "ch": [
+   "Low vocals",
+   "Chorused guitars",
+   "Dark aesthetic"
+  ]
+ },
+ "industrial": {
+  "n": "Industrial",
+  "r": "UK",
+  "d": "Noise, metal percussion and tape experiments plus rock, later spawning industrial metal and industrial dance.",
+  "ch": [
+   "Noise",
+   "Metal percussion",
+   "Tape experiment"
+  ]
+ },
+ "hardcore-punk": {
+  "n": "Hardcore Punk",
+  "r": "USA",
+  "d": "Punk sped up, weighted down and politicized, the common root of emo, post-hardcore and thrash.",
+  "ch": [
+   "Extreme speed",
+   "Shouted vocals",
+   "DIY scene"
+  ]
+ },
+ "thrash-metal": {
+  "n": "Thrash Metal",
+  "r": "USA",
+  "d": "Heavy metal's speed plus hardcore punk's aggression, the starting point of Bay Area metal.",
+  "ch": [
+   "Fast riffing",
+   "Double kick",
+   "Aggression"
+  ]
+ },
+ "death-metal": {
+  "n": "Death Metal",
+  "r": "USA/Sweden",
+  "d": "Thrash taken to extremes: guttural growls, detuning, complex tempo shifts and technical playing.",
+  "ch": [
+   "Guttural growls",
+   "Detuned",
+   "Tempo shifts"
+  ]
+ },
+ "black-metal": {
+  "n": "Black Metal",
+  "r": "Norway",
+  "d": "Extreme metal from the Norwegian underground: tremolo picking, shrieks, atmospheric darkness.",
+  "ch": [
+   "Tremolo picking",
+   "Shrieks",
+   "Atmospheric darkness"
+  ]
+ },
+ "alternative-rock": {
+  "n": "Alternative Rock",
+  "r": "USA/UK",
+  "d": "An umbrella for underground rock, from college rock to grunge, that took over the mainstream in the 1990s.",
+  "ch": [
+   "Underground aesthetic",
+   "Guitars",
+   "Anti-mainstream"
+  ]
+ },
+ "shoegaze": {
+  "n": "Shoegaze",
+  "r": "UK",
+  "d": "Walls of guitar pedals and whispered vocals turn noise into a fog.",
+  "ch": [
+   "Guitar pedals",
+   "Whispered vocals",
+   "Wall of sound"
+  ]
+ },
+ "grunge": {
+  "n": "Grunge",
+  "r": "Seattle, USA",
+  "d": "Seattle's muddy rock: metal's weight plus punk's grit plus a generation's gloom.",
+  "ch": [
+   "Dirty distortion",
+   "Half-time heaviness",
+   "Gloom"
+  ]
+ },
+ "pop-punk": {
+  "n": "Pop Punk",
+  "r": "USA",
+  "d": "Punk speed plus pop choruses, mainstream on teen radio from the late 1990s through the 2000s.",
+  "ch": [
+   "Fast",
+   "Big choruses",
+   "Teenage themes"
+  ]
+ },
+ "emo": {
+  "n": "Emo",
+  "r": "USA",
+  "d": "Emotional expression branching from hardcore punk: confessional lyrics, dynamic swells, later the black eyeliner.",
+  "ch": [
+   "Confessional lyrics",
+   "Dynamic swells",
+   "Emotional release"
+  ]
+ },
+ "post-hardcore": {
+  "n": "Post-Hardcore",
+  "r": "USA",
+  "d": "Hardcore's energy plus experimental structure, dynamics and melody.",
+  "ch": [
+   "Dynamic structure",
+   "Experimental",
+   "Screamed and sung vocals"
+  ]
+ },
+ "post-rock": {
+  "n": "Post-Rock",
+  "r": "UK/USA",
+  "d": "Rock instruments used for atmosphere and crescendo, vocals minimized, closer to classical narrative.",
+  "ch": [
+   "Crescendo",
+   "Atmosphere",
+   "Instrumental"
+  ]
+ },
+ "nu-metal": {
+  "n": "Nu Metal",
+  "r": "USA",
+  "d": "Heavy metal plus hip-hop rhythms plus detuned guitars, ruling the teen market around 2000.",
+  "ch": [
+   "Detuned guitars",
+   "Rapping",
+   "DJ scratching"
+  ]
+ },
+ "metalcore": {
+  "n": "Metalcore",
+  "r": "USA",
+  "d": "Hardcore punk plus death metal: breakdowns, double kick and melodic choruses.",
+  "ch": [
+   "Breakdowns",
+   "Double kick",
+   "Melodic choruses"
+  ]
+ },
+ "pop": {
+  "n": "Pop",
+  "r": "USA/UK",
+  "d": "Songs written for the charts and the mass market: Tin Pan Alley's melodic tradition plus rock-era production.",
+  "ch": [
+   "Strong melody",
+   "Short running time",
+   "Hooks"
+  ]
+ },
+ "dance-pop": {
+  "n": "Dance-Pop",
+  "r": "USA/UK",
+  "d": "Pop designed for radio and dancefloor at once: disco beats plus pop choruses.",
+  "ch": [
+   "Dancefloor beats",
+   "Pop choruses",
+   "Polished production"
+  ]
+ },
+ "city-pop": {
+  "n": "City Pop",
+  "r": "Japan",
+  "d": "Pre-bubble Japan rendering funk, disco and soft rock as city nightscapes, rediscovered online in recent years.",
+  "ch": [
+   "Urban feel",
+   "Funk bass",
+   "Synthesizers"
+  ]
+ },
+ "teen-pop": {
+  "n": "Teen Pop",
+  "r": "USA",
+  "d": "Idol pop aimed at teenagers: dance beats, youth themes, the music-video industry.",
+  "ch": [
+   "Idols",
+   "Dance beats",
+   "Youth themes"
+  ]
+ },
+ "electropop": {
+  "n": "Electropop",
+  "r": "USA/Europe",
+  "d": "The late-2000s synth-pop revival: sharp synthesizers, exaggerated vocals, club beats.",
+  "ch": [
+   "Synthesizers",
+   "Exaggerated vocals",
+   "Club beats"
+  ]
+ },
+ "k-pop": {
+  "n": "K-Pop",
+  "r": "South Korea",
+  "d": "Korea fused pop, R&B, hip-hop and the idol industry into a global phenomenon in the 2010s.",
+  "ch": [
+   "Idol groups",
+   "Polished production",
+   "Multi-genre collage"
+  ]
+ },
+ "hyperpop": {
+  "n": "Hyperpop",
+  "r": "UK/Online",
+  "d": "Pop, trap, electronics and internet memes pushed to the point of distortion.",
+  "ch": [
+   "Distortion",
+   "Pitched-up vocals",
+   "Collage"
+  ]
+ },
+ "son-cubano": {
+  "n": "Son Cubano",
+  "r": "Cuba",
+  "d": "Music of eastern Cuba: Spanish guitar, African rhythms and the tres, the skeleton of salsa.",
+  "ch": [
+   "Tres guitar",
+   "African rhythms",
+   "Call and response"
+  ]
+ },
+ "mambo": {
+  "n": "Mambo",
+  "r": "Cuba/USA",
+  "d": "Cuban son meets big-band jazz: brass riffs, syncopation, ballroom frenzy.",
+  "ch": [
+   "Brass riffs",
+   "Syncopation",
+   "Ballroom"
+  ]
+ },
+ "salsa": {
+  "n": "Salsa",
+  "r": "New York, USA/Caribbean",
+  "d": "Cuban son plus New York Latin jazz plus Puerto Rican rhythms; the Fania label made it a global language.",
+  "ch": [
+   "Piano montuno",
+   "Brass",
+   "Complex percussion"
+  ]
+ },
+ "cumbia": {
+  "n": "Cumbia",
+  "r": "Colombia",
+  "d": "Dance music of the Colombian coast: accordion, guacharaca, steady bass, spread across Latin America.",
+  "ch": [
+   "Accordion",
+   "Guacharaca",
+   "Swung groove"
+  ]
+ },
+ "ska": {
+  "n": "Ska",
+  "r": "Jamaica",
+  "d": "Jamaica sped up R&B and weighted the offbeats, the forerunner of reggae.",
+  "ch": [
+   "Offbeat guitar",
+   "Brass",
+   "Up-tempo dancing"
+  ]
+ },
+ "rocksteady": {
+  "n": "Rocksteady",
+  "r": "Jamaica",
+  "d": "A transitional form after ska slowed down: heavier bass, more soulful vocals.",
+  "ch": [
+   "Slow tempo",
+   "Heavy bass",
+   "Vocal harmonies"
+  ]
+ },
+ "reggae": {
+  "n": "Reggae",
+  "r": "Jamaica",
+  "d": "Slower and heavier on bass, with Rastafari and political consciousness; Bob Marley carried it to the world.",
+  "ch": [
+   "Slow tempo",
+   "Offbeat guitar",
+   "Heavy bass"
+  ]
+ },
+ "dub": {
+  "n": "Dub",
+  "r": "Jamaica",
+  "d": "Reggae stripped into echo and bass; King Tubby turned the mixing desk into an instrument.",
+  "ch": [
+   "Delay and reverb",
+   "Bass",
+   "Space"
+  ]
+ },
+ "dancehall": {
+  "n": "Dancehall",
+  "r": "Jamaica",
+  "d": "Digital riddims plus faster DJ chat, Jamaican dancehall culture.",
+  "ch": [
+   "Digital riddims",
+   "DJ chat",
+   "Dancehall"
+  ]
+ },
+ "reggaeton": {
+  "n": "Reggaeton",
+  "r": "Puerto Rico",
+  "d": "Dancehall rhythm plus hip-hop plus Latin melody, built on the dembow pattern.",
+  "ch": [
+   "Dembow pattern",
+   "Spanish-language rapping",
+   "Club"
+  ]
+ },
+ "latin-trap": {
+  "n": "Latin Trap",
+  "r": "Puerto Rico",
+  "d": "Trap's 808s and dark melodies plus Spanish, dominating global charts in the late 2010s.",
+  "ch": [
+   "808s",
+   "Dark melodies",
+   "Spanish lyrics"
+  ]
+ },
+ "highlife": {
+  "n": "Highlife",
+  "r": "Ghana",
+  "d": "West African dance-party music: guitar, brass and interlocking melodies, an influence on afrobeat.",
+  "ch": [
+   "Guitar melodies",
+   "Brass",
+   "Dance parties"
+  ]
+ },
+ "afrobeat": {
+  "n": "Afrobeat",
+  "r": "Nigeria",
+  "d": "Fela fused highlife, funk, jazz and political struggle into long, hypnotic, brass-driven pieces.",
+  "ch": [
+   "Long-form pieces",
+   "Brass section",
+   "Political lyrics"
+  ]
+ },
+ "afrobeats": {
+  "n": "Afrobeats",
+  "r": "Nigeria/Ghana",
+  "d": "Modern Nigerian and Ghanaian pop: lighter and more melodic, spelled differently from afrobeat and sounding different too.",
+  "ch": [
+   "Light grooves",
+   "Melodic vocals",
+   "Dance music"
+  ]
+ }
+}

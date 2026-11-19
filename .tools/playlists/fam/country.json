@@ -1,0 +1,282 @@
+{
+ "family": "country",
+ "name": "乡村 / 民谣",
+ "sub": "纳什维尔与阿巴拉契亚",
+ "genres": [
+  {
+   "id": "country",
+   "n": "Country",
+   "zh": "乡村音乐",
+   "tier": 2,
+   "y": 1925,
+   "d": "美国南部的乡村叙事：吉他、提琴、钢弦吉他，唱的是酒馆、爱情与乡愁。",
+   "ar": [
+    "Hank Williams",
+    "Johnny Cash",
+    "Dolly Parton"
+   ],
+   "tr": [
+    [
+     "I'm So Lonesome I Could Cry",
+     "Hank Williams",
+     1949
+    ],
+    [
+     "Ring of Fire",
+     "Johnny Cash",
+     1963
+    ]
+   ]
+  },
+  {
+   "id": "bluegrass",
+   "n": "Bluegrass",
+   "zh": "蓝草",
+   "tier": 3,
+   "y": 1946,
+   "d": "源自阿巴拉契亚的高能原声音乐：班卓琴、曼陀林、提琴与高亢和声，速度极快。",
+   "ar": [
+    "Bill Monroe",
+    "Flatt & Scruggs",
+    "Alison Krauss"
+   ],
+   "tr": [
+    [
+     "Blue Moon of Kentucky",
+     "Bill Monroe",
+     1946
+    ],
+    [
+     "Foggy Mountain Breakdown",
+     "Flatt & Scruggs",
+     1949
+    ]
+   ]
+  },
+  {
+   "id": "honky-tonk",
+   "n": "Honky Tonk",
+   "zh": "酒馆乡村",
+   "tier": 3,
+   "y": 1945,
+   "d": "酒馆里的乡村：电吉他、钢琴、鼓，歌词回到喝酒与失恋。",
+   "ar": [
+    "Hank Williams",
+    "Lefty Frizzell",
+    "George Jones"
+   ],
+   "tr": [
+    [
+     "Your Cheatin' Heart",
+     "Hank Williams",
+     1953
+    ]
+   ]
+  },
+  {
+   "id": "country-rock",
+   "n": "Country Rock",
+   "zh": "乡村摇滚",
+   "tier": 3,
+   "y": 1968,
+   "d": "把乡村的旋律与和声放进摇滚乐队，Gram Parsons 与 The Byrds 开了头。",
+   "ar": [
+    "The Byrds",
+    "Gram Parsons",
+    "Eagles"
+   ],
+   "tr": [
+    [
+     "Hickory Wind",
+     "The Byrds",
+     1968
+    ],
+    [
+     "Take It Easy",
+     "Eagles",
+     1972
+    ]
+   ]
+  },
+  {
+   "id": "outlaw-country",
+   "n": "Outlaw Country",
+   "zh": "叛道乡村",
+   "tier": 3,
+   "y": 1973,
+   "d": "1970 年代纳什维尔体制外的乡村，更粗粝、更摇滚，也更自我。",
+   "ar": [
+    "Willie Nelson",
+    "Waylon Jennings",
+    "Kris Kristofferson"
+   ],
+   "tr": [
+    [
+     "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+     "Waylon & Willie",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "nashville-sound",
+   "n": "Nashville Sound",
+   "zh": "纳什维尔之声",
+   "tier": 2,
+   "y": 1958,
+   "d": "在乡村歌曲外面包上弦乐与合唱，让它能进流行电台：Patsy Cline 的《Crazy》是完美样本。",
+   "ar": [
+    "Patsy Cline",
+    "Jim Reeves",
+    "Eddy Arnold"
+   ],
+   "tr": [
+    [
+     "Crazy",
+     "Patsy Cline",
+     1961
+    ]
+   ]
+  },
+  {
+   "id": "bakersfield-sound",
+   "n": "Bakersfield Sound",
+   "zh": "贝克斯菲尔德之声",
+   "tier": 3,
+   "y": 1950,
+   "d": "对纳什维尔弦乐的反动：电吉他、Telecaster 的尖锐音色与酒吧舞池的硬朗节奏，Buck Owens 是代表。",
+   "ar": [
+    "Buck Owens",
+    "Merle Haggard",
+    "Wynn Stewart"
+   ],
+   "tr": [
+    [
+     "Act Naturally",
+     "Buck Owens",
+     1963
+    ]
+   ]
+  },
+  {
+   "id": "countrypolitan",
+   "n": "Countrypolitan",
+   "zh": "城市乡村",
+   "tier": 3,
+   "y": 1966,
+   "d": "纳什维尔之声的升级版：更厚的弦乐、更城市的编曲，Glen Campbell 的《Wichita Lineman》是巅峰。",
+   "ar": [
+    "Glen Campbell",
+    "Tammy Wynette",
+    "Charlie Rich"
+   ],
+   "tr": [
+    [
+     "Wichita Lineman",
+     "Glen Campbell",
+     1968
+    ]
+   ]
+  },
+  {
+   "id": "western-swing",
+   "n": "Western Swing",
+   "zh": "西部摇摆",
+   "tier": 3,
+   "y": 1930,
+   "d": "乡村弦乐加爵士大乐队与摇摆节奏：Bob Wills 的乐队在舞厅里把小提琴与铜管一起摇起来。",
+   "ar": [
+    "Bob Wills",
+    "Milton Brown",
+    "Asleep at the Wheel"
+   ],
+   "tr": [
+    [
+     "San Antonio Rose",
+     "Bob Wills",
+     1938
+    ]
+   ]
+  },
+  {
+   "id": "alt-country",
+   "n": "Alt-Country",
+   "zh": "另类乡村",
+   "tier": 2,
+   "y": 1990,
+   "d": "用独立摇滚的粗粝与态度唱乡村：Uncle Tupelo 的《No Depression》给一整代人命名。",
+   "ar": [
+    "Uncle Tupelo",
+    "Wilco",
+    "Son Volt"
+   ],
+   "tr": [
+    [
+     "No Depression",
+     "Uncle Tupelo",
+     1990
+    ]
+   ]
+  },
+  {
+   "id": "americana",
+   "n": "Americana",
+   "zh": "美式音乐",
+   "tier": 2,
+   "y": 1995,
+   "d": "把乡村、民谣、蓝调与摇滚的根重新缝在一起的当代标签，Wilco 与 Gillian Welch 都在其中。",
+   "ar": [
+    "Wilco",
+    "Gillian Welch",
+    "Jason Isbell"
+   ],
+   "tr": [
+    [
+     "Jesus, Etc.",
+     "Wilco",
+     2002
+    ]
+   ]
+  },
+  {
+   "id": "country-pop",
+   "n": "Country Pop",
+   "zh": "乡村流行",
+   "tier": 2,
+   "y": 1970,
+   "d": "把乡村的叙事与嗓音放进流行编曲：Dolly Parton 的《Jolene》既有班卓也有榜单。",
+   "ar": [
+    "Dolly Parton",
+    "Shania Twain",
+    "Taylor Swift"
+   ],
+   "tr": [
+    [
+     "Jolene",
+     "Dolly Parton",
+     1973
+    ]
+   ]
+  },
+  {
+   "id": "bro-country",
+   "n": "Bro-Country",
+   "zh": "兄弟乡村",
+   "tier": 3,
+   "y": 2010,
+   "d": "2010 年代美国电台乡村：卡车、啤酒、短裤与说唱化的节奏，Florida Georgia Line 是代表。",
+   "ar": [
+    "Florida Georgia Line",
+    "Luke Bryan",
+    "Jason Aldean"
+   ],
+   "tr": [
+    [
+     "Cruise",
+     "Florida Georgia Line",
+     2012
+    ]
+   ]
+  }
+ ]
+}

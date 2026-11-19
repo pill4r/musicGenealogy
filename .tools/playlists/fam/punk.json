@@ -1,0 +1,458 @@
+{
+ "family": "punk",
+ "name": "朋克 / Emo",
+ "sub": "硬核 · Emo · 数学摇滚",
+ "genres": [
+  {
+   "id": "punk-rock",
+   "n": "Punk Rock",
+   "zh": "朋克摇滚",
+   "tier": 1,
+   "y": 1976,
+   "d": "对前卫摇滚的反动：短、快、粗糙、DIY，把摇滚还回车库。",
+   "ar": [
+    "Ramones",
+    "Sex Pistols",
+    "The Clash"
+   ],
+   "tr": [
+    [
+     "Anarchy in the U.K.",
+     "Sex Pistols",
+     1976
+    ]
+   ]
+  },
+  {
+   "id": "hardcore-punk",
+   "n": "Hardcore Punk",
+   "zh": "硬核朋克",
+   "tier": 2,
+   "y": 1980,
+   "d": "朋克加速、加重、更政治化，是 emo、post-hardcore、thrash 的共同源头。",
+   "ar": [
+    "Black Flag",
+    "Minor Threat",
+    "Dead Kennedys"
+   ],
+   "tr": [
+    [
+     "Straight Edge",
+     "Minor Threat",
+     1981
+    ]
+   ]
+  },
+  {
+   "id": "pop-punk",
+   "n": "Pop Punk",
+   "zh": "流行朋克",
+   "tier": 2,
+   "y": 1985,
+   "d": "朋克的速度 + 流行副歌，90 年代末到 2000 年代青少年电台的主流。",
+   "ar": [
+    "Green Day",
+    "Blink-182",
+    "The Offspring"
+   ],
+   "tr": [
+    [
+     "Basket Case",
+     "Green Day",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "emo",
+   "n": "Emo",
+   "zh": "情绪硬核",
+   "tier": 3,
+   "y": 1985,
+   "d": "从硬核朋克分出的情感表达：自白歌词、动态起伏、后来的黑色眼线。",
+   "ar": [
+    "Sunny Day Real Estate",
+    "My Chemical Romance",
+    "Paramore"
+   ],
+   "tr": [
+    [
+     "Welcome to the Black Parade",
+     "My Chemical Romance",
+     2006
+    ]
+   ]
+  },
+  {
+   "id": "post-hardcore",
+   "n": "Post-Hardcore",
+   "zh": "后硬核",
+   "tier": 3,
+   "y": 1985,
+   "d": "硬核的能量 + 实验结构、动态与旋律。",
+   "ar": [
+    "Fugazi",
+    "At the Drive-In",
+    "Thursday"
+   ],
+   "tr": [
+    [
+     "One Armed Scissor",
+     "At the Drive-In",
+     2000
+    ]
+   ]
+  },
+  {
+   "id": "emocore",
+   "n": "Emocore",
+   "zh": "情绪硬核",
+   "tier": 3,
+   "y": 1985,
+   "d": "硬核朋克里的第一代情绪化：歌词从口号转向自白，动态起伏取代一路猛冲，华盛顿特区是起点。",
+   "ar": [
+    "Rites of Spring",
+    "Embrace",
+    "Moss Icon"
+   ],
+   "tr": [
+    [
+     "For Want Of",
+     "Rites of Spring",
+     1985
+    ]
+   ]
+  },
+  {
+   "id": "midwest-emo",
+   "n": "Midwest Emo",
+   "zh": "中西部 Emo",
+   "tier": 2,
+   "y": 1994,
+   "d": "第二代 emo：把硬核的激烈收进慢速、错拍的吉他对话里，大学城地下室与 American Football 的同名专辑是分水岭。",
+   "ar": [
+    "American Football",
+    "Cap'n Jazz",
+    "Sunny Day Real Estate"
+   ],
+   "tr": [
+    [
+     "Never Meant",
+     "American Football",
+     1999
+    ],
+    [
+     "In Circles",
+     "Sunny Day Real Estate",
+     1994
+    ]
+   ]
+  },
+  {
+   "id": "emo-pop",
+   "n": "Emo Pop",
+   "zh": "流行 Emo",
+   "tier": 2,
+   "y": 2001,
+   "d": "把 emo 的自白塞进流行朋克的大副歌，2000 年代 MTV 与 Warped Tour 的主流声音。",
+   "ar": [
+    "Jimmy Eat World",
+    "Fall Out Boy",
+    "Paramore"
+   ],
+   "tr": [
+    [
+     "The Middle",
+     "Jimmy Eat World",
+     2001
+    ],
+    [
+     "Sugar, We're Goin Down",
+     "Fall Out Boy",
+     2005
+    ]
+   ]
+  },
+  {
+   "id": "emo-revival",
+   "n": "Emo Revival",
+   "zh": "Emo 复兴",
+   "tier": 3,
+   "y": 2010,
+   "d": "2010 年代地下场景的第四次 emo 浪潮：数学摇滚式吉他加更直白的自我剖白，Modern Baseball 一代把它带回小场地。",
+   "ar": [
+    "Modern Baseball",
+    "The World Is a Beautiful Place…",
+    "Tiny Moving Parts"
+   ],
+   "tr": [
+    [
+     "Your Graduation",
+     "Modern Baseball",
+     2014
+    ]
+   ]
+  },
+  {
+   "id": "screamo",
+   "n": "Screamo",
+   "zh": "尖叫 Emo",
+   "tier": 3,
+   "y": 1991,
+   "d": "emo 与硬核的极端化：尖叫、断裂结构与爆发式动态，90 年代圣地亚哥与法国场景各自成派。",
+   "ar": [
+    "Orchid",
+    "Saetia",
+    "Pg.99"
+   ],
+   "tr": [
+    [
+     "In Love with an Apparition",
+     "Pg.99",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "math-rock",
+   "n": "Math Rock",
+   "zh": "数学摇滚",
+   "tier": 2,
+   "y": 1989,
+   "d": "用节拍做文章：奇数拍、频繁变拍与吉他点弦，把摇滚拆成精密齿轮；Slint 的《Spiderland》立下模板，日本 toe 让它更轻盈。",
+   "ar": [
+    "Slint",
+    "Don Caballero",
+    "Hella",
+    "toe"
+   ],
+   "tr": [
+    [
+     "Good Morning, Captain",
+     "Slint",
+     1991
+    ]
+   ]
+  },
+  {
+   "id": "mathcore",
+   "n": "Mathcore",
+   "zh": "数学核",
+   "tier": 3,
+   "y": 1997,
+   "d": "math rock 的节拍加金属核的重量与尖叫，Dillinger Escape Plan 把它做成纯粹的肾上腺素。",
+   "ar": [
+    "The Dillinger Escape Plan",
+    "Botch",
+    "Converge"
+   ],
+   "tr": [
+    [
+     "43% Burnt",
+     "The Dillinger Escape Plan",
+     1999
+    ]
+   ]
+  },
+  {
+   "id": "grindcore",
+   "n": "Grindcore",
+   "zh": "碾核",
+   "tier": 2,
+   "y": 1987,
+   "d": "朋克与死亡金属的极速杂交：十几秒一首、blast beat 与政治愤怒，Napalm Death 的《Scum》定义了这个词。",
+   "ar": [
+    "Napalm Death",
+    "Repulsion",
+    "Terrorizer"
+   ],
+   "tr": [
+    [
+     "You Suffer",
+     "Napalm Death",
+     1987
+    ]
+   ]
+  },
+  {
+   "id": "crust-punk",
+   "n": "Crust Punk",
+   "zh": "壳朋克",
+   "tier": 3,
+   "y": 1984,
+   "d": "硬核加金属加无政府主义：粗糙、低沉、带末日味，Amebix 与 Doom 是源头。",
+   "ar": [
+    "Amebix",
+    "Doom",
+    "Nausea"
+   ],
+   "tr": [
+    [
+     "Police Bastard",
+     "Doom",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "d-beat",
+   "n": "D-Beat",
+   "zh": "D 拍硬核",
+   "tier": 3,
+   "y": 1980,
+   "d": "Discharge 开创的一拍一击鼓型被无数乐队复制成一种亚流派，速度快、音墙厚、主唱像在喊命令。",
+   "ar": [
+    "Discharge",
+    "Disclose",
+    "Wolfbrigade"
+   ],
+   "tr": [
+    [
+     "Protest and Survive",
+     "Discharge",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "street-punk",
+   "n": "Street Punk",
+   "zh": "街头朋克",
+   "tier": 3,
+   "y": 1979,
+   "d": "Oi! 与朋克的街头一脉：足球场合唱、工人阶级叙事，英国 80 年代。",
+   "ar": [
+    "Cock Sparrer",
+    "Sham 69",
+    "The Business"
+   ],
+   "tr": [
+    [
+     "England Belongs to Me",
+     "Cock Sparrer",
+     1982
+    ]
+   ]
+  },
+  {
+   "id": "oi",
+   "n": "Oi!",
+   "zh": "Oi! 朋克",
+   "tier": 3,
+   "y": 1977,
+   "d": "1977 年后英国朋克的街头分支，口号式合唱与光头党文化纠缠在一起，简单直接、为球场而写。",
+   "ar": [
+    "Cockney Rejects",
+    "Sham 69",
+    "Angelic Upstarts"
+   ],
+   "tr": [
+    [
+     "Oi! Oi! Oi!",
+     "Cockney Rejects",
+     1980
+    ]
+   ]
+  },
+  {
+   "id": "ska-punk",
+   "n": "Ska Punk",
+   "zh": "斯卡朋克",
+   "tier": 2,
+   "y": 1984,
+   "d": "ska 的跳跃节奏加朋克的速度与失真，80 年代末美国第三波 ska 的核心。",
+   "ar": [
+    "Operation Ivy",
+    "Less Than Jake",
+    "Reel Big Fish"
+   ],
+   "tr": [
+    [
+     "Sound System",
+     "Operation Ivy",
+     1988
+    ]
+   ]
+  },
+  {
+   "id": "anarcho-punk",
+   "n": "Anarcho-Punk",
+   "zh": "无政府朋克",
+   "tier": 3,
+   "y": 1977,
+   "d": "Crass 带起的英国无政府朋克：反战、反消费主义、DIY 厂牌与拼贴视觉，比音乐更是一种组织方式。",
+   "ar": [
+    "Crass",
+    "Subhumans",
+    "Conflict"
+   ],
+   "tr": [
+    [
+     "Do They Owe Us a Living?",
+     "Crass",
+     1978
+    ]
+   ]
+  },
+  {
+   "id": "riot-grrrl",
+   "n": "Riot Grrrl",
+   "zh": "暴女运动",
+   "tier": 3,
+   "y": 1991,
+   "d": "90 年代女性主导的朋克运动，把性别政治写进失真与 zine 文化。",
+   "ar": [
+    "Bikini Kill",
+    "Sleater-Kinney",
+    "L7"
+   ],
+   "tr": [
+    [
+     "Rebel Girl",
+     "Bikini Kill",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "horror-punk",
+   "n": "Horror Punk",
+   "zh": "恐怖朋克",
+   "tier": 3,
+   "y": 1977,
+   "d": "朋克加 B 级恐怖片美学，Misfits 的怪物形象与旋律副歌定义了它。",
+   "ar": [
+    "Misfits",
+    "The Damned",
+    "AFI"
+   ],
+   "tr": [
+    [
+     "Where Eagles Dare",
+     "Misfits",
+     1979
+    ]
+   ]
+  },
+  {
+   "id": "psychobilly",
+   "n": "Psychobilly",
+   "zh": "心理摇滚",
+   "tier": 3,
+   "y": 1980,
+   "d": "rockabilly 的 slapback 贝斯加朋克速度与恐怖片想象，The Cramps 是祖师。",
+   "ar": [
+    "The Cramps",
+    "The Meteors",
+    "Tiger Army"
+   ],
+   "tr": [
+    [
+     "Human Fly",
+     "The Cramps",
+     1978
+    ]
+   ]
+  }
+ ]
+}

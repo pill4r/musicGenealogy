@@ -1,0 +1,333 @@
+{
+ "uk-rave": {
+  "n": "UK Rave",
+  "r": "UK",
+  "d": "After acid house crossed into Britain, warehouse parties and illegal raves ignited the \"Second Summer of Love\".",
+  "ch": [
+   "Warehouse parties",
+   "Acid timbres",
+   "Breakbeat/four-to-the-floor"
+  ]
+ },
+ "hardcore": {
+  "n": "Hardcore",
+  "r": "UK",
+  "d": "Rave pushed to 150+ BPM with breakbeats and synth stabs, the common ancestor of jungle and happy hardcore.",
+  "ch": [
+   "High-speed breakbeats",
+   "Synth stabs",
+   "Sampling"
+  ]
+ },
+ "happy-hardcore": {
+  "n": "Happy Hardcore",
+  "r": "UK",
+  "d": "The bright side of hardcore: pianos, female vocals and sheer over-the-top euphoria.",
+  "ch": [
+   "Piano riffs",
+   "High female vocals",
+   "Fast tempo"
+  ]
+ },
+ "gabber": {
+  "n": "Gabber",
+  "r": "Netherlands",
+  "d": "The Netherlands' extreme hardcore: 200+ BPM, distorted kick drums and an anti-social aesthetic.",
+  "ch": [
+   "200+ BPM",
+   "Distorted kick",
+   "Dark"
+  ]
+ },
+ "hardstyle": {
+  "n": "Hardstyle",
+  "r": "Netherlands / Italy",
+  "d": "Gabber's kick drum plus trance's melody, a big-room sound from the Netherlands and Italy.",
+  "ch": [
+   "Hard kick",
+   "Melodic breakdowns",
+   "Big stages"
+  ]
+ },
+ "breakbeat": {
+  "n": "Breakbeat",
+  "r": "UK",
+  "d": "Electronic dance music built on broken beats, a fixture of 90s UK clubs and advertising soundtracks.",
+  "ch": [
+   "Broken beats",
+   "Sampling",
+   "Funky feel"
+  ]
+ },
+ "big-beat": {
+  "n": "Big Beat",
+  "r": "UK",
+  "d": "Breakbeats plus rock samples and hip-hop attitude, the commercial peak of the late 90s.",
+  "ch": [
+   "Big breakbeats",
+   "Rock samples",
+   "Hooks"
+  ]
+ },
+ "jungle": {
+  "n": "Jungle",
+  "r": "London, UK",
+  "d": "Accelerated breakbeats, reggae/dub bass and sampling, an invention of Black British dancefloors.",
+  "ch": [
+   "Fast breakbeats",
+   "Reggae bass",
+   "Sampling"
+  ]
+ },
+ "drum-and-bass": {
+  "n": "Drum & Bass",
+  "r": "UK",
+  "d": "Jungle's evolution: 170 BPM breakbeats and enormous bass, mainstream in the UK by the late 90s.",
+  "ch": [
+   "170 BPM",
+   "Massive bass",
+   "Intricate drums"
+  ]
+ },
+ "liquid-dnb": {
+  "n": "Liquid DnB",
+  "r": "UK",
+  "d": "A more soulful, melodic DnB made for headphones and late nights.",
+  "ch": [
+   "Soulful chords",
+   "Melody",
+   "Soft drums"
+  ]
+ },
+ "neurofunk": {
+  "n": "Neurofunk",
+  "r": "UK",
+  "d": "Technical, dark, cinematic DnB in which sound design is the star.",
+  "ch": [
+   "Sound design",
+   "Dark",
+   "Technical"
+  ]
+ },
+ "trance": {
+  "n": "Trance",
+  "r": "Germany / UK",
+  "d": "Melody and breakdowns pulled out of techno and house, with long builds engineered for emotional peaks.",
+  "ch": [
+   "Melodic breakdowns",
+   "Four-on-the-floor drive",
+   "Euphoric"
+  ]
+ },
+ "goa-trance": {
+  "n": "Goa Trance",
+  "r": "Goa, India",
+  "d": "Indian Goa beach parties meet acid house: psychedelic, dense, layer upon layer.",
+  "ch": [
+   "Dense sequences",
+   "Psychedelic",
+   "Indian elements"
+  ]
+ },
+ "psytrance": {
+  "n": "Psytrance",
+  "r": "Israel / Global",
+  "d": "Goa's evolution: hypnotic basslines, stacked effects and an energy curve built to last all night.",
+  "ch": [
+   "Hypnotic basslines",
+   "Layered effects",
+   "High tempo"
+  ]
+ },
+ "progressive-trance": {
+  "n": "Progressive Trance",
+  "r": "UK",
+  "d": "Slower, more gradual trance that emphasises long atmospheric builds.",
+  "ch": [
+   "Gradual builds",
+   "Atmospheric",
+   "Long sets"
+  ]
+ },
+ "uplifting-trance": {
+  "n": "Uplifting Trance",
+  "r": "UK / Netherlands",
+  "d": "Trance's most sentimental branch: huge melodies, huge breakdowns, huge singalongs.",
+  "ch": [
+   "Big melodies",
+   "Emotional breakdowns",
+   "Epic feel"
+  ]
+ },
+ "edm": {
+  "n": "EDM",
+  "r": "USA / Global",
+  "d": "The 2010s American umbrella that turned electro and progressive house into festival main-stage music, spreading drop culture worldwide.",
+  "ch": [
+   "Big drops",
+   "Festivals",
+   "Pop crossovers"
+  ]
+ },
+ "big-room": {
+  "n": "Big Room",
+  "r": "Netherlands",
+  "d": "Minimal drops and horn-like synths designed for ten-thousand-capacity arenas.",
+  "ch": [
+   "Minimal drops",
+   "Horn synths",
+   "Arena scale"
+  ]
+ },
+ "future-bass": {
+  "n": "Future Bass",
+  "r": "USA / Australia",
+  "d": "Trap drums plus synth chords and vocal chops, a mid-2010s internet pop sound.",
+  "ch": [
+   "Trap drums",
+   "Synth chords",
+   "Vocal chops"
+  ]
+ },
+ "hip-hop": {
+  "n": "Hip-Hop",
+  "r": "The Bronx, New York, USA",
+  "d": "1970s Bronx: DJs cut the break from funk and disco records while MCs worked the crowd; it grew from street parties into one of the world's biggest pop cultures.",
+  "ch": [
+   "Breakbeats",
+   "MCing",
+   "Sampling",
+   "Street culture"
+  ]
+ },
+ "old-school-hip-hop": {
+  "n": "Old-School Hip-Hop",
+  "r": "USA",
+  "d": "Early recordings from 1979 to 1984: disco-style beats, simple rhymes, party themes.",
+  "ch": [
+   "Disco beats",
+   "Party themes",
+   "Simple rhymes"
+  ]
+ },
+ "golden-age": {
+  "n": "Golden Age Hip-Hop",
+  "r": "USA",
+  "d": "Late 1980s to early 90s: dense sampling, complex lyrics, conceptual albums.",
+  "ch": [
+   "Dense sampling",
+   "Complex lyrics",
+   "Concept albums"
+  ]
+ },
+ "gangsta-rap": {
+  "n": "Gangsta Rap",
+  "r": "West Coast, USA",
+  "d": "West Coast street narratives and a violent aesthetic that pushed hip-hop into controversy and the mainstream.",
+  "ch": [
+   "Street narratives",
+   "Violent aesthetic",
+   "Funk samples"
+  ]
+ },
+ "g-funk": {
+  "n": "G-Funk",
+  "r": "West Coast, USA",
+  "d": "P-funk samples, slow grooves and synths; Dr. Dre defined the West Coast sound of the 90s.",
+  "ch": [
+   "P-funk samples",
+   "Slow grooves",
+   "Synths"
+  ]
+ },
+ "boom-bap": {
+  "n": "Boom Bap",
+  "r": "New York, USA",
+  "d": "Hard kick drums and chopped samples, the standard sound of underground New York hip-hop.",
+  "ch": [
+   "Hard kick drums",
+   "Chopped samples",
+   "East Coast"
+  ]
+ },
+ "jazz-rap": {
+  "n": "Jazz Rap",
+  "r": "USA",
+  "d": "Jazz samples and a laid-back flow that turned hip-hop into chamber music.",
+  "ch": [
+   "Jazz samples",
+   "Laid-back flow",
+   "Organic texture"
+  ]
+ },
+ "conscious-hip-hop": {
+  "n": "Conscious Hip-Hop",
+  "r": "USA",
+  "d": "Hip-hop centred on social issues, racial politics and self-education.",
+  "ch": [
+   "Social issues",
+   "Political awareness",
+   "Storytelling"
+  ]
+ },
+ "southern-hip-hop": {
+  "n": "Southern Hip-Hop",
+  "r": "Southern US",
+  "d": "Hip-hop from the American South: slower tempos, heavier bass, distinctive accents and dances.",
+  "ch": [
+   "Slow tempos",
+   "Heavy bass",
+   "Southern accents"
+  ]
+ },
+ "crunk": {
+  "n": "Crunk",
+  "r": "Atlanta, USA",
+  "d": "High-energy club rap from Memphis and Atlanta: shouted vocals, 808s and minimal hooks.",
+  "ch": [
+   "Shouted vocals",
+   "808s",
+   "Club energy"
+  ]
+ },
+ "trap": {
+  "n": "Trap",
+  "r": "Atlanta, USA",
+  "d": "808 bass, rapid hi-hats and dark synths; it dominated the globe in the 2010s.",
+  "ch": [
+   "808 bass",
+   "Rapid hi-hats",
+   "Dark synths"
+  ]
+ },
+ "drill": {
+  "n": "Drill",
+  "r": "Chicago, USA / UK",
+  "d": "A trap offshoot from Chicago and London: bleak melodies, sliding 808s and street narratives.",
+  "ch": [
+   "Sliding 808s",
+   "Bleak melodies",
+   "Street narratives"
+  ]
+ },
+ "cloud-rap": {
+  "n": "Cloud Rap",
+  "r": "USA",
+  "d": "Late-2000s internet rap: atmospheric samples, slow tempos and blurred vocals.",
+  "ch": [
+   "Atmospheric samples",
+   "Slow tempo",
+   "Blurred vocals"
+  ]
+ },
+ "lo-fi-hip-hop": {
+  "n": "Lo-Fi Hip-Hop",
+  "r": "Global / Internet",
+  "d": "Jazz samples, vinyl crackle and slow drums, background music for studying and unwinding.",
+  "ch": [
+   "Jazz samples",
+   "Vinyl noise",
+   "Slow drums"
+  ]
+ }
+}

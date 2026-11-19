@@ -1,0 +1,257 @@
+{
+ "family": "techno",
+ "name": "科技舞曲 Techno",
+ "sub": "底特律 1985 →",
+ "genres": [
+  {
+   "id": "techno",
+   "n": "Techno",
+   "zh": "科技舞曲",
+   "tier": 1,
+   "y": 1985,
+   "d": "1985 年底特律：Belleville 三人组把 Kraftwerk 的合成器、funk 的律动与未来主义想象拼在一起，做出没有人声、持续推进的机器音乐。",
+   "ar": [
+    "Juan Atkins",
+    "Derrick May",
+    "Kevin Saunderson"
+   ],
+   "tr": [
+    [
+     "No UFO's",
+     "Model 500",
+     1985
+    ],
+    [
+     "Strings of Life",
+     "Rhythim Is Rhythim",
+     1987
+    ]
+   ]
+  },
+  {
+   "id": "acid-techno",
+   "n": "Acid Techno",
+   "zh": "酸性科技",
+   "tier": 3,
+   "y": 1988,
+   "d": "acid house 的 303 音色进入 techno，更硬、更迷幻。",
+   "ar": [
+    "Hardfloor",
+    "Dave Clarke",
+    "D.A.V.E. The Drummer"
+   ],
+   "tr": [
+    [
+     "Acperience 1",
+     "Hardfloor",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "minimal-techno",
+   "n": "Minimal Techno",
+   "zh": "极简科技",
+   "tier": 2,
+   "y": 1991,
+   "d": "去掉一切多余，只剩脉冲与空间；底特律与柏林两路发展。",
+   "ar": [
+    "Robert Hood",
+    "Richie Hawtin",
+    "Plastikman"
+   ],
+   "tr": [
+    [
+     "Spastik",
+     "Plastikman",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "dub-techno",
+   "n": "Dub Techno",
+   "zh": "回响科技",
+   "tier": 3,
+   "y": 1992,
+   "d": "把 dub 的延迟、混响灌进 techno，Basic Channel 定下模板。",
+   "ar": [
+    "Basic Channel",
+    "Deepchord",
+    "Rod Modell"
+   ],
+   "tr": [
+    [
+     "Phylyps Trak",
+     "Basic Channel",
+     1993
+    ]
+   ]
+  },
+  {
+   "id": "hard-techno",
+   "n": "Hard Techno",
+   "zh": "硬科技",
+   "tier": 3,
+   "y": 1993,
+   "d": "更快、更硬、更工业化的 techno，为大型仓库派对而生。",
+   "ar": [
+    "Jeff Mills",
+    "Adam Beyer",
+    "Charlotte de Witte"
+   ],
+   "tr": [
+    [
+     "The Bells",
+     "Jeff Mills",
+     1996
+    ]
+   ]
+  },
+  {
+   "id": "melodic-techno",
+   "n": "Melodic Techno",
+   "zh": "旋律科技",
+   "tier": 3,
+   "y": 2012,
+   "d": "把 trance 的旋律感带回 techno，2010 年代后半成为大型俱乐部主流。",
+   "ar": [
+    "Tale of Us",
+    "Stephan Bodzin",
+    "Adriatique"
+   ],
+   "tr": [
+    [
+     "Nova",
+     "Tale of Us",
+     2018
+    ]
+   ]
+  },
+  {
+   "id": "electro",
+   "n": "Electro",
+   "zh": "电子放克",
+   "tier": 1,
+   "y": 1982,
+   "d": "808 鼓机 + 机器人声；Afrika Bambaataa 的《Planet Rock》把 Kraftwerk 变成街头音乐。",
+   "ar": [
+    "Afrika Bambaataa",
+    "Egyptian Lover",
+    "Cybotron"
+   ],
+   "tr": [
+    [
+     "Planet Rock",
+     "Afrika Bambaataa",
+     1982
+    ],
+    [
+     "Clear",
+     "Cybotron",
+     1983
+    ]
+   ]
+  },
+  {
+   "id": "freestyle",
+   "n": "Freestyle",
+   "zh": "自由风格",
+   "tier": 3,
+   "y": 1983,
+   "d": "electro + 拉丁旋律 + 合成器，纽约/迈阿密的拉丁裔舞池。",
+   "ar": [
+    "Shannon",
+    "Lisa Lisa",
+    "Debbie Deb"
+   ],
+   "tr": [
+    [
+     "Let the Music Play",
+     "Shannon",
+     1983
+    ]
+   ]
+  },
+  {
+   "id": "miami-bass",
+   "n": "Miami Bass",
+   "zh": "迈阿密低音",
+   "tier": 3,
+   "y": 1985,
+   "d": "808 低音 + 快节奏 rap，2 Live Crew 把它变成争议符号。",
+   "ar": [
+    "2 Live Crew",
+    "DJ Magic Mike",
+    "Luke Skyywalker"
+   ],
+   "tr": [
+    [
+     "Me So Horny",
+     "2 Live Crew",
+     1989
+    ]
+   ]
+  },
+  {
+   "id": "baile-funk",
+   "n": "Baile Funk",
+   "zh": "巴西放克",
+   "tier": 3,
+   "y": 1989,
+   "d": "迈阿密低音传到里约，变成贫民窟的派对音乐，后来全球走红。",
+   "ar": [
+    "DJ Marlboro",
+    "MC João",
+    "Anitta"
+   ],
+   "tr": [
+    [
+     "Baile de Favela",
+     "MC João",
+     2015
+    ]
+   ]
+  },
+  {
+   "id": "ambient-techno",
+   "n": "Ambient Techno",
+   "zh": "氛围科技舞曲",
+   "tier": 2,
+   "y": 1992,
+   "d": "把 techno 的骨架泡进合成器长音里：仍能跳舞，但更像漂浮；Aphex Twin 的《Xtal》是模板。",
+   "ar": [
+    "Aphex Twin",
+    "B12",
+    "The Orb"
+   ],
+   "tr": [
+    [
+     "Xtal",
+     "Aphex Twin",
+     1992
+    ]
+   ]
+  },
+  {
+   "id": "ghettotech",
+   "n": "Ghettotech",
+   "zh": "贫民窟科技",
+   "tier": 3,
+   "y": 1995,
+   "d": "底特律与芝加哥的交界：techno 的速度、electro 的鼓机、粗口喊麦，DJ Assault 是标志人物。",
+   "ar": [
+    "DJ Assault",
+    "DJ Godfather",
+    "Disco D"
+   ],
+   "tr": [
+    [
+     "Ass N Titties",
+     "DJ Assault",
+     1996
+    ]
+   ]
+  }
+ ]
+}

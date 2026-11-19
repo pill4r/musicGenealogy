@@ -1,0 +1,242 @@
+{
+ "ghetto-house": {
+  "n": "Ghetto House",
+  "r": "Chicago, USA",
+  "d": "Chicago house's most feral strain: 808 drum machines, explicit shouted vocals and minimal loops; DJ Deeon and the Dance Mania label are underground legends.",
+  "ch": [
+   "808 drum machines",
+   "Shouted vocals",
+   "Minimal loops"
+  ]
+ },
+ "ballroom": {
+  "n": "Ballroom",
+  "r": "New York, USA",
+  "d": "The soundtrack to New York's Black and Latinx queer ballroom culture: hard house beats plus vogue dancing; Masters at Work's 'The Ha Dance' is the anthem.",
+  "ch": [
+   "Vogue beats",
+   "Ballroom call-outs",
+   "Queer culture"
+  ]
+ },
+ "afro-tech": {
+  "n": "Afro Tech",
+  "r": "South Africa",
+  "d": "Swaps afro-house's drum kits for colder, more hypnotic synths and low end; Black Coffee carried it to the rest of the world.",
+  "ch": [
+   "Tech timbres",
+   "African drums",
+   "Hypnotic"
+  ]
+ },
+ "organic-house": {
+  "n": "Organic House",
+  "r": "Germany / South Africa",
+  "d": "House made slower and more 'organic': hand percussion, acoustic samples and long gradual builds; Keinemusik is the face of this wave.",
+  "ch": [
+   "Hand percussion",
+   "Acoustic samples",
+   "Slow builds"
+  ]
+ },
+ "lo-fi-house": {
+  "n": "Lo-Fi House",
+  "r": "UK",
+  "d": "House run through tape and samplers, then smeared with noise: nostalgic, rough and bedroom-made; Ross from Friends is the exemplar.",
+  "ch": [
+   "Tape hiss",
+   "Nostalgic samples",
+   "Bedroom production"
+  ]
+ },
+ "ambient-techno": {
+  "n": "Ambient Techno",
+  "r": "UK",
+  "d": "Techno's skeleton soaked in synth pads: still danceable, but closer to drifting; Aphex Twin's 'Xtal' is the template.",
+  "ch": [
+   "Synth pads",
+   "Floating feel",
+   "Restrained drums"
+  ]
+ },
+ "ghettotech": {
+  "n": "Ghettotech",
+  "r": "Detroit, USA",
+  "d": "Where Detroit meets Chicago: techno tempo, electro drum machines and foul-mouthed shouting; DJ Assault is the figurehead.",
+  "ch": [
+   "Fast tempo",
+   "Electro drum machines",
+   "Shouted vocals"
+  ]
+ },
+ "future-garage": {
+  "n": "Future Garage",
+  "r": "London, UK",
+  "d": "2-step garage smashed into fragments and reassembled: vocal chops, rain sounds, sub bass and negative space; Burial's album of the same name defined it.",
+  "ch": [
+   "Vocal chops",
+   "Rain samples",
+   "Negative space"
+  ]
+ },
+ "gqom": {
+  "n": "Gqom",
+  "r": "Durban, South Africa",
+  "d": "Durban's minimal bass music: just a kick, claps and one bleak synth line, emptier and meaner than house.",
+  "ch": [
+   "Minimal",
+   "Bleak synths",
+   "Sparse space"
+  ]
+ },
+ "uk-funky": {
+  "n": "UK Funky",
+  "r": "London, UK",
+  "d": "A short-lived late-2000s London scene: house beats plus soca and African drums; Crazy Cousinz pushed it onto radio.",
+  "ch": [
+   "Soca drums",
+   "House beats",
+   "Vocals"
+  ]
+ },
+ "memphis-rap": {
+  "n": "Memphis Rap",
+  "r": "Memphis, USA",
+  "d": "Lo-fi drum machines, eerie synths and underground tape releases; Three 6 Mafia turned Memphis's horror into DNA for later trap and phonk.",
+  "ch": [
+   "Lo-fi",
+   "Eerie synths",
+   "Tape releases"
+  ]
+ },
+ "alternative-hip-hop": {
+  "n": "Alternative Hip-Hop",
+  "r": "USA",
+  "d": "Hip-hop that refuses the gangsta path: oddball samples, and themes introspective or irreverent; De La Soul's '3 Feet High and Rising' opened the door.",
+  "ch": [
+   "Oddball samples",
+   "Introspective",
+   "Humor"
+  ]
+ },
+ "political-hip-hop": {
+  "n": "Political Hip-Hop",
+  "r": "USA",
+  "d": "The microphone used as a flyer: race, police and power structures; Public Enemy's 'Fight the Power' is the loudest note.",
+  "ch": [
+   "Political lyrics",
+   "Sample walls",
+   "Chanted slogans"
+  ]
+ },
+ "instrumental-hip-hop": {
+  "n": "Instrumental Hip-Hop",
+  "r": "USA",
+  "d": "Hip-hop without vocals: samples and drum kits treated as composition; DJ Shadow's 'Endtroducing.....' made it a complete album art form.",
+  "ch": [
+   "Sample collage",
+   "No vocals",
+   "Cinematic"
+  ]
+ },
+ "hyphy": {
+  "n": "Hyphy",
+  "r": "San Francisco Bay Area, USA",
+  "d": "The Bay Area's party rap: fast hi-hats, synth leads and 'go dumb' dance culture; E-40 is the godfather.",
+  "ch": [
+   "Fast hi-hats",
+   "Synth leads",
+   "Party"
+  ]
+ },
+ "snap": {
+  "n": "Snap",
+  "r": "Atlanta, USA",
+  "d": "Southern party rap built on finger snaps and 808s; Lil Jon's shouting carried it up the 2000s charts.",
+  "ch": [
+   "Finger snaps",
+   "808",
+   "Shouted hooks"
+  ]
+ },
+ "mumble-rap": {
+  "n": "Mumble Rap",
+  "r": "USA",
+  "d": "A generation of rap where diction gives way to melody and atmosphere: timbre and groove matter more than lyrics; Future is its biggest influence.",
+  "ch": [
+   "Mumbled delivery",
+   "Melodic",
+   "Atmospheric"
+  ]
+ },
+ "soundcloud-rap": {
+  "n": "SoundCloud Rap",
+  "r": "USA",
+  "d": "The next generation of rap, recorded in bedrooms and uploaded direct: lo-fi, emotional and genre-blurring; Lil Uzi Vert and XXXTentacion went from the platform to the charts.",
+  "ch": [
+   "Bedroom-recorded",
+   "Emotional",
+   "Genre-blurring"
+  ]
+ },
+ "emo-rap": {
+  "n": "Emo Rap",
+  "r": "USA",
+  "d": "Emo's self-harm narratives and guitar samples fed into trap drums; Lil Peep and XXXTentacion let two subcultures meet on the same playlist.",
+  "ch": [
+   "Guitar samples",
+   "Confessional",
+   "Trap drums"
+  ]
+ },
+ "trap-soul": {
+  "n": "Trap Soul",
+  "r": "USA",
+  "d": "R&B melodies sung over trap's 808s and hi-hats; Bryson Tiller's 'T R A P S O U L' gave the wave its name.",
+  "ch": [
+   "808",
+   "R&B melodies",
+   "Midnight mood"
+  ]
+ },
+ "uk-drill": {
+  "n": "UK Drill",
+  "r": "London, UK",
+  "d": "Chicago drill reborn in London: sliding 808s, cold melodies and block narrative, forming Britain's sharpest generation of rap.",
+  "ch": [
+   "Sliding 808s",
+   "Cold melodies",
+   "Block narratives"
+  ]
+ },
+ "afroswing": {
+  "n": "Afroswing",
+  "r": "London, UK",
+  "d": "London's young African diaspora wired afrobeats melody to grime rhythm; J Hus is the loudest name of this wave.",
+  "ch": [
+   "Afrobeats melodies",
+   "British rap",
+   "Summery feel"
+  ]
+ },
+ "latin-rap": {
+  "n": "Latin Rap",
+  "r": "Los Angeles, USA",
+  "d": "US Latin rap switching between Spanish and English; Kid Frost's 'La Raza' is the starting point of West Coast Latin rap.",
+  "ch": [
+   "Spanish-English switching",
+   "Funk samples",
+   "Streets"
+  ]
+ },
+ "phonk": {
+  "n": "Phonk",
+  "r": "USA / Internet",
+  "d": "An internet subspecies grown from Memphis rap samples: distorted 808s, cowbells and lo-fi haze, later splitting off into drift phonk.",
+  "ch": [
+   "Distorted 808s",
+   "Cowbell",
+   "Lo-fi"
+  ]
+ }
+}

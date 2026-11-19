@@ -1,0 +1,82 @@
+{
+ "family": "roots",
+ "genres": [
+  {
+   "id": "gospel",
+   "tracks": [
+    {"t": "Move On Up a Little Higher", "a": "Mahalia Jackson", "y": 1947},
+    {"t": "Strange Things Happening Every Day", "a": "Sister Rosetta Tharpe", "y": 1944},
+    {"t": "How I Got Over", "a": "Mahalia Jackson", "y": 1951},
+    {"t": "Oh Happy Day", "a": "The Edwin Hawkins Singers", "y": 1969},
+    {"t": "I'll Take You There", "a": "The Staple Singers", "y": 1972},
+    {"t": "Amazing Grace", "a": "Aretha Franklin", "y": 1972}
+   ]
+  },
+  {
+   "id": "blues",
+   "tracks": [
+    {"t": "Cross Road Blues", "a": "Robert Johnson", "y": 1936},
+    {"t": "Stormy Monday", "a": "T-Bone Walker", "y": 1947},
+    {"t": "Boogie Chillen", "a": "John Lee Hooker", "y": 1948},
+    {"t": "Mannish Boy", "a": "Muddy Waters", "y": 1955},
+    {"t": "The Thrill Is Gone", "a": "B.B. King", "y": 1969},
+    {"t": "Sweet Home Chicago", "a": "Robert Johnson", "y": 1936}
+   ]
+  },
+  {
+   "id": "delta-blues",
+   "tracks": [
+    {"t": "Pony Blues", "a": "Charley Patton", "y": 1929},
+    {"t": "Preachin' the Blues", "a": "Son House", "y": 1930},
+    {"t": "Hard Time Killin' Floor Blues", "a": "Skip James", "y": 1931},
+    {"t": "High Water Everywhere", "a": "Charley Patton", "y": 1929},
+    {"t": "Dust My Broom", "a": "Robert Johnson", "y": 1936},
+    {"t": "Hellhound on My Trail", "a": "Robert Johnson", "y": 1937}
+   ]
+  },
+  {
+   "id": "boogie-woogie",
+   "tracks": [
+    {"t": "Honky Tonk Train Blues", "a": "Meade 'Lux' Lewis", "y": 1927},
+    {"t": "Pinetop's Boogie Woogie", "a": "Pinetop Smith", "y": 1928},
+    {"t": "Boogie Woogie Stomp", "a": "Albert Ammons", "y": 1936},
+    {"t": "Roll 'Em Pete", "a": "Pete Johnson & Big Joe Turner", "y": 1938},
+    {"t": "The Fives", "a": "Jimmy Yancey", "y": 1939},
+    {"t": "Boogie Woogie Bugle Boy", "a": "The Andrews Sisters", "y": 1941}
+   ]
+  },
+  {
+   "id": "jump-blues",
+   "tracks": [
+    {"t": "Caldonia", "a": "Louis Jordan", "y": 1945},
+    {"t": "Choo Choo Ch'Boogie", "a": "Louis Jordan", "y": 1946},
+    {"t": "Good Rockin' Tonight", "a": "Wynonie Harris", "y": 1947},
+    {"t": "Lawdy Miss Clawdy", "a": "Lloyd Price", "y": 1952},
+    {"t": "Hound Dog", "a": "Big Mama Thornton", "y": 1953},
+    {"t": "Shake, Rattle and Roll", "a": "Big Joe Turner", "y": 1954}
+   ]
+  },
+  {
+   "id": "chicago-blues",
+   "tracks": [
+    {"t": "Hoochie Coochie Man", "a": "Muddy Waters", "y": 1954},
+    {"t": "Bo Diddley", "a": "Bo Diddley", "y": 1955},
+    {"t": "My Babe", "a": "Little Walter", "y": 1955},
+    {"t": "Smokestack Lightnin'", "a": "Howlin' Wolf", "y": 1956},
+    {"t": "Got My Mojo Working", "a": "Muddy Waters", "y": 1957},
+    {"t": "Spoonful", "a": "Howlin' Wolf", "y": 1960}
+   ]
+  },
+  {
+   "id": "folk",
+   "tracks": [
+    {"t": "This Land Is Your Land", "a": "Woody Guthrie", "y": 1944},
+    {"t": "Goodnight, Irene", "a": "The Weavers", "y": 1950},
+    {"t": "Tom Dooley", "a": "The Kingston Trio", "y": 1958},
+    {"t": "Freight Train", "a": "Elizabeth Cotten", "y": 1958},
+    {"t": "Blowin' in the Wind", "a": "Bob Dylan", "y": 1963},
+    {"t": "The Times They Are a-Changin'", "a": "Bob Dylan", "y": 1964}
+   ]
+  }
+ ]
+}

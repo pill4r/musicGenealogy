@@ -1,0 +1,128 @@
+/* English interface pack. Content translations live in en.genres.js (generated). */
+(function () {
+  "use strict";
+
+  MG_I18N.register("en", {
+    label: "English",
+    short: "EN",
+    htmlLang: "en",
+    docTitle: "Music Genealogy · A Family Tree of 352 Genres",
+    docDescription: "An interactive family tree of music: 352 genres from 1900 to today, laid out by era and family. Open any genre for its origins, sound, key artists and a 30-second preview.",
+
+    strings: {
+      "doc.title": "Music Genealogy · A Family Tree of 352 Genres",
+      "doc.description": "An interactive family tree of music: 352 genres from 1900 to today, laid out by era and family. Open any genre for its origins, sound, key artists and a 30-second preview.",
+      "boot.loading": "Unfolding the tree…",
+      "brand.name": "Music Genealogy",
+      "brand.tag": "352 GENRES · 1900 → TODAY",
+      "lang.label": "Language",
+
+      "aria.menu": "Menu",
+      "aria.playlists": "All playlists",
+      "aria.fit": "Fit to screen",
+      "aria.random": "Jump to a random genre",
+      "aria.zoomIn": "Zoom in",
+      "aria.zoomOut": "Zoom out",
+      "aria.closePanel": "Close playlist overview",
+      "aria.closeDrawer": "Close details",
+      "aria.playPause": "Play or pause the 30-second preview",
+      "aria.seek": "Preview progress",
+      "aria.closePlayer": "Close player",
+
+      "search.placeholder": "Search genres: house / techno / disco",
+      "search.empty": "No genre found — try another spelling",
+
+      "nav.playlists": "Playlists",
+      "nav.playlistsTitle": "Browse all genre playlists",
+      "nav.fit": "Fit",
+      "nav.fitTitle": "Fit to screen",
+      "nav.random": "Random walk",
+      "nav.randomShort": "Random",
+      "nav.randomTitle": "Jump to a random genre",
+
+      "sidebar.title": "Families",
+      "sidebar.all": "Show all",
+      "side.read": "How to read",
+      "side.readBody": "The horizontal axis is time; each family keeps to its own band. Arrows run from a source genre to what it spawned.<br />Node size reflects tier — zoom in for finer branch labels.",
+      "side.listen": "Listening",
+      "side.listenBody": "Click any track for a 30-second preview (clips from Apple Music). For full songs, follow the “YouTube playlist” link in the playlist panel.",
+      "side.data": "Data",
+      "side.dataBody": "Compiled from Musicmap, Ishkur's Guide, Every Noise at Once, Wikipedia and AllMusic. Decades and groupings are approximate.",
+      "side.stat": "{genres} genres · {tracks} signature tracks · {playlists} playlists",
+      "side.statNoPl": "{genres} genres · {tracks} signature tracks",
+
+      "stage.hint": "Scroll to zoom · drag to pan · <b>click a node</b> for the full card and a preview",
+      "legend.up": "Predecessor · source",
+      "legend.down": "Descendant · evolved",
+
+      "pl.title": "All playlists",
+      "pl.subDefault": "5–8 tracks per genre · 30-track family playlists on YouTube",
+      "pl.subBuilt": "5–8 tracks per genre · {built} / {total} genre playlists built · 30-track family playlists",
+      "pl.search": "Filter genres: house / techno / disco",
+      "pl.all": "All",
+      "pl.empty": "No matching genres — try another spelling",
+      "pl.tracks": "{n} tracks",
+      "pl.etc": " et al.",
+      "pl.ytOwnTitle": "Open this genre's playlist on YouTube ({n} tracks)",
+      "pl.ytTempTitle": "Open this playlist on YouTube",
+      "pl.ytLink": "YouTube playlist ↗",
+      "pl.groupYt": "Family playlist · {n} tracks on YouTube ↗",
+      "yt.fallbackTitle": "Genealogy · YouTube playlist",
+
+      "tooltip.foot": "Click for the full card and a preview →",
+
+      "drawer.since": "Since {year}",
+      "drawer.parents": "Direct predecessors",
+      "drawer.kids": "Descendants",
+      "drawer.tracks": "Playlist tracks",
+      "drawer.traits": "Sound & feel",
+      "drawer.jump": "click to jump",
+      "drawer.artists": "Key artists",
+      "drawer.playlist": "Playlist",
+      "drawer.playlistSub": "{n} tracks · click one for a 30-second preview",
+      "drawer.playAll": "▶ Play all (30s each)",
+      "drawer.copy": "Copy link",
+      "drawer.ytSearch": "Search YouTube",
+      "drawer.ytLink": "YouTube playlist ↗",
+      "drawer.wikipedia": "Wikipedia",
+      "drawer.ytTipOwn": "Open “{title}” on YouTube · {n} tracks",
+      "drawer.ytTipFam": "Open the full family playlist on YouTube ({n} tracks)",
+      "drawer.ytTipTemp": "Assemble these {n} tracks into a temporary YouTube playlist",
+      "drawer.ytNoteOwn": "Full playlist on YouTube: “{title}” · {n} tracks{span}",
+      "drawer.ytNoteFam": "Full playlist on YouTube: “{title}” · {n} tracks · {span}",
+      "drawer.ytNoteTemp": "Full playlist on YouTube: the link above assembles these {n} tracks into a temporary playlist you can save.",
+
+      "toast.copied": "Playlist link copied — ready to share",
+      "toast.copyFail": "Copy failed — right-click the “YouTube playlist” link to copy it",
+      "toast.queueDone": "That's the end of this playlist's previews",
+      "toast.noPreview": "Apple Music has no preview for this track — use the “YouTube playlist” link to hear it in full",
+      "toast.blocked": "Your browser blocked playback — press play again",
+      "toast.previewFail": "Preview failed to load — retry later or use the YouTube playlist",
+
+      "player.finding": "{artist} · finding a preview…",
+      "player.noPreview": "No 30-second preview · use the YouTube playlist for the full track",
+      "player.apple": "Apple Music preview",
+      "player.failed": "Preview failed to load"
+    },
+
+    families: {
+      roots: { name: "Roots", sub: "Gospel · Blues · Folk" },
+      country: { name: "Country / Folk", sub: "Nashville & Appalachia" },
+      jazz: { name: "Jazz", sub: "Ragtime → fusion" },
+      soul: { name: "Soul / R&B / Funk", sub: "Gospel-driven grooves" },
+      disco: { name: "Disco", sub: "The 1970s dancefloor revolution" },
+      house: { name: "House", sub: "Chicago 1980s →" },
+      techno: { name: "Techno", sub: "Detroit 1985 →" },
+      bass: { name: "UK Bass / Garage", sub: "London's bass continuum" },
+      rave: { name: "Rave / Trance / DnB", sub: "UK rave, 1990s" },
+      hiphop: { name: "Hip-Hop", sub: "The Bronx, 1970s →" },
+      electronic: { name: "Electronic / Ambient", sub: "From musique concrète to vaporwave" },
+      rock: { name: "Rock / Metal", sub: "1950s →" },
+      pop: { name: "Pop", sub: "The charts and global pop" },
+      latin: { name: "Latin / Caribbean / Africa", sub: "Transatlantic rhythms" },
+      punk: { name: "Punk / Emo", sub: "Hardcore · Emo · Math rock" },
+      metal: { name: "Metal", sub: "Heavy metal to the extremes" },
+      indie: { name: "Indie / Alternative", sub: "Indie · Britpop · Dream Pop" }
+    }
+  });
+})();

@@ -1,0 +1,102 @@
+{
+  "family": "bass",
+  "genres": [
+    {
+      "id": "uk-garage",
+      "tracks": [
+        {"t": "Re-Rewind", "a": "Artful Dodger", "y": 1999},
+        {"t": "Movin' Too Fast", "a": "Artful Dodger", "y": 1999},
+        {"t": "Never Gonna Let You Go", "a": "Tina Moore", "y": 1997},
+        {"t": "Sincere", "a": "MJ Cole", "y": 1998},
+        {"t": "Sweet like Chocolate", "a": "Shanks & Bigfoot", "y": 1999},
+        {"t": "Do You Really Like It?", "a": "DJ Pied Piper & The Masters of Ceremonies", "y": 2001}
+      ]
+    },
+    {
+      "id": "speed-garage",
+      "tracks": [
+        {"t": "Ripgroove", "a": "Double 99", "y": 1997},
+        {"t": "A London Thing", "a": "Scott Garcia", "y": 1997},
+        {"t": "Gunman", "a": "187 Lockdown", "y": 1997},
+        {"t": "Kung-Fu", "a": "187 Lockdown", "y": 1998},
+        {"t": "You Don't Know Me", "a": "Armand Van Helden", "y": 1999}
+      ]
+    },
+    {
+      "id": "2-step",
+      "tracks": [
+        {"t": "Fill Me In", "a": "Craig David", "y": 2000},
+        {"t": "7 Days", "a": "Craig David", "y": 2000},
+        {"t": "Woman Trouble", "a": "Artful Dodger", "y": 2000},
+        {"t": "Gabriel", "a": "Roy Davis Jr", "y": 1997},
+        {"t": "Destiny", "a": "Dem 2", "y": 1998},
+        {"t": "Flowers", "a": "Sweet Female Attitude", "y": 2000}
+      ]
+    },
+    {
+      "id": "dubstep",
+      "tracks": [
+        {"t": "Midnight Request Line", "a": "Skream", "y": 2005},
+        {"t": "Archangel", "a": "Burial", "y": 2007},
+        {"t": "Anti-War Dub", "a": "Digital Mystikz", "y": 2006},
+        {"t": "Night", "a": "Benga & Coki", "y": 2008},
+        {"t": "Cockney Thug", "a": "Rusko", "y": 2007},
+        {"t": "Scary Monsters and Nice Sprites", "a": "Skrillex", "y": 2010}
+      ]
+    },
+    {
+      "id": "grime",
+      "tracks": [
+        {"t": "I Luv U", "a": "Dizzee Rascal", "y": 2003},
+        {"t": "Wot Do U Call It?", "a": "Wiley", "y": 2004},
+        {"t": "Pow!", "a": "Lethal Bizzle", "y": 2004},
+        {"t": "P's and Q's", "a": "Kano", "y": 2005},
+        {"t": "Wearing My Rolex", "a": "Wiley", "y": 2008},
+        {"t": "Shutdown", "a": "Skepta", "y": 2015}
+      ]
+    },
+    {
+      "id": "bassline",
+      "tracks": [
+        {"t": "Heartbroken", "a": "T2", "y": 2007},
+        {"t": "It's Over Now", "a": "Big Ang feat. Siobhan", "y": 2005},
+        {"t": "What's It Gonna Be", "a": "H \"Two\" O feat. Platnum", "y": 2008},
+        {"t": "You Wot!", "a": "DJ Q feat. MC Bonez", "y": 2008},
+        {"t": "My Destiny", "a": "Delinquent feat. Kcat", "y": 2008}
+      ]
+    },
+    {
+      "id": "future-garage",
+      "tracks": [
+        {"t": "Archangel", "a": "Burial", "y": 2007},
+        {"t": "Ghost Hardware", "a": "Burial", "y": 2007},
+        {"t": "Hyph Mngo", "a": "Joy Orbison", "y": 2009},
+        {"t": "Maybes", "a": "Mount Kimbie", "y": 2009},
+        {"t": "CMYK", "a": "James Blake", "y": 2010},
+        {"t": "Night Air", "a": "Jamie Woon", "y": 2010}
+      ]
+    },
+    {
+      "id": "gqom",
+      "tracks": [
+        {"t": "Omunye", "a": "Distruction Boyz", "y": 2017},
+        {"t": "Mercedes", "a": "Rudeboyz feat. TD Snax", "y": 2015},
+        {"t": "Ice Drop", "a": "DJ Lag", "y": 2016},
+        {"t": "Wololo", "a": "Babes Wodumo feat. Mampintsha", "y": 2016},
+        {"t": "Come to Durban", "a": "Griffit Vigo", "y": 2016},
+        {"t": "Trip to New York", "a": "DJ Lag", "y": 2017},
+        {"t": "John Cena", "a": "Sho Madjozi", "y": 2019}
+      ]
+    },
+    {
+      "id": "uk-funky",
+      "tracks": [
+        {"t": "Do You Mind", "a": "Crazy Cousinz", "y": 2008},
+        {"t": "Bongo Jam", "a": "Crazy Cousinz feat. Calista", "y": 2008},
+        {"t": "Sirens", "a": "Hard House Banton", "y": 2008},
+        {"t": "Party Hard", "a": "Donae'o", "y": 2009},
+        {"t": "Migraine Skank", "a": "Gracious K", "y": 2009}
+      ]
+    }
+  ]
+}
