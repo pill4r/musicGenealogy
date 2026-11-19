@@ -6,6 +6,8 @@ An offline-friendly, single-page interactive **family tree of music genres**: ti
 
 ![Preview](preview.png)
 
+**Live · 在线版**: <https://musicgenealogy.pillar.fun> （备用 <https://music-genealogy.vercel.app>）— 中文默认，右上角 `中文 / EN` 切换，或直接打开 <https://musicgenealogy.pillar.fun/?lang=en>。
+
 **Languages / 语言**: 中文 · English — switch with the `中文 / EN` buttons in the top bar, or link straight to a language: `/?lang=en`.
 
 ---
